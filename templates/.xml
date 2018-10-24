@@ -1,0 +1,8 @@
+<templateSet group="方法">
+  <template name="main1" value="public static void main(String[] args){&#10;          $end$&#10;}" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

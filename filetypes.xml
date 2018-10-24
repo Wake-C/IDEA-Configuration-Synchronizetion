@@ -1,0 +1,14 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="w2" type="PLAIN_TEXT" />
+      <mapping pattern="sdfsdf" type="PLAIN_TEXT" />
+      <mapping pattern="s" type="PLAIN_TEXT" />
+      <mapping pattern="sdaf" type="PLAIN_TEXT" />
+      <mapping pattern="2" type="PLAIN_TEXT" />
+      <mapping pattern="23" type="PLAIN_TEXT" />
+      <mapping pattern="text" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

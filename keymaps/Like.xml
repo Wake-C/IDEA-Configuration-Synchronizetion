@@ -1,0 +1,57 @@
+<keymap version="1" name="Like" parent="$default">
+  <action id="$EditorTranslateAction">
+    <keyboard-shortcut first-keystroke="shift ctrl y" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt z" />
+  </action>
+  <action id="ChangesView.AddUnversioned">
+    <keyboard-shortcut first-keystroke="shift ctrl alt q" />
+  </action>
+  <action id="CheckinFiles">
+    <keyboard-shortcut first-keystroke="shift ctrl alt e" />
+  </action>
+  <action id="CloseAllEditors">
+    <keyboard-shortcut first-keystroke="ctrl alt x" />
+  </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="alt w" />
+  </action>
+  <action id="DebugClass">
+    <keyboard-shortcut first-keystroke="shift ctrl f5" />
+  </action>
+  <action id="Editor EditorTranslateAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt z" />
+  </action>
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="ctrl y" />
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
+  <action id="EditorDuplicateLines">
+    <keyboard-shortcut first-keystroke="ctrl down" />
+  </action>
+  <action id="EditorLookupDown" />
+  <action id="EditorScrollDown" />
+  <action id="Git.Pull">
+    <keyboard-shortcut first-keystroke="shift ctrl alt p" />
+  </action>
+  <action id="Gradle.AddGradleDslDependencyAction">
+    <keyboard-shortcut first-keystroke="shift m" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt o" />
+  </action>
+  <action id="IntroduceFunctionalParameter" />
+  <action id="PopupHector" />
+  <action id="Vcs.Push">
+    <keyboard-shortcut first-keystroke="shift ctrl k" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt r" />
+  </action>
+  <action id="Vcs.ShowTabbedFileHistory">
+    <keyboard-shortcut first-keystroke="shift ctrl alt h" />
+  </action>
+  <action id="XPathView.Actions.Evaluate" />
+  <action id="XPathView.Actions.FindByExpression" />
+  <action id="XPathView.Actions.ShowPath" />
+  <action id="emacsIDEAs.AceJumpWord">
+    <keyboard-shortcut first-keystroke="meta l" />
+    <keyboard-shortcut first-keystroke="meta i" second-keystroke="meta f" />
+    <keyboard-shortcut first-keystroke="shift j" />
+  </action>
+</keymap>
