@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="CUSTOM SERVICE EXIST" />
+      <item value="CUSTOM" />
+      <item value="CUSTOM IS EXIST" />
+      <item value="CUSTOME IS EXIST" />
       <item value="head Image Disc Path" />
       <item value="temp File Path" />
       <item value="temp File Store To Path" />
@@ -47,15 +51,11 @@
       <item value="nvocation of init method failed" />
       <item value="appid" />
       <item value="Index Id" />
-      <item value="as" />
-      <item value="as used" />
-      <item value="wildcard" />
-      <item value="Open Collective!" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="585" />
-        <entry key="ENGLISH" value="563" />
+        <entry key="CHINESE" value="595" />
+        <entry key="ENGLISH" value="573" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="29" />
         <entry key="PORTUGUESE" value="2" />
