@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="access clientip is not registered requestIP: 183.31.28.186" />
       <item value="invalid custom service account" />
       <item value="get Wxpublic User" />
       <item value="CUSTOM SERVICE EXIST" />
@@ -50,12 +51,11 @@
       <item value="get Fenbi Api" />
       <item value="get Fenbi Number" />
       <item value="nested" />
-      <item value="nvocation of init method failed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="597" />
-        <entry key="ENGLISH" value="575" />
+        <entry key="CHINESE" value="598" />
+        <entry key="ENGLISH" value="576" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="29" />
         <entry key="PORTUGUESE" value="2" />
