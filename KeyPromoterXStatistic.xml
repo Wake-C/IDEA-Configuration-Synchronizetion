@@ -590,7 +590,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>31</Count>
+          <Count>32</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Base64Util.main()'">
@@ -1151,6 +1151,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'GeneratorServiceEntity'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Rerun Failed Tests'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'Rerun Failed Tests'</Description>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Unnamed'">
