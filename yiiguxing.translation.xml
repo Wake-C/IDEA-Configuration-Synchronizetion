@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Wxpublic User" />
       <item value="CUSTOM SERVICE EXIST" />
       <item value="CUSTOM" />
       <item value="CUSTOM IS EXIST" />
@@ -50,12 +51,11 @@
       <item value="nested" />
       <item value="nvocation of init method failed" />
       <item value="appid" />
-      <item value="Index Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="595" />
-        <entry key="ENGLISH" value="573" />
+        <entry key="CHINESE" value="596" />
+        <entry key="ENGLISH" value="574" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="29" />
         <entry key="PORTUGUESE" value="2" />
