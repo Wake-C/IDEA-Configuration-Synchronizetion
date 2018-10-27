@@ -94,7 +94,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy</Description>
-          <Count>13</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Path">
@@ -377,12 +377,20 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'updateCustomServic...()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F5'</ShortCut>
+          <Description>Debug 'updateCustomServic...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Declaration">
         <Item>
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2766</Count>
+          <Count>2767</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -574,7 +582,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>573</Count>
+          <Count>574</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -822,7 +830,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'WxCustomServiceMainServiceImplTest'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'WxMassLogServi....main()'">
@@ -934,6 +942,14 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'findCustomServiceL...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'findMassSendCount()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'findMassSendCount()'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -1209,6 +1225,14 @@
           <Count>19</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'WxCustomServiceMainServiceImplTest.updateCustomServiceMain'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'WxCustomServiceMainServiceImplTest.updateCustomServiceMain'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'WxMenuServiceImplTest.findMenus'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1350,7 +1374,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>292</Count>
+          <Count>295</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">
