@@ -238,7 +238,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'WeChatApplication'</Description>
-          <Count>241</Count>
+          <Count>242</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'WebChatMpApplication'">
@@ -1326,7 +1326,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'WeChatApplication'</Description>
-          <Count>455</Count>
+          <Count>457</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'WebChatMpApplication'">
