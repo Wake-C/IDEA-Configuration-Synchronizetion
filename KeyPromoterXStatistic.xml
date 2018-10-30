@@ -398,7 +398,7 @@
           <IdeaActionID>DebugClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F5'</ShortCut>
           <Description>Debug 'massSendImage2()'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'qq()'">
@@ -1351,6 +1351,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'WxMassLogServiceImplTest.massSend'</Description>
           <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'WxMassLogServiceImplTest.massSendImage2'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'WxMassLogServiceImplTest.massSendImage2'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'WxMateralsServiceImplTest.createImageTextMaterial'">
