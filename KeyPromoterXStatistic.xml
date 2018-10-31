@@ -614,7 +614,7 @@
           <IdeaActionID>Git.Pull</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+P'</ShortCut>
           <Description>Pull...</Description>
-          <Count>11</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Push...">
@@ -1326,7 +1326,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'WeChatApplication'</Description>
-          <Count>457</Count>
+          <Count>458</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'WebChatMpApplication'">
