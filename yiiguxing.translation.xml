@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="syn Date" />
+      <item value="synchroniza Date" />
+      <item value="synchronize Message" />
+      <item value="Message" />
+      <item value="synchronize Chat Message" />
+      <item value="synchronize" />
+      <item value="synchroniza" />
+      <item value="syn" />
       <item value="宕" />
       <item value="modules" />
       <item value="Modules" />
@@ -43,21 +51,13 @@
       <item value="Requests that the file or directory denoted by this abstract * pathname be deleted when the virtual machine terminates. * Files (or directories) are deleted in the reverse order that * they are registered. Invoking this method to delete a file or * directory that is already registered for deletion has no effect. * Deletion will be attempted only for normal termination of the * virtual machine, as defined by the Java Language Specification." />
       <item value="* Gets the system property indicated by the specified key. * &lt;p&gt; * First, if there is a security manager, its * &lt;code&gt;checkPropertyAccess&lt;/code&gt; method is called with the key as * its argument. This may result in a SecurityException. * &lt;p&gt; * If there is no current set of system properties, a set of system * properties is first created and initialized in the same manner as * for the &lt;code&gt;getProperties&lt;/code&gt; method. * * @param key the name of the system property. * @return the string value of the system property, * or &lt;code&gt;null&lt;/code&gt; if there is no property with that key. * * @exception SecurityException if a security manager exists and its * &lt;code&gt;checkPropertyAccess&lt;/code&gt; method doesn't allow * access to the specified system property. * @exception NullPointerException if &lt;code&gt;key&lt;/code&gt; is * &lt;code&gt;null&lt;/code&gt;. * @exception IllegalArgumentException if &lt;code&gt;key&lt;/code&gt; is empty. * @see #setProperty * @see java.lang.SecurityException * @see java.lang.SecurityManager#checkPropertyAccess(java.lang.String) * @see java.lang.System#getProperties()" />
       <item value="Gets the system property indicated by the specified key." />
-      <item value="if a security manager exists and its * &lt;code&gt;checkPropertyAccess&lt;/code&gt; method doesn't allow * access to the specified system property." />
-      <item value="the name of the system property. * @return the string value of the system property, * or &lt;code&gt;null&lt;/code&gt; if there is no property with that key." />
-      <item value="If there is no current set of system properties, a set of system * properties is first created and initialized in the same manner as * for the &lt;code&gt;getProperties&lt;/code&gt; method." />
-      <item value="First, if there is a security manager, its * &lt;code&gt;checkPropertyAccess&lt;/code&gt; method is called with the key as * its argument. This may result in a SecurityException." />
-      <item value="&gt;check Property Access" />
-      <item value="First, if there is a security manager, its" />
-      <item value="des Url" />
-      <item value="Mater" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="611" />
-        <entry key="ENGLISH" value="587" />
+        <entry key="CHINESE" value="620" />
+        <entry key="ENGLISH" value="595" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
-        <entry key="FRENCH" value="31" />
+        <entry key="FRENCH" value="32" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="SPANISH" value="2" />
       </map>
