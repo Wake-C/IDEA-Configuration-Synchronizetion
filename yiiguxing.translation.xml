@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="find All Module" />
       <item value="Wx Store Controller" />
       <item value="Wx Shop Controller" />
       <item value="find All City" />
@@ -50,12 +51,11 @@
       <item value="module Url" />
       <item value="moduleurl" />
       <item value="model Id" />
-      <item value="model Api Url" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="606" />
-        <entry key="ENGLISH" value="584" />
+        <entry key="CHINESE" value="607" />
+        <entry key="ENGLISH" value="585" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="29" />
         <entry key="PORTUGUESE" value="2" />
