@@ -590,7 +590,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>297</Count>
+          <Count>298</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -662,7 +662,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>654</Count>
+          <Count>655</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
