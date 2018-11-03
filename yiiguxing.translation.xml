@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="find Fenbi Number" />
+      <item value="get Fenbi Number" />
       <item value="ash language support for the IntelliJ platform. Supports run configurations, syntax highlighting, rename refactoring, documentation lookup, inspections, quickfixes and much more." />
       <item value="pipeline.app" />
       <item value="The parameter 'appId' can not be null or empty!" />
@@ -49,13 +51,11 @@
       <item value="DOWNLOAD IO ERRO" />
       <item value="destination Url" />
       <item value="file Format" />
-      <item value="delete Quietly" />
-      <item value="Once deletion has been requested, it is not possible to cancel the * request. This method should therefore be used with care." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="621" />
-        <entry key="ENGLISH" value="596" />
+        <entry key="CHINESE" value="625" />
+        <entry key="ENGLISH" value="601" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="32" />
         <entry key="PORTUGUESE" value="2" />

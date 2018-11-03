@@ -4,4 +4,7 @@
     <EXCLUDED_PACKAGE NAME="com.gt.util.entity" />
     <EXCLUDED_PACKAGE NAME="com.gt.util.entity.result.BaseResult" />
   </component>
+  <component name="DaemonCodeAnalyzerSettings">
+    <option name="SHOW_METHOD_SEPARATORS" value="true" />
+  </component>
 </application>
