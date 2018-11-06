@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SUB MODULE NOT FOUND" />
+      <item value="SUB MODULE NOT FOUNDED" />
       <item value="Wx Shop Properties" />
       <item value="We Chat Shop Properties" />
       <item value="Shop Properties" />
@@ -49,13 +51,11 @@
       <item value="temp File Store Path" />
       <item value="temp File Store Desk Path" />
       <item value="temp File Store Desk" />
-      <item value="temp File Store" />
-      <item value="temp File" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="627" />
-        <entry key="ENGLISH" value="603" />
+        <entry key="CHINESE" value="629" />
+        <entry key="ENGLISH" value="605" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="32" />
         <entry key="PORTUGUESE" value="2" />
