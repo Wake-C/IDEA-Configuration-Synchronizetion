@@ -494,7 +494,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>3033</Count>
+          <Count>3036</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -630,7 +630,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>309</Count>
+          <Count>310</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
