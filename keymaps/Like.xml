@@ -3,6 +3,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl y" />
     <keyboard-shortcut first-keystroke="shift ctrl alt z" />
   </action>
+  <action id="$ShowTranslationDialogAction" />
   <action id="ChangesView.AddUnversioned">
     <keyboard-shortcut first-keystroke="shift ctrl alt q" />
   </action>
@@ -38,6 +39,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt o" />
   </action>
   <action id="IntroduceFunctionalParameter" />
+  <action id="OpenFile">
+    <keyboard-shortcut first-keystroke="shift ctrl o" />
+  </action>
   <action id="PopupHector" />
   <action id="Vcs.Push">
     <keyboard-shortcut first-keystroke="shift ctrl k" />
