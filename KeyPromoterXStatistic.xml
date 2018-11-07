@@ -494,7 +494,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>3071</Count>
+          <Count>3072</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -609,6 +609,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Open...">
+        <Item>
+          <IdeaActionID>OpenFile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+O'</ShortCut>
+          <Description>Open...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Paste">
         <Item>
           <IdeaActionID>$Paste</IdeaActionID>
@@ -630,7 +638,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>316</Count>
+          <Count>317</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
