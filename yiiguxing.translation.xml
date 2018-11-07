@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="delete Shop Relation" />
+      <item value="add Shop Relation" />
+      <item value="add Shop Ralation" />
       <item value="get Shop Count" />
       <item value="get Shop Number" />
       <item value="get Shop Number Api" />
@@ -48,14 +51,11 @@
       <item value="CUSTOM SERVICE EXIST" />
       <item value="CUSTOM" />
       <item value="CUSTOM IS EXIST" />
-      <item value="CUSTOME IS EXIST" />
-      <item value="head Image Disc Path" />
-      <item value="temp File Path" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="635" />
-        <entry key="ENGLISH" value="611" />
+        <entry key="CHINESE" value="639" />
+        <entry key="ENGLISH" value="615" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="32" />
         <entry key="PORTUGUESE" value="2" />
