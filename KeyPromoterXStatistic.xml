@@ -494,7 +494,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>3057</Count>
+          <Count>3063</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -630,7 +630,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>312</Count>
+          <Count>314</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -1119,6 +1119,14 @@
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'getSelectDictInfo()'</Description>
           <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'getShopCount()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'getShopCount()'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'lambda.test'">

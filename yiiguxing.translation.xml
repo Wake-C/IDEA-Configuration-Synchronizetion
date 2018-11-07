@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Shop Count" />
+      <item value="get Shop Number" />
+      <item value="get Shop Number Api" />
+      <item value="select Forward" />
+      <item value="get Shop Forward Url" />
       <item value="SUB MODULE NOT FOUND" />
       <item value="SUB MODULE NOT FOUNDED" />
       <item value="Wx Shop Properties" />
@@ -46,16 +51,11 @@
       <item value="CUSTOME IS EXIST" />
       <item value="head Image Disc Path" />
       <item value="temp File Path" />
-      <item value="temp File Store To Path" />
-      <item value="Store" />
-      <item value="temp File Store Path" />
-      <item value="temp File Store Desk Path" />
-      <item value="temp File Store Desk" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="629" />
-        <entry key="ENGLISH" value="605" />
+        <entry key="CHINESE" value="635" />
+        <entry key="ENGLISH" value="611" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="32" />
         <entry key="PORTUGUESE" value="2" />
