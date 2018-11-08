@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="根据父图文id查询子图文信息" />
+      <item value="list" />
+      <item value="sub List" />
+      <item value="find Sub Material List" />
+      <item value="find Material Info" />
       <item value="search Materals By Key Word" />
       <item value="find All Material List" />
       <item value="wechat material" />
@@ -46,16 +51,11 @@
       <item value="find ALL City" />
       <item value="find ALL City List" />
       <item value="SUCCESS" />
-      <item value="WECHAT API SUCCESS" />
-      <item value="WX API SUCCESS" />
-      <item value="mass Send Material" />
-      <item value="Delete On Exit Hook" />
-      <item value="Material" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="643" />
-        <entry key="ENGLISH" value="619" />
+        <entry key="CHINESE" value="648" />
+        <entry key="ENGLISH" value="624" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="32" />
         <entry key="PORTUGUESE" value="2" />
