@@ -638,7 +638,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>321</Count>
+          <Count>323</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
