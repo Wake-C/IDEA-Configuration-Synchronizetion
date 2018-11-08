@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="NOT MULTIPLE MATERIAL" />
       <item value="根据父图文id查询子图文信息" />
       <item value="list" />
       <item value="sub List" />
@@ -50,12 +51,11 @@
       <item value="find All City" />
       <item value="find ALL City" />
       <item value="find ALL City List" />
-      <item value="SUCCESS" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="648" />
-        <entry key="ENGLISH" value="624" />
+        <entry key="CHINESE" value="649" />
+        <entry key="ENGLISH" value="625" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="32" />
         <entry key="PORTUGUESE" value="2" />
