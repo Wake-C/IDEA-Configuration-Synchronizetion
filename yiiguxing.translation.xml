@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="a" />
+      <item value="Overwrite" />
+      <item value="Test" />
+      <item value="Object" />
+      <item value="main" />
+      <item value="String" />
       <item value=": expected at least 1 bean which qualifies as autowire candidate" />
       <item value="candidate" />
       <item value="We Chat Open Configuration" />
@@ -45,17 +51,11 @@
       <item value="Message" />
       <item value="synchronize Chat Message" />
       <item value="synchronize" />
-      <item value="synchroniza" />
-      <item value="syn" />
-      <item value="宕" />
-      <item value="modules" />
-      <item value="Modules" />
-      <item value="find Sub Module" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="654" />
-        <entry key="ENGLISH" value="630" />
+        <entry key="CHINESE" value="663" />
+        <entry key="ENGLISH" value="639" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="32" />
         <entry key="PORTUGUESE" value="2" />
