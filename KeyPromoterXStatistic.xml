@@ -238,7 +238,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'WeChatApplication'</Description>
-          <Count>328</Count>
+          <Count>331</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'WebChatMpApplication'">
@@ -518,7 +518,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>3168</Count>
+          <Count>3169</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -622,7 +622,7 @@
           <IdeaActionID>ActivateMessagesToolWindow</IdeaActionID>
           <ShortCut>'Alt+0'</ShortCut>
           <Description>Messages</Description>
-          <Count>13</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Open Console">
@@ -750,7 +750,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>35</Count>
+          <Count>37</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AreaServiceImplTest'">
@@ -863,6 +863,14 @@
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'MemberApplication'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'OpenApiTest'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'OpenApiTest'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'SendMultipleCo....main()'">
@@ -1150,7 +1158,15 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'findMaterialInfoById()'</Description>
-          <Count>8</Count>
+          <Count>12</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'findMaterialList()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'findMaterialList()'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'findMenus()'">
@@ -1159,6 +1175,14 @@
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'findMenus()'</Description>
           <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'findSubMaterilById()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'findSubMaterilById()'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'generatorMenu()'">
@@ -1446,7 +1470,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'WeChatApplication'</Description>
-          <Count>615</Count>
+          <Count>620</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'WebChatMpApplication'">
@@ -1638,7 +1662,7 @@
           <IdeaActionID>ActivateTODOToolWindow</IdeaActionID>
           <ShortCut>'Alt+6'</ShortCut>
           <Description>TODO</Description>
-          <Count>84</Count>
+          <Count>86</Count>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">
@@ -1646,7 +1670,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>21</Count>
+          <Count>23</Count>
         </Item>
       </Statistic>
       <Statistic Action="Test">
@@ -1702,7 +1726,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>36</Count>
+          <Count>39</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
