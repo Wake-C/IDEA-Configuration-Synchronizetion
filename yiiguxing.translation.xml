@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="upload Local Image" />
+      <item value="upload Local Images" />
+      <item value="upload Net Images" />
+      <item value="upload Net Image" />
       <item value="suffix" />
       <item value="Transfer the received file to the given destination file. This may either move the file in the filesystem, copy the file in the filesystem, or save memory held contents to the destination file. If the destination file already exists, it will be deleted first. If the target file has been moved in the filesystem, this operation cannot be invoked again afterwards. Therefore, call this method just once in order to work with any storage mechanism." />
       <item value="Transfer the received file to the given destination file.&#10;This may either move the file in the filesystem, copy the file in the filesystem, or save memory held contents to the destination file. If the destination file already exists, it will be deleted first.&#10;If the target file has been moved in the filesystem, this operation cannot be invoked again afterwards. Therefore, call this method just once in order to work with any storage mechanism." />
@@ -47,15 +51,11 @@
       <item value="Ambiguous" />
       <item value="find Fenbi Number" />
       <item value="get Fenbi Number" />
-      <item value="ash language support for the IntelliJ platform. Supports run configurations, syntax highlighting, rename refactoring, documentation lookup, inspections, quickfixes and much more." />
-      <item value="pipeline.app" />
-      <item value="The parameter 'appId' can not be null or empty!" />
-      <item value="syn Date" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="670" />
-        <entry key="ENGLISH" value="646" />
+        <entry key="CHINESE" value="675" />
+        <entry key="ENGLISH" value="651" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="32" />
         <entry key="PORTUGUESE" value="2" />
