@@ -78,7 +78,7 @@
           <IdeaActionID>CheckinFiles</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+E'</ShortCut>
           <Description>Commit File...</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit Message History">
@@ -598,7 +598,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>3211</Count>
+          <Count>3213</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
