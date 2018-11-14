@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="initialize Merchant" />
+      <item value="Initiaze" />
+      <item value="Initiation Special Merchant" />
+      <item value="Initiation" />
       <item value="Merchants Data Duplication" />
       <item value="Merchant Data Duplication" />
       <item value="Merchant Date Duplication" />
@@ -47,15 +51,11 @@
       <item value="add Shop Ralation" />
       <item value="get Shop Count" />
       <item value="get Shop Number" />
-      <item value="get Shop Number Api" />
-      <item value="select Forward" />
-      <item value="get Shop Forward Url" />
-      <item value="SUB MODULE NOT FOUND" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="680" />
-        <entry key="ENGLISH" value="656" />
+        <entry key="CHINESE" value="685" />
+        <entry key="ENGLISH" value="661" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="32" />
         <entry key="PORTUGUESE" value="2" />
