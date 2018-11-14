@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Merchants Data Duplication" />
+      <item value="Merchant Data Duplication" />
+      <item value="Merchant Date Duplication" />
       <item value="Special Merchant Initialization" />
       <item value="Special Merchant Init" />
       <item value="merchants DUPLICATE" />
@@ -48,9 +51,6 @@
       <item value="select Forward" />
       <item value="get Shop Forward Url" />
       <item value="SUB MODULE NOT FOUND" />
-      <item value="SUB MODULE NOT FOUNDED" />
-      <item value="Wx Shop Properties" />
-      <item value="We Chat Shop Properties" />
     </histories>
     <option name="languageScores">
       <map>
