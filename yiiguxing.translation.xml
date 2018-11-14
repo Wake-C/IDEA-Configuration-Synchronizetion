@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Special Merchant Initialization" />
+      <item value="Special Merchant Init" />
+      <item value="merchants DUPLICATE" />
+      <item value="MARCHANT DUPLICATE" />
       <item value="origin Source" />
       <item value="upload Local Image" />
       <item value="upload Local Images" />
@@ -47,15 +51,11 @@
       <item value="SUB MODULE NOT FOUNDED" />
       <item value="Wx Shop Properties" />
       <item value="We Chat Shop Properties" />
-      <item value="Shop Properties" />
-      <item value="get Select Dict Info List" />
-      <item value="Ambiguous" />
-      <item value="find Fenbi Number" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="676" />
-        <entry key="ENGLISH" value="652" />
+        <entry key="CHINESE" value="680" />
+        <entry key="ENGLISH" value="656" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="32" />
         <entry key="PORTUGUESE" value="2" />
