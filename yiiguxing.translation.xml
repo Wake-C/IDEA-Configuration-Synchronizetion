@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="cache Bus Plugin Pass" />
+      <item value="cache Bus Plugin" />
+      <item value="cache" />
+      <item value="Find Plugin Status" />
+      <item value="query Plugin Status" />
       <item value="plugin Status" />
       <item value="initialize Merchant" />
       <item value="Initiaze" />
@@ -46,18 +51,13 @@
       <item value="wechat material" />
       <item value="material" />
       <item value="Wx Material Api Controller" />
-      <item value="Material Api Controller" />
-      <item value="delete Shop Relation" />
-      <item value="add Shop Relation" />
-      <item value="add Shop Ralation" />
-      <item value="get Shop Count" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="687" />
-        <entry key="ENGLISH" value="663" />
+        <entry key="CHINESE" value="692" />
+        <entry key="ENGLISH" value="667" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
-        <entry key="FRENCH" value="32" />
+        <entry key="FRENCH" value="33" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="SPANISH" value="2" />
       </map>
