@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Test class should have exactly one public zero argument constructor" />
       <item value="cache Bus Plugin Pass" />
       <item value="cache Bus Plugin" />
       <item value="cache" />
@@ -29,7 +30,6 @@
       <item value="upload Image" />
       <item value="Unrecognized" />
       <item value="down Load To File" />
-      <item value="Test class should have exactly one public zero argument constructor" />
       <item value="Voice Info" />
       <item value="voice Synthesis" />
       <item value="synthesis" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="692" />
-        <entry key="ENGLISH" value="667" />
+        <entry key="CHINESE" value="693" />
+        <entry key="ENGLISH" value="668" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="33" />
         <entry key="PORTUGUESE" value="2" />
