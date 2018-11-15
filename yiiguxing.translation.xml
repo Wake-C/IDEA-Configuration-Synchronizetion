@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Create Template" />
+      <item value="Create Template Code" />
       <item value="Unsatisfied" />
       <item value="mework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'wxSpecialMerchantsServiceImpl': Unsatisfied dependency expressed through constructor parameter 4; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.duofriend.common.utils.RedisTemplateUtil' available: expected at least 1 bean which qualifies as autowire candidate. Dependenc" />
       <item value="Can't add master:" />
@@ -49,13 +51,11 @@
       <item value=": expected at least 1 bean which qualifies as autowire candidate" />
       <item value="candidate" />
       <item value="We Chat Open Configuration" />
-      <item value="No Such Bean Definition Exception" />
-      <item value="find Material Info By Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="703" />
-        <entry key="ENGLISH" value="678" />
+        <entry key="CHINESE" value="705" />
+        <entry key="ENGLISH" value="680" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="33" />
         <entry key="PORTUGUESE" value="2" />
