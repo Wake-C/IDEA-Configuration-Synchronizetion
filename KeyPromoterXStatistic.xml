@@ -606,7 +606,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>3301</Count>
+          <Count>3311</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -750,7 +750,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>356</Count>
+          <Count>357</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -1918,7 +1918,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>407</Count>
+          <Count>408</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">
