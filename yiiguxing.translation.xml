@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Request header is too large" />
       <item value="bean To Sorted Map" />
       <item value="将对象装换为Sortedmap" />
       <item value="find Special Merchant List" />
@@ -50,12 +51,11 @@
       <item value="find Public User Info Api" />
       <item value="template List" />
       <item value="draft List" />
-      <item value="Create Template" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="767" />
-        <entry key="ENGLISH" value="744" />
+        <entry key="CHINESE" value="770" />
+        <entry key="ENGLISH" value="747" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="33" />
         <entry key="PORTUGUESE" value="2" />
