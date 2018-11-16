@@ -1,13 +1,40 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="find Special Merchant List" />
+      <item value="@Test public void findSpeciaMerchantList() throws GtPluginException { final Optional&lt;String&gt; aaaaa = openApi.getVoiceSynthesisApi().voiceSynthesis(&quot;妈妈再爱我一次&quot;); log.info(&quot;result {}&quot;, JSONObject.toJSONString(aaaaa)); }" />
+      <item value="find Service Provider" />
+      <item value="initialize Merchant" />
+      <item value="initialize Merchant Api" />
+      <item value="initialize Api" />
+      <item value="initia" />
+      <item value="initiazetion" />
+      <item value="delete Sub Shop R" />
+      <item value="find Material Info By Id" />
+      <item value="get Api Url" />
+      <item value="find Material List" />
+      <item value="find Sub Materil By Id" />
+      <item value="voice Synthesis" />
+      <item value="get For Object" />
+      <item value="get For List" />
+      <item value="find Merchant Info By Id" />
+      <item value="send By Object" />
+      <item value="find Specia Merchant List" />
+      <item value="operate Merchant Api" />
+      <item value="商户类型列表" />
       <item value="merchants" />
+      <item value="type List" />
+      <item value="find Merchant Type List" />
+      <item value="Get Mapping" />
+      <item value="Api Operation" />
+      <item value="Response Status" />
+      <item value="Response View" />
+      <item value="GT Signature" />
       <item value="get busId" />
       <item value="get" />
       <item value="fans" />
       <item value="APPLICATION JSON UTF8 VALUE" />
       <item value="save" />
-      <item value="find Specia Merchant List" />
       <item value="find Subscribe Fans List" />
       <item value="find Subscribe Fans" />
       <item value="Subscribe" />
@@ -24,38 +51,11 @@
       <item value="Create Template" />
       <item value="Create Template Code" />
       <item value="Unsatisfied" />
-      <item value="mework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'wxSpecialMerchantsServiceImpl': Unsatisfied dependency expressed through constructor parameter 4; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.duofriend.common.utils.RedisTemplateUtil' available: expected at least 1 bean which qualifies as autowire candidate. Dependenc" />
-      <item value="Can't add master:" />
-      <item value="Only 10922 slots are avaliable" />
-      <item value="Not all slots are covered" />
-      <item value="Stream" />
-      <item value="is Streaming" />
-      <item value="feel free to" />
-      <item value="If you find this plugin helpful, please give me a star on Github. If you run into any issue, feel free to raise a issue." />
-      <item value="Cannot execute request on any known server" />
-      <item value="Transport Exception" />
-      <item value="refused" />
-      <item value="Test class should have exactly one public zero argument constructor" />
-      <item value="cache Bus Plugin Pass" />
-      <item value="cache Bus Plugin" />
-      <item value="cache" />
-      <item value="Find Plugin Status" />
-      <item value="query Plugin Status" />
-      <item value="plugin Status" />
-      <item value="initialize Merchant" />
-      <item value="Initiaze" />
-      <item value="Initiation Special Merchant" />
-      <item value="Initiation" />
-      <item value="Merchants Data Duplication" />
-      <item value="Merchant Data Duplication" />
-      <item value="Merchant Date Duplication" />
-      <item value="Special Merchant Initialization" />
-      <item value="Special Merchant Init" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="733" />
-        <entry key="ENGLISH" value="708" />
+        <entry key="CHINESE" value="765" />
+        <entry key="ENGLISH" value="742" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="33" />
         <entry key="PORTUGUESE" value="2" />
