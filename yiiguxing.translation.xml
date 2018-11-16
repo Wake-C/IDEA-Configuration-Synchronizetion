@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="result" />
+      <item value="wx 0 a 95 e 794 b 709 dff 0" />
+      <item value="response Entity" />
+      <item value="public Id" />
+      <item value="request Entity" />
+      <item value="equest timed out after 30053ms." />
       <item value="AE 7 B 2 AAAM 8 N 1 Am 8 Q 317" />
       <item value="chunked" />
       <item value="IMAGE FORMAT NOT SUPPORT" />
@@ -45,20 +51,14 @@
       <item value="save" />
       <item value="find Subscribe Fans List" />
       <item value="find Subscribe Fans" />
-      <item value="Subscribe" />
-      <item value="find Subscribet Fans" />
-      <item value="find Subscript Fans" />
-      <item value="find Subscripted Fans" />
-      <item value="merchant List Api" />
-      <item value="find Public User Info By Public Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="776" />
-        <entry key="ENGLISH" value="753" />
+        <entry key="CHINESE" value="785" />
+        <entry key="ENGLISH" value="761" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="33" />
-        <entry key="PORTUGUESE" value="2" />
+        <entry key="PORTUGUESE" value="3" />
         <entry key="SPANISH" value="2" />
       </map>
     </option>

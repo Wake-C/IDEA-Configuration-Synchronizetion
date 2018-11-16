@@ -262,7 +262,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'WeChatApplication'</Description>
-          <Count>375</Count>
+          <Count>376</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'WebChatMpApplication'">
@@ -478,7 +478,7 @@
           <IdeaActionID>DebugClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F5'</ShortCut>
           <Description>Debug 'findSubscribeFansL...()'</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'generatorMenu()'">
@@ -622,7 +622,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>3342</Count>
+          <Count>3343</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -838,7 +838,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>797</Count>
+          <Count>804</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1358,7 +1358,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'findPublicUserInfo...()'</Description>
-          <Count>6</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'findServiceProvider()'">
@@ -1398,7 +1398,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'findSpecialMerchan...()'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'findSubMaterilById()'">
@@ -1414,7 +1414,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'findSubscribeFansL...()'</Description>
-          <Count>8</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'generateCode()'">
@@ -1511,6 +1511,14 @@
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'qq()'</Description>
           <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'saverOrUpdateMerch...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'saverOrUpdateMerch...()'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'synMessages()'">
@@ -1758,7 +1766,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'WeChatApplication'</Description>
-          <Count>697</Count>
+          <Count>698</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'WebChatMpApplication'">
@@ -1926,7 +1934,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop...</Description>
-          <Count>105</Count>
+          <Count>106</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
@@ -1934,7 +1942,7 @@
           <IdeaActionID>ActivateStructureToolWindow</IdeaActionID>
           <ShortCut>'Alt+7'</ShortCut>
           <Description>Structure</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Synchronize">
@@ -1974,7 +1982,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>417</Count>
+          <Count>418</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">
