@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="bean To Sorted Map" />
+      <item value="将对象装换为Sortedmap" />
       <item value="find Special Merchant List" />
       <item value="@Test public void findSpeciaMerchantList() throws GtPluginException { final Optional&lt;String&gt; aaaaa = openApi.getVoiceSynthesisApi().voiceSynthesis(&quot;妈妈再爱我一次&quot;); log.info(&quot;result {}&quot;, JSONObject.toJSONString(aaaaa)); }" />
       <item value="find Service Provider" />
@@ -49,13 +51,11 @@
       <item value="template List" />
       <item value="draft List" />
       <item value="Create Template" />
-      <item value="Create Template Code" />
-      <item value="Unsatisfied" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="765" />
-        <entry key="ENGLISH" value="742" />
+        <entry key="CHINESE" value="767" />
+        <entry key="ENGLISH" value="744" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="33" />
         <entry key="PORTUGUESE" value="2" />
