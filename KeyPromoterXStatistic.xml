@@ -622,7 +622,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>3344</Count>
+          <Count>3345</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
