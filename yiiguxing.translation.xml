@@ -1,6 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Class com.gt.plugin.starter.common.ProcessingAPIData can not access a member of class com.gt.plugin.starter.dto.PageHelper with modifiers &quot;private&quot;" />
+      <item value="[Failed to convert property value of type 'java.lang.String' to required type 'java.lang.Integer' for property 'pid';" />
+      <item value="Tomcat started on port(s): 9090 (http) with context path ''&#10;2018 11 17 15:09:46.421 DEBUG 15872 [ main] o.s.w.c.s.StandardServletEnvironment : Adding PropertySource 'server.ports' with highest search precedence" />
+      <item value="context" />
+      <item value="Tomcat" />
+      <item value="seconds" />
+      <item value="We Chat Application" />
+      <item value="Started" />
+      <item value="running" />
+      <item value="No operations allowed after connection closed" />
+      <item value="error code 30038 message 商户busId或busName重复" />
       <item value="成功" />
       <item value="1542357299881" />
       <item value="result" />
@@ -40,22 +51,11 @@
       <item value="商户类型列表" />
       <item value="merchants" />
       <item value="type List" />
-      <item value="find Merchant Type List" />
-      <item value="Get Mapping" />
-      <item value="Api Operation" />
-      <item value="Response Status" />
-      <item value="Response View" />
-      <item value="GT Signature" />
-      <item value="get busId" />
-      <item value="get" />
-      <item value="fans" />
-      <item value="APPLICATION JSON UTF8 VALUE" />
-      <item value="save" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="787" />
-        <entry key="ENGLISH" value="763" />
+        <entry key="CHINESE" value="801" />
+        <entry key="ENGLISH" value="777" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="33" />
         <entry key="PORTUGUESE" value="3" />
