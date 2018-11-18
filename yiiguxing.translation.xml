@@ -1,64 +1,64 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="a" />
-      <item value="Overwrite" />
-      <item value="Test" />
-      <item value="Object" />
-      <item value="main" />
-      <item value="String" />
-      <item value=": expected at least 1 bean which qualifies as autowire candidate" />
-      <item value="candidate" />
-      <item value="We Chat Open Configuration" />
-      <item value="No Such Bean Definition Exception" />
+      <item value="成功" />
+      <item value="1542357299881" />
+      <item value="result" />
+      <item value="wx 0 a 95 e 794 b 709 dff 0" />
+      <item value="response Entity" />
+      <item value="public Id" />
+      <item value="request Entity" />
+      <item value="equest timed out after 30053ms." />
+      <item value="AE 7 B 2 AAAM 8 N 1 Am 8 Q 317" />
+      <item value="chunked" />
+      <item value="IMAGE FORMAT NOT SUPPORT" />
+      <item value="IMAGE FROMAT NOT SUPPORT" />
+      <item value="Api Ignore" />
+      <item value="Request header is too large" />
+      <item value="bean To Sorted Map" />
+      <item value="将对象装换为Sortedmap" />
+      <item value="find Special Merchant List" />
+      <item value="@Test public void findSpeciaMerchantList() throws GtPluginException { final Optional&lt;String&gt; aaaaa = openApi.getVoiceSynthesisApi().voiceSynthesis(&quot;妈妈再爱我一次&quot;); log.info(&quot;result {}&quot;, JSONObject.toJSONString(aaaaa)); }" />
+      <item value="find Service Provider" />
+      <item value="initialize Merchant" />
+      <item value="initialize Merchant Api" />
+      <item value="initialize Api" />
+      <item value="initia" />
+      <item value="initiazetion" />
+      <item value="delete Sub Shop R" />
       <item value="find Material Info By Id" />
-      <item value="Wx Material API" />
-      <item value="NOT MULTIPLE MATERIAL" />
-      <item value="根据父图文id查询子图文信息" />
-      <item value="list" />
-      <item value="sub List" />
-      <item value="find Sub Material List" />
-      <item value="find Material Info" />
-      <item value="search Materals By Key Word" />
-      <item value="find All Material List" />
-      <item value="wechat material" />
-      <item value="material" />
-      <item value="Wx Material Api Controller" />
-      <item value="Material Api Controller" />
-      <item value="delete Shop Relation" />
-      <item value="add Shop Relation" />
-      <item value="add Shop Ralation" />
-      <item value="get Shop Count" />
-      <item value="get Shop Number" />
-      <item value="get Shop Number Api" />
-      <item value="select Forward" />
-      <item value="get Shop Forward Url" />
-      <item value="SUB MODULE NOT FOUND" />
-      <item value="SUB MODULE NOT FOUNDED" />
-      <item value="Wx Shop Properties" />
-      <item value="We Chat Shop Properties" />
-      <item value="Shop Properties" />
-      <item value="get Select Dict Info List" />
-      <item value="Ambiguous" />
-      <item value="find Fenbi Number" />
-      <item value="get Fenbi Number" />
-      <item value="ash language support for the IntelliJ platform. Supports run configurations, syntax highlighting, rename refactoring, documentation lookup, inspections, quickfixes and much more." />
-      <item value="pipeline.app" />
-      <item value="The parameter 'appId' can not be null or empty!" />
-      <item value="syn Date" />
-      <item value="synchroniza Date" />
-      <item value="synchronize Message" />
-      <item value="Message" />
-      <item value="synchronize Chat Message" />
-      <item value="synchronize" />
+      <item value="get Api Url" />
+      <item value="find Material List" />
+      <item value="find Sub Materil By Id" />
+      <item value="voice Synthesis" />
+      <item value="get For Object" />
+      <item value="get For List" />
+      <item value="find Merchant Info By Id" />
+      <item value="send By Object" />
+      <item value="find Specia Merchant List" />
+      <item value="operate Merchant Api" />
+      <item value="商户类型列表" />
+      <item value="merchants" />
+      <item value="type List" />
+      <item value="find Merchant Type List" />
+      <item value="Get Mapping" />
+      <item value="Api Operation" />
+      <item value="Response Status" />
+      <item value="Response View" />
+      <item value="GT Signature" />
+      <item value="get busId" />
+      <item value="get" />
+      <item value="fans" />
+      <item value="APPLICATION JSON UTF8 VALUE" />
+      <item value="save" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="663" />
-        <entry key="ENGLISH" value="639" />
+        <entry key="CHINESE" value="787" />
+        <entry key="ENGLISH" value="763" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
-        <entry key="FRENCH" value="32" />
-        <entry key="PORTUGUESE" value="2" />
+        <entry key="FRENCH" value="33" />
+        <entry key="PORTUGUESE" value="3" />
         <entry key="SPANISH" value="2" />
       </map>
     </option>
