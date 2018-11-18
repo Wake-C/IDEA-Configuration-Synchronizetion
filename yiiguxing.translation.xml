@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Synchronize settings for IntelliJ based IDEs across all" />
+      <item value="o sync, log in with your JetBrains Account (JBA). Settings synced are: UI and editor themes, keymaps, enabled and disabled plugins." />
       <item value="成功" />
       <item value="1542357299881" />
       <item value="result" />
@@ -49,8 +51,6 @@
       <item value="get busId" />
       <item value="get" />
       <item value="fans" />
-      <item value="APPLICATION JSON UTF8 VALUE" />
-      <item value="save" />
     </histories>
     <option name="languageScores">
       <map>
