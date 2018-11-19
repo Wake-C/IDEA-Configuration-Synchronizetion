@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="the wechat user have been one of your workers" />
+      <item value="access clientip is not registered requestIP" />
+      <item value="message Transform" />
+      <item value="message Cover Chinese" />
+      <item value="message Cover Chiness" />
       <item value="download QR Code" />
       <item value="download Q Rcode" />
       <item value="download Qrcode" />
@@ -46,16 +51,11 @@
       <item value="find Material List" />
       <item value="find Sub Materil By Id" />
       <item value="voice Synthesis" />
-      <item value="get For Object" />
-      <item value="get For List" />
-      <item value="find Merchant Info By Id" />
-      <item value="send By Object" />
-      <item value="find Specia Merchant List" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="806" />
-        <entry key="ENGLISH" value="782" />
+        <entry key="CHINESE" value="811" />
+        <entry key="ENGLISH" value="787" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="33" />
         <entry key="PORTUGUESE" value="3" />
