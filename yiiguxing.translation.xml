@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="download QR Code" />
+      <item value="download Q Rcode" />
+      <item value="download Qrcode" />
+      <item value="download" />
       <item value="Class com.gt.plugin.starter.common.ProcessingAPIData can not access a member of class com.gt.plugin.starter.dto.PageHelper with modifiers &quot;private&quot;" />
       <item value="[Failed to convert property value of type 'java.lang.String' to required type 'java.lang.Integer' for property 'pid';" />
       <item value="Tomcat started on port(s): 9090 (http) with context path ''&#10;2018 11 17 15:09:46.421 DEBUG 15872 [ main] o.s.w.c.s.StandardServletEnvironment : Adding PropertySource 'server.ports' with highest search precedence" />
@@ -47,15 +51,11 @@
       <item value="find Merchant Info By Id" />
       <item value="send By Object" />
       <item value="find Specia Merchant List" />
-      <item value="operate Merchant Api" />
-      <item value="商户类型列表" />
-      <item value="merchants" />
-      <item value="type List" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="801" />
-        <entry key="ENGLISH" value="777" />
+        <entry key="CHINESE" value="806" />
+        <entry key="ENGLISH" value="782" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="33" />
         <entry key="PORTUGUESE" value="3" />
