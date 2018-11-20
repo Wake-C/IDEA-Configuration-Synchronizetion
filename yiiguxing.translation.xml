@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="妈妈再爱我一次" />
       <item value="the wechat user have been one of your workers" />
       <item value="access clientip is not registered requestIP" />
       <item value="message Transform" />
@@ -50,12 +51,11 @@
       <item value="get Api Url" />
       <item value="find Material List" />
       <item value="find Sub Materil By Id" />
-      <item value="voice Synthesis" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="811" />
-        <entry key="ENGLISH" value="787" />
+        <entry key="CHINESE" value="814" />
+        <entry key="ENGLISH" value="790" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="33" />
         <entry key="PORTUGUESE" value="3" />
