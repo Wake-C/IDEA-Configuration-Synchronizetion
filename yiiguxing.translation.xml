@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="You can use the new version until your subscription expires on May 5, 2019." />
+      <item value="automatic updates." />
+      <item value="What's New" />
+      <item value="Visit the What's New page to discover all the new features in IntelliJ IDEA 2018.3." />
+      <item value="this year’s third major update for the IDE" />
+      <item value="this year’s" />
+      <item value="third major" />
+      <item value="third" />
+      <item value="major" />
       <item value="accept" />
       <item value="corrected three" />
       <item value="id" />
@@ -42,15 +51,6 @@
       <item value="response Entity" />
       <item value="public Id" />
       <item value="request Entity" />
-      <item value="equest timed out after 30053ms." />
-      <item value="AE 7 B 2 AAAM 8 N 1 Am 8 Q 317" />
-      <item value="chunked" />
-      <item value="IMAGE FORMAT NOT SUPPORT" />
-      <item value="IMAGE FROMAT NOT SUPPORT" />
-      <item value="Api Ignore" />
-      <item value="Request header is too large" />
-      <item value="bean To Sorted Map" />
-      <item value="将对象装换为Sortedmap" />
     </histories>
     <option name="languageScores">
       <map>
