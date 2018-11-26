@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="number" />
+      <item value="predicate" />
       <item value="Alibaba Comments Must Be Javadoc Format" />
       <item value="Only 1 from 32 were initialized" />
       <item value="amount" />
@@ -49,8 +51,6 @@
       <item value="@Test public void findSpeciaMerchantList() throws GtPluginException { final Optional&lt;String&gt; aaaaa = openApi.getVoiceSynthesisApi().voiceSynthesis(&quot;妈妈再爱我一次&quot;); log.info(&quot;result {}&quot;, JSONObject.toJSONString(aaaaa)); }" />
       <item value="find Service Provider" />
       <item value="initialize Merchant" />
-      <item value="initialize Merchant Api" />
-      <item value="initialize Api" />
     </histories>
     <option name="languageScores">
       <map>
@@ -64,26 +64,14 @@
     </option>
   </component>
   <component name="Settings">
-    <option name="baiduTranslateSettings">
-      <app-key>
-        <option name="primaryLanguage" value="CHINESE" />
-      </app-key>
-    </option>
-    <option name="googleTranslateSettings">
-      <google-translate>
-        <option name="useTranslateGoogleCom" value="false" />
-      </google-translate>
-    </option>
     <option name="ignoreRegExp" value="[-_]" />
     <option name="overrideFont" value="true" />
     <option name="phoneticFontFamily" value="Lucida Sans Unicode" />
     <option name="primaryFontFamily" value="Microsoft YaHei UI" />
-    <option name="translator" value="ai.youdao" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="72daf72feb661e19" />
         <option name="appKeyConfigured" value="true" />
-        <option name="primaryLanguage" value="AUTO" />
       </youdao-translate>
     </option>
   </component>
