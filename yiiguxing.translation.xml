@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="corrected" />
+      <item value="saturated Cast" />
+      <item value="compute Array List Capacity" />
       <item value="You can use the new version until your subscription expires on May 5, 2019." />
       <item value="automatic updates." />
       <item value="What's New" />
@@ -48,14 +51,11 @@
       <item value="1542357299881" />
       <item value="result" />
       <item value="wx 0 a 95 e 794 b 709 dff 0" />
-      <item value="response Entity" />
-      <item value="public Id" />
-      <item value="request Entity" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="824" />
-        <entry key="ENGLISH" value="800" />
+        <entry key="CHINESE" value="826" />
+        <entry key="ENGLISH" value="802" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="33" />
         <entry key="PORTUGUESE" value="3" />
