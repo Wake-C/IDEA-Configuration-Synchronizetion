@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="corrected three" />
       <item value="id" />
       <item value="initialization" />
       <item value="number" />
@@ -50,7 +51,6 @@
       <item value="bean To Sorted Map" />
       <item value="将对象装换为Sortedmap" />
       <item value="find Special Merchant List" />
-      <item value="@Test public void findSpeciaMerchantList() throws GtPluginException { final Optional&lt;String&gt; aaaaa = openApi.getVoiceSynthesisApi().voiceSynthesis(&quot;妈妈再爱我一次&quot;); log.info(&quot;result {}&quot;, JSONObject.toJSONString(aaaaa)); }" />
     </histories>
     <option name="languageScores">
       <map>
