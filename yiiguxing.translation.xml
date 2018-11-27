@@ -1,7 +1,22 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Error: Module not specified" />
+      <item value="Process finished with exit code" />
+      <item value="find Shop Info List By Ids" />
+      <item value="Process finished with exit code 1073741819 (0xC0000005)" />
+      <item value="QUERY AMOUNT BEYOND" />
+      <item value="QUERY AMOUNT BEYOUND" />
+      <item value="QUERY AMOUNT" />
+      <item value="QUERY NUMBER BEYOUND" />
+      <item value="find Shop Info DTO List By Shop Ids" />
+      <item value="lists" />
+      <item value="Inspired" />
+      <item value="Bracket Pair" />
+      <item value="Bracket" />
+      <item value="generate a class all setter method default value by alt+enter on the variable class&#10;generate a set method for two object converter when they have same field&#10;generate default value when returnType is List Set Map&#10;like a user class has setName, setPassword methods&#10;User user = new User();&#10;then alt+enter on User&#10;will generate following&#10;user.setName(&quot;&quot;);&#10;user.setPassword(&quot;&quot;);&#10;support all your class set method including super class" />
+      <item value="corrected" />
+      <item value="saturated Cast" />
+      <item value="compute Array List Capacity" />
       <item value="You can use the new version until your subscription expires on May 5, 2019." />
       <item value="automatic updates." />
       <item value="What's New" />
@@ -36,26 +51,11 @@
       <item value="download" />
       <item value="Class com.gt.plugin.starter.common.ProcessingAPIData can not access a member of class com.gt.plugin.starter.dto.PageHelper with modifiers &quot;private&quot;" />
       <item value="[Failed to convert property value of type 'java.lang.String' to required type 'java.lang.Integer' for property 'pid';" />
-      <item value="Tomcat started on port(s): 9090 (http) with context path ''&#10;2018 11 17 15:09:46.421 DEBUG 15872 [ main] o.s.w.c.s.StandardServletEnvironment : Adding PropertySource 'server.ports' with highest search precedence" />
-      <item value="context" />
-      <item value="Tomcat" />
-      <item value="seconds" />
-      <item value="We Chat Application" />
-      <item value="Started" />
-      <item value="running" />
-      <item value="No operations allowed after connection closed" />
-      <item value="error code 30038 message 商户busId或busName重复" />
-      <item value="成功" />
-      <item value="1542357299881" />
-      <item value="result" />
-      <item value="wx 0 a 95 e 794 b 709 dff 0" />
-      <item value="response Entity" />
-      <item value="public Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="824" />
-        <entry key="ENGLISH" value="800" />
+        <entry key="CHINESE" value="836" />
+        <entry key="ENGLISH" value="812" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="33" />
         <entry key="PORTUGUESE" value="3" />
