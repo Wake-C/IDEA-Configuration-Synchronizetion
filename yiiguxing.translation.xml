@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Process finished with exit code" />
+      <item value="find Shop Info List By Ids" />
+      <item value="Process finished with exit code 1073741819 (0xC0000005)" />
+      <item value="QUERY AMOUNT BEYOND" />
+      <item value="QUERY AMOUNT BEYOUND" />
+      <item value="QUERY AMOUNT" />
+      <item value="QUERY NUMBER BEYOUND" />
+      <item value="find Shop Info DTO List By Shop Ids" />
+      <item value="lists" />
       <item value="Inspired" />
       <item value="Bracket Pair" />
       <item value="Bracket" />
@@ -42,20 +51,11 @@
       <item value="download" />
       <item value="Class com.gt.plugin.starter.common.ProcessingAPIData can not access a member of class com.gt.plugin.starter.dto.PageHelper with modifiers &quot;private&quot;" />
       <item value="[Failed to convert property value of type 'java.lang.String' to required type 'java.lang.Integer' for property 'pid';" />
-      <item value="Tomcat started on port(s): 9090 (http) with context path ''&#10;2018 11 17 15:09:46.421 DEBUG 15872 [ main] o.s.w.c.s.StandardServletEnvironment : Adding PropertySource 'server.ports' with highest search precedence" />
-      <item value="context" />
-      <item value="Tomcat" />
-      <item value="seconds" />
-      <item value="We Chat Application" />
-      <item value="Started" />
-      <item value="running" />
-      <item value="No operations allowed after connection closed" />
-      <item value="error code 30038 message 商户busId或busName重复" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="826" />
-        <entry key="ENGLISH" value="802" />
+        <entry key="CHINESE" value="836" />
+        <entry key="ENGLISH" value="812" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="33" />
         <entry key="PORTUGUESE" value="3" />
