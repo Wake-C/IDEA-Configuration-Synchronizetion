@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Failed to deserialize payload" />
+      <item value="Class Not Found Exception" />
+      <item value="payload" />
+      <item value="deserialize" />
       <item value="district" />
       <item value="detail Address" />
       <item value="Process finished with exit code" />
@@ -47,15 +51,11 @@
       <item value="message Transform" />
       <item value="message Cover Chinese" />
       <item value="message Cover Chiness" />
-      <item value="download QR Code" />
-      <item value="download Q Rcode" />
-      <item value="download Qrcode" />
-      <item value="download" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="839" />
-        <entry key="ENGLISH" value="815" />
+        <entry key="CHINESE" value="843" />
+        <entry key="ENGLISH" value="819" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="33" />
         <entry key="PORTUGUESE" value="3" />
