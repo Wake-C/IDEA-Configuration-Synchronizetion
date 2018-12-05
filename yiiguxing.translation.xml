@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="common Properties Util" />
+      <item value="rest Template" />
+      <item value="old Platform" />
+      <item value="If no such value of k exists, then 1 is returned." />
+      <item value="Returns the index within this string of the first occurrence of the specified substring. The returned index is the smallest value k for which:" />
+      <item value="Returns the index within this string of the first occurrence of the specified substring.&#10;The returned index is the smallest value k for which:" />
       <item value="Communications" />
       <item value="SNAPSHOT" />
       <item value="Unrecognized Property Exception" />
@@ -14,7 +20,6 @@
       <item value="You may wish to exclude one of them to ensure predictable runtime behavior" />
       <item value="Bean Definition Store Exception" />
       <item value="overridden" />
-      <item value="common Properties Util" />
       <item value="Application Context" />
       <item value="Failed to load ApplicationContext" />
       <item value="Wx Mp Xml Out Image Message" />
@@ -46,16 +51,11 @@
       <item value="Visit the What's New page to discover all the new features in IntelliJ IDEA 2018.3." />
       <item value="this year’s third major update for the IDE" />
       <item value="this year’s" />
-      <item value="third major" />
-      <item value="third" />
-      <item value="major" />
-      <item value="accept" />
-      <item value="corrected three" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="862" />
-        <entry key="ENGLISH" value="838" />
+        <entry key="CHINESE" value="864" />
+        <entry key="ENGLISH" value="840" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="33" />
         <entry key="PORTUGUESE" value="3" />
