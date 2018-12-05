@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="page Home" />
       <item value="bus Id" />
       <item value="common Properties Util" />
       <item value="rest Template" />
@@ -50,12 +51,11 @@
       <item value="automatic updates." />
       <item value="What's New" />
       <item value="Visit the What's New page to discover all the new features in IntelliJ IDEA 2018.3." />
-      <item value="this year’s third major update for the IDE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="865" />
-        <entry key="ENGLISH" value="841" />
+        <entry key="CHINESE" value="866" />
+        <entry key="ENGLISH" value="842" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="33" />
         <entry key="PORTUGUESE" value="3" />
