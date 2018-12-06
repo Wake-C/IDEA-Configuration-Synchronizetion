@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Possibly consider using a shorter maxLifetime value" />
+      <item value="max Lifetime" />
+      <item value="shorter" />
+      <item value="consider" />
+      <item value="Possibly" />
+      <item value="8 A 5 DA 52 E" />
+      <item value="old Platform" />
       <item value="find Material" />
       <item value="find Meterial" />
       <item value="Navigation DTO" />
@@ -8,7 +15,6 @@
       <item value="bus Id" />
       <item value="common Properties Util" />
       <item value="rest Template" />
-      <item value="old Platform" />
       <item value="If no such value of k exists, then 1 is returned." />
       <item value="Returns the index within this string of the first occurrence of the specified substring. The returned index is the smallest value k for which:" />
       <item value="Returns the index within this string of the first occurrence of the specified substring.&#10;The returned index is the smallest value k for which:" />
@@ -45,20 +51,14 @@
       <item value="lists" />
       <item value="Inspired" />
       <item value="Bracket Pair" />
-      <item value="Bracket" />
-      <item value="generate a class all setter method default value by alt+enter on the variable class&#10;generate a set method for two object converter when they have same field&#10;generate default value when returnType is List Set Map&#10;like a user class has setName, setPassword methods&#10;User user = new User();&#10;then alt+enter on User&#10;will generate following&#10;user.setName(&quot;&quot;);&#10;user.setPassword(&quot;&quot;);&#10;support all your class set method including super class" />
-      <item value="corrected" />
-      <item value="saturated Cast" />
-      <item value="compute Array List Capacity" />
-      <item value="You can use the new version until your subscription expires on May 5, 2019." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="869" />
-        <entry key="ENGLISH" value="845" />
+        <entry key="CHINESE" value="876" />
+        <entry key="ENGLISH" value="851" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="33" />
-        <entry key="PORTUGUESE" value="3" />
+        <entry key="PORTUGUESE" value="4" />
         <entry key="SPANISH" value="2" />
       </map>
     </option>
