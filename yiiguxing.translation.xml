@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Shop Ids List" />
       <item value="get Shop Id List" />
       <item value="get Shopid List" />
       <item value="fill Applet Member" />
@@ -50,12 +51,11 @@
       <item value="QUERY AMOUNT BEYOUND" />
       <item value="QUERY AMOUNT" />
       <item value="QUERY NUMBER BEYOUND" />
-      <item value="find Shop Info DTO List By Shop Ids" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="881" />
-        <entry key="ENGLISH" value="856" />
+        <entry key="CHINESE" value="882" />
+        <entry key="ENGLISH" value="857" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="33" />
         <entry key="PORTUGUESE" value="4" />
