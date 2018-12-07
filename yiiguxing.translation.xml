@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="total Number" />
+      <item value="total Count" />
+      <item value="current Count" />
       <item value="get Shop Ids List" />
       <item value="get Shop Id List" />
       <item value="get Shopid List" />
@@ -48,14 +51,11 @@
       <item value="find Shop Info List By Ids" />
       <item value="Process finished with exit code 1073741819 (0xC0000005)" />
       <item value="QUERY AMOUNT BEYOND" />
-      <item value="QUERY AMOUNT BEYOUND" />
-      <item value="QUERY AMOUNT" />
-      <item value="QUERY NUMBER BEYOUND" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="882" />
-        <entry key="ENGLISH" value="857" />
+        <entry key="CHINESE" value="887" />
+        <entry key="ENGLISH" value="862" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="33" />
         <entry key="PORTUGUESE" value="4" />
