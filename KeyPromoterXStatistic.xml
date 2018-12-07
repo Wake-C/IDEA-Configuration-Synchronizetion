@@ -830,7 +830,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>444</Count>
+          <Count>445</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -1687,6 +1687,14 @@
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'getShopIdsList()'</Description>
           <Count>10</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'getShopListByBusId()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'getShopListByBusId()'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'initializeMerchant()'">
