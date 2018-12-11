@@ -521,6 +521,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'getIndustryById()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F5'</ShortCut>
+          <Description>Debug 'getIndustryById()'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'getSelectDictInfo()'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -670,7 +678,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>3623</Count>
+          <Count>3628</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -830,7 +838,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>463</Count>
+          <Count>464</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -958,7 +966,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>913</Count>
+          <Count>915</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1430,7 +1438,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'findCountryList()'</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'findCustomServiceL...()'">
@@ -1686,7 +1694,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'getIndustryById()'</Description>
-          <Count>6</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'getSelectDictInfo()'">
@@ -2270,7 +2278,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>451</Count>
+          <Count>452</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">
