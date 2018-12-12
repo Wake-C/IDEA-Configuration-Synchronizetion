@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="qrcode" />
+      <item value="preview qrcode" />
+      <item value="index Of" />
+      <item value="material" />
+      <item value="get Preview Url" />
+      <item value="find Preview Url" />
       <item value="resource domain" />
       <item value="find Resource Domain" />
       <item value="resource Domain DTO" />
@@ -45,17 +51,11 @@
       <item value="query parameter is null" />
       <item value="query paramer is null" />
       <item value="Industry" />
-      <item value="Invalid bean definition with name" />
-      <item value="You may wish to exclude one of them to ensure predictable runtime behavior" />
-      <item value="Bean Definition Store Exception" />
-      <item value="overridden" />
-      <item value="Application Context" />
-      <item value="Failed to load ApplicationContext" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="898" />
-        <entry key="ENGLISH" value="873" />
+        <entry key="CHINESE" value="904" />
+        <entry key="ENGLISH" value="879" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="33" />
         <entry key="PORTUGUESE" value="4" />
