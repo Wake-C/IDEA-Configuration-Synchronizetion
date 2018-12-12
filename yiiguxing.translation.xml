@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="consider using a shorter maxLifetime value" />
+      <item value="max Lifetime" />
+      <item value="shorter" />
+      <item value="consider" />
+      <item value="Possibly" />
       <item value="qrcode" />
       <item value="preview qrcode" />
       <item value="index Of" />
@@ -26,10 +31,6 @@
       <item value="get Shopid List" />
       <item value="fill Applet Member" />
       <item value="Possibly consider using a shorter maxLifetime value" />
-      <item value="max Lifetime" />
-      <item value="shorter" />
-      <item value="consider" />
-      <item value="Possibly" />
       <item value="8 A 5 DA 52 E" />
       <item value="old Platform" />
       <item value="find Material" />
@@ -50,12 +51,11 @@
       <item value="Unrecognized" />
       <item value="query parameter is null" />
       <item value="query paramer is null" />
-      <item value="Industry" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="904" />
-        <entry key="ENGLISH" value="879" />
+        <entry key="CHINESE" value="909" />
+        <entry key="ENGLISH" value="884" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="33" />
         <entry key="PORTUGUESE" value="4" />
