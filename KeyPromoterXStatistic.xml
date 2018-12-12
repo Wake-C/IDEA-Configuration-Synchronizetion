@@ -262,7 +262,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'WeChatApplication'</Description>
-          <Count>466</Count>
+          <Count>467</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'WebChatMpApplication'">
@@ -702,7 +702,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>3655</Count>
+          <Count>3662</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -1670,7 +1670,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'findSpecialMerchan...()'</Description>
-          <Count>8</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'findSubMaterilById()'">
