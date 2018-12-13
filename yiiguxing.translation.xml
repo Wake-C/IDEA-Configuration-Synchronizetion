@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="applet page" />
       <item value="consider using a shorter maxLifetime value" />
       <item value="max Lifetime" />
       <item value="shorter" />
@@ -50,12 +51,11 @@
       <item value="marked" />
       <item value="Unrecognized" />
       <item value="query parameter is null" />
-      <item value="query paramer is null" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="909" />
-        <entry key="ENGLISH" value="884" />
+        <entry key="CHINESE" value="910" />
+        <entry key="ENGLISH" value="885" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="33" />
         <entry key="PORTUGUESE" value="4" />
