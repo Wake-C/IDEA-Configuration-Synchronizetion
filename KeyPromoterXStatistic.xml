@@ -702,7 +702,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>3682</Count>
+          <Count>3690</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -862,7 +862,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>482</Count>
+          <Count>483</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -1598,7 +1598,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'findPublicUserInfo...()'</Description>
-          <Count>12</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'findServiceProvider()'">
