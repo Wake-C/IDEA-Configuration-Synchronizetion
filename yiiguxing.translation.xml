@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="CERTIFICATE NOT EXIST" />
+      <item value="Supplier" />
       <item value="is Exist" />
       <item value="certificate Path" />
       <item value="Certificate Parameter" />
@@ -49,13 +51,11 @@
       <item value="Possibly consider using a shorter maxLifetime value" />
       <item value="8 A 5 DA 52 E" />
       <item value="old Platform" />
-      <item value="find Material" />
-      <item value="find Meterial" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="927" />
-        <entry key="ENGLISH" value="902" />
+        <entry key="CHINESE" value="929" />
+        <entry key="ENGLISH" value="904" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="33" />
         <entry key="PORTUGUESE" value="4" />
