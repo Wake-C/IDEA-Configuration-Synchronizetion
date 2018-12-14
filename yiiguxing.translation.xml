@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="No Such Bean Definition Exception" />
+      <item value="Bean Definition Override Exception" />
+      <item value="No Unique Bean Definition Exception" />
+      <item value="ble: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {}" />
+      <item value="candidate" />
+      <item value="configuration" />
+      <item value="Unsatisfied" />
+      <item value="expressed" />
+      <item value="dependency" />
+      <item value="autowire" />
       <item value="overridden" />
       <item value="illegally" />
       <item value="eligible" />
@@ -41,21 +51,11 @@
       <item value="To display the conditions report re run your application with 'debug' enabled." />
       <item value="ensure" />
       <item value="ou may wish to exclude" />
-      <item value="parse Object" />
-      <item value="total Number" />
-      <item value="total Count" />
-      <item value="current Count" />
-      <item value="get Shop Ids List" />
-      <item value="get Shop Id List" />
-      <item value="get Shopid List" />
-      <item value="fill Applet Member" />
-      <item value="Possibly consider using a shorter maxLifetime value" />
-      <item value="8 A 5 DA 52 E" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="932" />
-        <entry key="ENGLISH" value="907" />
+        <entry key="CHINESE" value="945" />
+        <entry key="ENGLISH" value="920" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="33" />
         <entry key="PORTUGUESE" value="4" />
