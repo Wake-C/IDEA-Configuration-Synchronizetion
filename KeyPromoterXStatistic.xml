@@ -702,7 +702,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>3741</Count>
+          <Count>3742</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -1791,6 +1791,14 @@
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'initializeMerchant()'</Description>
           <Count>17</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'isExist()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'isExist()'</Description>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'lambda.test'">
