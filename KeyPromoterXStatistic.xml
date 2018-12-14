@@ -262,7 +262,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'WeChatApplication'</Description>
-          <Count>477</Count>
+          <Count>478</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'WebChatMpApplication'">
@@ -391,6 +391,14 @@
           <ShortCut>'Ctrl+Shift+F5'</ShortCut>
           <Description>Debug 'deleteMaterial()'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'findAppletList()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F5'</ShortCut>
+          <Description>Debug 'findAppletList()'</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'findChatMessageList()'">
@@ -702,7 +710,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>3742</Count>
+          <Count>3752</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -990,7 +998,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>948</Count>
+          <Count>950</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1449,6 +1457,14 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'findAppletList()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'findAppletList()'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'findCategoryList()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -1798,7 +1814,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'isExist()'</Description>
-          <Count>5</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'lambda.test'">
@@ -1863,6 +1879,14 @@
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'qq()'</Description>
           <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'saveCertificate()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'saveCertificate()'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'saverOrUpdateMerch...()'">
@@ -2017,6 +2041,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Show Execution Point">
+        <Item>
+          <IdeaActionID>ShowExecutionPoint</IdeaActionID>
+          <ShortCut>'Alt+F10'</ShortCut>
+          <Description>Show Execution Point</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Show History">
         <Item>
           <IdeaActionID>Vcs.ShowTabbedFileHistory</IdeaActionID>
@@ -2134,7 +2166,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'WeChatApplication'</Description>
-          <Count>837</Count>
+          <Count>839</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'WebChatMpApplication'">
@@ -2215,6 +2247,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'WxMsgTemplateServiceImplTest.synMessages'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'WxPublicUsersServiceImplTest.findAppletList'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'WxPublicUsersServiceImplTest.findAppletList'</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'WxShopServiceImplTest.createShop'">
@@ -2366,7 +2406,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>468</Count>
+          <Count>469</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">
