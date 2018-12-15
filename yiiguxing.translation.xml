@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Certificate Is Exist" />
+      <item value="Certificate Exist" />
+      <item value="Certifiact Exist" />
+      <item value="is Exist" />
+      <item value="save Certificate" />
       <item value="Parameter 2 of constructor" />
       <item value="GT Signature" />
       <item value="Response View" />
@@ -23,7 +28,6 @@
       <item value="eligible" />
       <item value="CERTIFICATE NOT EXIST" />
       <item value="Supplier" />
-      <item value="is Exist" />
       <item value="certificate Path" />
       <item value="Certificate Parameter" />
       <item value="merchants" />
@@ -47,15 +51,11 @@
       <item value="index Of" />
       <item value="material" />
       <item value="get Preview Url" />
-      <item value="find Preview Url" />
-      <item value="resource domain" />
-      <item value="find Resource Domain" />
-      <item value="resource Domain DTO" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="956" />
-        <entry key="ENGLISH" value="931" />
+        <entry key="CHINESE" value="962" />
+        <entry key="ENGLISH" value="937" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="33" />
         <entry key="PORTUGUESE" value="4" />
