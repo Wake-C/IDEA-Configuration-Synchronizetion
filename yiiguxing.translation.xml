@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="siri" />
+      <item value="find Service Provider" />
       <item value="connection" />
       <item value="plaintext" />
       <item value="Unrecognized" />
@@ -49,13 +51,11 @@
       <item value="max Lifetime" />
       <item value="shorter" />
       <item value="consider" />
-      <item value="Possibly" />
-      <item value="qrcode" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="965" />
-        <entry key="ENGLISH" value="940" />
+        <entry key="CHINESE" value="967" />
+        <entry key="ENGLISH" value="942" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="33" />
         <entry key="PORTUGUESE" value="4" />

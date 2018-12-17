@@ -494,7 +494,7 @@
           <IdeaActionID>DebugClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F5'</ShortCut>
           <Description>Debug 'findServiceProvider()'</Description>
-          <Count>2</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'findShopInfoById()'">
@@ -742,7 +742,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>3829</Count>
+          <Count>3833</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -910,7 +910,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>523</Count>
+          <Count>525</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -1654,7 +1654,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'findMerchantInfoBy...()'</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'findMerchantInfoById()'">
@@ -1694,7 +1694,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'findServiceProvider()'</Description>
-          <Count>28</Count>
+          <Count>38</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'findShopById()'">
@@ -1758,7 +1758,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'findSpecialMerchan...()'</Description>
-          <Count>28</Count>
+          <Count>33</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'findSubMaterilById()'">
@@ -1766,7 +1766,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'findSubMaterilById()'</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'findSubscribeFansL...()'">
@@ -2494,7 +2494,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>482</Count>
+          <Count>483</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">
