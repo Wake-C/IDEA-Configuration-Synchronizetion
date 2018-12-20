@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SINGLE MATERIAL PARENT ID ERROR" />
+      <item value="SINGLE MATERIAL PARENT ERROR" />
+      <item value="SINGLE MATERAL PARENT ERROR" />
       <item value="deserialize" />
       <item value="Bus Name" />
       <item value="applet Code Id" />
@@ -48,14 +51,11 @@
       <item value="Generic bean" />
       <item value="Properties Config" />
       <item value="Invalid bean definition with name" />
-      <item value="applet List" />
-      <item value="exclusion" />
-      <item value="Find Applet List Parameter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="974" />
-        <entry key="ENGLISH" value="948" />
+        <entry key="CHINESE" value="977" />
+        <entry key="ENGLISH" value="951" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="34" />
         <entry key="PORTUGUESE" value="4" />
@@ -64,16 +64,6 @@
     </option>
   </component>
   <component name="Settings">
-    <option name="baiduTranslateSettings">
-      <app-key>
-        <option name="primaryLanguage" value="CHINESE" />
-      </app-key>
-    </option>
-    <option name="googleTranslateSettings">
-      <google-translate>
-        <option name="useTranslateGoogleCom" value="false" />
-      </google-translate>
-    </option>
     <option name="ignoreRegExp" value="[-_]" />
     <option name="overrideFont" value="true" />
     <option name="phoneticFontFamily" value="Lucida Sans Unicode" />
@@ -83,7 +73,6 @@
       <youdao-translate>
         <option name="appId" value="72daf72feb661e19" />
         <option name="appKeyConfigured" value="true" />
-        <option name="primaryLanguage" value="AUTO" />
       </youdao-translate>
     </option>
   </component>
