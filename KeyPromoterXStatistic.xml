@@ -110,7 +110,7 @@
           <IdeaActionID>CopyPaths</IdeaActionID>
           <ShortCut>'Ctrl+Shift+C'</ShortCut>
           <Description>Copy Path</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Reference">
@@ -262,7 +262,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'WeChatApplication'</Description>
-          <Count>514</Count>
+          <Count>519</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'WebChatMpApplication'">
@@ -942,7 +942,7 @@
           <IdeaActionID>Git.Pull</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+P'</ShortCut>
           <Description>Pull...</Description>
-          <Count>37</Count>
+          <Count>38</Count>
         </Item>
       </Statistic>
       <Statistic Action="Push...">
@@ -2262,7 +2262,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'WeChatApplication'</Description>
-          <Count>884</Count>
+          <Count>899</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'WebChatMpApplication'">
