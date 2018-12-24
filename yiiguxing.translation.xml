@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="wxmp scene1534324198921" />
       <item value="Method Argument Type Mismatch Exception" />
       <item value="applet Auth" />
       <item value="applet Grant" />
@@ -50,12 +51,11 @@
       <item value="eligible" />
       <item value="CERTIFICATE NOT EXIST" />
       <item value="Supplier" />
-      <item value="certificate Path" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="985" />
-        <entry key="ENGLISH" value="958" />
+        <entry key="CHINESE" value="987" />
+        <entry key="ENGLISH" value="960" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="35" />
         <entry key="PORTUGUESE" value="4" />
