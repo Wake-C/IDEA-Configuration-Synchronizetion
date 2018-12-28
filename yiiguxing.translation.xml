@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="draft Id" />
+      <item value="Template Upload" />
+      <item value="upload Template" />
+      <item value="find Template Info By Id" />
+      <item value="find Template By Id" />
+      <item value="find Template Info" />
       <item value="watermark" />
       <item value="country Code" />
       <item value="phone Number" />
@@ -45,17 +51,11 @@
       <item value="Bean Definition Override Exception" />
       <item value="No Unique Bean Definition Exception" />
       <item value="ble: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {}" />
-      <item value="candidate" />
-      <item value="configuration" />
-      <item value="Unsatisfied" />
-      <item value="expressed" />
-      <item value="dependency" />
-      <item value="autowire" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="992" />
-        <entry key="ENGLISH" value="965" />
+        <entry key="CHINESE" value="998" />
+        <entry key="ENGLISH" value="971" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="35" />
         <entry key="PORTUGUESE" value="4" />
