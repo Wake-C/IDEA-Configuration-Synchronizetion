@@ -16,6 +16,7 @@
     <mask>java</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>`</mask>
     <mask>*.yml</mask>
   </component>
 </application>
