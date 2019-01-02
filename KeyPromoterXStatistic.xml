@@ -926,7 +926,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>569</Count>
+          <Count>570</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -2574,7 +2574,7 @@
           <IdeaActionID>ActivateTODOToolWindow</IdeaActionID>
           <ShortCut>'Alt+6'</ShortCut>
           <Description>TODO</Description>
-          <Count>105</Count>
+          <Count>107</Count>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">
