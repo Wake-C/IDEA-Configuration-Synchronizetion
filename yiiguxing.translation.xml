@@ -1,8 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="access clientip is not registered requestIP" />
+      <item value="exist Materials" />
       <item value="materials" />
+      <item value="materals" />
+      <item value="exist Materals" />
+      <item value="wx Materals" />
+      <item value="find Resource Domain" />
+      <item value="resource domain" />
+      <item value="access clientip is not registered requestIP" />
       <item value="t wx activity follow" />
       <item value="We Chat Notify Controller" />
       <item value="applet Type List" />
@@ -45,17 +51,11 @@
       <item value="Certifiact Exist" />
       <item value="is Exist" />
       <item value="save Certificate" />
-      <item value="Parameter 2 of constructor" />
-      <item value="GT Signature" />
-      <item value="Response View" />
-      <item value="get Bus User By Nmae" />
-      <item value="get Bus User By Name" />
-      <item value="info Bybusid" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1003" />
-        <entry key="ENGLISH" value="976" />
+        <entry key="CHINESE" value="1010" />
+        <entry key="ENGLISH" value="983" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="35" />
         <entry key="PORTUGUESE" value="4" />
