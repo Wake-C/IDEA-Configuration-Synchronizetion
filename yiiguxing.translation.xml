@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="status Message" />
+      <item value="status Number" />
       <item value="latest Template" />
       <item value="dicts" />
       <item value="dict DT Os" />
@@ -49,13 +51,11 @@
       <item value="plaintext" />
       <item value="Unrecognized" />
       <item value="info" />
-      <item value="Certificate Is Exist" />
-      <item value="Certificate Exist" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1014" />
-        <entry key="ENGLISH" value="986" />
+        <entry key="CHINESE" value="1016" />
+        <entry key="ENGLISH" value="988" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="36" />
         <entry key="PORTUGUESE" value="4" />
