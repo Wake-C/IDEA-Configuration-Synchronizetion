@@ -1,6 +1,23 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SALES SHARE URL" />
+      <item value="SALES APPLY URL" />
+      <item value="INTEGRAL MALL PRODUCT URL" />
+      <item value="INTEGRAL" />
+      <item value="INTEGRATION" />
+      <item value="SALES MALL HOMEPAGE" />
+      <item value="SALES MALL HOME" />
+      <item value="WHOLESALER APPLY URL" />
+      <item value="MERCHANTS APPLY URL" />
+      <item value="MERCHANT APPLY URL" />
+      <item value="GROUP BUY URL" />
+      <item value="PRODUCT DETAIL" />
+      <item value="HTML5 HOMESITE" />
+      <item value="HTML HOMESITE" />
+      <item value="MALL HOMESITE" />
+      <item value="mall WEBSITE" />
+      <item value="mall Index" />
       <item value="micro Subscribe" />
       <item value="mirco Subscribe" />
       <item value="wx Mirco Subscribe" />
@@ -34,28 +51,11 @@
       <item value="applet Type List" />
       <item value="draft Id" />
       <item value="Template Upload" />
-      <item value="upload Template" />
-      <item value="find Template Info By Id" />
-      <item value="find Template By Id" />
-      <item value="find Template Info" />
-      <item value="watermark" />
-      <item value="country Code" />
-      <item value="phone Number" />
-      <item value="pure Phone Number" />
-      <item value="Unrecognized SSL message" />
-      <item value="wxmp scene1534324198921" />
-      <item value="Method Argument Type Mismatch Exception" />
-      <item value="applet Auth" />
-      <item value="applet Grant" />
-      <item value="old Auth" />
-      <item value="public User" />
-      <item value="Wx Applet Save" />
-      <item value="istener" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1038" />
-        <entry key="ENGLISH" value="1010" />
+        <entry key="CHINESE" value="1056" />
+        <entry key="ENGLISH" value="1028" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="36" />
         <entry key="PORTUGUESE" value="4" />
