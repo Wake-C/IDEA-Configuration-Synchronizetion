@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="1不是" />
       <item value="authorization" />
       <item value="wxmp Get Info By App Id" />
       <item value="Couldn't checkout master: Revision not found in gt wechat open" />
@@ -50,12 +51,11 @@
       <item value="Bus Name" />
       <item value="applet Code Id" />
       <item value="audit" />
-      <item value="commit Audit" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1024" />
-        <entry key="ENGLISH" value="996" />
+        <entry key="CHINESE" value="1025" />
+        <entry key="ENGLISH" value="997" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="36" />
         <entry key="PORTUGUESE" value="4" />
