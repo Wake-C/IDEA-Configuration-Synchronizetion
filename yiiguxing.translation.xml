@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="eggs Game Page Home" />
+      <item value="lotto" />
       <item value="sales Index" />
       <item value="ORDER" />
       <item value="ON SALES" />
@@ -49,13 +51,11 @@
       <item value="authorization" />
       <item value="wxmp Get Info By App Id" />
       <item value="Couldn't checkout master: Revision not found in gt wechat open" />
-      <item value="Unknown Host Exception" />
-      <item value="upgrade Applet" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1076" />
-        <entry key="ENGLISH" value="1048" />
+        <entry key="CHINESE" value="1078" />
+        <entry key="ENGLISH" value="1049" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="36" />
         <entry key="PORTUGUESE" value="4" />
