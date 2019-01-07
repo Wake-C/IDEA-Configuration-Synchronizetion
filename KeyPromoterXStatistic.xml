@@ -1038,7 +1038,7 @@
           <IdeaActionID>ReformatCode</IdeaActionID>
           <ShortCut>'Ctrl+Alt+L'</ShortCut>
           <Description>Reformat Code</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Refresh">
@@ -1118,7 +1118,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1156</Count>
+          <Count>1161</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -2711,6 +2711,14 @@
           <ShortCut>'Ctrl+Shift+T'</ShortCut>
           <Description>Test</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Toggle Highlight of All Occurrences">
+        <Item>
+          <IdeaActionID>QuickToggleEditorHighlight</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+F3'</ShortCut>
+          <Description>Toggle Highlight of All Occurrences</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
