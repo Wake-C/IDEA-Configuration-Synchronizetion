@@ -390,7 +390,7 @@
           <IdeaActionID>DebugClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F5'</ShortCut>
           <Description>Debug 'coveContent()'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'createImageTextMat...()'">
@@ -1126,7 +1126,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1163</Count>
+          <Count>1164</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -2742,7 +2742,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>594</Count>
+          <Count>595</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">
