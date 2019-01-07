@@ -782,7 +782,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>4295</Count>
+          <Count>4296</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -1118,7 +1118,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1141</Count>
+          <Count>1143</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -2710,7 +2710,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>587</Count>
+          <Count>590</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">
