@@ -782,7 +782,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>4296</Count>
+          <Count>4300</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -1118,7 +1118,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1143</Count>
+          <Count>1153</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -2343,6 +2343,14 @@
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Source Editor</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Step Out">
+        <Item>
+          <IdeaActionID>StepOut</IdeaActionID>
+          <ShortCut>'Shift+F8'</ShortCut>
+          <Description>Step Out</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Application'">
