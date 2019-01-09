@@ -961,6 +961,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Paste Simple">
+        <Item>
+          <IdeaActionID>EditorPasteSimple</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+V'</ShortCut>
+          <Description>Paste Simple</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Preview the current selected bug.">
         <Item>
           <IdeaActionID>FindBugs.PreviewSelectBugInstance</IdeaActionID>
@@ -2742,7 +2750,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>595</Count>
+          <Count>601</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">
