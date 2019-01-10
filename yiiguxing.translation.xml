@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="external Id" />
+      <item value="Failed to load ApplicationContext" />
       <item value="original Message" />
       <item value="origin Message" />
       <item value="image" />
@@ -49,13 +51,11 @@
       <item value="mall WEBSITE" />
       <item value="mall Index" />
       <item value="micro Subscribe" />
-      <item value="mirco Subscribe" />
-      <item value="wx Mirco Subscribe" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1083" />
-        <entry key="ENGLISH" value="1054" />
+        <entry key="CHINESE" value="1086" />
+        <entry key="ENGLISH" value="1057" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="36" />
         <entry key="PORTUGUESE" value="4" />
