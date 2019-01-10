@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="page Qrcode Url" />
+      <item value="experience Qr Url" />
       <item value="external Id" />
       <item value="Failed to load ApplicationContext" />
       <item value="original Message" />
@@ -49,13 +51,11 @@
       <item value="HTML HOMESITE" />
       <item value="MALL HOMESITE" />
       <item value="mall WEBSITE" />
-      <item value="mall Index" />
-      <item value="micro Subscribe" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1086" />
-        <entry key="ENGLISH" value="1057" />
+        <entry key="CHINESE" value="1088" />
+        <entry key="ENGLISH" value="1059" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="36" />
         <entry key="PORTUGUESE" value="4" />
