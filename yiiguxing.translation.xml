@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="to Json String Pretty" />
+      <item value="code By Scene" />
       <item value="page Qrcode Url" />
       <item value="experience Qr Url" />
       <item value="external Id" />
@@ -49,13 +51,11 @@
       <item value="PRODUCT DETAIL" />
       <item value="HTML5 HOMESITE" />
       <item value="HTML HOMESITE" />
-      <item value="MALL HOMESITE" />
-      <item value="mall WEBSITE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1088" />
-        <entry key="ENGLISH" value="1059" />
+        <entry key="CHINESE" value="1090" />
+        <entry key="ENGLISH" value="1061" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="36" />
         <entry key="PORTUGUESE" value="4" />
