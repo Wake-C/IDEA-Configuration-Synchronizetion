@@ -1,6 +1,5 @@
 <keymap version="1" name="Like" parent="$default">
   <action id="$EditorTranslateAction">
-    <keyboard-shortcut first-keystroke="shift ctrl y" />
     <keyboard-shortcut first-keystroke="shift ctrl alt z" />
   </action>
   <action id="$ShowTranslationDialogAction" />

@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="beta" />
       <item value="页面路径错误" />
       <item value="submit Audit" />
       <item value="Mismatch" />
@@ -50,12 +51,11 @@
       <item value="INTEGRAL" />
       <item value="INTEGRATION" />
       <item value="SALES MALL HOMEPAGE" />
-      <item value="SALES MALL HOME" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1100" />
-        <entry key="ENGLISH" value="1071" />
+        <entry key="CHINESE" value="1101" />
+        <entry key="ENGLISH" value="1072" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="36" />
         <entry key="PORTUGUESE" value="4" />
