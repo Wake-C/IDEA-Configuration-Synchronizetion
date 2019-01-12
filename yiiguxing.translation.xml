@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="页面路径错误" />
+      <item value="submit Audit" />
       <item value="Mismatch" />
       <item value="type Mismatch" />
       <item value="public Account Id" />
@@ -49,13 +51,11 @@
       <item value="INTEGRATION" />
       <item value="SALES MALL HOMEPAGE" />
       <item value="SALES MALL HOME" />
-      <item value="WHOLESALER APPLY URL" />
-      <item value="MERCHANTS APPLY URL" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1096" />
-        <entry key="ENGLISH" value="1067" />
+        <entry key="CHINESE" value="1100" />
+        <entry key="ENGLISH" value="1071" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="36" />
         <entry key="PORTUGUESE" value="4" />
