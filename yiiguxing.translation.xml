@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="APPLET TESTER NOT EXIST" />
+      <item value="APPLET TESTER NOT FOUND" />
       <item value="Open Ma" />
       <item value="Wx Open Ma Api Controller" />
       <item value="form id used count reach limit" />
@@ -49,13 +51,11 @@
       <item value="FOLL" />
       <item value="FOOL" />
       <item value="call Phone" />
-      <item value="navigation" />
-      <item value="find Navigation Info" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1110" />
-        <entry key="ENGLISH" value="1081" />
+        <entry key="CHINESE" value="1113" />
+        <entry key="ENGLISH" value="1084" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="36" />
         <entry key="PORTUGUESE" value="4" />
