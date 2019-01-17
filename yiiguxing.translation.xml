@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Please check your configuration." />
       <item value="to Lower Case" />
       <item value="APPLET TESTER NOT EXIST" />
       <item value="APPLET TESTER NOT FOUND" />
@@ -50,12 +51,11 @@
       <item value="FOOD QRcode order url" />
       <item value="FOOD QRCODE URL" />
       <item value="FOLL" />
-      <item value="FOOL" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1114" />
-        <entry key="ENGLISH" value="1085" />
+        <entry key="CHINESE" value="1115" />
+        <entry key="ENGLISH" value="1086" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="36" />
         <entry key="PORTUGUESE" value="4" />
