@@ -14,7 +14,7 @@
           <IdeaActionID>FindBugs.CurrentFileAction</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+F'</ShortCut>
           <Description>Analyze Current File</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Back">
@@ -814,7 +814,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>4570</Count>
+          <Count>4571</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">

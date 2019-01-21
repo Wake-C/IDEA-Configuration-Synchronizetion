@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="all wokr don't play make jack dull" />
+      <item value="try to find a better way" />
+      <item value="dull" />
+      <item value="@author lambda practice" />
+      <item value="practice" />
       <item value="eggs" />
       <item value="user Grant" />
       <item value="findOfflinePay 1" />
@@ -46,16 +51,11 @@
       <item value="filter Text Content" />
       <item value="prod" />
       <item value="pord" />
-      <item value="eggs Game Page Home" />
-      <item value="lotto" />
-      <item value="sales Index" />
-      <item value="ORDER" />
-      <item value="ON SALES" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1129" />
-        <entry key="ENGLISH" value="1100" />
+        <entry key="CHINESE" value="1141" />
+        <entry key="ENGLISH" value="1112" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="36" />
         <entry key="PORTUGUESE" value="4" />
