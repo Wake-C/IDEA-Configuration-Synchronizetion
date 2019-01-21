@@ -1,64 +1,64 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Synchronize settings for IntelliJ based IDEs across all" />
-      <item value="o sync, log in with your JetBrains Account (JBA). Settings synced are: UI and editor themes, keymaps, enabled and disabled plugins." />
-      <item value="成功" />
-      <item value="1542357299881" />
-      <item value="result" />
-      <item value="wx 0 a 95 e 794 b 709 dff 0" />
-      <item value="response Entity" />
-      <item value="public Id" />
-      <item value="request Entity" />
-      <item value="equest timed out after 30053ms." />
-      <item value="AE 7 B 2 AAAM 8 N 1 Am 8 Q 317" />
-      <item value="chunked" />
-      <item value="IMAGE FORMAT NOT SUPPORT" />
-      <item value="IMAGE FROMAT NOT SUPPORT" />
-      <item value="Api Ignore" />
-      <item value="Request header is too large" />
-      <item value="bean To Sorted Map" />
-      <item value="将对象装换为Sortedmap" />
-      <item value="find Special Merchant List" />
-      <item value="@Test public void findSpeciaMerchantList() throws GtPluginException { final Optional&lt;String&gt; aaaaa = openApi.getVoiceSynthesisApi().voiceSynthesis(&quot;妈妈再爱我一次&quot;); log.info(&quot;result {}&quot;, JSONObject.toJSONString(aaaaa)); }" />
-      <item value="find Service Provider" />
-      <item value="initialize Merchant" />
-      <item value="initialize Merchant Api" />
-      <item value="initialize Api" />
-      <item value="initia" />
-      <item value="initiazetion" />
-      <item value="delete Sub Shop R" />
-      <item value="find Material Info By Id" />
-      <item value="get Api Url" />
-      <item value="find Material List" />
-      <item value="find Sub Materil By Id" />
-      <item value="voice Synthesis" />
-      <item value="get For Object" />
-      <item value="get For List" />
-      <item value="find Merchant Info By Id" />
-      <item value="send By Object" />
-      <item value="find Specia Merchant List" />
-      <item value="operate Merchant Api" />
-      <item value="商户类型列表" />
-      <item value="merchants" />
-      <item value="type List" />
-      <item value="find Merchant Type List" />
-      <item value="Get Mapping" />
-      <item value="Api Operation" />
-      <item value="Response Status" />
-      <item value="Response View" />
-      <item value="GT Signature" />
-      <item value="get busId" />
-      <item value="get" />
-      <item value="fans" />
+      <item value="Please check your configuration." />
+      <item value="to Lower Case" />
+      <item value="APPLET TESTER NOT EXIST" />
+      <item value="APPLET TESTER NOT FOUND" />
+      <item value="Open Ma" />
+      <item value="Wx Open Ma Api Controller" />
+      <item value="form id used count reach limit" />
+      <item value="&quot;form id used count reach limit" />
+      <item value="In addition, this class provides many methods for" />
+      <item value="contains a single field whose type is" />
+      <item value="Boolean" />
+      <item value="is Exist" />
+      <item value="template id" />
+      <item value="beta" />
+      <item value="页面路径错误" />
+      <item value="submit Audit" />
+      <item value="Mismatch" />
+      <item value="type Mismatch" />
+      <item value="public Account Id" />
+      <item value="bus Id" />
+      <item value="Wx Mp Js Sdk GET" />
+      <item value="to Json String Pretty" />
+      <item value="code By Scene" />
+      <item value="page Qrcode Url" />
+      <item value="experience Qr Url" />
+      <item value="external Id" />
+      <item value="Failed to load ApplicationContext" />
+      <item value="original Message" />
+      <item value="origin Message" />
+      <item value="image" />
+      <item value="emoticon Name" />
+      <item value="emoj Name" />
+      <item value="filter Text Content" />
+      <item value="prod" />
+      <item value="pord" />
+      <item value="eggs Game Page Home" />
+      <item value="lotto" />
+      <item value="sales Index" />
+      <item value="ORDER" />
+      <item value="ON SALES" />
+      <item value="ORDER " />
+      <item value="N SALES" />
+      <item value="ON SALES ORDER" />
+      <item value="on Sales order" />
+      <item value="onSales order" />
+      <item value="ADDRESS NOT FOUND ERROR" />
+      <item value="food Domain" />
+      <item value="FOOD QRcode order url" />
+      <item value="FOOD QRCODE URL" />
+      <item value="FOLL" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="787" />
-        <entry key="ENGLISH" value="763" />
+        <entry key="CHINESE" value="1115" />
+        <entry key="ENGLISH" value="1086" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
-        <entry key="FRENCH" value="33" />
-        <entry key="PORTUGUESE" value="3" />
+        <entry key="FRENCH" value="36" />
+        <entry key="PORTUGUESE" value="4" />
         <entry key="SPANISH" value="2" />
       </map>
     </option>

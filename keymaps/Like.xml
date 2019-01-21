@@ -1,6 +1,5 @@
 <keymap version="1" name="Like" parent="$default">
   <action id="$EditorTranslateAction">
-    <keyboard-shortcut first-keystroke="shift ctrl y" />
     <keyboard-shortcut first-keystroke="shift ctrl alt z" />
   </action>
   <action id="$ShowTranslationDialogAction" />
@@ -34,15 +33,27 @@
   <action id="Git.Pull">
     <keyboard-shortcut first-keystroke="shift ctrl alt p" />
   </action>
+  <action id="Git.RepositoryContextMenu">
+    <keyboard-shortcut first-keystroke="shift ctrl alt y" />
+  </action>
   <action id="Gradle.AddGradleDslDependencyAction">
     <keyboard-shortcut first-keystroke="shift m" />
     <keyboard-shortcut first-keystroke="shift ctrl alt o" />
   </action>
   <action id="IntroduceFunctionalParameter" />
+  <action id="JRebel Debug">
+    <keyboard-shortcut first-keystroke="shift ctrl alt f9" />
+  </action>
+  <action id="JRebel Executor">
+    <keyboard-shortcut first-keystroke="shift ctrl alt f10" />
+  </action>
   <action id="OpenFile">
     <keyboard-shortcut first-keystroke="shift ctrl o" />
   </action>
   <action id="PopupHector" />
+  <action id="ToggleFullScreen">
+    <keyboard-shortcut first-keystroke="shift ctrl f11" />
+  </action>
   <action id="Vcs.Push">
     <keyboard-shortcut first-keystroke="shift ctrl k" />
     <keyboard-shortcut first-keystroke="shift ctrl alt r" />
