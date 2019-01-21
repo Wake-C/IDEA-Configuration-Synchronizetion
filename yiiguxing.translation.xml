@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="my shot" />
+      <item value="FOOD EXPRESS ORDER URL" />
+      <item value="EGGS GAME URL" />
+      <item value="LOTTO GAME URL" />
       <item value="Please check your configuration." />
       <item value="to Lower Case" />
       <item value="APPLET TESTER NOT EXIST" />
@@ -47,15 +51,11 @@
       <item value="on Sales order" />
       <item value="onSales order" />
       <item value="ADDRESS NOT FOUND ERROR" />
-      <item value="food Domain" />
-      <item value="FOOD QRcode order url" />
-      <item value="FOOD QRCODE URL" />
-      <item value="FOLL" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1115" />
-        <entry key="ENGLISH" value="1086" />
+        <entry key="CHINESE" value="1119" />
+        <entry key="ENGLISH" value="1090" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="36" />
         <entry key="PORTUGUESE" value="4" />
