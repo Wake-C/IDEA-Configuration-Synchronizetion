@@ -1,8 +1,20 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="compose" />
+      <item value="Find Shop And Industry List Query" />
+      <item value="industry shop list" />
+      <item value="industry shop" />
+      <item value="/get/shop/industry" />
+      <item value="find Shop And Industry List" />
+      <item value="list" />
+      <item value="relation list" />
+      <item value="sub shop" />
+      <item value="relation" />
+      <item value="realation" />
+      <item value="Search Shop Industry List" />
+      <item value="industry" />
       <item value="industry List" />
+      <item value="compose" />
       <item value="SHOP INDUSTRY NOT FOUND" />
       <item value="SHOP BINDING INDUSTRY NOT FOUND" />
       <item value="SHOP BINDING" />
@@ -39,23 +51,11 @@
       <item value="In addition, this class provides many methods for" />
       <item value="contains a single field whose type is" />
       <item value="Boolean" />
-      <item value="is Exist" />
-      <item value="template id" />
-      <item value="beta" />
-      <item value="页面路径错误" />
-      <item value="submit Audit" />
-      <item value="Mismatch" />
-      <item value="type Mismatch" />
-      <item value="public Account Id" />
-      <item value="bus Id" />
-      <item value="Wx Mp Js Sdk GET" />
-      <item value="to Json String Pretty" />
-      <item value="code By Scene" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1155" />
-        <entry key="ENGLISH" value="1126" />
+        <entry key="CHINESE" value="1174" />
+        <entry key="ENGLISH" value="1145" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="36" />
         <entry key="PORTUGUESE" value="4" />
