@@ -814,7 +814,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>4595</Count>
+          <Count>4599</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -1174,7 +1174,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1272</Count>
+          <Count>1274</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
