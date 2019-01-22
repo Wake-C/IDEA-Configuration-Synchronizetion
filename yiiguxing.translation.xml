@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="industry List" />
       <item value="SHOP INDUSTRY NOT FOUND" />
       <item value="SHOP BINDING INDUSTRY NOT FOUND" />
       <item value="SHOP BINDING" />
@@ -50,12 +51,11 @@
       <item value="to Json String Pretty" />
       <item value="code By Scene" />
       <item value="page Qrcode Url" />
-      <item value="experience Qr Url" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1153" />
-        <entry key="ENGLISH" value="1124" />
+        <entry key="CHINESE" value="1154" />
+        <entry key="ENGLISH" value="1125" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="36" />
         <entry key="PORTUGUESE" value="4" />
