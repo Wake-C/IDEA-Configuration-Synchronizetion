@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Enum constant ordinal" />
       <item value="results supplied" />
       <item value="supplied" />
       <item value="the type of results supplied by this supplier" />
@@ -50,7 +51,6 @@
       <item value="realation" />
       <item value="Search Shop Industry List" />
       <item value="industry" />
-      <item value="industry List" />
     </histories>
     <option name="languageScores">
       <map>
