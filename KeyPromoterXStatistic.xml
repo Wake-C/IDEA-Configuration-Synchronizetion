@@ -814,7 +814,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>4675</Count>
+          <Count>4677</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -1958,7 +1958,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'findShopInfoListBy...()'</Description>
-          <Count>31</Count>
+          <Count>38</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'findShopInfoListDT...()'">
