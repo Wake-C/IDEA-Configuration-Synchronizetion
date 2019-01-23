@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Map Dict" />
+      <item value="dicts" />
+      <item value="get Map Dicts" />
+      <item value="next Value" />
+      <item value="JSON Tokener" />
+      <item value="is Primitive" />
+      <item value="Returns a Field object that reflects the specified public member field of the class or interface represented by this Class object. The name parameter is a String specifying the simple name of the desired field. The field to be reflected is determined by the algorithm that follows. Let C be the class or interface represented by this object:" />
+      <item value="Returns a Field object that reflects the specified public member field of the class or interface represented by this Class object. The name parameter is a String specifying the simple name of the desired field.&#10;The field to be reflected is determined by the algorithm that follows. Let C be the class or interface represented by this object:" />
+      <item value="Sub Shop Info DTO" />
       <item value="result" />
       <item value="find Sub Shop By Shop Id" />
       <item value="find Shop Industry By Shop Id" />
@@ -42,22 +51,13 @@
       <item value="storeList 1" />
       <item value="visit Web Site Index" />
       <item value="visit Web Sitesence" />
-      <item value="my shot" />
-      <item value="FOOD EXPRESS ORDER URL" />
-      <item value="EGGS GAME URL" />
-      <item value="LOTTO GAME URL" />
-      <item value="Please check your configuration." />
-      <item value="to Lower Case" />
-      <item value="APPLET TESTER NOT EXIST" />
-      <item value="APPLET TESTER NOT FOUND" />
-      <item value="Open Ma" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1181" />
-        <entry key="ENGLISH" value="1152" />
+        <entry key="CHINESE" value="1190" />
+        <entry key="ENGLISH" value="1160" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
-        <entry key="FRENCH" value="36" />
+        <entry key="FRENCH" value="37" />
         <entry key="PORTUGUESE" value="4" />
         <entry key="SPANISH" value="2" />
       </map>
