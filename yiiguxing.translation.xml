@@ -1,6 +1,27 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="results supplied" />
+      <item value="supplied" />
+      <item value="the type of results supplied by this supplier" />
+      <item value="supplied by this supplier" />
+      <item value="whose" />
+      <item value="There is no requirement that a new or distinct result be returned each * time the supplier" />
+      <item value="invoked" />
+      <item value="is invoked" />
+      <item value="be returned each * time" />
+      <item value="be returned each" />
+      <item value="There is no requirement that a new or distinct result" />
+      <item value="be returned" />
+      <item value="be" />
+      <item value="There is no requirement that a new or distinct result be returned each * time the supplier is invoked" />
+      <item value="distinct" />
+      <item value="There is no" />
+      <item value="supplier" />
+      <item value="Represents" />
+      <item value="Represents a supplier of results." />
+      <item value="Supplier" />
+      <item value="Functional Interface" />
       <item value="search" />
       <item value="get Map Dict" />
       <item value="dicts" />
@@ -30,32 +51,11 @@
       <item value="Search Shop Industry List" />
       <item value="industry" />
       <item value="industry List" />
-      <item value="compose" />
-      <item value="SHOP INDUSTRY NOT FOUND" />
-      <item value="SHOP BINDING INDUSTRY NOT FOUND" />
-      <item value="SHOP BINDING" />
-      <item value="SHOP SUBSHOP NOT FOUND" />
-      <item value="Staff Ids Shop Id List Data" />
-      <item value="Bus User Data" />
-      <item value="shop Industry" />
-      <item value="QUERY AMOUNT BEYOND" />
-      <item value="shop Count" />
-      <item value="current Count" />
-      <item value="all wokr don't play make jack dull" />
-      <item value="try to find a better way" />
-      <item value="dull" />
-      <item value="@author lambda practice" />
-      <item value="practice" />
-      <item value="eggs" />
-      <item value="user Grant" />
-      <item value="findOfflinePay 1" />
-      <item value="storeList 1" />
-      <item value="visit Web Site Index" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1191" />
-        <entry key="ENGLISH" value="1161" />
+        <entry key="CHINESE" value="1217" />
+        <entry key="ENGLISH" value="1187" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="37" />
         <entry key="PORTUGUESE" value="4" />
