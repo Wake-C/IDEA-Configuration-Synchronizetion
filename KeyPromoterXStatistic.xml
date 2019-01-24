@@ -2622,7 +2622,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'WeChatApplication'</Description>
-          <Count>1177</Count>
+          <Count>1179</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'WebChatMpApplication'">
