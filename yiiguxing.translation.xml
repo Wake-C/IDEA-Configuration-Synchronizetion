@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="argument" />
+      <item value="Applies this function to the given argumen" />
+      <item value="the function result" />
+      <item value="Applies this function to the given argument" />
       <item value="sub Shop" />
       <item value="Enum constant ordinal" />
       <item value="results supplied" />
@@ -47,15 +51,11 @@
       <item value="find Shop And Industry List" />
       <item value="list" />
       <item value="relation list" />
-      <item value="sub shop" />
-      <item value="relation" />
-      <item value="realation" />
-      <item value="Search Shop Industry List" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1218" />
-        <entry key="ENGLISH" value="1188" />
+        <entry key="CHINESE" value="1222" />
+        <entry key="ENGLISH" value="1192" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="37" />
         <entry key="PORTUGUESE" value="4" />
