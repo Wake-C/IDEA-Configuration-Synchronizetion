@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="APPLET AUDIT REQUIRED PARAMETER TITLE NOT FOUND" />
+      <item value="APPLET AUDIT REQUIRED PARAMETER TITLE NOT FOUNT" />
+      <item value="APPLET AUDIT REQUIRED PARAM NOT FOUNT" />
+      <item value="REQUIRED" />
+      <item value="APPLET AUDIT REQUIRE PARAM NOT FOUNT" />
       <item value="release" />
       <item value="String Utils" />
       <item value="Wx Open Ma Service" />
@@ -46,16 +51,11 @@
       <item value="result" />
       <item value="find Sub Shop By Shop Id" />
       <item value="find Shop Industry By Shop Id" />
-      <item value="exclude" />
-      <item value="exslude" />
-      <item value="exlude" />
-      <item value="Find Shop And Industry List Query" />
-      <item value="industry shop list" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1230" />
-        <entry key="ENGLISH" value="1197" />
+        <entry key="CHINESE" value="1236" />
+        <entry key="ENGLISH" value="1203" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="40" />
         <entry key="PORTUGUESE" value="4" />
