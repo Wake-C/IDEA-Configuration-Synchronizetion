@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="release" />
+      <item value="String Utils" />
+      <item value="Wx Open Ma Service" />
+      <item value="Wx Applet Code DTO" />
+      <item value="current Code DTO" />
       <item value="argument" />
       <item value="Applies this function to the given argumen" />
       <item value="the function result" />
@@ -46,18 +51,13 @@
       <item value="exlude" />
       <item value="Find Shop And Industry List Query" />
       <item value="industry shop list" />
-      <item value="industry shop" />
-      <item value="/get/shop/industry" />
-      <item value="find Shop And Industry List" />
-      <item value="list" />
-      <item value="relation list" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1222" />
-        <entry key="ENGLISH" value="1192" />
+        <entry key="CHINESE" value="1230" />
+        <entry key="ENGLISH" value="1197" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
-        <entry key="FRENCH" value="37" />
+        <entry key="FRENCH" value="40" />
         <entry key="PORTUGUESE" value="4" />
         <entry key="SPANISH" value="2" />
       </map>
