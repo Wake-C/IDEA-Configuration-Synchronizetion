@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="springframework" />
+      <item value="Enable Auto Configuration" />
+      <item value="autoconfigure" />
+      <item value="boot" />
+      <item value="Duo Friend Auto Configuration" />
       <item value="dependencies" />
       <item value="Duplicated tag" />
       <item value="voice Verify Code Sms" />
@@ -46,16 +51,11 @@
       <item value="search" />
       <item value="get Map Dict" />
       <item value="dicts" />
-      <item value="get Map Dicts" />
-      <item value="next Value" />
-      <item value="JSON Tokener" />
-      <item value="is Primitive" />
-      <item value="Returns a Field object that reflects the specified public member field of the class or interface represented by this Class object. The name parameter is a String specifying the simple name of the desired field. The field to be reflected is determined by the algorithm that follows. Let C be the class or interface represented by this object:" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1241" />
-        <entry key="ENGLISH" value="1208" />
+        <entry key="CHINESE" value="1255" />
+        <entry key="ENGLISH" value="1222" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="40" />
         <entry key="PORTUGUESE" value="4" />
