@@ -1,6 +1,23 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="shop List DTO Map" />
+      <item value="Possibly consider using a shorter maxLifetime value" />
+      <item value="Possibly consider" />
+      <item value="consider" />
+      <item value="Possibly" />
+      <item value="Parameter 'busId' not found. Available parameters are [busIds, param1]" />
+      <item value="find Shop List DTO By Bus Ids" />
+      <item value="Find List Shops" />
+      <item value="Find List Shops Query" />
+      <item value="bus Id" />
+      <item value="bus Ids" />
+      <item value="find Shop Info DTO List By Bus Ids" />
+      <item value="list Shop" />
+      <item value="shops List" />
+      <item value="shop List" />
+      <item value="lists" />
+      <item value="list" />
       <item value="snapshot Repository" />
       <item value="springframework" />
       <item value="Enable Auto Configuration" />
@@ -34,28 +51,11 @@
       <item value="supplied by this supplier" />
       <item value="whose" />
       <item value="There is no requirement that a new or distinct result be returned each * time the supplier" />
-      <item value="invoked" />
-      <item value="is invoked" />
-      <item value="be returned each * time" />
-      <item value="be returned each" />
-      <item value="There is no requirement that a new or distinct result" />
-      <item value="be returned" />
-      <item value="be" />
-      <item value="There is no requirement that a new or distinct result be returned each * time the supplier is invoked" />
-      <item value="distinct" />
-      <item value="There is no" />
-      <item value="supplier" />
-      <item value="Represents" />
-      <item value="Represents a supplier of results." />
-      <item value="Supplier" />
-      <item value="Functional Interface" />
-      <item value="search" />
-      <item value="get Map Dict" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1256" />
-        <entry key="ENGLISH" value="1223" />
+        <entry key="CHINESE" value="1279" />
+        <entry key="ENGLISH" value="1246" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="40" />
         <entry key="PORTUGUESE" value="4" />
