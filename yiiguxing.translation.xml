@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Serialized Name" />
+      <item value="不填为0" />
       <item value="Preconditions" />
       <item value="register Type Adapter" />
       <item value="convenience method to get this element as a {@link JsonObject}" />
@@ -49,13 +51,11 @@
       <item value="Wx Applet Code DTO" />
       <item value="current Code DTO" />
       <item value="argument" />
-      <item value="Applies this function to the given argumen" />
-      <item value="the function result" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1287" />
-        <entry key="ENGLISH" value="1254" />
+        <entry key="CHINESE" value="1289" />
+        <entry key="ENGLISH" value="1256" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="40" />
         <entry key="PORTUGUESE" value="4" />
