@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Preconditions" />
+      <item value="register Type Adapter" />
+      <item value="convenience method to get this element as a {@link JsonObject}" />
+      <item value="convenience method to get this element as a" />
+      <item value="convenience" />
+      <item value="It's the only usage in Project Files" />
       <item value="Authorizer" />
       <item value="@Enable Configuration Properties" />
       <item value="Duration" />
@@ -45,17 +51,11 @@
       <item value="argument" />
       <item value="Applies this function to the given argumen" />
       <item value="the function result" />
-      <item value="Applies this function to the given argument" />
-      <item value="sub Shop" />
-      <item value="Enum constant ordinal" />
-      <item value="results supplied" />
-      <item value="supplied" />
-      <item value="the type of results supplied by this supplier" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1282" />
-        <entry key="ENGLISH" value="1249" />
+        <entry key="CHINESE" value="1287" />
+        <entry key="ENGLISH" value="1254" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="40" />
         <entry key="PORTUGUESE" value="4" />
