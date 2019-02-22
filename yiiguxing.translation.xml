@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="create" />
+      <item value="create card" />
       <item value="wechat member card" />
       <item value="wechat card" />
       <item value="Zhan.bing" />
@@ -49,13 +51,11 @@
       <item value="APPLET AUDIT REQUIRED PARAMETER TITLE NOT FOUND" />
       <item value="APPLET AUDIT REQUIRED PARAMETER TITLE NOT FOUNT" />
       <item value="APPLET AUDIT REQUIRED PARAM NOT FOUNT" />
-      <item value="REQUIRED" />
-      <item value="APPLET AUDIT REQUIRE PARAM NOT FOUNT" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1292" />
-        <entry key="ENGLISH" value="1259" />
+        <entry key="CHINESE" value="1294" />
+        <entry key="ENGLISH" value="1261" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="40" />
         <entry key="PORTUGUESE" value="4" />

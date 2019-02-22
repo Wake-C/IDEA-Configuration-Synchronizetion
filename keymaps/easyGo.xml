@@ -1,4 +1,4 @@
-<keymap version="1" name="Like" parent="$default">
+<keymap version="1" name="easyGo" parent="$default">
   <action id="$EditorTranslateAction">
     <keyboard-shortcut first-keystroke="shift ctrl alt z" />
   </action>
@@ -6,7 +6,7 @@
   <action id="ChangesView.AddUnversioned">
     <keyboard-shortcut first-keystroke="shift ctrl alt q" />
   </action>
-  <action id="CheckinFiles">
+  <action id="CheckinProject">
     <keyboard-shortcut first-keystroke="shift ctrl alt e" />
   </action>
   <action id="CloseAllEditors">
@@ -29,12 +29,16 @@
     <keyboard-shortcut first-keystroke="ctrl down" />
   </action>
   <action id="EditorLookupDown" />
+  <action id="EditorMoveDownAndScroll">
+    <keyboard-shortcut first-keystroke="shift k" />
+  </action>
+  <action id="EditorMoveUpAndScroll">
+    <keyboard-shortcut first-keystroke="shift i" />
+  </action>
   <action id="EditorScrollBottom">
     <keyboard-shortcut first-keystroke="shift d" />
   </action>
-  <action id="EditorScrollDown">
-    <keyboard-shortcut first-keystroke="shift k" />
-  </action>
+  <action id="EditorScrollDown" />
   <action id="EditorScrollLeft">
     <keyboard-shortcut first-keystroke="shift h" />
   </action>
@@ -44,9 +48,7 @@
   <action id="EditorScrollTop">
     <keyboard-shortcut first-keystroke="shift s" />
   </action>
-  <action id="EditorScrollUp">
-    <keyboard-shortcut first-keystroke="shift i" />
-  </action>
+  <action id="EditorScrollUp" />
   <action id="Git.Pull">
     <keyboard-shortcut first-keystroke="shift ctrl alt p" />
   </action>
