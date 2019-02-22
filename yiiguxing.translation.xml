@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="wechat member card" />
+      <item value="wechat card" />
+      <item value="Zhan.bing" />
+      <item value="PROJECT NAME" />
+      <item value="program" />
+      <item value="Wx Member Card Api Controller" />
       <item value="Serialized Name" />
       <item value="不填为0" />
       <item value="Preconditions" />
@@ -45,17 +51,11 @@
       <item value="APPLET AUDIT REQUIRED PARAM NOT FOUNT" />
       <item value="REQUIRED" />
       <item value="APPLET AUDIT REQUIRE PARAM NOT FOUNT" />
-      <item value="release" />
-      <item value="String Utils" />
-      <item value="Wx Open Ma Service" />
-      <item value="Wx Applet Code DTO" />
-      <item value="current Code DTO" />
-      <item value="argument" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1289" />
-        <entry key="ENGLISH" value="1256" />
+        <entry key="CHINESE" value="1292" />
+        <entry key="ENGLISH" value="1259" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="40" />
         <entry key="PORTUGUESE" value="4" />
