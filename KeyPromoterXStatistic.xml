@@ -337,6 +337,14 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'WxMemberCardAp....main()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F5'</ShortCut>
+          <Description>Debug 'WxMemberCardAp....main()'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'WxMenuServiceImplTest'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -814,7 +822,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>4905</Count>
+          <Count>4909</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -1182,7 +1190,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1358</Count>
+          <Count>1363</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1519,6 +1527,14 @@
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'WxMaterialAPITest'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'WxMemberCardAp....main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'WxMemberCardAp....main()'</Description>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'WxMenuServiceI....main()'">
@@ -2918,7 +2934,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>686</Count>
+          <Count>687</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">
