@@ -34,9 +34,17 @@
   </action>
   <action id="EditorLookupDown" />
   <action id="EditorMoveDownAndScroll">
-    <keyboard-shortcut first-keystroke="shift k" />
+    <keyboard-shortcut first-keystroke="shift o" />
   </action>
   <action id="EditorMoveUpAndScroll">
+    <keyboard-shortcut first-keystroke="shift u" />
+  </action>
+  <action id="EditorPageDown">
+    <keyboard-shortcut first-keystroke="page_down" />
+    <keyboard-shortcut first-keystroke="shift k" />
+  </action>
+  <action id="EditorPageUp">
+    <keyboard-shortcut first-keystroke="page_up" />
     <keyboard-shortcut first-keystroke="shift i" />
   </action>
   <action id="EditorRight">
