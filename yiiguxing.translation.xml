@@ -1,63 +1,63 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="println" />
-      <item value="Please check your configuration." />
-      <item value="to Lower Case" />
-      <item value="APPLET TESTER NOT EXIST" />
-      <item value="APPLET TESTER NOT FOUND" />
-      <item value="Open Ma" />
-      <item value="Wx Open Ma Api Controller" />
-      <item value="form id used count reach limit" />
-      <item value="&quot;form id used count reach limit" />
-      <item value="In addition, this class provides many methods for" />
-      <item value="contains a single field whose type is" />
-      <item value="Boolean" />
-      <item value="is Exist" />
-      <item value="template id" />
-      <item value="beta" />
-      <item value="页面路径错误" />
-      <item value="submit Audit" />
-      <item value="Mismatch" />
-      <item value="type Mismatch" />
-      <item value="public Account Id" />
+      <item value="is not an enclosing class" />
+      <item value="code type" />
+      <item value="Member Card Setting Param" />
+      <item value="Member Card Seting Param" />
+      <item value="create" />
+      <item value="create card" />
+      <item value="wechat member card" />
+      <item value="wechat card" />
+      <item value="Zhan.bing" />
+      <item value="PROJECT NAME" />
+      <item value="program" />
+      <item value="Wx Member Card Api Controller" />
+      <item value="Serialized Name" />
+      <item value="不填为0" />
+      <item value="Preconditions" />
+      <item value="register Type Adapter" />
+      <item value="convenience method to get this element as a {@link JsonObject}" />
+      <item value="convenience method to get this element as a" />
+      <item value="convenience" />
+      <item value="It's the only usage in Project Files" />
+      <item value="Authorizer" />
+      <item value="@Enable Configuration Properties" />
+      <item value="Duration" />
+      <item value="shop List DTO Map" />
+      <item value="Possibly consider using a shorter maxLifetime value" />
+      <item value="Possibly consider" />
+      <item value="consider" />
+      <item value="Possibly" />
+      <item value="Parameter 'busId' not found. Available parameters are [busIds, param1]" />
+      <item value="find Shop List DTO By Bus Ids" />
+      <item value="Find List Shops" />
+      <item value="Find List Shops Query" />
       <item value="bus Id" />
-      <item value="Wx Mp Js Sdk GET" />
-      <item value="to Json String Pretty" />
-      <item value="code By Scene" />
-      <item value="page Qrcode Url" />
-      <item value="experience Qr Url" />
-      <item value="external Id" />
-      <item value="Failed to load ApplicationContext" />
-      <item value="original Message" />
-      <item value="origin Message" />
-      <item value="image" />
-      <item value="emoticon Name" />
-      <item value="emoj Name" />
-      <item value="filter Text Content" />
-      <item value="prod" />
-      <item value="pord" />
-      <item value="eggs Game Page Home" />
-      <item value="lotto" />
-      <item value="sales Index" />
-      <item value="ORDER" />
-      <item value="ON SALES" />
-      <item value="ORDER " />
-      <item value="N SALES" />
-      <item value="ON SALES ORDER" />
-      <item value="on Sales order" />
-      <item value="onSales order" />
-      <item value="ADDRESS NOT FOUND ERROR" />
-      <item value="food Domain" />
-      <item value="FOOD QRcode order url" />
-      <item value="FOOD QRCODE URL" />
+      <item value="bus Ids" />
+      <item value="find Shop Info DTO List By Bus Ids" />
+      <item value="list Shop" />
+      <item value="shops List" />
+      <item value="shop List" />
+      <item value="lists" />
+      <item value="list" />
+      <item value="snapshot Repository" />
+      <item value="springframework" />
+      <item value="Enable Auto Configuration" />
+      <item value="autoconfigure" />
+      <item value="boot" />
+      <item value="Duo Friend Auto Configuration" />
+      <item value="dependencies" />
+      <item value="Duplicated tag" />
+      <item value="voice Verify Code Sms" />
+      <item value="template Send" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1115" />
-        <entry key="ENGLISH" value="1086" />
+        <entry key="CHINESE" value="1297" />
+        <entry key="ENGLISH" value="1264" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
-        <entry key="FRENCH" value="36" />
+        <entry key="FRENCH" value="40" />
         <entry key="PORTUGUESE" value="4" />
         <entry key="SPANISH" value="2" />
       </map>
