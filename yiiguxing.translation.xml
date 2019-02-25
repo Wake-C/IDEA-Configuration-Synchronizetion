@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="prerogative" />
       <item value="millionare" />
       <item value="a millionare" />
       <item value="is not an enclosing class" />
@@ -50,12 +51,11 @@
       <item value="boot" />
       <item value="Duo Friend Auto Configuration" />
       <item value="dependencies" />
-      <item value="Duplicated tag" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1302" />
-        <entry key="ENGLISH" value="1269" />
+        <entry key="CHINESE" value="1303" />
+        <entry key="ENGLISH" value="1270" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="40" />
         <entry key="PORTUGUESE" value="4" />
