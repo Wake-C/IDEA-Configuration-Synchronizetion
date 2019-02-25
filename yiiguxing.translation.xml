@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="millionare" />
+      <item value="a millionare" />
       <item value="is not an enclosing class" />
       <item value="code type" />
       <item value="Member Card Setting Param" />
@@ -49,13 +51,11 @@
       <item value="Duo Friend Auto Configuration" />
       <item value="dependencies" />
       <item value="Duplicated tag" />
-      <item value="voice Verify Code Sms" />
-      <item value="template Send" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1297" />
-        <entry key="ENGLISH" value="1264" />
+        <entry key="CHINESE" value="1302" />
+        <entry key="ENGLISH" value="1269" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="40" />
         <entry key="PORTUGUESE" value="4" />
