@@ -1,6 +1,30 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="apple Id" />
+      <item value="users card" />
+      <item value="update" />
+      <item value="update users card" />
+      <item value="card" />
+      <item value="users" />
+      <item value="update User Card" />
+      <item value="user Member Card" />
+      <item value="Update User Member Card" />
+      <item value="Update User Memeber Card" />
+      <item value="User Memeber Card" />
+      <item value="update user's card" />
+      <item value="update user card" />
+      <item value="update members card" />
+      <item value="update member card" />
+      <item value="update member" />
+      <item value="member" />
+      <item value="Member Card Activate" />
+      <item value="creation" />
+      <item value="create" />
+      <item value="create Card" />
+      <item value="activation" />
+      <item value="activate" />
+      <item value="activet" />
       <item value="prerogative" />
       <item value="millionare" />
       <item value="a millionare" />
@@ -8,7 +32,6 @@
       <item value="code type" />
       <item value="Member Card Setting Param" />
       <item value="Member Card Seting Param" />
-      <item value="create" />
       <item value="create card" />
       <item value="wechat member card" />
       <item value="wechat card" />
@@ -28,34 +51,11 @@
       <item value="@Enable Configuration Properties" />
       <item value="Duration" />
       <item value="shop List DTO Map" />
-      <item value="Possibly consider using a shorter maxLifetime value" />
-      <item value="Possibly consider" />
-      <item value="consider" />
-      <item value="Possibly" />
-      <item value="Parameter 'busId' not found. Available parameters are [busIds, param1]" />
-      <item value="find Shop List DTO By Bus Ids" />
-      <item value="Find List Shops" />
-      <item value="Find List Shops Query" />
-      <item value="bus Id" />
-      <item value="bus Ids" />
-      <item value="find Shop Info DTO List By Bus Ids" />
-      <item value="list Shop" />
-      <item value="shops List" />
-      <item value="shop List" />
-      <item value="lists" />
-      <item value="list" />
-      <item value="snapshot Repository" />
-      <item value="springframework" />
-      <item value="Enable Auto Configuration" />
-      <item value="autoconfigure" />
-      <item value="boot" />
-      <item value="Duo Friend Auto Configuration" />
-      <item value="dependencies" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1303" />
-        <entry key="ENGLISH" value="1270" />
+        <entry key="CHINESE" value="1344" />
+        <entry key="ENGLISH" value="1310" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="40" />
         <entry key="PORTUGUESE" value="4" />
