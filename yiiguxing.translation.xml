@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="qrcode" />
+      <item value="Qrcode" />
       <item value="Create White List" />
       <item value="white List" />
       <item value="Addtest User" />
@@ -49,13 +51,11 @@
       <item value="create" />
       <item value="create Card" />
       <item value="activate" />
-      <item value="activet" />
-      <item value="prerogative" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1390" />
-        <entry key="ENGLISH" value="1356" />
+        <entry key="CHINESE" value="1393" />
+        <entry key="ENGLISH" value="1359" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="40" />
         <entry key="PORTUGUESE" value="4" />
