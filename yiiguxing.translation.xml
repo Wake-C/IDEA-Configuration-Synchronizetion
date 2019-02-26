@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="user Info" />
+      <item value="userinfo" />
+      <item value="activation" />
       <item value="apple Id" />
       <item value="users card" />
       <item value="update" />
@@ -22,7 +25,6 @@
       <item value="creation" />
       <item value="create" />
       <item value="create Card" />
-      <item value="activation" />
       <item value="activate" />
       <item value="activet" />
       <item value="prerogative" />
@@ -49,13 +51,11 @@
       <item value="It's the only usage in Project Files" />
       <item value="Authorizer" />
       <item value="@Enable Configuration Properties" />
-      <item value="Duration" />
-      <item value="shop List DTO Map" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1344" />
-        <entry key="ENGLISH" value="1310" />
+        <entry key="CHINESE" value="1350" />
+        <entry key="ENGLISH" value="1316" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="40" />
         <entry key="PORTUGUESE" value="4" />
