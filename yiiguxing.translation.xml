@@ -1,6 +1,26 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Create White List" />
+      <item value="white List" />
+      <item value="Addtest User" />
+      <item value="test User" />
+      <item value="test user" />
+      <item value="test list" />
+      <item value="white list" />
+      <item value="white lists" />
+      <item value="test white" />
+      <item value="test whilte" />
+      <item value="whilte user" />
+      <item value="user" />
+      <item value="update Member Card" />
+      <item value="update User Member Card Unavailable" />
+      <item value="Update User Member Card Unavailable" />
+      <item value="Update User Member Card Disable" />
+      <item value="/update/unavailable" />
+      <item value="unavailable" />
+      <item value="/update/disable" />
+      <item value="disable" />
       <item value="update" />
       <item value="update User Card" />
       <item value="update/member card" />
@@ -31,31 +51,11 @@
       <item value="activate" />
       <item value="activet" />
       <item value="prerogative" />
-      <item value="millionare" />
-      <item value="a millionare" />
-      <item value="is not an enclosing class" />
-      <item value="code type" />
-      <item value="Member Card Setting Param" />
-      <item value="Member Card Seting Param" />
-      <item value="create card" />
-      <item value="wechat member card" />
-      <item value="wechat card" />
-      <item value="Zhan.bing" />
-      <item value="PROJECT NAME" />
-      <item value="program" />
-      <item value="Wx Member Card Api Controller" />
-      <item value="Serialized Name" />
-      <item value="不填为0" />
-      <item value="Preconditions" />
-      <item value="register Type Adapter" />
-      <item value="convenience method to get this element as a {@link JsonObject}" />
-      <item value="convenience method to get this element as a" />
-      <item value="convenience" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1355" />
-        <entry key="ENGLISH" value="1321" />
+        <entry key="CHINESE" value="1390" />
+        <entry key="ENGLISH" value="1356" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="40" />
         <entry key="PORTUGUESE" value="4" />
