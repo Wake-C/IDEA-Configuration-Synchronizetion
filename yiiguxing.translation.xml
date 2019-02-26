@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Member Card QR Code" />
+      <item value="Member Card Q Rcode" />
+      <item value="Member Card Qrcode" />
       <item value="qrcode" />
       <item value="Qrcode" />
       <item value="Create White List" />
@@ -48,14 +51,11 @@
       <item value="member" />
       <item value="Member Card Activate" />
       <item value="creation" />
-      <item value="create" />
-      <item value="create Card" />
-      <item value="activate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1393" />
-        <entry key="ENGLISH" value="1359" />
+        <entry key="CHINESE" value="1396" />
+        <entry key="ENGLISH" value="1362" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="40" />
         <entry key="PORTUGUESE" value="4" />
