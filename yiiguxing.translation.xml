@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="update User Card" />
+      <item value="update/member card" />
+      <item value="message" />
+      <item value="异常message转换为中文" />
       <item value="user Info" />
       <item value="userinfo" />
       <item value="activation" />
@@ -10,7 +14,6 @@
       <item value="update users card" />
       <item value="card" />
       <item value="users" />
-      <item value="update User Card" />
       <item value="user Member Card" />
       <item value="Update User Member Card" />
       <item value="Update User Memeber Card" />
@@ -48,14 +51,11 @@
       <item value="convenience method to get this element as a {@link JsonObject}" />
       <item value="convenience method to get this element as a" />
       <item value="convenience" />
-      <item value="It's the only usage in Project Files" />
-      <item value="Authorizer" />
-      <item value="@Enable Configuration Properties" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1350" />
-        <entry key="ENGLISH" value="1316" />
+        <entry key="CHINESE" value="1354" />
+        <entry key="ENGLISH" value="1320" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="40" />
         <entry key="PORTUGUESE" value="4" />

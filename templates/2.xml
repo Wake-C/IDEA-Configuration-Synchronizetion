@@ -1,12 +1,10 @@
 <templateSet group="自定义属性">
-  <template name="pi" value="/**&#10; * $var1$&#10; */&#10; private int $var2$;&#10; $end$" description="" toReformat="false" toShortenFQNames="true">
+  <template name="pi" value="/**&#10; * $var1$&#10; */&#10; private int $var2$;&#10; $end$" description="pringte int 带注释" toReformat="false" toShortenFQNames="true">
     <variable name="var1" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="var2" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
-  </template>
-  <template name="ps" value="/**&#10; * $var1$&#10; */&#10; private String $var2$;&#10; $end$" description="" toReformat="false" toShortenFQNames="true">
-    <variable name="var1" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="var2" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
   </template>
 </templateSet>
