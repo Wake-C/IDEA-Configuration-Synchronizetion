@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="charpter" />
+      <item value="geek time spring course demo" />
       <item value="contains" />
       <item value="if &lt;code&gt;searchStrings&lt;/code&gt; is null or contains no matches." />
       <item value="element of &lt;code&gt;searchStrings" />
@@ -49,8 +51,6 @@
       <item value="update User Card" />
       <item value="update/member card" />
       <item value="message" />
-      <item value="异常message转换为中文" />
-      <item value="user Info" />
     </histories>
     <option name="languageScores">
       <map>
