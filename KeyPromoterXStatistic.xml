@@ -1281,6 +1281,14 @@
           <Count>28</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'HelloApplication'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'HelloApplication'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'HelloWorldAppl....main()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
