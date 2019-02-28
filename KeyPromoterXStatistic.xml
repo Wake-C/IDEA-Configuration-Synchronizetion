@@ -1425,6 +1425,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'WeChatOpenAuth....main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'WeChatOpenAuth....main()'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'WeChatOpenCore....main()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
