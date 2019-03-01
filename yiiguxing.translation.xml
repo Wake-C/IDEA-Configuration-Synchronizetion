@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <histories>
       <item value="true if it contains none of the invalid chars, or is null" />
+      <item value="@param cs the CharSequence to check, may be null * @param invalidChars a String of invalid chars, may be null * @return true if it contains none of the invalid chars, or is null * @since 2.0 * @since 3.0 Changed signature from containsNone(String, String) to containsNone(CharSequence, String)" />
       <item value="or is null" />
       <item value="true if it contains none of the invalid chars" />
       <item value="contains none of the invalid chars" />
@@ -50,12 +51,11 @@
       <item value="test whilte" />
       <item value="whilte user" />
       <item value="user" />
-      <item value="update Member Card" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1430" />
-        <entry key="ENGLISH" value="1396" />
+        <entry key="CHINESE" value="1433" />
+        <entry key="ENGLISH" value="1399" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="40" />
         <entry key="PORTUGUESE" value="4" />
