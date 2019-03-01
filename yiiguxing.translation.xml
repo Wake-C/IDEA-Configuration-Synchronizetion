@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="true if it contains none of the invalid chars, or is null" />
+      <item value="or is null" />
+      <item value="true if it contains none of the invalid chars" />
+      <item value="contains none of the invalid chars" />
+      <item value="the CharSequence to check, may be null" />
+      <item value="cs Last" />
+      <item value="Checks that the CharSequence does not contain certain characters" />
+      <item value="certain" />
+      <item value="get Official Domain" />
       <item value="Spring Related" />
       <item value="Srping Related" />
       <item value="charpter" />
@@ -42,20 +51,11 @@
       <item value="whilte user" />
       <item value="user" />
       <item value="update Member Card" />
-      <item value="update User Member Card Unavailable" />
-      <item value="Update User Member Card Unavailable" />
-      <item value="Update User Member Card Disable" />
-      <item value="/update/unavailable" />
-      <item value="unavailable" />
-      <item value="/update/disable" />
-      <item value="disable" />
-      <item value="update" />
-      <item value="update User Card" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1420" />
-        <entry key="ENGLISH" value="1386" />
+        <entry key="CHINESE" value="1430" />
+        <entry key="ENGLISH" value="1396" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="40" />
         <entry key="PORTUGUESE" value="4" />
