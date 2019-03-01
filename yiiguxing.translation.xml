@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="exchange" />
+      <item value="RABBIT MQ CORE EXCHANGE" />
       <item value="send MQ Queen" />
       <item value="send Mq Queen" />
       <item value="surefire" />
@@ -49,13 +51,11 @@
       <item value="test user" />
       <item value="test list" />
       <item value="white list" />
-      <item value="white lists" />
-      <item value="test white" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1436" />
-        <entry key="ENGLISH" value="1402" />
+        <entry key="CHINESE" value="1438" />
+        <entry key="ENGLISH" value="1404" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="40" />
         <entry key="PORTUGUESE" value="4" />
