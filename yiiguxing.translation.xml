@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="RABBIT MQ WE CHAT EXCHANGE" />
+      <item value="send Mq Queen" />
+      <item value="Exchange" />
+      <item value="shop Change Exchange" />
+      <item value="token Out Fanout Exchange" />
+      <item value="fan Out Exchange" />
+      <item value="we Chat.exchange" />
       <item value="mandatory" />
       <item value="convert And Send" />
       <item value="change" />
@@ -11,7 +18,6 @@
       <item value="exchange" />
       <item value="RABBIT MQ CORE EXCHANGE" />
       <item value="send MQ Queen" />
-      <item value="send Mq Queen" />
       <item value="surefire" />
       <item value="true if it contains none of the invalid chars, or is null" />
       <item value="@param cs the CharSequence to check, may be null * @param invalidChars a String of invalid chars, may be null * @return true if it contains none of the invalid chars, or is null * @since 2.0 * @since 3.0 Changed signature from containsNone(String, String) to containsNone(CharSequence, String)" />
@@ -45,17 +51,11 @@
       <item value="open Id" />
       <item value="membership Number" />
       <item value="private static final long serialVersionUID = 9084777967442098311L; private String errorCode; private String errorMsg; private String openId; private String nickname; private String membershipNumber; private Integer bonus; private Double balance; private String sex; private MemberCardUserInfo userInfo; private String userCardStatus; private Boolean hasActive; @Override public String toString() { return WxMpGsonBuilder.create().toJson(this); } public static WxMpMemberCardUserInfoResult fromJson(String json) { return WxMpGsonBuilder.create().fromJson(json, WxMpMemberCardUserInfoResult.class); }" />
-      <item value="nickname" />
-      <item value="Member Card QR Code" />
-      <item value="Member Card Q Rcode" />
-      <item value="Member Card Qrcode" />
-      <item value="qrcode" />
-      <item value="Qrcode" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1445" />
-        <entry key="ENGLISH" value="1411" />
+        <entry key="CHINESE" value="1452" />
+        <entry key="ENGLISH" value="1418" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="40" />
         <entry key="PORTUGUESE" value="4" />
