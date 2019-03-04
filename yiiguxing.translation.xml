@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="convert And Send" />
+      <item value="change" />
+      <item value="shop" />
+      <item value="core.shop.change.queue" />
+      <item value="RABBIT MQ SHOP ROUTING KEY" />
+      <item value="RABBIT MQ CORE ROUTING KEY" />
       <item value="exchange" />
       <item value="RABBIT MQ CORE EXCHANGE" />
       <item value="send MQ Queen" />
@@ -45,17 +51,11 @@
       <item value="qrcode" />
       <item value="Qrcode" />
       <item value="Create White List" />
-      <item value="white List" />
-      <item value="Addtest User" />
-      <item value="test User" />
-      <item value="test user" />
-      <item value="test list" />
-      <item value="white list" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1438" />
-        <entry key="ENGLISH" value="1404" />
+        <entry key="CHINESE" value="1444" />
+        <entry key="ENGLISH" value="1410" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="40" />
         <entry key="PORTUGUESE" value="4" />
