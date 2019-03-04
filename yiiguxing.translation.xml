@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="to Json String Pretty" />
+      <item value="equals method overrides equals in superclass and may not be symmetric This class defines an equals method that overrides an equals method in a superclass. Both equals methods methods use instanceof in the determination of whether two object s are equal. This is fraught with peril, since it is important that the equals method is symmetrical (in other words, a.equals(b) == b.equals(a)). If B is a subtype of A, and A's equals method checks that the argument is an instanceof A, and B's equa ls method checks that the argument is an instanceof B, it is quite likely that the equivalence relation defined by these methods is not symmetric." />
       <item value="Returns {@code true} if this {@code Double} value is * a Not a Number (NaN), {@code false} otherwise. * * @return {@code true} if the value represented by this object is * NaN; {@code false} otherwise." />
       <item value="find Shop List DTO By Bus Id And Distance" />
       <item value="latitude" />
@@ -49,13 +51,11 @@
       <item value="vararg of &lt;code&gt;searchStrings" />
       <item value="Char Sequences" />
       <item value="Compares given &lt;code&gt;string&lt;/code&gt; to a CharSequences vararg of &lt;code&gt;searchStrings" />
-      <item value="Compares given &lt;code&gt;string&lt;" />
-      <item value="&lt;p&gt;Compares given &lt;code&gt;string&lt;/code&gt; to a CharSequences vararg of &lt;code&gt;searchStrings&lt;/code&gt;, * returning {@code true} if the &lt;code&gt;string&lt;/code&gt; is equal to any of the &lt;code&gt;searchStrings&lt;/code&gt;, ignoring case.&lt;/p&gt;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1474" />
-        <entry key="ENGLISH" value="1434" />
+        <entry key="CHINESE" value="1475" />
+        <entry key="ENGLISH" value="1435" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="46" />
         <entry key="PORTUGUESE" value="4" />
@@ -64,6 +64,16 @@
     </option>
   </component>
   <component name="Settings">
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="primaryLanguage" value="CHINESE" />
+      </app-key>
+    </option>
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="useTranslateGoogleCom" value="false" />
+      </google-translate>
+    </option>
     <option name="ignoreRegExp" value="[-_]" />
     <option name="overrideFont" value="true" />
     <option name="phoneticFontFamily" value="Lucida Sans Unicode" />
@@ -73,6 +83,7 @@
       <youdao-translate>
         <option name="appId" value="72daf72feb661e19" />
         <option name="appKeyConfigured" value="true" />
+        <option name="primaryLanguage" value="AUTO" />
       </youdao-translate>
     </option>
   </component>
