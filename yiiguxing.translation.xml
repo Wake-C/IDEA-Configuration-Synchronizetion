@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="search Flag" />
+      <item value="search Signal" />
+      <item value="latitude" />
+      <item value="longitude" />
       <item value="RABBIT MQ WE CHAT EXCHANGE" />
       <item value="send Mq Queen" />
       <item value="Exchange" />
@@ -47,17 +51,13 @@
       <item value="&lt;p&gt;Compares given &lt;code&gt;string&lt;/code&gt; to a CharSequences vararg of &lt;code&gt;searchStrings&lt;/code&gt;," />
       <item value="equals Any Ignore Case" />
       <item value="encode URI Component" />
-      <item value="release" />
-      <item value="open Id" />
-      <item value="membership Number" />
-      <item value="private static final long serialVersionUID = 9084777967442098311L; private String errorCode; private String errorMsg; private String openId; private String nickname; private String membershipNumber; private Integer bonus; private Double balance; private String sex; private MemberCardUserInfo userInfo; private String userCardStatus; private Boolean hasActive; @Override public String toString() { return WxMpGsonBuilder.create().toJson(this); } public static WxMpMemberCardUserInfoResult fromJson(String json) { return WxMpGsonBuilder.create().fromJson(json, WxMpMemberCardUserInfoResult.class); }" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1452" />
-        <entry key="ENGLISH" value="1418" />
+        <entry key="CHINESE" value="1457" />
+        <entry key="ENGLISH" value="1422" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
-        <entry key="FRENCH" value="40" />
+        <entry key="FRENCH" value="41" />
         <entry key="PORTUGUESE" value="4" />
         <entry key="SPANISH" value="2" />
       </map>
