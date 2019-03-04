@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Invalid character found in the request target. The valid characters are defined in RFC 7230 and RFC 3986" />
       <item value="handleException start, uri:/wx/79B4DE7C/getGrantApi.do, caused by:" />
       <item value="to Json String Pretty" />
       <item value="equals method overrides equals in superclass and may not be symmetric This class defines an equals method that overrides an equals method in a superclass. Both equals methods methods use instanceof in the determination of whether two object s are equal. This is fraught with peril, since it is important that the equals method is symmetrical (in other words, a.equals(b) == b.equals(a)). If B is a subtype of A, and A's equals method checks that the argument is an instanceof A, and B's equa ls method checks that the argument is an instanceof B, it is quite likely that the equivalence relation defined by these methods is not symmetric." />
@@ -50,12 +51,11 @@
       <item value="may be" />
       <item value="vararg" />
       <item value="vararg of &lt;code&gt;searchStrings" />
-      <item value="Char Sequences" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1476" />
-        <entry key="ENGLISH" value="1436" />
+        <entry key="CHINESE" value="1477" />
+        <entry key="ENGLISH" value="1437" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="46" />
         <entry key="PORTUGUESE" value="4" />
