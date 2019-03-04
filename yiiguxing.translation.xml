@@ -1,10 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="search Flag" />
-      <item value="search Signal" />
+      <item value="Returns {@code true} if this {@code Double} value is * a Not a Number (NaN), {@code false} otherwise. * * @return {@code true} if the value represented by this object is * NaN; {@code false} otherwise." />
+      <item value="find Shop List DTO By Bus Id And Distance" />
       <item value="latitude" />
       <item value="longitude" />
+      <item value="Cannot resolve constructor 'Double()" />
+      <item value="find Shop List DTO By Bus Ids By Distance" />
+      <item value="search Flag" />
+      <item value="search Signal" />
       <item value="RABBIT MQ WE CHAT EXCHANGE" />
       <item value="send Mq Queen" />
       <item value="Exchange" />
@@ -47,17 +51,13 @@
       <item value="Compares given &lt;code&gt;string&lt;/code&gt; to a CharSequences vararg of &lt;code&gt;searchStrings" />
       <item value="Compares given &lt;code&gt;string&lt;" />
       <item value="&lt;p&gt;Compares given &lt;code&gt;string&lt;/code&gt; to a CharSequences vararg of &lt;code&gt;searchStrings&lt;/code&gt;, * returning {@code true} if the &lt;code&gt;string&lt;/code&gt; is equal to any of the &lt;code&gt;searchStrings&lt;/code&gt;, ignoring case.&lt;/p&gt;" />
-      <item value="to a CharSequences vararg of &lt;code&gt;searchStrings&lt;/code&gt;," />
-      <item value="&lt;p&gt;Compares given &lt;code&gt;string&lt;/code&gt; to a CharSequences vararg of &lt;code&gt;searchStrings&lt;/code&gt;," />
-      <item value="equals Any Ignore Case" />
-      <item value="encode URI Component" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1457" />
-        <entry key="ENGLISH" value="1422" />
+        <entry key="CHINESE" value="1474" />
+        <entry key="ENGLISH" value="1434" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
-        <entry key="FRENCH" value="41" />
+        <entry key="FRENCH" value="46" />
         <entry key="PORTUGUESE" value="4" />
         <entry key="SPANISH" value="2" />
       </map>
