@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="further" />
       <item value="To see the full stack trace of the errors, re run Maven with the e switch." />
       <item value="unauthorized" />
       <item value="1541488988" />
@@ -50,12 +51,11 @@
       <item value="Srping Related" />
       <item value="charpter" />
       <item value="geek time spring course demo" />
-      <item value="contains" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1483" />
-        <entry key="ENGLISH" value="1441" />
+        <entry key="CHINESE" value="1484" />
+        <entry key="ENGLISH" value="1442" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="46" />
         <entry key="PORTUGUESE" value="5" />
