@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Applet Binding" />
+      <item value="Wx Pay Pass" />
       <item value="further" />
       <item value="To see the full stack trace of the errors, re run Maven with the e switch." />
       <item value="unauthorized" />
@@ -49,13 +51,11 @@
       <item value="get Official Domain" />
       <item value="Spring Related" />
       <item value="Srping Related" />
-      <item value="charpter" />
-      <item value="geek time spring course demo" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1484" />
-        <entry key="ENGLISH" value="1442" />
+        <entry key="CHINESE" value="1486" />
+        <entry key="ENGLISH" value="1444" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="46" />
         <entry key="PORTUGUESE" value="5" />
