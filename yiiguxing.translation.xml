@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Wx Ma Open Subpackage" />
+      <item value="Wx Ma Open Sub Package" />
+      <item value="Packge" />
+      <item value="Wx Ma Open Sub Packge" />
+      <item value="Subpackge" />
       <item value="subpackage List" />
       <item value="UEDITOR HOME URL" />
       <item value="Applet Binding" />
@@ -46,16 +51,11 @@
       <item value="or is null" />
       <item value="true if it contains none of the invalid chars" />
       <item value="contains none of the invalid chars" />
-      <item value="the CharSequence to check, may be null" />
-      <item value="cs Last" />
-      <item value="Checks that the CharSequence does not contain certain characters" />
-      <item value="certain" />
-      <item value="get Official Domain" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1488" />
-        <entry key="ENGLISH" value="1446" />
+        <entry key="CHINESE" value="1492" />
+        <entry key="ENGLISH" value="1450" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="46" />
         <entry key="PORTUGUESE" value="5" />
