@@ -1,0 +1,8 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="JSON" injector-id="java">
+      <display-name>WxAppletCodeTemplate.setExtJson (com.duofriend.domain)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("setExtJson").withParameters("java.lang.String").definedInClass("com.duofriend.domain.WxAppletCodeTemplate"))]]></place>
+    </injection>
+  </component>
+</application>

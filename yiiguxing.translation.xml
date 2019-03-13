@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="InvalidDefinitionException: Cannot construct instance of" />
       <item value="util" />
       <item value="a JsonElement corresponding to the specified object." />
       <item value="corresponding" />
@@ -50,12 +51,11 @@
       <item value="You will also need to register * this serializer through" />
       <item value="done by Gson" />
       <item value="nterface representing a custom serializer for Json. You should write a custom serializer, if * you are not happy with the default serialization done by Gson. You will also need to register * this serializer through {@link com.google.gson.GsonBuilder#registerTypeAdapter(Type, Object)}" />
-      <item value="Interface representing a custom serializer for Json" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1555" />
-        <entry key="ENGLISH" value="1513" />
+        <entry key="CHINESE" value="1556" />
+        <entry key="ENGLISH" value="1514" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="46" />
         <entry key="PORTUGUESE" value="5" />
