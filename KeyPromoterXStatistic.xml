@@ -310,7 +310,7 @@
           <IdeaActionID>DebugClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F5'</ShortCut>
           <Description>Debug 'WxAppletServic....main()'</Description>
-          <Count>2</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'WxMassLogServiceImplTest.massSend'">
@@ -830,7 +830,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>5295</Count>
+          <Count>5304</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -1206,7 +1206,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1409</Count>
+          <Count>1412</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1526,7 +1526,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'WxAppletServic....main()'</Description>
-          <Count>1</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'WxCpDemoServer.main()'">
