@@ -1,61 +1,61 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="util" />
+      <item value="a JsonElement corresponding to the specified object." />
+      <item value="corresponding" />
       <item value="the actual type (fully genericized version) of the source object." />
-      <item value="actual type (fully genericized version) of the source object" />
-      <item value="disable Html Escaping" />
-      <item value="Subpackage" />
-      <item value="'WechatCodeCommitRequest' does not define a 'serialVersionUID' field more... (Ctrl+F1) Class 'WechatCodeCommitRequest' is never used" />
-      <item value="does not" />
-      <item value="Wx Ma Open Subpackage" />
-      <item value="Wx Ma Open Sub Package" />
-      <item value="Packge" />
-      <item value="Wx Ma Open Sub Packge" />
-      <item value="Subpackge" />
-      <item value="subpackage List" />
-      <item value="UEDITOR HOME URL" />
-      <item value="Applet Binding" />
-      <item value="Wx Pay Pass" />
-      <item value="further" />
-      <item value="To see the full stack trace of the errors, re run Maven with the e switch." />
-      <item value="unauthorized" />
-      <item value="1541488988" />
-      <item value="wx 65 c 5 ca 153250862 b" />
-      <item value="wxb 0933 a 4 e 19 dd 9 c 88" />
-      <item value="Invalid character found in the request target. The valid characters are defined in RFC 7230 and RFC 3986" />
-      <item value="handleException start, uri:/wx/79B4DE7C/getGrantApi.do, caused by:" />
-      <item value="to Json String Pretty" />
-      <item value="equals method overrides equals in superclass and may not be symmetric This class defines an equals method that overrides an equals method in a superclass. Both equals methods methods use instanceof in the determination of whether two object s are equal. This is fraught with peril, since it is important that the equals method is symmetrical (in other words, a.equals(b) == b.equals(a)). If B is a subtype of A, and A's equals method checks that the argument is an instanceof A, and B's equa ls method checks that the argument is an instanceof B, it is quite likely that the equivalence relation defined by these methods is not symmetric." />
-      <item value="Returns {@code true} if this {@code Double} value is * a Not a Number (NaN), {@code false} otherwise. * * @return {@code true} if the value represented by this object is * NaN; {@code false} otherwise." />
-      <item value="find Shop List DTO By Bus Id And Distance" />
-      <item value="latitude" />
-      <item value="longitude" />
-      <item value="Cannot resolve constructor 'Double()" />
-      <item value="find Shop List DTO By Bus Ids By Distance" />
-      <item value="search Flag" />
-      <item value="search Signal" />
-      <item value="RABBIT MQ WE CHAT EXCHANGE" />
-      <item value="send Mq Queen" />
-      <item value="Exchange" />
-      <item value="shop Change Exchange" />
-      <item value="token Out Fanout Exchange" />
-      <item value="fan Out Exchange" />
-      <item value="we Chat.exchange" />
-      <item value="mandatory" />
-      <item value="convert And Send" />
-      <item value="change" />
-      <item value="shop" />
-      <item value="core.shop.change.queue" />
-      <item value="RABBIT MQ SHOP ROUTING KEY" />
-      <item value="RABBIT MQ CORE ROUTING KEY" />
-      <item value="exchange" />
-      <item value="RABBIT MQ CORE EXCHANGE" />
-      <item value="send MQ Queen" />
+      <item value="fully genericized version" />
+      <item value="fully" />
+      <item value="of the source object" />
+      <item value="genericized" />
+      <item value="actual" />
+      <item value="cause" />
+      <item value="will cause a" />
+      <item value="ou should never invoke it on the * {@code src} object itself" />
+      <item value="non trivial field of the {@code src} object" />
+      <item value="trivial" />
+      <item value="In the implementation" />
+      <item value="implementation" />
+      <item value="In the implementation of this call back method" />
+      <item value="Gson invokes this call back method during serialization when it encounters a field of the * specified type." />
+      <item value="encounters" />
+      <item value="type for which the serializer is being registered. It is possible that a serializer * may be asked to serialize a specific generic type of the T." />
+      <item value="asked to" />
+      <item value="may be" />
+      <item value="Joel Leitch" />
+      <item value="Inderjeet Singh" />
+      <item value="whose streaming API * is more efficient than this interface's tree API." />
+      <item value="New applications should prefer" />
+      <item value="whose" />
+      <item value="prefer" />
+      <item value="Json Primitive" />
+      <item value="achieve" />
+      <item value="You can achieve" />
+      <item value="he default serialization of {@code Id(com.foo.MyObject.class, 20L)} will be * &lt;code&gt;{&quot;clazz&quot;:com.foo.MyObject,&quot;value&quot;:20}&lt;/code&gt;. Suppose, you just want the output to be * the value instead, which is {@code 20} in this case. You can achieve that by writing a custom * serializer:&lt;/p&gt;" />
+      <item value="with Gson as follows:" />
+      <item value="Gson as follows" />
+      <item value="Gson as" />
+      <item value="which is {@code 20} in this case" />
+      <item value=" which " />
+      <item value="The default serialization of {@code Id(com.foo.MyObject.class, 20L)} will be * &lt;code&gt;{&quot;clazz&quot;:com.foo.MyObject,&quot;value&quot;:20}&lt;/code&gt;. Suppose, you just want the output to be * the value instead" />
+      <item value="Suppose" />
+      <item value="serialization" />
+      <item value="Let us look at example where defining a serializer will be useful. The {@code Id} class * defined below has two fields" />
+      <item value="class * defined" />
+      <item value="below has two fields" />
+      <item value="will be useful" />
+      <item value="defining" />
+      <item value="through" />
+      <item value="You will also need to register * this serializer through" />
+      <item value="done by Gson" />
+      <item value="nterface representing a custom serializer for Json. You should write a custom serializer, if * you are not happy with the default serialization done by Gson. You will also need to register * this serializer through {@link com.google.gson.GsonBuilder#registerTypeAdapter(Type, Object)}" />
+      <item value="Interface representing a custom serializer for Json" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1494" />
-        <entry key="ENGLISH" value="1452" />
+        <entry key="CHINESE" value="1555" />
+        <entry key="ENGLISH" value="1513" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="46" />
         <entry key="PORTUGUESE" value="5" />
