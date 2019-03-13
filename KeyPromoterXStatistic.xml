@@ -110,7 +110,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy</Description>
-          <Count>26</Count>
+          <Count>27</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Path">
@@ -822,7 +822,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>5235</Count>
+          <Count>5262</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -1455,6 +1455,14 @@
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'WeChatApplication'</Description>
           <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'WeChatMpCoreSe....main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'WeChatMpCoreSe....main()'</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'WeChatOpenAuth....main()'">
