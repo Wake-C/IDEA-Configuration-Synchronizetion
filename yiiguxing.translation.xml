@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="app Secrets" />
+      <item value="app Secret" />
+      <item value="get App Secrets" />
+      <item value="get App Secret" />
       <item value="Unable to proxy interface implementing method" />
       <item value="tracker Locator" />
       <item value="nable to proxy interface implementing method" />
@@ -47,15 +51,11 @@
       <item value=" which " />
       <item value="The default serialization of {@code Id(com.foo.MyObject.class, 20L)} will be * &lt;code&gt;{&quot;clazz&quot;:com.foo.MyObject,&quot;value&quot;:20}&lt;/code&gt;. Suppose, you just want the output to be * the value instead" />
       <item value="Suppose" />
-      <item value="serialization" />
-      <item value="Let us look at example where defining a serializer will be useful. The {@code Id} class * defined below has two fields" />
-      <item value="class * defined" />
-      <item value="below has two fields" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1563" />
-        <entry key="ENGLISH" value="1521" />
+        <entry key="CHINESE" value="1568" />
+        <entry key="ENGLISH" value="1526" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="46" />
         <entry key="PORTUGUESE" value="5" />
