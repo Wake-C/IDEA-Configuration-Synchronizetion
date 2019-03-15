@@ -1,8 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="nable to proxy interface implementing method" />
+      <item value="Unable to proxy interface implementing method" />
       <item value="tracker Locator" />
+      <item value="nable to proxy interface implementing method" />
       <item value="mobile auth" />
       <item value="wechat open app" />
       <item value="no Creators, like default construct, exist" />
@@ -50,12 +51,11 @@
       <item value="Let us look at example where defining a serializer will be useful. The {@code Id} class * defined below has two fields" />
       <item value="class * defined" />
       <item value="below has two fields" />
-      <item value="will be useful" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1561" />
-        <entry key="ENGLISH" value="1519" />
+        <entry key="CHINESE" value="1563" />
+        <entry key="ENGLISH" value="1521" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="46" />
         <entry key="PORTUGUESE" value="5" />
