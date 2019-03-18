@@ -830,7 +830,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>5454</Count>
+          <Count>5466</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -1510,6 +1510,14 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'WebChatMpApplicationTests'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'WechatCodeComm....main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'WechatCodeComm....main()'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
