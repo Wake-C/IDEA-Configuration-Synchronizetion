@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="official Domain" />
       <item value="mobile auth" />
       <item value="app Auth" />
       <item value="app Secrets" />
@@ -50,7 +51,6 @@
       <item value="Gson as" />
       <item value="which is {@code 20} in this case" />
       <item value=" which " />
-      <item value="The default serialization of {@code Id(com.foo.MyObject.class, 20L)} will be * &lt;code&gt;{&quot;clazz&quot;:com.foo.MyObject,&quot;value&quot;:20}&lt;/code&gt;. Suppose, you just want the output to be * the value instead" />
     </histories>
     <option name="languageScores">
       <map>
