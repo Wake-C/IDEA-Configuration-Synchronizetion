@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The Tomcat connector configured to listen on port 8080 failed to start. The port may already be in use or the connector may be misconfigured." />
+      <item value="Protocol handler start failed" />
+      <item value="Protocol" />
       <item value="official Domain" />
       <item value="mobile auth" />
       <item value="app Auth" />
@@ -48,14 +51,11 @@
       <item value="he default serialization of {@code Id(com.foo.MyObject.class, 20L)} will be * &lt;code&gt;{&quot;clazz&quot;:com.foo.MyObject,&quot;value&quot;:20}&lt;/code&gt;. Suppose, you just want the output to be * the value instead, which is {@code 20} in this case. You can achieve that by writing a custom * serializer:&lt;/p&gt;" />
       <item value="with Gson as follows:" />
       <item value="Gson as follows" />
-      <item value="Gson as" />
-      <item value="which is {@code 20} in this case" />
-      <item value=" which " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1570" />
-        <entry key="ENGLISH" value="1528" />
+        <entry key="CHINESE" value="1573" />
+        <entry key="ENGLISH" value="1531" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="46" />
         <entry key="PORTUGUESE" value="5" />
