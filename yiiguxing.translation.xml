@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The web application [ROOT] appears to have started a thread named [logback 1] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread: sun.misc.Unsafe.park(Native Method)" />
       <item value="Returns the part of this request's URL from the protocol name up to the query string in the first line of the HTTP request. The web container does not decode this String. For example" />
       <item value="request Action" />
       <item value="The Tomcat connector configured to listen on port 8080 failed to start. The port may already be in use or the connector may be misconfigured." />
@@ -50,12 +51,11 @@
       <item value="Inderjeet Singh" />
       <item value="whose streaming API * is more efficient than this interface's tree API." />
       <item value="New applications should prefer" />
-      <item value="whose" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1580" />
-        <entry key="ENGLISH" value="1538" />
+        <entry key="CHINESE" value="1581" />
+        <entry key="ENGLISH" value="1539" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="46" />
         <entry key="PORTUGUESE" value="5" />
