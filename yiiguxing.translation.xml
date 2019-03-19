@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns the part of this request's URL from the protocol name up to the query string in the first line of the HTTP request. The web container does not decode this String. For example" />
+      <item value="request Action" />
       <item value="The Tomcat connector configured to listen on port 8080 failed to start. The port may already be in use or the connector may be misconfigured." />
       <item value="find By Bus Id And App Id And Industry Code" />
       <item value="authorization" />
@@ -49,13 +51,11 @@
       <item value="whose streaming API * is more efficient than this interface's tree API." />
       <item value="New applications should prefer" />
       <item value="whose" />
-      <item value="prefer" />
-      <item value="Json Primitive" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1579" />
-        <entry key="ENGLISH" value="1537" />
+        <entry key="CHINESE" value="1580" />
+        <entry key="ENGLISH" value="1538" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="46" />
         <entry key="PORTUGUESE" value="5" />
