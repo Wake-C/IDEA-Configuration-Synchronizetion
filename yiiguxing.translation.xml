@@ -1,6 +1,37 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Deletes the file or directory denoted by this abstract pathname. If * this pathname denotes a directory, then the directory must be empty in * order to be deleted." />
+      <item value="The default threshold above which uploads will be stored on disk." />
+      <item value="above" />
+      <item value="The default threshold above" />
+      <item value="threshold" />
+      <item value="The default threshold" />
+      <item value="return FileUploadBase.isMultipartContent(new ServletRequestContext(request));" />
+      <item value="that determines whether the request contains multipart * content." />
+      <item value="Utility method" />
+      <item value="whether" />
+      <item value="determines" />
+      <item value="Utility" />
+      <item value="otherwise" />
+      <item value="if the request is multipart" />
+      <item value="multipart" />
+      <item value="The servlet request to be evaluated. Must be non null." />
+      <item value="Utility method that determines whether the request contains multipart content." />
+      <item value="The field upfile exceeds its maximum permitted size of 1048576 bytes." />
+      <item value="negated" />
+      <item value="Expressions can be negated" />
+      <item value="should be used." />
+      <item value="* with UTF 8 encoding, {@link org.springframework.http.MediaType#APPLICATION JSON UTF8 VALUE}" />
+      <item value="for example to produce a JSON response" />
+      <item value="with UTF 8 encoding" />
+      <item value="It affects the actual content type written" />
+      <item value="affects" />
+      <item value="It affects the actual content type written, for example to produce a JSON response * with UTF 8 encoding, {@link org.springframework.http.MediaType#APPLICATION JSON UTF8 VALUE} should be used. * &lt;p&gt;Expressions can be negated by using the &quot;!&quot; operator, as in &quot;!text/plain&quot;, which matches * all requests with a {@code Accept} other than &quot;text/plain&quot;. * &lt;p&gt;&lt;b&gt;Supported at the type level as well as at the method level!&lt;/b&gt; * When used at the type level, all method level mappings override * this produces restriction." />
+      <item value="with a request only mapped if the {@code Accept} matches one of these media types." />
+      <item value="he format is a single media type or a sequence of media types," />
+      <item value="narrowing the primary mapping." />
+      <item value="produces" />
       <item value="Cross Origin" />
       <item value="The web application [ROOT] appears to have started a thread named [logback 1] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread: sun.misc.Unsafe.park(Native Method)" />
       <item value="Returns the part of this request's URL from the protocol name up to the query string in the first line of the HTTP request. The web container does not decode this String. For example" />
@@ -20,42 +51,11 @@
       <item value="app Secret" />
       <item value="get App Secrets" />
       <item value="get App Secret" />
-      <item value="Unable to proxy interface implementing method" />
-      <item value="tracker Locator" />
-      <item value="nable to proxy interface implementing method" />
-      <item value="wechat open app" />
-      <item value="no Creators, like default construct, exist" />
-      <item value="InvalidDefinitionException: Cannot construct instance of" />
-      <item value="util" />
-      <item value="a JsonElement corresponding to the specified object." />
-      <item value="corresponding" />
-      <item value="the actual type (fully genericized version) of the source object." />
-      <item value="fully genericized version" />
-      <item value="fully" />
-      <item value="of the source object" />
-      <item value="genericized" />
-      <item value="actual" />
-      <item value="cause" />
-      <item value="will cause a" />
-      <item value="ou should never invoke it on the * {@code src} object itself" />
-      <item value="non trivial field of the {@code src} object" />
-      <item value="trivial" />
-      <item value="In the implementation" />
-      <item value="implementation" />
-      <item value="In the implementation of this call back method" />
-      <item value="Gson invokes this call back method during serialization when it encounters a field of the * specified type." />
-      <item value="encounters" />
-      <item value="type for which the serializer is being registered. It is possible that a serializer * may be asked to serialize a specific generic type of the T." />
-      <item value="asked to" />
-      <item value="may be" />
-      <item value="Joel Leitch" />
-      <item value="Inderjeet Singh" />
-      <item value="whose streaming API * is more efficient than this interface's tree API." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1582" />
-        <entry key="ENGLISH" value="1540" />
+        <entry key="CHINESE" value="1616" />
+        <entry key="ENGLISH" value="1574" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="46" />
         <entry key="PORTUGUESE" value="5" />
