@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="image Suffix" />
+      <item value="get Suffix" />
+      <item value="// 后缀 String suffix = originalFilename.substring(originalFilename.lastIndexOf(&quot;.&quot;) + 1);" />
       <item value="ueditor configuration load error" />
       <item value="ueditor config load error" />
       <item value="ueditor config loading error" />
@@ -48,14 +51,11 @@
       <item value="Protocol handler start failed" />
       <item value="Protocol" />
       <item value="official Domain" />
-      <item value="mobile auth" />
-      <item value="app Auth" />
-      <item value="app Secrets" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1619" />
-        <entry key="ENGLISH" value="1577" />
+        <entry key="CHINESE" value="1622" />
+        <entry key="ENGLISH" value="1606" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="46" />
         <entry key="PORTUGUESE" value="5" />
