@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="temp File Store Info" />
+      <item value="the original filename, or the empty String if no file has been chosen in the multipart form, or null if not defined or not available" />
       <item value="local Image Address Url" />
       <item value="image Suffix" />
       <item value="get Suffix" />
@@ -49,13 +51,11 @@
       <item value="parameter Map" />
       <item value="param Map" />
       <item value="Wx Open App Api" />
-      <item value="Protocol handler start failed" />
-      <item value="Protocol" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1623" />
-        <entry key="ENGLISH" value="1607" />
+        <entry key="CHINESE" value="1624" />
+        <entry key="ENGLISH" value="1608" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="46" />
         <entry key="PORTUGUESE" value="5" />
