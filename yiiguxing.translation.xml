@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Auth Token Deadline" />
       <item value="auth Token" />
       <item value="temp File Store Info" />
       <item value="the original filename, or the empty String if no file has been chosen in the multipart form, or null if not defined or not available" />
@@ -50,12 +51,11 @@
       <item value="find By Bus Id And App Id And Industry Code" />
       <item value="authorization" />
       <item value="parameter Map" />
-      <item value="param Map" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1625" />
-        <entry key="ENGLISH" value="1609" />
+        <entry key="CHINESE" value="1626" />
+        <entry key="ENGLISH" value="1610" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="46" />
         <entry key="PORTUGUESE" value="5" />
