@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Temporal" />
       <item value="Duration" />
       <item value="添加一个Duration" />
       <item value="Temporal Amount" />
@@ -50,16 +51,15 @@
       <item value="produces" />
       <item value="Cross Origin" />
       <item value="The web application [ROOT] appears to have started a thread named [logback 1] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread: sun.misc.Unsafe.park(Native Method)" />
-      <item value="Returns the part of this request's URL from the protocol name up to the query string in the first line of the HTTP request. The web container does not decode this String. For example" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1631" />
+        <entry key="CHINESE" value="1632" />
         <entry key="ENGLISH" value="1615" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="46" />
         <entry key="PORTUGUESE" value="5" />
-        <entry key="SPANISH" value="2" />
+        <entry key="SPANISH" value="3" />
       </map>
     </option>
   </component>
