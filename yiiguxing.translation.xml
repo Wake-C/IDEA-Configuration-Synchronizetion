@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="calculate Days" />
+      <item value="Chrono Unit" />
       <item value="Temporal" />
       <item value="Duration" />
       <item value="添加一个Duration" />
@@ -49,13 +51,11 @@
       <item value="he format is a single media type or a sequence of media types," />
       <item value="narrowing the primary mapping." />
       <item value="produces" />
-      <item value="Cross Origin" />
-      <item value="The web application [ROOT] appears to have started a thread named [logback 1] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread: sun.misc.Unsafe.park(Native Method)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1632" />
-        <entry key="ENGLISH" value="1615" />
+        <entry key="CHINESE" value="1634" />
+        <entry key="ENGLISH" value="1617" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="46" />
         <entry key="PORTUGUESE" value="5" />
