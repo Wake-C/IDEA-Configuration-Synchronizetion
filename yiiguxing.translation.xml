@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="produces" />
       <item value="from User" />
       <item value="to User" />
       <item value="增加移动应用授权用户信息" />
@@ -50,12 +51,11 @@
       <item value="with UTF 8 encoding" />
       <item value="It affects the actual content type written" />
       <item value="affects" />
-      <item value="It affects the actual content type written, for example to produce a JSON response * with UTF 8 encoding, {@link org.springframework.http.MediaType#APPLICATION JSON UTF8 VALUE} should be used. * &lt;p&gt;Expressions can be negated by using the &quot;!&quot; operator, as in &quot;!text/plain&quot;, which matches * all requests with a {@code Accept} other than &quot;text/plain&quot;. * &lt;p&gt;&lt;b&gt;Supported at the type level as well as at the method level!&lt;/b&gt; * When used at the type level, all method level mappings override * this produces restriction." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1638" />
-        <entry key="ENGLISH" value="1621" />
+        <entry key="CHINESE" value="1639" />
+        <entry key="ENGLISH" value="1622" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="46" />
         <entry key="PORTUGUESE" value="5" />
