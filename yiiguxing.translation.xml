@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="STATIC AUTHORIZE FAILED" />
+      <item value="STATIC AUTHORIZE SUCCESS" />
+      <item value="AUTHORIZE" />
       <item value="unavailable" />
       <item value="produces" />
       <item value="from User" />
@@ -48,14 +51,11 @@
       <item value="Expressions can be negated" />
       <item value="should be used." />
       <item value="* with UTF 8 encoding, {@link org.springframework.http.MediaType#APPLICATION JSON UTF8 VALUE}" />
-      <item value="for example to produce a JSON response" />
-      <item value="with UTF 8 encoding" />
-      <item value="It affects the actual content type written" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1640" />
-        <entry key="ENGLISH" value="1623" />
+        <entry key="CHINESE" value="1648" />
+        <entry key="ENGLISH" value="1631" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="46" />
         <entry key="PORTUGUESE" value="5" />
