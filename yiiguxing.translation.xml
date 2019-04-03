@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="detail" />
+      <item value="Validated" />
       <item value="Member Card Detail" />
       <item value="unavailable" />
       <item value="Disable Member Card" />
@@ -49,13 +51,11 @@
       <item value="above" />
       <item value="The default threshold above" />
       <item value="threshold" />
-      <item value="The default threshold" />
-      <item value="return FileUploadBase.isMultipartContent(new ServletRequestContext(request));" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1668" />
-        <entry key="ENGLISH" value="1651" />
+        <entry key="CHINESE" value="1671" />
+        <entry key="ENGLISH" value="1654" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="46" />
         <entry key="PORTUGUESE" value="5" />
