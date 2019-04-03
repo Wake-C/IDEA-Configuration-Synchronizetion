@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Retention Policy" />
+      <item value="Allows overriding the name of the property." />
+      <item value="A brief description of this property." />
       <item value="detail" />
       <item value="Validated" />
       <item value="Member Card Detail" />
@@ -48,14 +51,11 @@
       <item value="ueditor config loading error" />
       <item value="Deletes the file or directory denoted by this abstract pathname. If * this pathname denotes a directory, then the directory must be empty in * order to be deleted." />
       <item value="The default threshold above which uploads will be stored on disk." />
-      <item value="above" />
-      <item value="The default threshold above" />
-      <item value="threshold" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1671" />
-        <entry key="ENGLISH" value="1654" />
+        <entry key="CHINESE" value="1674" />
+        <entry key="ENGLISH" value="1657" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="46" />
         <entry key="PORTUGUESE" value="5" />
