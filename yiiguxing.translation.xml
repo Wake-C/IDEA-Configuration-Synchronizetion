@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="111111 A" />
+      <item value="creation" />
       <item value="apply" />
       <item value="SOURCE" />
       <item value="Adds and manipulates data of a model property" />
@@ -17,7 +19,6 @@
       <item value="update" />
       <item value="qrcode" />
       <item value="activation" />
-      <item value="creation" />
       <item value="Member Card QR Code" />
       <item value="QR Code" />
       <item value="Q Rcode" />
@@ -50,12 +51,11 @@
       <item value="image Suffix" />
       <item value="get Suffix" />
       <item value="// 后缀 String suffix = originalFilename.substring(originalFilename.lastIndexOf(&quot;.&quot;) + 1);" />
-      <item value="ueditor configuration load error" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1678" />
-        <entry key="ENGLISH" value="1661" />
+        <entry key="CHINESE" value="1685" />
+        <entry key="ENGLISH" value="1668" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="46" />
         <entry key="PORTUGUESE" value="5" />
