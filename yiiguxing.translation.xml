@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="member Card QR Code" />
+      <item value="Q Rcode" />
+      <item value="member Card Q Rcode" />
+      <item value="member Card Activation" />
+      <item value="member Card Detail By Card Id" />
       <item value="111111 A" />
       <item value="creation" />
       <item value="apply" />
@@ -21,7 +26,6 @@
       <item value="activation" />
       <item value="Member Card QR Code" />
       <item value="QR Code" />
-      <item value="Q Rcode" />
       <item value="create Q Rcode" />
       <item value="create Qrcode" />
       <item value="start period" />
@@ -47,15 +51,11 @@
       <item value="auth Token" />
       <item value="temp File Store Info" />
       <item value="the original filename, or the empty String if no file has been chosen in the multipart form, or null if not defined or not available" />
-      <item value="local Image Address Url" />
-      <item value="image Suffix" />
-      <item value="get Suffix" />
-      <item value="// 后缀 String suffix = originalFilename.substring(originalFilename.lastIndexOf(&quot;.&quot;) + 1);" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1685" />
-        <entry key="ENGLISH" value="1668" />
+        <entry key="CHINESE" value="1690" />
+        <entry key="ENGLISH" value="1673" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="46" />
         <entry key="PORTUGUESE" value="5" />
