@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Fn D 9 v M Jl Hzs Py ME Iq Wo M@iii Pmm SNYTQ" />
+      <item value="com.mysql.jdbc.Driver" />
+      <item value="Driver" />
       <item value="member Card QR Code" />
       <item value="Q Rcode" />
       <item value="member Card Q Rcode" />
@@ -48,14 +51,11 @@
       <item value="APP AUTH TOKEN INVALID" />
       <item value="pre" />
       <item value="get Auth Token Deadline" />
-      <item value="auth Token" />
-      <item value="temp File Store Info" />
-      <item value="the original filename, or the empty String if no file has been chosen in the multipart form, or null if not defined or not available" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1690" />
-        <entry key="ENGLISH" value="1673" />
+        <entry key="CHINESE" value="1696" />
+        <entry key="ENGLISH" value="1679" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="46" />
         <entry key="PORTUGUESE" value="5" />
