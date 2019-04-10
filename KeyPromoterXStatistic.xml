@@ -425,6 +425,14 @@
           <Count>19</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'createMemberCard()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F5'</ShortCut>
+          <Description>Debug 'createMemberCard()'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'createShop()'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -830,7 +838,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>5797</Count>
+          <Count>5800</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -1214,7 +1222,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1684</Count>
+          <Count>1685</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1791,6 +1799,14 @@
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'createImageTextMat...()'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'createMemberCard()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'createMemberCard()'</Description>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'createMenu()'">
@@ -2777,6 +2793,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'OpenApiTest.createMemberCard'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'OpenApiTest.createMemberCard'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'OpenApiTest.findMainShopInfoByBusId'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -3110,7 +3134,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>792</Count>
+          <Count>794</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">

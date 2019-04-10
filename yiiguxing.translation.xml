@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="奥利奥泡一泡" />
       <item value="com.gt.plugin.starter.condit.WxMemberCardApiCondition' is not an enclosing class" />
       <item value="奥利奥" />
       <item value="rotocol handler start failed" />
@@ -50,12 +51,11 @@
       <item value="interval" />
       <item value="STATIC AUTHORIZE FAILED" />
       <item value="STATIC AUTHORIZE SUCCESS" />
-      <item value="AUTHORIZE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1711" />
-        <entry key="ENGLISH" value="1694" />
+        <entry key="CHINESE" value="1712" />
+        <entry key="ENGLISH" value="1695" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="46" />
         <entry key="PORTUGUESE" value="5" />
