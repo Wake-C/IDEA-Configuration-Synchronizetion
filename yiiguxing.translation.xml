@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Industry" />
+      <item value="find Shop List By Industry" />
       <item value="model" />
       <item value="奥利奥泡一泡" />
       <item value="com.gt.plugin.starter.condit.WxMemberCardApiCondition' is not an enclosing class" />
@@ -49,13 +51,11 @@
       <item value="create Qrcode" />
       <item value="start period" />
       <item value="retries" />
-      <item value="interval" />
-      <item value="STATIC AUTHORIZE FAILED" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1713" />
-        <entry key="ENGLISH" value="1696" />
+        <entry key="CHINESE" value="1716" />
+        <entry key="ENGLISH" value="1699" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="46" />
         <entry key="PORTUGUESE" value="5" />
