@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="authorization Status" />
+      <item value="official" />
       <item value="Wx Public Users DTO" />
       <item value="Gt Plugin Exception" />
       <item value="contains Specify Industry" />
@@ -49,13 +51,11 @@
       <item value="Disable Member Card" />
       <item value="disable" />
       <item value="update" />
-      <item value="qrcode" />
-      <item value="activation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1723" />
-        <entry key="ENGLISH" value="1706" />
+        <entry key="CHINESE" value="1724" />
+        <entry key="ENGLISH" value="1707" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="46" />
         <entry key="PORTUGUESE" value="5" />
