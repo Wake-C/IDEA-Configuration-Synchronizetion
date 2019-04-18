@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="new Wx Public Users" />
       <item value="authorization Status" />
       <item value="official" />
       <item value="Wx Public Users DTO" />
@@ -50,12 +51,11 @@
       <item value="unavailable" />
       <item value="Disable Member Card" />
       <item value="disable" />
-      <item value="update" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1724" />
-        <entry key="ENGLISH" value="1707" />
+        <entry key="CHINESE" value="1725" />
+        <entry key="ENGLISH" value="1708" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="46" />
         <entry key="PORTUGUESE" value="5" />
