@@ -1,8 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Specify Merchant Query" />
       <item value="is Specify Merchant" />
+      <item value="Specify Merchant Query" />
       <item value="specify" />
       <item value="specify Flag" />
       <item value="is Specify" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1732" />
-        <entry key="ENGLISH" value="1715" />
+        <entry key="CHINESE" value="1733" />
+        <entry key="ENGLISH" value="1716" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="46" />
         <entry key="PORTUGUESE" value="5" />
