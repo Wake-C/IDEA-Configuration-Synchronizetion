@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Specify Merchant Query" />
+      <item value="is Specify Merchant" />
+      <item value="specify" />
+      <item value="specify Flag" />
+      <item value="is Specify" />
       <item value="new Wx Public Users" />
       <item value="authorization Status" />
       <item value="official" />
@@ -46,16 +51,11 @@
       <item value="Allows overriding the name of the property." />
       <item value="A brief description of this property." />
       <item value="detail" />
-      <item value="Validated" />
-      <item value="Member Card Detail" />
-      <item value="unavailable" />
-      <item value="Disable Member Card" />
-      <item value="disable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1725" />
-        <entry key="ENGLISH" value="1708" />
+        <entry key="CHINESE" value="1732" />
+        <entry key="ENGLISH" value="1715" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="46" />
         <entry key="PORTUGUESE" value="5" />

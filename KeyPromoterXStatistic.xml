@@ -846,7 +846,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>5869</Count>
+          <Count>5872</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -1230,7 +1230,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1685</Count>
+          <Count>1688</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1510,7 +1510,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'WeChatApplication'</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'WeChatMpCoreSe....main()'">
@@ -3009,6 +3009,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'gt-wechat-open [clean]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'gt-wechat-open [clean]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'gt-wechat-open [compile]'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -3142,7 +3150,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>800</Count>
+          <Count>801</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">
