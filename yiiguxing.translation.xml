@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Chrono Unit" />
+      <item value="upgrade By Industry Code" />
+      <item value="audition" />
+      <item value="audit" />
+      <item value="Applet Release" />
+      <item value="release" />
+      <item value="release By Industry Code" />
+      <item value="release By Industry" />
       <item value="is Specify Merchant" />
       <item value="Specify Merchant Query" />
       <item value="specify" />
@@ -43,19 +51,11 @@
       <item value="member Card Detail By Card Id" />
       <item value="111111 A" />
       <item value="creation" />
-      <item value="apply" />
-      <item value="SOURCE" />
-      <item value="Adds and manipulates data of a model property" />
-      <item value="manipulates" />
-      <item value="Retention Policy" />
-      <item value="Allows overriding the name of the property." />
-      <item value="A brief description of this property." />
-      <item value="detail" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1733" />
-        <entry key="ENGLISH" value="1716" />
+        <entry key="CHINESE" value="1741" />
+        <entry key="ENGLISH" value="1724" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="46" />
         <entry key="PORTUGUESE" value="5" />
