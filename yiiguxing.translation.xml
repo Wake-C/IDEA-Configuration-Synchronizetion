@@ -1,12 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="release" />
+      <item value="releas Lock" />
+      <item value="APPLET AUDIT LOCK" />
       <item value="Chrono Unit" />
       <item value="upgrade By Industry Code" />
       <item value="audition" />
       <item value="audit" />
       <item value="Applet Release" />
-      <item value="release" />
       <item value="release By Industry Code" />
       <item value="release By Industry" />
       <item value="is Specify Merchant" />
@@ -49,15 +51,13 @@
       <item value="member Card Q Rcode" />
       <item value="member Card Activation" />
       <item value="member Card Detail By Card Id" />
-      <item value="111111 A" />
-      <item value="creation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1741" />
-        <entry key="ENGLISH" value="1724" />
+        <entry key="CHINESE" value="1744" />
+        <entry key="ENGLISH" value="1726" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
-        <entry key="FRENCH" value="46" />
+        <entry key="FRENCH" value="47" />
         <entry key="PORTUGUESE" value="5" />
         <entry key="SPANISH" value="3" />
       </map>
