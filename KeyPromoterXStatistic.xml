@@ -846,7 +846,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>5939</Count>
+          <Count>5940</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -2726,7 +2726,7 @@
           <IdeaActionID>Vcs.ShowTabbedFileHistory</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+H'</ShortCut>
           <Description>Show History</Description>
-          <Count>24</Count>
+          <Count>25</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Translation Dialog...">
