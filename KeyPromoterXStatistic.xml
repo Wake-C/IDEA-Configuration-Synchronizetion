@@ -3222,7 +3222,7 @@
           <IdeaActionID>AliP3CInspectionAction</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+J'</ShortCut>
           <Description>编码规约扫描</Description>
-          <Count>19</Count>
+          <Count>20</Count>
         </Item>
       </Statistic>
     </option>
