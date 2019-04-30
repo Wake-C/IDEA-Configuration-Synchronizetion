@@ -846,7 +846,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>5957</Count>
+          <Count>5959</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -2481,6 +2481,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'releaseAppletByInd...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'releaseAppletByInd...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'saveCertificate()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -3166,7 +3174,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>808</Count>
+          <Count>810</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">
