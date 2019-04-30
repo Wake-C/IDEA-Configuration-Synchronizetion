@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="release Api" />
       <item value="release Lock Key" />
       <item value="release" />
       <item value="releas Lock" />
@@ -50,12 +51,11 @@
       <item value="member Card QR Code" />
       <item value="Q Rcode" />
       <item value="member Card Q Rcode" />
-      <item value="member Card Activation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1745" />
-        <entry key="ENGLISH" value="1727" />
+        <entry key="CHINESE" value="1746" />
+        <entry key="ENGLISH" value="1728" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="47" />
         <entry key="PORTUGUESE" value="5" />
