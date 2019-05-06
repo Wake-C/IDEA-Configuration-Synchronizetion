@@ -1238,7 +1238,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1709</Count>
+          <Count>1713</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -2662,7 +2662,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'upgradeAppletByInd...()'</Description>
-          <Count>8</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'voiceSynthesis()'">
@@ -2775,6 +2775,14 @@
           <ShortCut>'Ctrl+Shift+O'</ShortCut>
           <Description>Show Translation Dialog...</Description>
           <Count>13</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Smart Step Into">
+        <Item>
+          <IdeaActionID>SmartStepInto</IdeaActionID>
+          <ShortCut>'Shift+F7'</ShortCut>
+          <Description>Smart Step Into</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Source Editor">
@@ -3206,7 +3214,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>818</Count>
+          <Count>821</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">
