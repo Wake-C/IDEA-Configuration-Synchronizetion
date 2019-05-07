@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Health Condition" />
       <item value="find Code Template Info By Industry Code" />
       <item value="latest Template Info" />
       <item value="template info" />
@@ -50,7 +51,6 @@
       <item value="user Member Card Unvailable" />
       <item value="update User Member Card" />
       <item value="member Card User Info" />
-      <item value="white List" />
     </histories>
     <option name="languageScores">
       <map>
