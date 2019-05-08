@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="update Materials" />
+      <item value="update Article" />
+      <item value="update Meterals" />
       <item value="Health Condition" />
       <item value="find Code Template Info By Industry Code" />
       <item value="latest Template Info" />
@@ -48,14 +51,11 @@
       <item value="user Member Card Unavailable Api" />
       <item value="user Member Card Unavailable" />
       <item value="Member Card Unvailable" />
-      <item value="user Member Card Unvailable" />
-      <item value="update User Member Card" />
-      <item value="member Card User Info" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1756" />
-        <entry key="ENGLISH" value="1738" />
+        <entry key="CHINESE" value="1760" />
+        <entry key="ENGLISH" value="1742" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="47" />
         <entry key="PORTUGUESE" value="5" />
