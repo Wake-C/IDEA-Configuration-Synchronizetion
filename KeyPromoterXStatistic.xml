@@ -862,7 +862,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>6007</Count>
+          <Count>6008</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -2710,7 +2710,7 @@
           <IdeaActionID>ChooseRunConfiguration</IdeaActionID>
           <ShortCut>'Alt+Shift+F10'</ShortCut>
           <Description>Run...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Save All">
@@ -2855,6 +2855,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'DemoApplication'</Description>
           <Count>13</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'FansInfoServiceImplTest.findFansPageBySearch'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'FansInfoServiceImplTest.findFansPageBySearch'</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'GeneratorServiceEntity'">
