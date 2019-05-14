@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Find Area" />
+      <item value="Search Address List" />
       <item value="SSO LOGIN TOKEN ERROR" />
       <item value="SHOP CREATE NUM ERROR" />
       <item value="QUERY AMOUNT BEYOND" />
@@ -49,13 +51,11 @@
       <item value="specify Flag" />
       <item value="is Specify" />
       <item value="new Wx Public Users" />
-      <item value="authorization Status" />
-      <item value="official" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1776" />
-        <entry key="ENGLISH" value="1758" />
+        <entry key="CHINESE" value="1778" />
+        <entry key="ENGLISH" value="1760" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="47" />
         <entry key="PORTUGUESE" value="5" />
