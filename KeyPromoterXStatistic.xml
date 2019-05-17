@@ -862,7 +862,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>6034</Count>
+          <Count>6037</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -1919,6 +1919,14 @@
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'findAppletList()'</Description>
           <Count>21</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'findAreaList()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'findAreaList()'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'findByBusId()'">
