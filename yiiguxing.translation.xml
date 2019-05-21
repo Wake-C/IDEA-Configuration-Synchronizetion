@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="UNAUTHORIZED CREATE MENU EROOR" />
+      <item value="UNAUTHORIZATION CREATE MENU EROOR" />
+      <item value="NOT VERIFY RULE MENU" />
       <item value="Find Area" />
       <item value="Search Address List" />
       <item value="SSO LOGIN TOKEN ERROR" />
@@ -48,14 +51,11 @@
       <item value="is Specify Merchant" />
       <item value="Specify Merchant Query" />
       <item value="specify" />
-      <item value="specify Flag" />
-      <item value="is Specify" />
-      <item value="new Wx Public Users" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1778" />
-        <entry key="ENGLISH" value="1760" />
+        <entry key="CHINESE" value="1782" />
+        <entry key="ENGLISH" value="1764" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="47" />
         <entry key="PORTUGUESE" value="5" />
