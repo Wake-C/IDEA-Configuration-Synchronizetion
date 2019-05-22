@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Applet White Domain" />
       <item value="UNAUTHORIZED CREATE MENU EROOR" />
       <item value="UNAUTHORIZATION CREATE MENU EROOR" />
       <item value="NOT VERIFY RULE MENU" />
@@ -50,7 +51,6 @@
       <item value="release By Industry" />
       <item value="is Specify Merchant" />
       <item value="Specify Merchant Query" />
-      <item value="specify" />
     </histories>
     <option name="languageScores">
       <map>
