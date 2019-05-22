@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="network" />
+      <item value="latest Template" />
       <item value="get Applet White Domain" />
       <item value="UNAUTHORIZED CREATE MENU EROOR" />
       <item value="UNAUTHORIZATION CREATE MENU EROOR" />
@@ -49,13 +51,11 @@
       <item value="Applet Release" />
       <item value="release By Industry Code" />
       <item value="release By Industry" />
-      <item value="is Specify Merchant" />
-      <item value="Specify Merchant Query" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1782" />
-        <entry key="ENGLISH" value="1764" />
+        <entry key="CHINESE" value="1784" />
+        <entry key="ENGLISH" value="1766" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="47" />
         <entry key="PORTUGUESE" value="5" />
