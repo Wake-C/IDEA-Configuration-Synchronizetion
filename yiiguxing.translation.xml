@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Applet white domian size limit" />
+      <item value="Applet white domian limit" />
+      <item value="exclude Path Patterns" />
+      <item value="Override" />
       <item value="domain" />
       <item value="applet White Domain" />
       <item value="domain White" />
@@ -47,15 +51,11 @@
       <item value="release" />
       <item value="releas Lock" />
       <item value="APPLET AUDIT LOCK" />
-      <item value="Chrono Unit" />
-      <item value="upgrade By Industry Code" />
-      <item value="audition" />
-      <item value="audit" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1787" />
-        <entry key="ENGLISH" value="1768" />
+        <entry key="CHINESE" value="1791" />
+        <entry key="ENGLISH" value="1772" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="48" />
         <entry key="PORTUGUESE" value="5" />
