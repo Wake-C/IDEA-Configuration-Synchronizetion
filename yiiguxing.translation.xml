@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="update Flag" />
       <item value="Applet white domian size limit" />
       <item value="Applet white domian limit" />
       <item value="exclude Path Patterns" />
@@ -50,7 +51,6 @@
       <item value="release Lock Key" />
       <item value="release" />
       <item value="releas Lock" />
-      <item value="APPLET AUDIT LOCK" />
     </histories>
     <option name="languageScores">
       <map>
