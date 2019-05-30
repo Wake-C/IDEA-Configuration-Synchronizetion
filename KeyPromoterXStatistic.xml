@@ -1793,6 +1793,14 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'appUserInfo()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'appUserInfo()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'asdasd()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -2262,7 +2270,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'findTemplateInfoById()'</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'findTemplateList()'">
@@ -2518,7 +2526,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'memberCardActivation()'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'memberCardDetail()'">
@@ -2526,7 +2534,15 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'memberCardDetail()'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'memberCardQRCode()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'memberCardQRCode()'</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'miniProUserUnbindM...()'">
@@ -3350,7 +3366,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>go to definition</Description>
-          <Count>69</Count>
+          <Count>70</Count>
         </Item>
       </Statistic>
       <Statistic Action="编码规约扫描">

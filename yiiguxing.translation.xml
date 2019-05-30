@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="invalid serial code" />
       <item value="lose" />
       <item value="lossing" />
       <item value="FIELD NAME TYPE LEVEL" />
@@ -50,12 +51,11 @@
       <item value="latest Applet Code ID" />
       <item value="Applet Operation" />
       <item value="success Map" />
-      <item value="fail Map" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1795" />
-        <entry key="ENGLISH" value="1776" />
+        <entry key="CHINESE" value="1796" />
+        <entry key="ENGLISH" value="1777" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="48" />
         <entry key="PORTUGUESE" value="5" />
