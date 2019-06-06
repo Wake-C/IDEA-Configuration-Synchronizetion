@@ -118,6 +118,10 @@
           <option name="url" value="http://gitlab.deeptel.com.cn" />
           <option name="userName" value="zhanbing" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.deeptel.com.cn:443" />
+          <option name="userName" value="zhanbing" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="H:\IdeaProjects" />
