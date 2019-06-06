@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="RABBIT MQ APPLET UNBIND EXCHANGE" />
       <item value="invalid serial code" />
       <item value="lose" />
       <item value="lossing" />
@@ -50,12 +51,11 @@
       <item value="template info" />
       <item value="latest Applet Code ID" />
       <item value="Applet Operation" />
-      <item value="success Map" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1797" />
-        <entry key="ENGLISH" value="1778" />
+        <entry key="CHINESE" value="1798" />
+        <entry key="ENGLISH" value="1779" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="48" />
         <entry key="PORTUGUESE" value="5" />
