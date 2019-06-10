@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="1." />
       <item value="RABBIT MQ APPLET UNBIND EXCHANGE" />
       <item value="invalid serial code" />
       <item value="lose" />
@@ -50,7 +51,6 @@
       <item value="latest Template Info" />
       <item value="template info" />
       <item value="latest Applet Code ID" />
-      <item value="Applet Operation" />
     </histories>
     <option name="languageScores">
       <map>
