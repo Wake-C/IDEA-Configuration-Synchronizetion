@@ -2585,6 +2585,14 @@
           <Count>10</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'memberCardUnavaila...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'memberCardUnavaila...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'memberCardUserInfo()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -3430,7 +3438,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>go to definition</Description>
-          <Count>152</Count>
+          <Count>157</Count>
         </Item>
       </Statistic>
       <Statistic Action="编码规约扫描">
