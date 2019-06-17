@@ -1086,7 +1086,7 @@
           <IdeaActionID>FindBugs.PreviewSelectBugInstance</IdeaActionID>
           <ShortCut>'Alt+Q' or 'Alt+Button1 Click'</ShortCut>
           <Description>Preview the current selected bug.</Description>
-          <Count>56</Count>
+          <Count>57</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -1270,7 +1270,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>71</Count>
+          <Count>72</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AreaServiceImplTest'">
@@ -2247,6 +2247,14 @@
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'findShopListByBusIds()'</Description>
           <Count>9</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'findShopListByModu...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'findShopListByModu...()'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'findShopPhotoListB...()'">
@@ -3241,6 +3249,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'gt-plugin-starter [deploy]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'gt-plugin-starter [deploy]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'gt-wechat-open [clean]'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -3438,7 +3454,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>go to definition</Description>
-          <Count>179</Count>
+          <Count>180</Count>
         </Item>
       </Statistic>
       <Statistic Action="编码规约扫描">
