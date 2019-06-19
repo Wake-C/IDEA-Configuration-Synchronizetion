@@ -1350,7 +1350,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'GeneratorServiceEntity'</Description>
-          <Count>29</Count>
+          <Count>30</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'HelloApplication'">
@@ -3462,7 +3462,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>go to definition</Description>
-          <Count>210</Count>
+          <Count>213</Count>
         </Item>
       </Statistic>
       <Statistic Action="编码规约扫描">
