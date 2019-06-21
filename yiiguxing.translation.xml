@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="APPLET OPERATE TYPE RELEASE" />
+      <item value="APPLET OPERATE TYPE AUDIT" />
+      <item value="APPLET OPERATE TYPE UPGRADE" />
+      <item value="find Applect Opeartion Log" />
+      <item value="DUPLICATE REQUEST" />
       <item value="find Code Template By Industry Code" />
       <item value="is Exist" />
       <item value="exist" />
@@ -46,16 +51,11 @@
       <item value="APPLET STATUS AUDIT ERROR" />
       <item value="SUB MODULES EMPTY ERROR" />
       <item value="ADDRESS NOT FOUND ERROR" />
-      <item value="INDUSTRY DICT NOT FOUND ERROR" />
-      <item value="MASS SEND OPENID DISSATISFY ERROR" />
-      <item value="SHOP INDUSTRY NOT FOUND" />
-      <item value="APP AUTH TOKEN INVALID" />
-      <item value="STARTTIME TO ENDTIME TOO LONG" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1811" />
-        <entry key="ENGLISH" value="1792" />
+        <entry key="CHINESE" value="1816" />
+        <entry key="ENGLISH" value="1797" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="48" />
         <entry key="PORTUGUESE" value="5" />
@@ -64,16 +64,6 @@
     </option>
   </component>
   <component name="Settings">
-    <option name="baiduTranslateSettings">
-      <app-key>
-        <option name="primaryLanguage" value="CHINESE" />
-      </app-key>
-    </option>
-    <option name="googleTranslateSettings">
-      <google-translate>
-        <option name="useTranslateGoogleCom" value="false" />
-      </google-translate>
-    </option>
     <option name="ignoreRegExp" value="[-_]" />
     <option name="overrideFont" value="true" />
     <option name="phoneticFontFamily" value="Lucida Sans Unicode" />
@@ -83,7 +73,6 @@
       <youdao-translate>
         <option name="appId" value="72daf72feb661e19" />
         <option name="appKeyConfigured" value="true" />
-        <option name="primaryLanguage" value="AUTO" />
       </youdao-translate>
     </option>
   </component>
