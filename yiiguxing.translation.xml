@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="queue" />
+      <item value="queen" />
+      <item value="Queen" />
       <item value="APPLET OPERATE TYPE RELEASE" />
       <item value="APPLET OPERATE TYPE AUDIT" />
       <item value="APPLET OPERATE TYPE UPGRADE" />
@@ -48,14 +51,11 @@
       <item value="QUERY AMOUNT BEYOND" />
       <item value="CERTIFICATE NOT EXIST" />
       <item value="SINGLE MATERIAL PARENT ID ERROR" />
-      <item value="APPLET STATUS AUDIT ERROR" />
-      <item value="SUB MODULES EMPTY ERROR" />
-      <item value="ADDRESS NOT FOUND ERROR" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1816" />
-        <entry key="ENGLISH" value="1797" />
+        <entry key="CHINESE" value="1819" />
+        <entry key="ENGLISH" value="1800" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="48" />
         <entry key="PORTUGUESE" value="5" />
