@@ -1,6 +1,47 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Rabbit Queue" />
+      <item value="queue" />
+      <item value="queen" />
+      <item value="Queen" />
+      <item value="APPLET OPERATE TYPE RELEASE" />
+      <item value="APPLET OPERATE TYPE AUDIT" />
+      <item value="APPLET OPERATE TYPE UPGRADE" />
+      <item value="find Applect Opeartion Log" />
+      <item value="DUPLICATE REQUEST" />
+      <item value="find Code Template By Industry Code" />
+      <item value="is Exist" />
+      <item value="exist" />
+      <item value="Basiclogic DTO" />
+      <item value="module Id" />
+      <item value="find Shop List By Module Id And Bus Id" />
+      <item value="link" />
+      <item value="event" />
+      <item value="device text" />
+      <item value="device event" />
+      <item value="card list" />
+      <item value="Find User Member Card List" />
+      <item value="cards" />
+      <item value="1." />
+      <item value="RABBIT MQ APPLET UNBIND EXCHANGE" />
+      <item value="invalid serial code" />
+      <item value="lose" />
+      <item value="lossing" />
+      <item value="FIELD NAME TYPE LEVEL" />
+      <item value="can not use balance, need authorize" />
+      <item value="H:\Development\apache maven 3.0.5\conf\settings.xml" />
+      <item value="update Flag" />
+      <item value="Applet white domian size limit" />
+      <item value="Applet white domian limit" />
+      <item value="exclude Path Patterns" />
+      <item value="Override" />
+      <item value="domain" />
+      <item value="applet White Domain" />
+      <item value="domain White" />
+      <item value="network" />
+      <item value="latest Template" />
+      <item value="get Applet White Domain" />
       <item value="UNAUTHORIZED CREATE MENU EROOR" />
       <item value="UNAUTHORIZATION CREATE MENU EROOR" />
       <item value="NOT VERIFY RULE MENU" />
@@ -10,54 +51,13 @@
       <item value="SHOP CREATE NUM ERROR" />
       <item value="QUERY AMOUNT BEYOND" />
       <item value="CERTIFICATE NOT EXIST" />
-      <item value="SINGLE MATERIAL PARENT ID ERROR" />
-      <item value="APPLET STATUS AUDIT ERROR" />
-      <item value="SUB MODULES EMPTY ERROR" />
-      <item value="ADDRESS NOT FOUND ERROR" />
-      <item value="INDUSTRY DICT NOT FOUND ERROR" />
-      <item value="MASS SEND OPENID DISSATISFY ERROR" />
-      <item value="SHOP INDUSTRY NOT FOUND" />
-      <item value="APP AUTH TOKEN INVALID" />
-      <item value="STARTTIME TO ENDTIME TOO LONG" />
-      <item value="NOT SPECIFY MERCHANT" />
-      <item value="BUSINESSMAN ALREADY BINDING SAME MINI APP" />
-      <item value="BUSINESSMAN" />
-      <item value="Reads some number of bytes from the input stream and stores them into the buffer array b. The number of bytes actually read is returned as an integer. This method blocks until input data is available, end of file is detected, or an exception is thrown. If the length of b is zero, then no bytes are read and 0 is returned; otherwise, there is an attempt to read at least one byte. If no byte is available because the stream is at the end of the file, the value 1 is returned; otherwise, at least one byte is read and stored into b. The first byte read is stored into element b[0], the next one into b[1], and so on. The number of bytes read is, at most, equal to the length of b. Let k be the number of bytes actually read; these bytes will be stored in elements b[0] through b[k 1], leaving elements b[k] through b[b.length 1] unaffected." />
-      <item value="Reads some number of bytes from the input stream and stores them into the buffer array b. The number of bytes actually read is returned as an integer. This method blocks until input data is available, end of file is detected, or an exception is thrown.&#10;If the length of b is zero, then no bytes are read and 0 is returned; otherwise, there is an attempt to read at least one byte. If no byte is available because the stream is at the end of the file, the value 1 is returned; otherwise, at least one byte is read and stored into b.&#10;The first byte read is stored into element b[0], the next one into b[1], and so on. The number of bytes read is, at most, equal to the length of b. Let k be the number of bytes actually read; these bytes will be stored in elements b[0] through b[k 1], leaving elements b[k] through b[b.length 1] unaffected." />
-      <item value="update Materials" />
-      <item value="update Article" />
-      <item value="update Meterals" />
-      <item value="Health Condition" />
-      <item value="find Code Template Info By Industry Code" />
-      <item value="latest Template Info" />
-      <item value="template info" />
-      <item value="latest Applet Code ID" />
-      <item value="Applet Operation" />
-      <item value="success Map" />
-      <item value="fail Map" />
-      <item value="failth Map" />
-      <item value="release Api" />
-      <item value="release Lock Key" />
-      <item value="release" />
-      <item value="releas Lock" />
-      <item value="APPLET AUDIT LOCK" />
-      <item value="Chrono Unit" />
-      <item value="upgrade By Industry Code" />
-      <item value="audition" />
-      <item value="audit" />
-      <item value="Applet Release" />
-      <item value="release By Industry Code" />
-      <item value="release By Industry" />
-      <item value="is Specify Merchant" />
-      <item value="Specify Merchant Query" />
-      <item value="specify" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1782" />
-        <entry key="ENGLISH" value="1764" />
+        <entry key="CHINESE" value="1819" />
+        <entry key="ENGLISH" value="1800" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
-        <entry key="FRENCH" value="47" />
+        <entry key="FRENCH" value="48" />
         <entry key="PORTUGUESE" value="5" />
         <entry key="SPANISH" value="3" />
       </map>
