@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Back Stage Managment Properties" />
       <item value="Back Stage Management API" />
       <item value="Back Stage API" />
       <item value="Rabbit Queue" />
@@ -50,7 +51,6 @@
       <item value="Find Area" />
       <item value="Search Address List" />
       <item value="SSO LOGIN TOKEN ERROR" />
-      <item value="SHOP CREATE NUM ERROR" />
     </histories>
     <option name="languageScores">
       <map>
