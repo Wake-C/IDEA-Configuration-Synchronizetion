@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="backstage" />
       <item value="Back Stage Managment Properties" />
       <item value="Back Stage Management API" />
       <item value="Back Stage API" />
@@ -50,12 +51,11 @@
       <item value="NOT VERIFY RULE MENU" />
       <item value="Find Area" />
       <item value="Search Address List" />
-      <item value="SSO LOGIN TOKEN ERROR" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1819" />
-        <entry key="ENGLISH" value="1800" />
+        <entry key="CHINESE" value="1820" />
+        <entry key="ENGLISH" value="1801" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="48" />
         <entry key="PORTUGUESE" value="5" />
