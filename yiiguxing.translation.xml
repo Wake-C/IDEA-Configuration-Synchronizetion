@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Unsatisfied" />
+      <item value="find Current Login User" />
       <item value="backstage" />
       <item value="Back Stage Managment Properties" />
       <item value="Back Stage Management API" />
@@ -49,13 +51,11 @@
       <item value="UNAUTHORIZED CREATE MENU EROOR" />
       <item value="UNAUTHORIZATION CREATE MENU EROOR" />
       <item value="NOT VERIFY RULE MENU" />
-      <item value="Find Area" />
-      <item value="Search Address List" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1820" />
-        <entry key="ENGLISH" value="1801" />
+        <entry key="CHINESE" value="1822" />
+        <entry key="ENGLISH" value="1803" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="48" />
         <entry key="PORTUGUESE" value="5" />
