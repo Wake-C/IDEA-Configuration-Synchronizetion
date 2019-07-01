@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="add Path Patterns" />
       <item value="Unsatisfied" />
       <item value="find Current Login User" />
       <item value="backstage" />
@@ -50,12 +51,11 @@
       <item value="get Applet White Domain" />
       <item value="UNAUTHORIZED CREATE MENU EROOR" />
       <item value="UNAUTHORIZATION CREATE MENU EROOR" />
-      <item value="NOT VERIFY RULE MENU" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1822" />
-        <entry key="ENGLISH" value="1803" />
+        <entry key="CHINESE" value="1823" />
+        <entry key="ENGLISH" value="1804" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="48" />
         <entry key="PORTUGUESE" value="5" />
