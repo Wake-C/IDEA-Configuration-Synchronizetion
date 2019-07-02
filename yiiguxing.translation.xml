@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Temporary Redirect" />
+      <item value="Temporary" />
       <item value="add Path Patterns" />
       <item value="Unsatisfied" />
       <item value="find Current Login User" />
@@ -49,13 +51,11 @@
       <item value="network" />
       <item value="latest Template" />
       <item value="get Applet White Domain" />
-      <item value="UNAUTHORIZED CREATE MENU EROOR" />
-      <item value="UNAUTHORIZATION CREATE MENU EROOR" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1824" />
-        <entry key="ENGLISH" value="1805" />
+        <entry key="CHINESE" value="1826" />
+        <entry key="ENGLISH" value="1807" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="48" />
         <entry key="PORTUGUESE" value="5" />
