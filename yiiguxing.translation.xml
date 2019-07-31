@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="1.微信公众号消息拦截器 增加小程序回调设置" />
       <item value="SHOP BUSINESS NAME IS TOO LONG" />
       <item value="The dependencies of some of the beans in the application context form a cycle:" />
       <item value="den Shop Id Mess Age List" />
@@ -50,12 +51,11 @@
       <item value="lossing" />
       <item value="FIELD NAME TYPE LEVEL" />
       <item value="can not use balance, need authorize" />
-      <item value="H:\Development\apache maven 3.0.5\conf\settings.xml" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1838" />
-        <entry key="ENGLISH" value="1819" />
+        <entry key="ENGLISH" value="1820" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="48" />
         <entry key="PORTUGUESE" value="5" />
@@ -64,16 +64,6 @@
     </option>
   </component>
   <component name="Settings">
-    <option name="baiduTranslateSettings">
-      <app-key>
-        <option name="primaryLanguage" value="CHINESE" />
-      </app-key>
-    </option>
-    <option name="googleTranslateSettings">
-      <google-translate>
-        <option name="useTranslateGoogleCom" value="false" />
-      </google-translate>
-    </option>
     <option name="ignoreRegExp" value="[-_]" />
     <option name="overrideFont" value="true" />
     <option name="phoneticFontFamily" value="Lucida Sans Unicode" />
@@ -83,7 +73,6 @@
       <youdao-translate>
         <option name="appId" value="72daf72feb661e19" />
         <option name="appKeyConfigured" value="true" />
-        <option name="primaryLanguage" value="AUTO" />
       </youdao-translate>
     </option>
   </component>
