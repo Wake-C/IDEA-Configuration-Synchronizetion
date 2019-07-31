@@ -638,7 +638,7 @@
           <IdeaActionID>DebugClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F5'</ShortCut>
           <Description>Debug 'findSubscribeFansL...()'</Description>
-          <Count>7</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'generatorMenu()'">
@@ -1254,7 +1254,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1814</Count>
+          <Count>1817</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -3302,7 +3302,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>862</Count>
+          <Count>871</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">
