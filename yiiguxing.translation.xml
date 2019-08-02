@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="max File Size" />
       <item value="select Bus Id Pro List" />
       <item value="I Redis Pro Duct Service" />
       <item value="store Id" />
@@ -50,12 +51,11 @@
       <item value="card list" />
       <item value="Find User Member Card List" />
       <item value="cards" />
-      <item value="1." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1844" />
-        <entry key="ENGLISH" value="1825" />
+        <entry key="CHINESE" value="1845" />
+        <entry key="ENGLISH" value="1826" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="49" />
         <entry key="PORTUGUESE" value="5" />
