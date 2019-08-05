@@ -1,6 +1,6 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <option name="myShellPath" value="H:\portableSoftWare\cmder\cmder_shell.bat" />
+    <option name="myShellPath" value="/Applications/iTerm.app/Contents/MacOS/iTerm2" />
     <option name="myTabName" value="easyGo" />
   </component>
 </application>
