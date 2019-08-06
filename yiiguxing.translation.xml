@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Hello" />
+      <item value="hello" />
       <item value="1.微信公众号消息拦截器 增加小程序回调设置" />
       <item value="SHOP BUSINESS NAME IS TOO LONG" />
       <item value="The dependencies of some of the beans in the application context form a cycle:" />
@@ -49,13 +51,11 @@
       <item value="invalid serial code" />
       <item value="lose" />
       <item value="lossing" />
-      <item value="FIELD NAME TYPE LEVEL" />
-      <item value="can not use balance, need authorize" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1838" />
-        <entry key="ENGLISH" value="1820" />
+        <entry key="CHINESE" value="1840" />
+        <entry key="ENGLISH" value="1822" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="48" />
         <entry key="PORTUGUESE" value="5" />
