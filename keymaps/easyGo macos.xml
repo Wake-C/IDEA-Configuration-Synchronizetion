@@ -93,12 +93,24 @@
   <action id="ManageRecentProjects">
     <keyboard-shortcut first-keystroke="shift ctrl alt o" />
   </action>
+  <action id="MethodDown">
+    <keyboard-shortcut first-keystroke="alt down" />
+    <keyboard-shortcut first-keystroke="meta down" />
+  </action>
+  <action id="MethodUp">
+    <keyboard-shortcut first-keystroke="alt up" />
+    <keyboard-shortcut first-keystroke="meta up" />
+  </action>
   <action id="OpenFile">
     <keyboard-shortcut first-keystroke="shift ctrl o" />
   </action>
   <action id="PopupHector" />
   <action id="RunAnything">
     <keyboard-shortcut first-keystroke="shift ctrl alt f11" />
+  </action>
+  <action id="ShowIntentionActions">
+    <keyboard-shortcut first-keystroke="alt enter" />
+    <keyboard-shortcut first-keystroke="meta enter" />
   </action>
   <action id="TailMyBatisLog" />
   <action id="ToggleFullScreen">
