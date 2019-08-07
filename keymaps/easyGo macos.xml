@@ -1,8 +1,12 @@
-<keymap version="1" name="easyGo" parent="$default">
+<keymap version="1" name="easyGo macos" parent="$default">
   <action id="$EditorTranslateAction">
     <keyboard-shortcut first-keystroke="shift ctrl alt z" />
   </action>
   <action id="$ShowTranslationDialogAction" />
+  <action id="CallHierarchy">
+    <keyboard-shortcut first-keystroke="ctrl alt h" />
+    <keyboard-shortcut first-keystroke="ctrl meta h" />
+  </action>
   <action id="ChangesView.AddUnversioned">
     <keyboard-shortcut first-keystroke="shift ctrl alt q" />
   </action>
@@ -70,6 +74,11 @@
     <mouse-shortcut keystroke="control button1" />
     <mouse-shortcut keystroke="button2" />
     <mouse-shortcut keystroke="meta button1" />
+  </action>
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="ctrl alt b" />
+    <mouse-shortcut keystroke="control alt button1" />
+    <keyboard-shortcut first-keystroke="ctrl meta b" />
   </action>
   <action id="Gradle.AddGradleDslDependencyAction">
     <keyboard-shortcut first-keystroke="shift m" />
