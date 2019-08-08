@@ -1,6 +1,14 @@
 <keymap version="1" name="easyGo macos" parent="$default">
+  <action id="$Copy">
+    <keyboard-shortcut first-keystroke="ctrl c" />
+    <keyboard-shortcut first-keystroke="meta c" />
+  </action>
   <action id="$EditorTranslateAction">
     <keyboard-shortcut first-keystroke="shift ctrl alt z" />
+  </action>
+  <action id="$Paste">
+    <keyboard-shortcut first-keystroke="ctrl v" />
+    <keyboard-shortcut first-keystroke="meta v" />
   </action>
   <action id="$ShowTranslationDialogAction" />
   <action id="ActivateProjectToolWindow">
@@ -16,6 +24,7 @@
   </action>
   <action id="CheckinProject">
     <keyboard-shortcut first-keystroke="shift ctrl alt e" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta e" />
   </action>
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="ctrl alt x" />
@@ -23,11 +32,18 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
+  <action id="CopyWithoutSelect" />
   <action id="DebugClass">
     <keyboard-shortcut first-keystroke="shift ctrl f5" />
   </action>
+  <action id="Editor Copy">
+    <keyboard-shortcut first-keystroke="meta c" />
+  </action>
   <action id="Editor EditorTranslateAction">
     <keyboard-shortcut first-keystroke="shift ctrl alt z" />
+  </action>
+  <action id="Editor Paste">
+    <keyboard-shortcut first-keystroke="meta v" />
   </action>
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl y" />
@@ -105,6 +121,9 @@
     <keyboard-shortcut first-keystroke="alt up" />
     <keyboard-shortcut first-keystroke="meta up" />
   </action>
+  <action id="NewElementInMenuGroup">
+    <keyboard-shortcut first-keystroke="meta back_slash" />
+  </action>
   <action id="OpenFile">
     <keyboard-shortcut first-keystroke="shift ctrl o" />
   </action>
@@ -137,13 +156,12 @@
   </action>
   <action id="Vcs.ShowTabbedFileHistory">
     <keyboard-shortcut first-keystroke="shift ctrl alt h" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta h" />
   </action>
   <action id="XPathView.Actions.Evaluate" />
   <action id="XPathView.Actions.FindByExpression" />
   <action id="XPathView.Actions.ShowPath" />
   <action id="emacsIDEAs.AceJumpWord">
-    <keyboard-shortcut first-keystroke="meta l" />
-    <keyboard-shortcut first-keystroke="meta i" second-keystroke="meta f" />
     <keyboard-shortcut first-keystroke="shift j" />
   </action>
 </keymap>
