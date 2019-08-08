@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="footer" />
       <item value="conver From" />
       <item value="conver To" />
       <item value="conver" />
@@ -50,12 +51,11 @@
       <item value="current Release Version" />
       <item value="Temporary Redirect" />
       <item value="Temporary" />
-      <item value="add Path Patterns" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1873" />
-        <entry key="ENGLISH" value="1854" />
+        <entry key="CHINESE" value="1874" />
+        <entry key="ENGLISH" value="1855" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="49" />
         <entry key="PORTUGUESE" value="5" />
