@@ -1,13 +1,30 @@
-<keymap version="1" name="easyGo" parent="$default">
+<keymap version="1" name="easyGo macos" parent="$default">
+  <action id="$Copy">
+    <keyboard-shortcut first-keystroke="ctrl c" />
+    <keyboard-shortcut first-keystroke="meta c" />
+  </action>
   <action id="$EditorTranslateAction">
     <keyboard-shortcut first-keystroke="shift ctrl alt z" />
   </action>
+  <action id="$Paste">
+    <keyboard-shortcut first-keystroke="ctrl v" />
+    <keyboard-shortcut first-keystroke="meta v" />
+  </action>
   <action id="$ShowTranslationDialogAction" />
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="alt 1" />
+    <keyboard-shortcut first-keystroke="meta 1" />
+  </action>
+  <action id="CallHierarchy">
+    <keyboard-shortcut first-keystroke="ctrl alt h" />
+    <keyboard-shortcut first-keystroke="ctrl meta h" />
+  </action>
   <action id="ChangesView.AddUnversioned">
     <keyboard-shortcut first-keystroke="shift ctrl alt q" />
   </action>
   <action id="CheckinProject">
     <keyboard-shortcut first-keystroke="shift ctrl alt e" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta e" />
   </action>
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="ctrl alt x" />
@@ -15,11 +32,18 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
+  <action id="CopyWithoutSelect" />
   <action id="DebugClass">
     <keyboard-shortcut first-keystroke="shift ctrl f5" />
   </action>
+  <action id="Editor Copy">
+    <keyboard-shortcut first-keystroke="meta c" />
+  </action>
   <action id="Editor EditorTranslateAction">
     <keyboard-shortcut first-keystroke="shift ctrl alt z" />
+  </action>
+  <action id="Editor Paste">
+    <keyboard-shortcut first-keystroke="meta v" />
   </action>
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl y" />
@@ -65,6 +89,17 @@
   <action id="Git.RepositoryContextMenu">
     <keyboard-shortcut first-keystroke="shift ctrl alt y" />
   </action>
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="ctrl b" />
+    <mouse-shortcut keystroke="control button1" />
+    <mouse-shortcut keystroke="button2" />
+    <mouse-shortcut keystroke="meta button1" />
+  </action>
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="ctrl alt b" />
+    <mouse-shortcut keystroke="control alt button1" />
+    <keyboard-shortcut first-keystroke="ctrl meta b" />
+  </action>
   <action id="Gradle.AddGradleDslDependencyAction">
     <keyboard-shortcut first-keystroke="shift m" />
   </action>
@@ -78,12 +113,38 @@
   <action id="ManageRecentProjects">
     <keyboard-shortcut first-keystroke="shift ctrl alt o" />
   </action>
+  <action id="MethodDown">
+    <keyboard-shortcut first-keystroke="alt down" />
+    <keyboard-shortcut first-keystroke="meta down" />
+  </action>
+  <action id="MethodUp">
+    <keyboard-shortcut first-keystroke="alt up" />
+    <keyboard-shortcut first-keystroke="meta up" />
+  </action>
+  <action id="NewElementInMenuGroup">
+    <keyboard-shortcut first-keystroke="meta back_slash" />
+  </action>
   <action id="OpenFile">
     <keyboard-shortcut first-keystroke="shift ctrl o" />
   </action>
   <action id="PopupHector" />
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
+    <keyboard-shortcut first-keystroke="ctrl meta l" />
+  </action>
   <action id="RunAnything">
     <keyboard-shortcut first-keystroke="shift ctrl alt f11" />
+  </action>
+  <action id="SelectIn">
+    <keyboard-shortcut first-keystroke="alt f1" />
+    <keyboard-shortcut first-keystroke="meta f1" />
+  </action>
+  <action id="ShowIntentionActions">
+    <keyboard-shortcut first-keystroke="alt enter" />
+    <keyboard-shortcut first-keystroke="meta enter" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="shift ctrl meta w" />
   </action>
   <action id="TailMyBatisLog" />
   <action id="ToggleFullScreen">
@@ -95,13 +156,12 @@
   </action>
   <action id="Vcs.ShowTabbedFileHistory">
     <keyboard-shortcut first-keystroke="shift ctrl alt h" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta h" />
   </action>
   <action id="XPathView.Actions.Evaluate" />
   <action id="XPathView.Actions.FindByExpression" />
   <action id="XPathView.Actions.ShowPath" />
   <action id="emacsIDEAs.AceJumpWord">
-    <keyboard-shortcut first-keystroke="meta l" />
-    <keyboard-shortcut first-keystroke="meta i" second-keystroke="meta f" />
     <keyboard-shortcut first-keystroke="shift j" />
   </action>
 </keymap>
