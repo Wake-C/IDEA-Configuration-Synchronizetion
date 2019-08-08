@@ -37,4 +37,10 @@
     <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="VAR2" expression="" defaultValue="" alwaysStopAt="true" />
   </template>
+  <template name="anc" value="/**&#10;* $VAR1$&#10;* @author zhanbing&#10;* @date 2019-08-08 &#10;*/ " description="类基本注解" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>

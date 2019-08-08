@@ -15,6 +15,11 @@
     <keyboard-shortcut first-keystroke="alt 1" />
     <keyboard-shortcut first-keystroke="meta 1" />
   </action>
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="ctrl meta left" />
+  </action>
   <action id="CallHierarchy">
     <keyboard-shortcut first-keystroke="ctrl alt h" />
     <keyboard-shortcut first-keystroke="ctrl meta h" />
@@ -83,6 +88,11 @@
     <keyboard-shortcut first-keystroke="shift s" />
   </action>
   <action id="EditorScrollUp" />
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="ctrl meta right" />
+  </action>
   <action id="Git.Pull">
     <keyboard-shortcut first-keystroke="shift ctrl alt p" />
   </action>

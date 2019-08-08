@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="conver From" />
+      <item value="conver To" />
+      <item value="conver" />
+      <item value="covert Form" />
       <item value="See the full documentation for more details" />
       <item value="this annotation also has the {@code onConstructor} parameter" />
       <item value="listed" />
@@ -47,15 +51,11 @@
       <item value="Temporary Redirect" />
       <item value="Temporary" />
       <item value="add Path Patterns" />
-      <item value="Unsatisfied" />
-      <item value="find Current Login User" />
-      <item value="backstage" />
-      <item value="Back Stage Managment Properties" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1869" />
-        <entry key="ENGLISH" value="1850" />
+        <entry key="CHINESE" value="1873" />
+        <entry key="ENGLISH" value="1854" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="49" />
         <entry key="PORTUGUESE" value="5" />
