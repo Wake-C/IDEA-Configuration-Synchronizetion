@@ -8,6 +8,10 @@
       <conditions />
       <template name="fakeKey" value=" ObjectUtils.isEmpty($EXPR$)" toReformat="true" toShortenFQNames="true" />
     </template>
+    <template id="isnull@userDefined" key=".isnull" provider="builtin.java" language-level="8" topmost="false">
+      <conditions />
+      <template name="fakeKey" value="Objects.isNull($EXPR$)" toReformat="true" toShortenFQNames="true" />
+    </template>
     <template id="nob@userDefined" key=".nob" provider="builtin.java" language-level="1.3" topmost="true">
       <conditions>
         <condition id="notPrimitive" />
