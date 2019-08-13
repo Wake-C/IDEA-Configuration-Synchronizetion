@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Integrate the remote changes (e.g." />
+      <item value="its remote counterpart" />
+      <item value="counterpart" />
       <item value="Presale" />
       <item value="maint.deeptel.com.cn" />
       <item value="footer" />
@@ -48,14 +51,11 @@
       <item value="token Out Fanout Exchange" />
       <item value="Shutdown Signal Exception" />
       <item value="Blocking Queue Consumer$Declaration Exception" />
-      <item value="audit Status" />
-      <item value="poetry" />
-      <item value="current Release Version" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1876" />
-        <entry key="ENGLISH" value="1856" />
+        <entry key="CHINESE" value="1879" />
+        <entry key="ENGLISH" value="1859" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="50" />
         <entry key="PORTUGUESE" value="5" />
