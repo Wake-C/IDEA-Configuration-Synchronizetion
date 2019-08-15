@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Custom" />
       <item value="Field refers to fields of regular Java objects. Although * they are not really methods, addition of optional field discovery * in version 1.1 meant that there was need to enable/disable * their auto detection, and this is the place to add it in." />
       <item value="monster" />
       <item value="deserialization List" />
@@ -50,11 +51,10 @@
       <item value="this annotation also has the {@code onConstructor} parameter" />
       <item value="listed" />
       <item value="Even though it is not listed" />
-      <item value="though" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1907" />
+        <entry key="CHINESE" value="1908" />
         <entry key="ENGLISH" value="1884" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="50" />
