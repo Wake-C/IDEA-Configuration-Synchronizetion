@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="pass away" />
+      <item value="died" />
       <item value="Custom" />
       <item value="Field refers to fields of regular Java objects. Although * they are not really methods, addition of optional field discovery * in version 1.1 meant that there was need to enable/disable * their auto detection, and this is the place to add it in." />
       <item value="monster" />
@@ -49,13 +51,11 @@
       <item value="covert Form" />
       <item value="See the full documentation for more details" />
       <item value="this annotation also has the {@code onConstructor} parameter" />
-      <item value="listed" />
-      <item value="Even though it is not listed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1908" />
-        <entry key="ENGLISH" value="1884" />
+        <entry key="CHINESE" value="1910" />
+        <entry key="ENGLISH" value="1886" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="50" />
         <entry key="PORTUGUESE" value="5" />
