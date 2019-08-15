@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="deserialization List" />
+      <item value="de Serialization List" />
+      <item value="de Serializalist" />
       <item value="my Data" />
       <item value="Access setting that means that the property will be accessed for both * serialization (writing out values as external representation) * and deserialization (reading values from external representation), * regardless of visibility rules." />
       <item value="Property that indicates numerical index of this property (relative * to other properties specified for the Object). This index * is typically used by binary formats, but may also be useful * for schema languages and other tools." />
@@ -48,14 +51,11 @@
       <item value="though" />
       <item value="Required arguments are final fields and fields with constraints such as" />
       <item value="equired arguments." />
-      <item value="List of annotations to apply to the generated constructor." />
-      <item value="on Constructor" />
-      <item value="note the underscore after" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1902" />
-        <entry key="ENGLISH" value="1879" />
+        <entry key="CHINESE" value="1905" />
+        <entry key="ENGLISH" value="1882" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="50" />
         <entry key="PORTUGUESE" value="5" />
