@@ -1,5 +1,7 @@
 <templateSet group="Zen XSL">
-  <template name="an" value="aa" description="aa" toReformat="false" toShortenFQNames="true">
+  <template name="pri" value="/**&#10; *  $VAR1$&#10; */&#10;private Integer $VAR2$;&#10;&#10;$END$" description="private Integer 带注释" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR2" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
