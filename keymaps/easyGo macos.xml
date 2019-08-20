@@ -64,7 +64,7 @@
   </action>
   <action id="EditorDown">
     <keyboard-shortcut first-keystroke="down" />
-    <keyboard-shortcut first-keystroke="shift i" />
+    <keyboard-shortcut first-keystroke="shift u" />
   </action>
   <action id="EditorDuplicateLines">
     <keyboard-shortcut first-keystroke="ctrl down" />
@@ -95,7 +95,7 @@
   <action id="EditorScrollUp" />
   <action id="EditorUp">
     <keyboard-shortcut first-keystroke="up" />
-    <keyboard-shortcut first-keystroke="shift u" />
+    <keyboard-shortcut first-keystroke="shift i" />
   </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="ctrl alt right" />
