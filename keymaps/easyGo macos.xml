@@ -62,6 +62,10 @@
     <keyboard-shortcut first-keystroke="ctrl y" />
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
+  <action id="EditorDown">
+    <keyboard-shortcut first-keystroke="down" />
+    <keyboard-shortcut first-keystroke="shift i" />
+  </action>
   <action id="EditorDuplicateLines">
     <keyboard-shortcut first-keystroke="ctrl down" />
   </action>
@@ -73,16 +77,9 @@
   <action id="EditorMoveDownAndScroll">
     <keyboard-shortcut first-keystroke="shift o" />
   </action>
-  <action id="EditorMoveUpAndScroll">
-    <keyboard-shortcut first-keystroke="shift u" />
-  </action>
   <action id="EditorPageDown">
     <keyboard-shortcut first-keystroke="page_down" />
     <keyboard-shortcut first-keystroke="shift k" />
-  </action>
-  <action id="EditorPageUp">
-    <keyboard-shortcut first-keystroke="page_up" />
-    <keyboard-shortcut first-keystroke="shift i" />
   </action>
   <action id="EditorRight">
     <keyboard-shortcut first-keystroke="right" />
@@ -96,6 +93,10 @@
     <keyboard-shortcut first-keystroke="shift s" />
   </action>
   <action id="EditorScrollUp" />
+  <action id="EditorUp">
+    <keyboard-shortcut first-keystroke="up" />
+    <keyboard-shortcut first-keystroke="shift u" />
+  </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="ctrl alt right" />
     <mouse-shortcut keystroke="button5" />
@@ -167,9 +168,15 @@
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="shift ctrl meta w" />
   </action>
+  <action id="Table-scrollUpChangeSelection">
+    <keyboard-shortcut first-keystroke="page_up" />
+  </action>
   <action id="TailMyBatisLog" />
   <action id="ToggleFullScreen">
     <keyboard-shortcut first-keystroke="shift ctrl f11" />
+  </action>
+  <action id="Tree-scrollUpChangeSelection">
+    <keyboard-shortcut first-keystroke="page_up" />
   </action>
   <action id="Vcs.Push">
     <keyboard-shortcut first-keystroke="shift ctrl k" />
