@@ -77,9 +77,17 @@
   <action id="EditorMoveDownAndScroll">
     <keyboard-shortcut first-keystroke="shift o" />
   </action>
+  <action id="EditorNextWord">
+    <keyboard-shortcut first-keystroke="ctrl right" />
+    <keyboard-shortcut first-keystroke="meta right" />
+  </action>
   <action id="EditorPageDown">
     <keyboard-shortcut first-keystroke="page_down" />
     <keyboard-shortcut first-keystroke="shift k" />
+  </action>
+  <action id="EditorPreviousWord">
+    <keyboard-shortcut first-keystroke="ctrl left" />
+    <keyboard-shortcut first-keystroke="meta left" />
   </action>
   <action id="EditorRight">
     <keyboard-shortcut first-keystroke="right" />
