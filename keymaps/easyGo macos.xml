@@ -16,7 +16,9 @@
     <keyboard-shortcut first-keystroke="meta v" />
   </action>
   <action id="$ShowTranslationDialogAction" />
-  <action id="ActivateProjectToolWindow" />
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="meta 1" />
+  </action>
   <action id="Back">
     <keyboard-shortcut first-keystroke="ctrl alt left" />
     <mouse-shortcut keystroke="button4" />
