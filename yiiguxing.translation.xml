@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="acquired" />
+      <item value="at least 0 redeploys/restarts saving you about 0 hours." />
+      <item value="Over the last 1 days JRebel prevented" />
       <item value="Mall Eticket Group Service" />
       <item value="Push has been cancelled, because there were conflicts during update. Check that conflicts were resolved correctly, and invoke push again." />
       <item value="t mall specifica" />
@@ -48,14 +51,11 @@
       <item value="Enum" />
       <item value="GREEN" />
       <item value="YELLO" />
-      <item value="example" />
-      <item value="Integrate the remote changes (e.g." />
-      <item value="its remote counterpart" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1922" />
-        <entry key="ENGLISH" value="1896" />
+        <entry key="CHINESE" value="1925" />
+        <entry key="ENGLISH" value="1899" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="50" />
         <entry key="PORTUGUESE" value="5" />
