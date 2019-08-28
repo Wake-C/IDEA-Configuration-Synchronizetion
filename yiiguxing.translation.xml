@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="creation" />
+      <item value="create" />
+      <item value="Eticket Controller" />
+      <item value="Eticket" />
+      <item value="Eticket Controoler" />
       <item value="acquired" />
       <item value="at least 0 redeploys/restarts saving you about 0 hours." />
       <item value="Over the last 1 days JRebel prevented" />
@@ -46,16 +51,11 @@
       <item value="Saturday" />
       <item value="Wednesday" />
       <item value="Wednessday" />
-      <item value="Thursday" />
-      <item value="Weekend Enum" />
-      <item value="Enum" />
-      <item value="GREEN" />
-      <item value="YELLO" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1925" />
-        <entry key="ENGLISH" value="1899" />
+        <entry key="CHINESE" value="1931" />
+        <entry key="ENGLISH" value="1905" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="50" />
         <entry key="PORTUGUESE" value="5" />
