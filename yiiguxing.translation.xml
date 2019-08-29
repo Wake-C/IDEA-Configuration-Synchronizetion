@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="IDEA does not have write access to /Applications/IntelliJ IDEA.app/Contents. Please run it by a privileged user to update" />
+      <item value="Fixed the regression: the IDE can now launch Websphere Run/Debug configurations: IDEA 219014. IntelliJ IDEA now properly resolves Maven dependencies added outside of the IDE: IDEA 219033." />
+      <item value="Fixed the regression: the IDE can now launch Websphere Run/Debug configurations: IDEA 219014.&#10;IntelliJ IDEA now properly resolves Maven dependencies added outside of the IDE: IDEA 219033." />
       <item value="The {@link #value} is optional and represents an order value as defined in the * {@link Ordered} interface. Lower values have higher priority. The default value is * {@code Ordered.LOWEST PRECEDENCE}, indicating lowest priority (losing to any other * specified order value)." />
       <item value="creation" />
       <item value="create" />
@@ -48,13 +51,10 @@
       <item value="INFER CREATOR FROM CONSTRUCTOR PROPERTIES" />
       <item value="a logical property." />
       <item value="AUTO DETECT SETTERS" />
-      <item value="mall" />
-      <item value="Saturday" />
-      <item value="Wednesday" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1932" />
+        <entry key="CHINESE" value="1934" />
         <entry key="ENGLISH" value="1906" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="50" />
