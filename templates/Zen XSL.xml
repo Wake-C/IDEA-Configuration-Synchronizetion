@@ -17,4 +17,10 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="pf" value="private final $VAR2$;" description="private final" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
