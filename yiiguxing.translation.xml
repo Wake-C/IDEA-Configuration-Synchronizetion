@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Redis" />
+      <item value="Eticket Redis Constant" />
       <item value="I Redis Eticket Service" />
       <item value="Mall Eticket Service Impl" />
       <item value="Mall E Ticket Service Impl" />
@@ -49,15 +51,13 @@
       <item value="ANNOTATION TYPE" />
       <item value="Element Type" />
       <item value="FIELD" />
-      <item value="Json Property" />
-      <item value="CAN OVERRIDE ACCESS MODIFIERS" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1938" />
+        <entry key="CHINESE" value="1940" />
         <entry key="ENGLISH" value="1910" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
-        <entry key="FRENCH" value="50" />
+        <entry key="FRENCH" value="52" />
         <entry key="PORTUGUESE" value="5" />
         <entry key="SPANISH" value="3" />
       </map>
