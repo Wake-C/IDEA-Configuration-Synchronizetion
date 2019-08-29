@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="I Redis Eticket Service" />
+      <item value="Mall Eticket Service Impl" />
+      <item value="Mall E Ticket Service Impl" />
       <item value="IDEA does not have write access to /Applications/IntelliJ IDEA.app/Contents. Please run it by a privileged user to update" />
       <item value="Fixed the regression: the IDE can now launch Websphere Run/Debug configurations: IDEA 219014. IntelliJ IDEA now properly resolves Maven dependencies added outside of the IDE: IDEA 219033." />
       <item value="Fixed the regression: the IDE can now launch Websphere Run/Debug configurations: IDEA 219014.&#10;IntelliJ IDEA now properly resolves Maven dependencies added outside of the IDE: IDEA 219033." />
@@ -48,14 +51,11 @@
       <item value="FIELD" />
       <item value="Json Property" />
       <item value="CAN OVERRIDE ACCESS MODIFIERS" />
-      <item value="INFER CREATOR FROM CONSTRUCTOR PROPERTIES" />
-      <item value="a logical property." />
-      <item value="AUTO DETECT SETTERS" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1934" />
-        <entry key="ENGLISH" value="1906" />
+        <entry key="CHINESE" value="1938" />
+        <entry key="ENGLISH" value="1910" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="50" />
         <entry key="PORTUGUESE" value="5" />
