@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Mybatis Blob Type Handler" />
       <item value="Redis" />
       <item value="Eticket Redis Constant" />
       <item value="I Redis Eticket Service" />
@@ -50,11 +51,10 @@
       <item value="field" />
       <item value="ANNOTATION TYPE" />
       <item value="Element Type" />
-      <item value="FIELD" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1940" />
+        <entry key="CHINESE" value="1941" />
         <entry key="ENGLISH" value="1910" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="52" />
