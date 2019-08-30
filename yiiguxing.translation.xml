@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="batch Delete Classify" />
       <item value="Mybatis Blob Type Handler" />
       <item value="Redis" />
       <item value="Eticket Redis Constant" />
@@ -50,12 +51,11 @@
       <item value="Marker annotation that can be used to define a non static * method as a &quot;setter&quot; or &quot;getter&quot; for a logical property * (depending on its signature), * or non static object field to be used (serialized, deserialized) as * a logical property." />
       <item value="field" />
       <item value="ANNOTATION TYPE" />
-      <item value="Element Type" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1941" />
-        <entry key="ENGLISH" value="1910" />
+        <entry key="CHINESE" value="1942" />
+        <entry key="ENGLISH" value="1911" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="52" />
         <entry key="PORTUGUESE" value="5" />
