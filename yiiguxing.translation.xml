@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="DataSourceBeanCreationException: Failed to determine a suitable driver class" />
       <item value="provided" />
       <item value="batch Delete Classify" />
       <item value="Mybatis Blob Type Handler" />
@@ -50,12 +51,11 @@
       <item value="indicates" />
       <item value="Default value (&quot;&quot;) indicates that the field name is used * as the property name without any modifications, but it * can be specified to non empty value to specify different * name. Property name refers to name used externally, as * the field name in JSON objects." />
       <item value="Marker annotation that can be used to define a non static * method as a &quot;setter&quot; or &quot;getter&quot; for a logical property * (depending on its signature), * or non static object field to be used (serialized, deserialized) as * a logical property." />
-      <item value="field" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1943" />
-        <entry key="ENGLISH" value="1912" />
+        <entry key="CHINESE" value="1944" />
+        <entry key="ENGLISH" value="1913" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="52" />
         <entry key="PORTUGUESE" value="5" />
