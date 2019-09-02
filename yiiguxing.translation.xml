@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Failed to load ApplicationContext" />
       <item value="embedded" />
       <item value="Failed to configure a DataSource: 'url' attribute is not specified and no embedded datasource could be configured." />
       <item value="main" />
@@ -50,12 +51,11 @@
       <item value="Property that indicates whether a value (which may be explicit * null) is expected for property during deserialization or not. * If expected, &lt;code&gt;BeanDeserialized&lt;/code&gt; should indicate * this as a validity problem (usually by throwing an exception, * but this may be sent via problem handlers that can try to * rectify the problem, for example, by supplying a default * value). *&lt;p&gt; * Note that as of 2.6, this property is only used for Creator * Properties, to ensure existence of property value in JSON: * for other properties (ones injected using a setter or mutable * field), no validation is performed. Support for those cases * may be added in future. * State of this property is exposed via introspection, and its * value is typically used by Schema generators, such as one for * JSON Schema." />
       <item value="Defines name of the logical property, i.e. JSON object field * name to use for the property. If value is empty String (which is the * default), will try to use name of the field that is annotated. * Note that there is * &lt;b&gt;no default name available for constructor arguments&lt;/b&gt;, * meaning that * &lt;b&gt;Empty String is not a valid value for constructor arguments&lt;/b&gt;." />
       <item value="arker value used to indicate that no index has been specified. * Used as the default value as annotations do not allow &quot;missing&quot; * values." />
-      <item value="name (derived from method or field name) for property." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1948" />
-        <entry key="ENGLISH" value="1917" />
+        <entry key="CHINESE" value="1949" />
+        <entry key="ENGLISH" value="1918" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="52" />
         <entry key="PORTUGUESE" value="5" />
