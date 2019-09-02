@@ -66,21 +66,10 @@
     <keyboard-shortcut first-keystroke="alt d" />
     <keyboard-shortcut first-keystroke="meta y" />
   </action>
-  <action id="EditorDown">
-    <keyboard-shortcut first-keystroke="down" />
-    <keyboard-shortcut first-keystroke="shift u" />
-  </action>
   <action id="EditorDuplicateLines">
     <keyboard-shortcut first-keystroke="ctrl down" />
   </action>
-  <action id="EditorLeft">
-    <keyboard-shortcut first-keystroke="left" />
-    <keyboard-shortcut first-keystroke="shift h" />
-  </action>
   <action id="EditorLookupDown" />
-  <action id="EditorMoveDownAndScroll">
-    <keyboard-shortcut first-keystroke="shift o" />
-  </action>
   <action id="EditorNextWord">
     <keyboard-shortcut first-keystroke="ctrl right" />
     <keyboard-shortcut first-keystroke="meta right" />
@@ -93,10 +82,6 @@
     <keyboard-shortcut first-keystroke="ctrl left" />
     <keyboard-shortcut first-keystroke="meta left" />
   </action>
-  <action id="EditorRight">
-    <keyboard-shortcut first-keystroke="right" />
-    <keyboard-shortcut first-keystroke="shift l" />
-  </action>
   <action id="EditorScrollBottom">
     <keyboard-shortcut first-keystroke="shift meta d" />
   </action>
@@ -105,10 +90,6 @@
     <keyboard-shortcut first-keystroke="shift meta s" />
   </action>
   <action id="EditorScrollUp" />
-  <action id="EditorUp">
-    <keyboard-shortcut first-keystroke="up" />
-    <keyboard-shortcut first-keystroke="shift i" />
-  </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="ctrl alt right" />
     <mouse-shortcut keystroke="button5" />
