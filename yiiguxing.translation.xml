@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="eticket Id" />
       <item value="Eticket Inventory" />
       <item value="Com Eticket Inventory Service" />
       <item value="save Basic Info" />
@@ -50,12 +51,11 @@
       <item value="In the sample above the condition will match if no bean of type {@code MyService} is * already contained in the" />
       <item value="When placed on a {@code @Bean} method, the bean class defaults to the return type of * the factory method" />
       <item value="When placed on a {@code @Bean} method, the bean class defaults to the return type of * the factory method:" />
-      <item value="that only matches when the specified bean classes and/or names are * not already contained in the" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1967" />
-        <entry key="ENGLISH" value="1935" />
+        <entry key="CHINESE" value="1968" />
+        <entry key="ENGLISH" value="1936" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="53" />
         <entry key="PORTUGUESE" value="5" />
