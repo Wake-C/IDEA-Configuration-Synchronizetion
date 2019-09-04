@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="save Basic Info" />
       <item value="ticket Specification Param" />
       <item value="Eticket Specification Param" />
       <item value="Detail" />
@@ -50,12 +51,11 @@
       <item value="that only matches when the specified bean classes and/or names are * not already contained in the" />
       <item value="In the sample above the condition will match if no bean of type {@code MyService} is * already contained in the {@link BeanFactory}." />
       <item value="conditional" />
-      <item value="pass away" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1966" />
-        <entry key="ENGLISH" value="1934" />
+        <entry key="CHINESE" value="1967" />
+        <entry key="ENGLISH" value="1935" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="53" />
         <entry key="PORTUGUESE" value="5" />
