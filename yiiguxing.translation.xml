@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="lventory" />
+      <item value="Iventory" />
+      <item value="eticket Iventory" />
+      <item value="IVENTORY" />
+      <item value="ETICKET IVENTORY LIST" />
       <item value="java error in idea" />
       <item value="Eticket Group Param" />
       <item value="group Id" />
@@ -46,16 +51,11 @@
       <item value="The {@link #value} is optional and represents an order value as defined in the * {@link Ordered} interface. Lower values have higher priority. The default value is * {@code Ordered.LOWEST PRECEDENCE}, indicating lowest priority (losing to any other * specified order value)." />
       <item value="creation" />
       <item value="create" />
-      <item value="Eticket Controller" />
-      <item value="Eticket" />
-      <item value="Eticket Controoler" />
-      <item value="acquired" />
-      <item value="at least 0 redeploys/restarts saving you about 0 hours." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1978" />
-        <entry key="ENGLISH" value="1946" />
+        <entry key="CHINESE" value="1984" />
+        <entry key="ENGLISH" value="1952" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="53" />
         <entry key="PORTUGUESE" value="5" />
