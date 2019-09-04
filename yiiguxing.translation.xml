@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="save Inventorys" />
       <item value="eticket Id" />
       <item value="Eticket Inventory" />
       <item value="Com Eticket Inventory Service" />
@@ -50,12 +51,11 @@
       <item value="The condition can only match the bean definitions that have been processed by the * application context so far and, as such, it is strongly recommended to use this * condition on auto configuration classes only. If a candidate bean may be created by * another auto configuration, make sure that the one using this condition runs after." />
       <item value="In the sample above the condition will match if no bean of type {@code MyService} is * already contained in the" />
       <item value="When placed on a {@code @Bean} method, the bean class defaults to the return type of * the factory method" />
-      <item value="When placed on a {@code @Bean} method, the bean class defaults to the return type of * the factory method:" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1968" />
-        <entry key="ENGLISH" value="1936" />
+        <entry key="CHINESE" value="1969" />
+        <entry key="ENGLISH" value="1937" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="53" />
         <entry key="PORTUGUESE" value="5" />
