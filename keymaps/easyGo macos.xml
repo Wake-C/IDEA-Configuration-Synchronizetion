@@ -178,6 +178,7 @@
   <action id="XPathView.Actions.Evaluate" />
   <action id="XPathView.Actions.FindByExpression" />
   <action id="XPathView.Actions.ShowPath" />
+  <action id="emacsIDEAs.AceJump" />
   <action id="emacsIDEAs.AceJumpMove.Block" />
   <action id="emacsIDEAs.AceJumpMove.Group" />
   <action id="emacsIDEAs.AceJumpMove.Line" />
@@ -190,6 +191,6 @@
   <action id="emacsIDEAs.AceJumpMove.ToParagraphStart" />
   <action id="emacsIDEAs.AceJumpMove.Word" />
   <action id="emacsIDEAs.AceJumpWord">
-    <keyboard-shortcut first-keystroke="shift j" />
+    <keyboard-shortcut first-keystroke="meta j" />
   </action>
 </keymap>
