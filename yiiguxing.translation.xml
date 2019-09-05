@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="cache Value" />
       <item value="lventory" />
       <item value="Iventory" />
       <item value="eticket Iventory" />
@@ -50,12 +51,11 @@
       <item value="Fixed the regression: the IDE can now launch Websphere Run/Debug configurations: IDEA 219014.&#10;IntelliJ IDEA now properly resolves Maven dependencies added outside of the IDE: IDEA 219033." />
       <item value="The {@link #value} is optional and represents an order value as defined in the * {@link Ordered} interface. Lower values have higher priority. The default value is * {@code Ordered.LOWEST PRECEDENCE}, indicating lowest priority (losing to any other * specified order value)." />
       <item value="creation" />
-      <item value="create" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1984" />
-        <entry key="ENGLISH" value="1952" />
+        <entry key="CHINESE" value="1985" />
+        <entry key="ENGLISH" value="1953" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="53" />
         <entry key="PORTUGUESE" value="5" />
