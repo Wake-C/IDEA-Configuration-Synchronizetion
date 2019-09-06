@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Before" />
       <item value="exclusion" />
       <item value="CACHE TIME" />
       <item value="ops For Value" />
@@ -50,12 +51,11 @@
       <item value="Mybatis Blob Type Handler" />
       <item value="Redis" />
       <item value="Eticket Redis Constant" />
-      <item value="I Redis Eticket Service" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1994" />
-        <entry key="ENGLISH" value="1959" />
+        <entry key="CHINESE" value="1995" />
+        <entry key="ENGLISH" value="1960" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="56" />
         <entry key="PORTUGUESE" value="5" />
