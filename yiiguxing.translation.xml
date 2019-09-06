@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="CACHE TIME" />
+      <item value="ops For Value" />
+      <item value="CACHE TIME TWELVE HOUR" />
+      <item value="CACHE TIME TWILVE HOUR" />
+      <item value="CACHE TIME TEN HOUR" />
+      <item value="JSON CONVERT ERROR" />
       <item value="cache Value" />
       <item value="lventory" />
       <item value="Iventory" />
@@ -45,19 +51,13 @@
       <item value="Eticket Redis Constant" />
       <item value="I Redis Eticket Service" />
       <item value="Mall Eticket Service Impl" />
-      <item value="Mall E Ticket Service Impl" />
-      <item value="IDEA does not have write access to /Applications/IntelliJ IDEA.app/Contents. Please run it by a privileged user to update" />
-      <item value="Fixed the regression: the IDE can now launch Websphere Run/Debug configurations: IDEA 219014. IntelliJ IDEA now properly resolves Maven dependencies added outside of the IDE: IDEA 219033." />
-      <item value="Fixed the regression: the IDE can now launch Websphere Run/Debug configurations: IDEA 219014.&#10;IntelliJ IDEA now properly resolves Maven dependencies added outside of the IDE: IDEA 219033." />
-      <item value="The {@link #value} is optional and represents an order value as defined in the * {@link Ordered} interface. Lower values have higher priority. The default value is * {@code Ordered.LOWEST PRECEDENCE}, indicating lowest priority (losing to any other * specified order value)." />
-      <item value="creation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1985" />
-        <entry key="ENGLISH" value="1953" />
+        <entry key="CHINESE" value="1993" />
+        <entry key="ENGLISH" value="1958" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
-        <entry key="FRENCH" value="53" />
+        <entry key="FRENCH" value="56" />
         <entry key="PORTUGUESE" value="5" />
         <entry key="SPANISH" value="3" />
       </map>
