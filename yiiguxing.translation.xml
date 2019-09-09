@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="stream" />
       <item value="groups" />
       <item value="Image" />
       <item value="eticket" />
@@ -50,12 +51,11 @@
       <item value="INTERFACE INNER INVOKE ERROR" />
       <item value="Eticket Constant" />
       <item value="save Inventorys" />
-      <item value="eticket Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2030" />
-        <entry key="ENGLISH" value="1994" />
+        <entry key="CHINESE" value="2031" />
+        <entry key="ENGLISH" value="1995" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="59" />
         <entry key="PORTUGUESE" value="5" />
