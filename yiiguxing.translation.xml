@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="groups" />
+      <item value="Image" />
+      <item value="eticket" />
       <item value="Mall Store" />
       <item value="I Pc Token Service" />
       <item value="Mall Eticket Service" />
@@ -48,14 +51,11 @@
       <item value="Eticket Constant" />
       <item value="save Inventorys" />
       <item value="eticket Id" />
-      <item value="Eticket Inventory" />
-      <item value="Com Eticket Inventory Service" />
-      <item value="save Basic Info" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2027" />
-        <entry key="ENGLISH" value="1991" />
+        <entry key="CHINESE" value="2030" />
+        <entry key="ENGLISH" value="1994" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="59" />
         <entry key="PORTUGUESE" value="5" />
