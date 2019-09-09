@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="convert To Group Relate" />
+      <item value="Object Convert To Group Relate" />
+      <item value="Objectconvert To Group Relate" />
+      <item value="convert" />
+      <item value="conver" />
       <item value="stream" />
       <item value="groups" />
       <item value="Image" />
@@ -46,16 +51,11 @@
       <item value="java error in idea" />
       <item value="Eticket Group Param" />
       <item value="group Id" />
-      <item value="groupId=88, groupSort=null" />
-      <item value="Process finished with exit code 0" />
-      <item value="INTERFACE INNER INVOKE ERROR" />
-      <item value="Eticket Constant" />
-      <item value="save Inventorys" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2031" />
-        <entry key="ENGLISH" value="1995" />
+        <entry key="CHINESE" value="2037" />
+        <entry key="ENGLISH" value="2001" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="59" />
         <entry key="PORTUGUESE" value="5" />
