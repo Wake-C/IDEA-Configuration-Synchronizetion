@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="update Inventory" />
+      <item value="convert Save Inventory" />
       <item value="save Inventory List" />
       <item value="final List&lt;MallEticketInventory&gt; inventories = comEticketService.selectInventoryListByBusId(busId); final List&lt;EticketDetailVO.EticketInventoryVO&gt; eticketInventoryVOList = inventories.stream().filter(inventory &gt; inventory.getEticketId().equals(eticketId)) .map(inventory &gt; { EticketDetailVO.EticketInventoryVO inventoryVO = new EticketDetailVO.EticketInventoryVO(); BeanUtils.copyProperties(inventory, inventoryVO); return inventoryVO; }) .collect(Collectors.toList());" />
       <item value="eticket VO" />
@@ -49,13 +51,11 @@
       <item value="CACHE TIME TWELVE HOUR" />
       <item value="CACHE TIME TWILVE HOUR" />
       <item value="CACHE TIME TEN HOUR" />
-      <item value="JSON CONVERT ERROR" />
-      <item value="cache Value" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2043" />
-        <entry key="ENGLISH" value="2007" />
+        <entry key="CHINESE" value="2045" />
+        <entry key="ENGLISH" value="2009" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="59" />
         <entry key="PORTUGUESE" value="5" />
