@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Over the last 14 days JRebel prevented" />
       <item value="specify Date" />
       <item value="day Status" />
       <item value="inventory" />
@@ -50,12 +51,11 @@
       <item value="ETICKET IVENTORY LIST" />
       <item value="sales volume" />
       <item value="当日使用截止时间" />
-      <item value="Before" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2051" />
-        <entry key="ENGLISH" value="2015" />
+        <entry key="CHINESE" value="2052" />
+        <entry key="ENGLISH" value="2016" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="59" />
         <entry key="PORTUGUESE" value="5" />
