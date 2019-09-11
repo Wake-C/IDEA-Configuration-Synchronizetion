@@ -1,6 +1,5 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <option name="myShellPath" value="H:\portableSoftWare\cmder\cmder_shell.bat" />
     <option name="myTabName" value="easyGo" />
   </component>
 </application>
