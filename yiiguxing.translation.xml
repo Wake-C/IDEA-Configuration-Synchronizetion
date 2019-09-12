@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="eticket Calendar Price" />
       <item value="filed Name" />
       <item value="Ambiguous" />
       <item value="IllegalStateException: Ambiguous mapping. Cannot map 'eticketController' method" />
@@ -50,12 +51,11 @@
       <item value="eticket Name" />
       <item value="shop Address" />
       <item value="video Url" />
-      <item value="Eticket Specification Update Param" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2059" />
-        <entry key="ENGLISH" value="2023" />
+        <entry key="CHINESE" value="2060" />
+        <entry key="ENGLISH" value="2024" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="59" />
         <entry key="PORTUGUESE" value="5" />
