@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="price Param" />
+      <item value="price Prame" />
       <item value="eticket Calendar Price" />
       <item value="filed Name" />
       <item value="Ambiguous" />
@@ -49,13 +51,11 @@
       <item value="deadline Usage End Time" />
       <item value="refund Flag" />
       <item value="eticket Name" />
-      <item value="shop Address" />
-      <item value="video Url" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2060" />
-        <entry key="ENGLISH" value="2024" />
+        <entry key="CHINESE" value="2062" />
+        <entry key="ENGLISH" value="2026" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="59" />
         <entry key="PORTUGUESE" value="5" />
