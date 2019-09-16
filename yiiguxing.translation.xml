@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Symbol 'status' is inaccessible" />
+      <item value="batch delete" />
+      <item value="sale" />
+      <item value="batch sale update" />
+      <item value="batch Update Sale Status" />
       <item value="specification Two Name" />
       <item value="specification First Name" />
       <item value="price Param" />
@@ -46,16 +51,11 @@
       <item value="id" />
       <item value="shop Id" />
       <item value="sell End Time" />
-      <item value="sell Begin Time" />
-      <item value="sell Deadline Flag" />
-      <item value="sell Deadline Date" />
-      <item value="deadline Usage Begin Time" />
-      <item value="deadline Usage End Time" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2064" />
-        <entry key="ENGLISH" value="2028" />
+        <entry key="CHINESE" value="2069" />
+        <entry key="ENGLISH" value="2033" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="59" />
         <entry key="PORTUGUESE" value="5" />
