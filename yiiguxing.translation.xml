@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="eticket" />
       <item value="Non resolvable parent POM for com.gt.mall:parent:1.1 SNAPSHOT: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.springframework.boot:spring boot starter parent:pom:2.1.1.RELEASE has not been downloaded from it before. and 'parent.relativePath' points at wrong local POM @ line 75, column 13 &gt; [Help 2]" />
       <item value="The project com.gt.mall:parent:1.1 SNAPSHOT (/Users/IdeaProjects/mall/pom.xml) has 1 error" />
       <item value="The build could not read 1 project &gt; [Help 1]" />
@@ -46,7 +47,6 @@
       <item value="stream" />
       <item value="groups" />
       <item value="Image" />
-      <item value="eticket" />
       <item value="Mall Store" />
       <item value="I Pc Token Service" />
       <item value="Mall Eticket Service" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2076" />
-        <entry key="ENGLISH" value="2040" />
+        <entry key="CHINESE" value="2077" />
+        <entry key="ENGLISH" value="2041" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="59" />
         <entry key="PORTUGUESE" value="5" />
