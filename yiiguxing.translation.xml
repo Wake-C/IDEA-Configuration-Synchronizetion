@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="populate Fields" />
+      <item value="Unparseable date" />
       <item value="stupid random" />
       <item value="calendar Price Info" />
       <item value="price Switch" />
@@ -49,13 +51,11 @@
       <item value="conver" />
       <item value="stream" />
       <item value="groups" />
-      <item value="Image" />
-      <item value="Mall Store" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2080" />
-        <entry key="ENGLISH" value="2044" />
+        <entry key="CHINESE" value="2082" />
+        <entry key="ENGLISH" value="2046" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="59" />
         <entry key="PORTUGUESE" value="5" />
