@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Introspectable" />
+      <item value="is Introspectable" />
+      <item value="should Be Excluded" />
+      <item value="exclusion Policy" />
+      <item value="Populate" />
       <item value="populate Fields" />
       <item value="Unparseable date" />
       <item value="stupid random" />
@@ -46,16 +51,11 @@
       <item value="eticket List" />
       <item value="convert To Group Relate" />
       <item value="Object Convert To Group Relate" />
-      <item value="Objectconvert To Group Relate" />
-      <item value="convert" />
-      <item value="conver" />
-      <item value="stream" />
-      <item value="groups" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2082" />
-        <entry key="ENGLISH" value="2046" />
+        <entry key="CHINESE" value="2087" />
+        <entry key="ENGLISH" value="2051" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="59" />
         <entry key="PORTUGUESE" value="5" />
