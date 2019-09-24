@@ -145,6 +145,14 @@
           <Count>12</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Cut">
+        <Item>
+          <IdeaActionID>$Cut</IdeaActionID>
+          <ShortCut>'Ctrl+X' or 'Shift+Delete'</ShortCut>
+          <Description>Cut</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="DDL">
         <Item>
           <IdeaActionID>Jdbc.OpenEditor.Grid.DDL</IdeaActionID>
@@ -3366,7 +3374,7 @@
           <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
           <ShortCut>'Ctrl+T'</ShortCut>
           <Description>Update Project...</Description>
-          <Count>22</Count>
+          <Count>25</Count>
         </Item>
       </Statistic>
       <Statistic Action="Variable...">
