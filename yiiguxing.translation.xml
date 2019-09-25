@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="classz" />
       <item value="object Convert To Another Object" />
       <item value="object Convert To Object" />
       <item value="exclude Path Patterns" />
@@ -50,12 +51,11 @@
       <item value="save Inventory List" />
       <item value="final List&lt;MallEticketInventory&gt; inventories = comEticketService.selectInventoryListByBusId(busId); final List&lt;EticketDetailVO.EticketInventoryVO&gt; eticketInventoryVOList = inventories.stream().filter(inventory &gt; inventory.getEticketId().equals(eticketId)) .map(inventory &gt; { EticketDetailVO.EticketInventoryVO inventoryVO = new EticketDetailVO.EticketInventoryVO(); BeanUtils.copyProperties(inventory, inventoryVO); return inventoryVO; }) .collect(Collectors.toList());" />
       <item value="eticket VO" />
-      <item value="update Specification Ids" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2093" />
-        <entry key="ENGLISH" value="2057" />
+        <entry key="CHINESE" value="2094" />
+        <entry key="ENGLISH" value="2058" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="59" />
         <entry key="PORTUGUESE" value="5" />
