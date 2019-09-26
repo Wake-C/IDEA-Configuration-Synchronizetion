@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="select Page" />
       <item value="The POM for org.springframework.boot:spring boot starter actuator:jar:2.1.1.RELEASE is missing, no dependency information available&#10;The POM for com.h2database:h2:jar:1.4.197 is missing, no dependency information available" />
       <item value="The POM for com.h2database:h2:jar:1.4.197 is missing, no dependency information available" />
       <item value="purchase Limit" />
@@ -50,12 +51,11 @@
       <item value="Over the last 14 days JRebel prevented" />
       <item value="specify Date" />
       <item value="day Status" />
-      <item value="inventory" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2103" />
-        <entry key="ENGLISH" value="2067" />
+        <entry key="CHINESE" value="2104" />
+        <entry key="ENGLISH" value="2068" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="59" />
         <entry key="PORTUGUESE" value="5" />
