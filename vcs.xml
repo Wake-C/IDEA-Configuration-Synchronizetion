@@ -144,6 +144,6 @@
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/GoogleCloudSync/CloudDevelopmentWorkspace/java" />
+    <option name="cloneParentDir" value="H:\IdeaProjects" />
   </component>
 </application>
