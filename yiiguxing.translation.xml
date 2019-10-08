@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="if {@code after} is null" />
+      <item value="n followed by the {@code after} operation" />
+      <item value="a composed {@code BiConsumer} that performs in sequence this" />
+      <item value="the operation to perform after this operation" />
+      <item value="Returns a composed {@code BiConsumer} that performs, in sequence, this * operation followed by the {@code after} operation. If performing either * operation throws an exception, it is relayed to the caller of the * composed operation. If performing this operation throws an exception, * the {@code after} operation will not be performed." />
+      <item value="sequence" />
+      <item value="performs" />
+      <item value="Performs this operation on the given arguments." />
       <item value="test" />
       <item value="assert" />
       <item value="assert Empty" />
@@ -43,19 +51,11 @@
       <item value="specification Two Name" />
       <item value="specification First Name" />
       <item value="price Param" />
-      <item value="price Prame" />
-      <item value="eticket Calendar Price" />
-      <item value="filed Name" />
-      <item value="Ambiguous" />
-      <item value="IllegalStateException: Ambiguous mapping. Cannot map 'eticketController' method" />
-      <item value="create Group" />
-      <item value="inventories" />
-      <item value="Giving up" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2108" />
-        <entry key="ENGLISH" value="2072" />
+        <entry key="CHINESE" value="2117" />
+        <entry key="ENGLISH" value="2081" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="59" />
         <entry key="PORTUGUESE" value="5" />
