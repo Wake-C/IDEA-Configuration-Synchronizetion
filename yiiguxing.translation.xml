@@ -1,61 +1,61 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="final List&lt;MallEticketInventory&gt; inventories = comEticketService.selectInventoryListByBusId(busId); final List&lt;EticketDetailVO.EticketInventoryVO&gt; eticketInventoryVOList = inventories.stream().filter(inventory &gt; inventory.getEticketId().equals(eticketId)) .map(inventory &gt; { EticketDetailVO.EticketInventoryVO inventoryVO = new EticketDetailVO.EticketInventoryVO(); BeanUtils.copyProperties(inventory, inventoryVO); return inventoryVO; }) .collect(Collectors.toList());" />
-      <item value="eticket VO" />
-      <item value="update Specification Ids" />
-      <item value="mall Eticket Group Relate" />
-      <item value="eticket List" />
-      <item value="convert To Group Relate" />
-      <item value="Object Convert To Group Relate" />
-      <item value="Objectconvert To Group Relate" />
-      <item value="convert" />
-      <item value="conver" />
-      <item value="stream" />
-      <item value="groups" />
-      <item value="Image" />
+      <item value="assert" />
+      <item value="assert Empty" />
+      <item value="select Page" />
+      <item value="The POM for org.springframework.boot:spring boot starter actuator:jar:2.1.1.RELEASE is missing, no dependency information available&#10;The POM for com.h2database:h2:jar:1.4.197 is missing, no dependency information available" />
+      <item value="The POM for com.h2database:h2:jar:1.4.197 is missing, no dependency information available" />
+      <item value="purchase Limit" />
+      <item value="points Discount Flag" />
+      <item value="points" />
+      <item value="fenbi Exchange Product Flag" />
+      <item value="Exchange" />
+      <item value="Usage" />
+      <item value="classz" />
+      <item value="object Convert To Another Object" />
+      <item value="object Convert To Object" />
+      <item value="exclude Path Patterns" />
+      <item value="parameter Name" />
+      <item value="Introspectable" />
+      <item value="is Introspectable" />
+      <item value="should Be Excluded" />
+      <item value="exclusion Policy" />
+      <item value="Populate" />
+      <item value="populate Fields" />
+      <item value="Unparseable date" />
+      <item value="stupid random" />
+      <item value="calendar Price Info" />
+      <item value="price Switch" />
       <item value="eticket" />
-      <item value="Mall Store" />
-      <item value="I Pc Token Service" />
-      <item value="Mall Eticket Service" />
-      <item value="private final MallEticketService mallEticketService; private final IPcTokenService pcTokenService; private final ComEticketService comEticketService; @ApiOperation(value = &quot;保存电子票&quot;) @PostMapping(value = &quot;create&quot;, produces = MediaType.APPLICATION JSON UTF8 VALUE) public void creation(HttpServletRequest request, @Validated @RequestBody EticketConditionBO.Create create) { final Integer busId = pcTokenService.findTokenByBusId(request); mallEticketService.create(create, busId); } @ApiOperation(value = &quot;电子票信息&quot;) @GetMapping(value = &quot;/info&quot;, produces = MediaType.APPLICATION JSON UTF8 VALUE) public EticketDetailVO info(HttpServletRequest request, @ApiParam(&quot;电子票id&quot;) @RequestParam(&quot;eticketId&quot;) Integer eticketId) { return mallEticketService.findEticketInfoById(eticketId, pcTokenService.findTokenByBusId(request)); } @ApiOperation(value = &quot;更新电子票&quot;) @PostMapping(value = &quot;update&quot;, produces = MediaType.APPLICATION JSON UTF8 VALUE) public void update(HttpServletRequest request,@Validated @RequestBody EticketConditionBO.Update update) { mallEticketService.updateEticket(update,pcTokenService.findTokenByBusId(request)); // mallEticketService.deleteCache() } /* @ApiOperation(value = &quot;批量操作(上下架/删除)&quot;) @PostMapping(value = &quot;batchUpdate&quot;, produces = MediaType.APPLICATION JSON UTF8 VALUE) public void batchUpdate(@Validated @RequestBody EticketConditionBO.Create create) { mallEticketService.create(create); //todo 删除缓存根据商家id // mallEticketService.deleteCache() }*/ /*@ApiOperation(value = &quot;上下架/价格日历/操作&quot;) @PostMapping(value = &quot;set&quot;, produces = MediaType.APPLICATION JSON UTF8 VALUE) public void set(@Validated @RequestBody EticketConditionBO.Create create) { mallEticketService.create(create); //todo 删除缓存根据商家id // mallEticketService.deleteCache() }*/ @ApiOperation(value = &quot;电子票列表&quot;) @GetMapping(value = &quot;/list&quot;, produces = MediaType.APPLICATION JSON UTF8 VALUE) public List&lt;EticketListVO&gt; list(HttpServletRequest request) { return mallEticketService.findEticketListByBusId(pcTokenService.findTokenByBusId(request)); } /* @ApiOperation(value = &quot;分组列表&quot;) @GetMapping(value = &quot;/group/list&quot;, produces = MediaType.APPLICATION JSON UTF8 VALUE) public List&lt;EticketVO&gt; groupList(@ApiParam(&quot;电子票id&quot;) @RequestParam(&quot;BusId&quot;) Integer budId) { mallEticketService.findEticketListByBusId(); }&#10;*/ // @ApiOperation(value = &quot;新增分组&quot;) // @PostMapping(value = &quot;/group/create&quot;, produces = MediaType.APPLICATION JSON UTF8 VALUE) // public List&lt;EticketVO&gt; groupCreate(@ApiParam(&quot;电子票id&quot;) @RequestParam(&quot;BusId&quot;) Integer budId) { // mallEticketService.findEticketListByBusId(); // } /* @ApiOperation(value = &quot;店铺列表&quot;) @GetMapping(value = &quot;/shop/list&quot;, produces = MediaType.APPLICATION JSON UTF8 VALUE) public List&lt;EticketVO&gt; shopList(@ApiParam(&quot;电子票id&quot;) @RequestParam(&quot;BusId&quot;) Integer budId) { mallEticketService.findEticketListByBusId(); }*/" />
-      <item value="Com Eticket Service" />
-      <item value="com Eticket Service" />
-      <item value="shop Code" />
-      <item value="id" />
-      <item value="shop Id" />
-      <item value="sell End Time" />
-      <item value="sell Begin Time" />
-      <item value="sell Deadline Flag" />
-      <item value="sell Deadline Date" />
-      <item value="deadline Usage Begin Time" />
-      <item value="deadline Usage End Time" />
-      <item value="refund Flag" />
-      <item value="eticket Name" />
-      <item value="shop Address" />
-      <item value="video Url" />
-      <item value="Eticket Specification Update Param" />
-      <item value="eticket Inventory" />
-      <item value="ETICKET INVENTORY LIST" />
-      <item value="IVENTORY" />
-      <item value="ETICKET IVENTORY LIST" />
-      <item value="sales volume" />
-      <item value="当日使用截止时间" />
-      <item value="Before" />
-      <item value="exclusion" />
-      <item value="CACHE TIME" />
-      <item value="ops For Value" />
-      <item value="CACHE TIME TWELVE HOUR" />
-      <item value="CACHE TIME TWILVE HOUR" />
-      <item value="CACHE TIME TEN HOUR" />
-      <item value="JSON CONVERT ERROR" />
-      <item value="cache Value" />
-      <item value="lventory" />
+      <item value="Non resolvable parent POM for com.gt.mall:parent:1.1 SNAPSHOT: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.springframework.boot:spring boot starter parent:pom:2.1.1.RELEASE has not been downloaded from it before. and 'parent.relativePath' points at wrong local POM @ line 75, column 13 &gt; [Help 2]" />
+      <item value="The project com.gt.mall:parent:1.1 SNAPSHOT (/Users/IdeaProjects/mall/pom.xml) has 1 error" />
+      <item value="The build could not read 1 project &gt; [Help 1]" />
+      <item value="[ERROR] Some problems were encountered while processing the POMs" />
+      <item value="Re run Maven using the X switch to enable full debug logging." />
+      <item value="For more information about the errors and possible solutions, please read the following articles" />
+      <item value="Symbol 'status' is inaccessible" />
+      <item value="batch delete" />
+      <item value="sale" />
+      <item value="batch sale update" />
+      <item value="batch Update Sale Status" />
+      <item value="specification Two Name" />
+      <item value="specification First Name" />
+      <item value="price Param" />
+      <item value="price Prame" />
+      <item value="eticket Calendar Price" />
+      <item value="filed Name" />
+      <item value="Ambiguous" />
+      <item value="IllegalStateException: Ambiguous mapping. Cannot map 'eticketController' method" />
+      <item value="create Group" />
+      <item value="inventories" />
+      <item value="Giving up" />
+      <item value="Over the last 14 days JRebel prevented" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2042" />
-        <entry key="ENGLISH" value="2006" />
+        <entry key="CHINESE" value="2106" />
+        <entry key="ENGLISH" value="2070" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="59" />
         <entry key="PORTUGUESE" value="5" />
