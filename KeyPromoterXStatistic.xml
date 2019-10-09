@@ -2990,7 +2990,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'MallApplication'</Description>
-          <Count>31</Count>
+          <Count>35</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'OpenAPITest.initializeMerchant'">
