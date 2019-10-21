@@ -1,63 +1,63 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="provided" />
-      <item value="batch Delete Classify" />
-      <item value="Mybatis Blob Type Handler" />
-      <item value="Redis" />
-      <item value="Eticket Redis Constant" />
-      <item value="I Redis Eticket Service" />
-      <item value="Mall Eticket Service Impl" />
-      <item value="Mall E Ticket Service Impl" />
-      <item value="IDEA does not have write access to /Applications/IntelliJ IDEA.app/Contents. Please run it by a privileged user to update" />
-      <item value="Fixed the regression: the IDE can now launch Websphere Run/Debug configurations: IDEA 219014. IntelliJ IDEA now properly resolves Maven dependencies added outside of the IDE: IDEA 219033." />
-      <item value="Fixed the regression: the IDE can now launch Websphere Run/Debug configurations: IDEA 219014.&#10;IntelliJ IDEA now properly resolves Maven dependencies added outside of the IDE: IDEA 219033." />
-      <item value="The {@link #value} is optional and represents an order value as defined in the * {@link Ordered} interface. Lower values have higher priority. The default value is * {@code Ordered.LOWEST PRECEDENCE}, indicating lowest priority (losing to any other * specified order value)." />
-      <item value="creation" />
-      <item value="create" />
-      <item value="Eticket Controller" />
-      <item value="Eticket" />
-      <item value="Eticket Controoler" />
-      <item value="acquired" />
-      <item value="at least 0 redeploys/restarts saving you about 0 hours." />
-      <item value="Over the last 1 days JRebel prevented" />
-      <item value="Mall Eticket Group Service" />
-      <item value="Push has been cancelled, because there were conflicts during update. Check that conflicts were resolved correctly, and invoke push again." />
-      <item value="t mall specifica" />
-      <item value="The condition can only match the bean definitions that have been processed by the * application context so far and, as such, it is strongly recommended to use this * condition on auto configuration classes only. If a candidate bean may be created by * another auto configuration, make sure that the one using this condition runs after." />
-      <item value="In the sample above the condition will match if no bean of type {@code MyService} is * already contained in the" />
-      <item value="When placed on a {@code @Bean} method, the bean class defaults to the return type of * the factory method" />
-      <item value="When placed on a {@code @Bean} method, the bean class defaults to the return type of * the factory method:" />
-      <item value="that only matches when the specified bean classes and/or names are * not already contained in the" />
-      <item value="In the sample above the condition will match if no bean of type {@code MyService} is * already contained in the {@link BeanFactory}." />
-      <item value="conditional" />
-      <item value="pass away" />
-      <item value="died" />
-      <item value="Custom" />
-      <item value="Field refers to fields of regular Java objects. Although * they are not really methods, addition of optional field discovery * in version 1.1 meant that there was need to enable/disable * their auto detection, and this is the place to add it in." />
-      <item value="monster" />
-      <item value="deserialization List" />
-      <item value="de Serialization List" />
-      <item value="de Serializalist" />
-      <item value="my Data" />
-      <item value="Access setting that means that the property will be accessed for both * serialization (writing out values as external representation) * and deserialization (reading values from external representation), * regardless of visibility rules." />
-      <item value="Property that indicates numerical index of this property (relative * to other properties specified for the Object). This index * is typically used by binary formats, but may also be useful * for schema languages and other tools." />
-      <item value="Property that indicates whether a value (which may be explicit * null) is expected for property during deserialization or not. * If expected, &lt;code&gt;BeanDeserialized&lt;/code&gt; should indicate * this as a validity problem (usually by throwing an exception, * but this may be sent via problem handlers that can try to * rectify the problem, for example, by supplying a default * value). *&lt;p&gt; * Note that as of 2.6, this property is only used for Creator * Properties, to ensure existence of property value in JSON: * for other properties (ones injected using a setter or mutable * field), no validation is performed. Support for those cases * may be added in future. * State of this property is exposed via introspection, and its * value is typically used by Schema generators, such as one for * JSON Schema." />
-      <item value="Defines name of the logical property, i.e. JSON object field * name to use for the property. If value is empty String (which is the * default), will try to use name of the field that is annotated. * Note that there is * &lt;b&gt;no default name available for constructor arguments&lt;/b&gt;, * meaning that * &lt;b&gt;Empty String is not a valid value for constructor arguments&lt;/b&gt;." />
-      <item value="arker value used to indicate that no index has been specified. * Used as the default value as annotations do not allow &quot;missing&quot; * values." />
-      <item value="name (derived from method or field name) for property." />
-      <item value="efault value (&quot;&quot;) indicates that the field name is used * as the property name without any modifications, but it * can be specified to non empty value to specify different * name. Property name refers to name used externally, as * the field name in JSON objects." />
-      <item value="indicates" />
-      <item value="Default value (&quot;&quot;) indicates that the field name is used * as the property name without any modifications, but it * can be specified to non empty value to specify different * name. Property name refers to name used externally, as * the field name in JSON objects." />
-      <item value="Marker annotation that can be used to define a non static * method as a &quot;setter&quot; or &quot;getter&quot; for a logical property * (depending on its signature), * or non static object field to be used (serialized, deserialized) as * a logical property." />
-      <item value="field" />
+      <item value="if {@code after} is null" />
+      <item value="n followed by the {@code after} operation" />
+      <item value="a composed {@code BiConsumer} that performs in sequence this" />
+      <item value="the operation to perform after this operation" />
+      <item value="Returns a composed {@code BiConsumer} that performs, in sequence, this * operation followed by the {@code after} operation. If performing either * operation throws an exception, it is relayed to the caller of the * composed operation. If performing this operation throws an exception, * the {@code after} operation will not be performed." />
+      <item value="sequence" />
+      <item value="performs" />
+      <item value="Performs this operation on the given arguments." />
+      <item value="test" />
+      <item value="assert" />
+      <item value="assert Empty" />
+      <item value="select Page" />
+      <item value="The POM for org.springframework.boot:spring boot starter actuator:jar:2.1.1.RELEASE is missing, no dependency information available&#10;The POM for com.h2database:h2:jar:1.4.197 is missing, no dependency information available" />
+      <item value="The POM for com.h2database:h2:jar:1.4.197 is missing, no dependency information available" />
+      <item value="purchase Limit" />
+      <item value="points Discount Flag" />
+      <item value="points" />
+      <item value="fenbi Exchange Product Flag" />
+      <item value="Exchange" />
+      <item value="Usage" />
+      <item value="classz" />
+      <item value="object Convert To Another Object" />
+      <item value="object Convert To Object" />
+      <item value="exclude Path Patterns" />
+      <item value="parameter Name" />
+      <item value="Introspectable" />
+      <item value="is Introspectable" />
+      <item value="should Be Excluded" />
+      <item value="exclusion Policy" />
+      <item value="Populate" />
+      <item value="populate Fields" />
+      <item value="Unparseable date" />
+      <item value="stupid random" />
+      <item value="calendar Price Info" />
+      <item value="price Switch" />
+      <item value="eticket" />
+      <item value="Non resolvable parent POM for com.gt.mall:parent:1.1 SNAPSHOT: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.springframework.boot:spring boot starter parent:pom:2.1.1.RELEASE has not been downloaded from it before. and 'parent.relativePath' points at wrong local POM @ line 75, column 13 &gt; [Help 2]" />
+      <item value="The project com.gt.mall:parent:1.1 SNAPSHOT (/Users/IdeaProjects/mall/pom.xml) has 1 error" />
+      <item value="The build could not read 1 project &gt; [Help 1]" />
+      <item value="[ERROR] Some problems were encountered while processing the POMs" />
+      <item value="Re run Maven using the X switch to enable full debug logging." />
+      <item value="For more information about the errors and possible solutions, please read the following articles" />
+      <item value="Symbol 'status' is inaccessible" />
+      <item value="batch delete" />
+      <item value="sale" />
+      <item value="batch sale update" />
+      <item value="batch Update Sale Status" />
+      <item value="specification Two Name" />
+      <item value="specification First Name" />
+      <item value="price Param" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1943" />
-        <entry key="ENGLISH" value="1912" />
+        <entry key="CHINESE" value="2117" />
+        <entry key="ENGLISH" value="2081" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
-        <entry key="FRENCH" value="52" />
+        <entry key="FRENCH" value="59" />
         <entry key="PORTUGUESE" value="5" />
         <entry key="SPANISH" value="3" />
       </map>

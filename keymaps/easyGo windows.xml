@@ -18,6 +18,7 @@
   <action id="DebugClass">
     <keyboard-shortcut first-keystroke="shift ctrl f5" />
   </action>
+  <action id="DumpLookupElementWeights" />
   <action id="Editor EditorTranslateAction">
     <keyboard-shortcut first-keystroke="shift ctrl alt z" />
   </action>
@@ -55,9 +56,6 @@
     <keyboard-shortcut first-keystroke="shift d" />
   </action>
   <action id="EditorScrollDown" />
-  <action id="EditorScrollTop">
-    <keyboard-shortcut first-keystroke="shift s" />
-  </action>
   <action id="EditorScrollUp" />
   <action id="Git.Pull">
     <keyboard-shortcut first-keystroke="shift ctrl alt p" />
@@ -95,6 +93,9 @@
   <action id="PopupHector" />
   <action id="RunAnything">
     <keyboard-shortcut first-keystroke="shift ctrl alt f11" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="shift ctrl alt w" />
   </action>
   <action id="TailMyBatisLog" />
   <action id="ToggleFullScreen">
