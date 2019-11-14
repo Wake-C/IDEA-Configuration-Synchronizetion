@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="idle" />
       <item value="if {@code after} is null" />
       <item value="n followed by the {@code after} operation" />
       <item value="a composed {@code BiConsumer} that performs in sequence this" />
@@ -50,12 +51,11 @@
       <item value="batch Update Sale Status" />
       <item value="specification Two Name" />
       <item value="specification First Name" />
-      <item value="price Param" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2117" />
-        <entry key="ENGLISH" value="2081" />
+        <entry key="CHINESE" value="2118" />
+        <entry key="ENGLISH" value="2082" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="59" />
         <entry key="PORTUGUESE" value="5" />
