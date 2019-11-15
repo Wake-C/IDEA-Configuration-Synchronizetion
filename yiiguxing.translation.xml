@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="specition List" />
       <item value="exclusions" />
       <item value="idle" />
       <item value="if {@code after} is null" />
@@ -50,7 +51,6 @@
       <item value="sale" />
       <item value="batch sale update" />
       <item value="batch Update Sale Status" />
-      <item value="specification Two Name" />
     </histories>
     <option name="languageScores">
       <map>
