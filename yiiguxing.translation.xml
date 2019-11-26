@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="divide" />
       <item value="Double Handler" />
       <item value="specition List" />
       <item value="exclusions" />
@@ -50,12 +51,11 @@
       <item value="Symbol 'status' is inaccessible" />
       <item value="batch delete" />
       <item value="sale" />
-      <item value="batch sale update" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2118" />
-        <entry key="ENGLISH" value="2082" />
+        <entry key="CHINESE" value="2119" />
+        <entry key="ENGLISH" value="2083" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="59" />
         <entry key="PORTUGUESE" value="5" />
