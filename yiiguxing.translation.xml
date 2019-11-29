@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="find Calendar Price List By Eticket Id And Inventory Id" />
       <item value="Monthly" />
       <item value="find Eticket Price Monthly" />
       <item value="price" />
@@ -50,12 +51,11 @@
       <item value="is Introspectable" />
       <item value="should Be Excluded" />
       <item value="exclusion Policy" />
-      <item value="Populate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2133" />
-        <entry key="ENGLISH" value="2093" />
+        <entry key="CHINESE" value="2135" />
+        <entry key="ENGLISH" value="2095" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="62" />
         <entry key="PORTUGUESE" value="5" />
