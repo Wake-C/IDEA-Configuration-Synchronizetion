@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Monthly" />
+      <item value="find Eticket Price Monthly" />
+      <item value="price" />
+      <item value="All Args Constructor" />
+      <item value="No Args Constructor" />
       <item value="Eticket Price Month VO" />
       <item value="Eticket Price Calendar Month VO" />
       <item value="Eticket Price Calendar" />
@@ -46,16 +51,11 @@
       <item value="should Be Excluded" />
       <item value="exclusion Policy" />
       <item value="Populate" />
-      <item value="populate Fields" />
-      <item value="Unparseable date" />
-      <item value="stupid random" />
-      <item value="calendar Price Info" />
-      <item value="price Switch" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2128" />
-        <entry key="ENGLISH" value="2088" />
+        <entry key="CHINESE" value="2133" />
+        <entry key="ENGLISH" value="2093" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="62" />
         <entry key="PORTUGUESE" value="5" />
