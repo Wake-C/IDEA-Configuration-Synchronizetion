@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="find Inventory List By Eticket Id" />
       <item value="com Eticket Inventory Service" />
       <item value="find Calendar Price List By Eticket Id And Inventory Id" />
       <item value="Monthly" />
@@ -50,12 +51,11 @@
       <item value="parameter Name" />
       <item value="Introspectable" />
       <item value="is Introspectable" />
-      <item value="should Be Excluded" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2136" />
-        <entry key="ENGLISH" value="2096" />
+        <entry key="CHINESE" value="2137" />
+        <entry key="ENGLISH" value="2097" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="62" />
         <entry key="PORTUGUESE" value="5" />
