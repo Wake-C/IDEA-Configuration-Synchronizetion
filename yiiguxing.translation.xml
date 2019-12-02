@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Chrono Unit" />
       <item value="is Before" />
       <item value="Epoch" />
       <item value="get Nano" />
@@ -50,12 +51,11 @@
       <item value="applet Eticket Service" />
       <item value="CALENDAR" />
       <item value="ETICKET" />
-      <item value="ETICKETCALENDARUPDATEDUPLICATE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2170" />
-        <entry key="ENGLISH" value="2128" />
+        <entry key="CHINESE" value="2171" />
+        <entry key="ENGLISH" value="2129" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="62" />
         <entry key="PORTUGUESE" value="5" />
