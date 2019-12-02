@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="reduce" />
       <item value="字符串以外对象先转换为string" />
       <item value="sum" />
       <item value="ETICKETPRICESALEFLAGON" />
@@ -50,12 +51,11 @@
       <item value="assert Empty" />
       <item value="select Page" />
       <item value="The POM for org.springframework.boot:spring boot starter actuator:jar:2.1.1.RELEASE is missing, no dependency information available&#10;The POM for com.h2database:h2:jar:1.4.197 is missing, no dependency information available" />
-      <item value="The POM for com.h2database:h2:jar:1.4.197 is missing, no dependency information available" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2150" />
-        <entry key="ENGLISH" value="2108" />
+        <entry key="CHINESE" value="2151" />
+        <entry key="ENGLISH" value="2109" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="62" />
         <entry key="PORTUGUESE" value="5" />
