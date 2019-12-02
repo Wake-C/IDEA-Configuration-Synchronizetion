@@ -1,6 +1,21 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="specify Date" />
+      <item value="day Of Week" />
+      <item value="day" />
+      <item value="day Ofweek" />
+      <item value="concat Capitalize" />
+      <item value="Date Week" />
+      <item value="calculate Date Week" />
+      <item value="is Between Date" />
+      <item value="区间结束时间" />
+      <item value="begin Date" />
+      <item value="end Date" />
+      <item value="between Begin Date" />
+      <item value="between End Date" />
+      <item value="between Begin Date 1" />
+      <item value="isbetween Date" />
       <item value="Chrono Unit" />
       <item value="is Before" />
       <item value="Epoch" />
@@ -36,26 +51,11 @@
       <item value="find Eticket Inventory And Inventory Id" />
       <item value="find Inventory List By Eticket Id" />
       <item value="com Eticket Inventory Service" />
-      <item value="find Calendar Price List By Eticket Id And Inventory Id" />
-      <item value="Monthly" />
-      <item value="find Eticket Price Monthly" />
-      <item value="price" />
-      <item value="All Args Constructor" />
-      <item value="No Args Constructor" />
-      <item value="Eticket Price Month VO" />
-      <item value="Eticket Price Calendar Month VO" />
-      <item value="Eticket Price Calendar" />
-      <item value="final" />
-      <item value="private" />
-      <item value="I Applet Eticket Service" />
-      <item value="applet Eticket Service" />
-      <item value="CALENDAR" />
-      <item value="ETICKET" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2171" />
-        <entry key="ENGLISH" value="2129" />
+        <entry key="CHINESE" value="2191" />
+        <entry key="ENGLISH" value="2149" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="62" />
         <entry key="PORTUGUESE" value="5" />
