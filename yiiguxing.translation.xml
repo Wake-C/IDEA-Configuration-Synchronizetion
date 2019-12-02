@@ -1,6 +1,21 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This is different from the compariso" />
+      <item value="This is different from the comparison in" />
+      <item value="comparison" />
+      <item value="This method only considers the position of the two dates on the local timeline." />
+      <item value="or calendar system." />
+      <item value="It does not take into account the chronology" />
+      <item value="his method only considers the position of the two dates on the local timeline" />
+      <item value="his method only considers the position of the two dates on the local timelin" />
+      <item value="considers" />
+      <item value="position" />
+      <item value="This checks to see if this date represents a point on the * local timeline after the other date." />
+      <item value="represents" />
+      <item value="after" />
+      <item value="is After" />
+      <item value="is Before" />
       <item value="reduce" />
       <item value="字符串以外对象先转换为string" />
       <item value="sum" />
@@ -36,26 +51,11 @@
       <item value="divide" />
       <item value="Double Handler" />
       <item value="specition List" />
-      <item value="exclusions" />
-      <item value="idle" />
-      <item value="if {@code after} is null" />
-      <item value="n followed by the {@code after} operation" />
-      <item value="a composed {@code BiConsumer} that performs in sequence this" />
-      <item value="the operation to perform after this operation" />
-      <item value="Returns a composed {@code BiConsumer} that performs, in sequence, this * operation followed by the {@code after} operation. If performing either * operation throws an exception, it is relayed to the caller of the * composed operation. If performing this operation throws an exception, * the {@code after} operation will not be performed." />
-      <item value="sequence" />
-      <item value="performs" />
-      <item value="Performs this operation on the given arguments." />
-      <item value="test" />
-      <item value="assert" />
-      <item value="assert Empty" />
-      <item value="select Page" />
-      <item value="The POM for org.springframework.boot:spring boot starter actuator:jar:2.1.1.RELEASE is missing, no dependency information available&#10;The POM for com.h2database:h2:jar:1.4.197 is missing, no dependency information available" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2151" />
-        <entry key="ENGLISH" value="2109" />
+        <entry key="CHINESE" value="2166" />
+        <entry key="ENGLISH" value="2124" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="62" />
         <entry key="PORTUGUESE" value="5" />
