@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Summarizing" />
+      <item value="summarizing" />
       <item value="flat Map" />
       <item value="reversed" />
       <item value="Accessors" />
@@ -49,13 +51,11 @@
       <item value="specify" />
       <item value="Invalid value of month" />
       <item value="Duration" />
-      <item value="INACTIVE" />
-      <item value="ETICKETPRICEFLAGINACTIVE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2197" />
-        <entry key="ENGLISH" value="2155" />
+        <entry key="CHINESE" value="2199" />
+        <entry key="ENGLISH" value="2157" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="62" />
         <entry key="PORTUGUESE" value="5" />
