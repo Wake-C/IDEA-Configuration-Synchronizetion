@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fallback Execution" />
       <item value="ordinal" />
       <item value="ALLOWUNQUOTEDFIELDNAMES" />
       <item value="WRITEDATESASTIMESTAMPS" />
@@ -50,12 +51,11 @@
       <item value="ETICKETPRICEFLAGUNENABLED" />
       <item value="ETICKETPRICEFLAGUNNABLE" />
       <item value="inventory Id" />
-      <item value="find Eticket Inventory By Eticket Id And Inventory Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2193" />
-        <entry key="ENGLISH" value="2151" />
+        <entry key="CHINESE" value="2194" />
+        <entry key="ENGLISH" value="2152" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="62" />
         <entry key="PORTUGUESE" value="5" />
