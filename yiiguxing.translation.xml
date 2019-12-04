@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ordinal" />
       <item value="ALLOWUNQUOTEDFIELDNAMES" />
       <item value="WRITEDATESASTIMESTAMPS" />
       <item value="specify Date" />
@@ -50,7 +51,6 @@
       <item value="ETICKETPRICEFLAGUNNABLE" />
       <item value="inventory Id" />
       <item value="find Eticket Inventory By Eticket Id And Inventory Id" />
-      <item value="find Eticket Inventory And Inventory Id" />
     </histories>
     <option name="languageScores">
       <map>
