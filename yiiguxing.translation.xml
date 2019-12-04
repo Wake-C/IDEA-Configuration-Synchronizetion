@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Accessors" />
       <item value="fallback Execution" />
       <item value="ordinal" />
       <item value="ALLOWUNQUOTEDFIELDNAMES" />
@@ -50,12 +51,11 @@
       <item value="ETICKETPRICEFLAGINACTIVE" />
       <item value="ETICKETPRICEFLAGUNENABLED" />
       <item value="ETICKETPRICEFLAGUNNABLE" />
-      <item value="inventory Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2194" />
-        <entry key="ENGLISH" value="2152" />
+        <entry key="CHINESE" value="2195" />
+        <entry key="ENGLISH" value="2153" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="62" />
         <entry key="PORTUGUESE" value="5" />
