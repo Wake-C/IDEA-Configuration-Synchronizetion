@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="omit" />
+      <item value="trim" />
+      <item value="libai" />
+      <item value="Gibran" />
       <item value="summarizing Int" />
       <item value="Summarizing" />
       <item value="summarizing" />
@@ -47,15 +51,11 @@
       <item value="is After" />
       <item value="reduce" />
       <item value="字符串以外对象先转换为string" />
-      <item value="sum" />
-      <item value="ETICKETPRICESALEFLAGON" />
-      <item value="specify" />
-      <item value="Invalid value of month" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2200" />
-        <entry key="ENGLISH" value="2158" />
+        <entry key="CHINESE" value="2205" />
+        <entry key="ENGLISH" value="2163" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="62" />
         <entry key="PORTUGUESE" value="5" />
