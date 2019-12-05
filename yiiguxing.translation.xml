@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="required" />
+      <item value="Precondition" />
+      <item value="Pre" />
+      <item value="Preconditions" />
+      <item value="check Argument" />
+      <item value="entries Differing" />
+      <item value="entries Only On Left" />
+      <item value="entries Only On Right" />
+      <item value="entries In Common" />
       <item value="Predicate" />
       <item value="Predicates" />
       <item value="omit" />
@@ -42,20 +51,11 @@
       <item value="comparison" />
       <item value="This method only considers the position of the two dates on the local timeline." />
       <item value="or calendar system." />
-      <item value="It does not take into account the chronology" />
-      <item value="his method only considers the position of the two dates on the local timeline" />
-      <item value="his method only considers the position of the two dates on the local timelin" />
-      <item value="considers" />
-      <item value="position" />
-      <item value="This checks to see if this date represents a point on the * local timeline after the other date." />
-      <item value="represents" />
-      <item value="after" />
-      <item value="is After" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2208" />
-        <entry key="ENGLISH" value="2166" />
+        <entry key="CHINESE" value="2217" />
+        <entry key="ENGLISH" value="2175" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="62" />
         <entry key="PORTUGUESE" value="5" />
