@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="elapse" />
+      <item value="elapsed" />
       <item value="required" />
       <item value="Precondition" />
       <item value="Pre" />
@@ -49,13 +51,11 @@
       <item value="This is different from the compariso" />
       <item value="This is different from the comparison in" />
       <item value="comparison" />
-      <item value="This method only considers the position of the two dates on the local timeline." />
-      <item value="or calendar system." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2217" />
-        <entry key="ENGLISH" value="2175" />
+        <entry key="CHINESE" value="2220" />
+        <entry key="ENGLISH" value="2178" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="62" />
         <entry key="PORTUGUESE" value="5" />
