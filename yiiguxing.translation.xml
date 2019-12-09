@@ -1,6 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="phase" />
+      <item value="Execution" />
+      <item value="fall" />
+      <item value="Phase" />
+      <item value="Transaction Phase" />
+      <item value="AFTERCOMPLETION" />
+      <item value="COMPLETION" />
+      <item value="AFTERCOMMIT" />
+      <item value="AFTERROLLBACK" />
+      <item value="SQLException: sql injection violation, delete not allow" />
+      <item value="sql injection violation" />
+      <item value="fallback Execution" />
       <item value="Something" />
       <item value="do Something" />
       <item value="do Some Thing" />
@@ -39,23 +51,11 @@
       <item value="libai" />
       <item value="Gibran" />
       <item value="summarizing Int" />
-      <item value="Summarizing" />
-      <item value="summarizing" />
-      <item value="flat Map" />
-      <item value="reversed" />
-      <item value="Accessors" />
-      <item value="fallback Execution" />
-      <item value="ordinal" />
-      <item value="ALLOWUNQUOTEDFIELDNAMES" />
-      <item value="WRITEDATESASTIMESTAMPS" />
-      <item value="specify Date" />
-      <item value="day Of Week" />
-      <item value="day" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2235" />
-        <entry key="ENGLISH" value="2193" />
+        <entry key="CHINESE" value="2252" />
+        <entry key="ENGLISH" value="2210" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="62" />
         <entry key="PORTUGUESE" value="5" />
