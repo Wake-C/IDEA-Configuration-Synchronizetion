@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="listener" />
+      <item value="springlistener" />
+      <item value="today" />
+      <item value="is Today" />
       <item value="elapse" />
       <item value="elapsed" />
       <item value="required" />
@@ -47,15 +51,11 @@
       <item value="is Before" />
       <item value="Epoch" />
       <item value="get Nano" />
-      <item value="get Epoch Second" />
-      <item value="This is different from the compariso" />
-      <item value="This is different from the comparison in" />
-      <item value="comparison" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2220" />
-        <entry key="ENGLISH" value="2178" />
+        <entry key="CHINESE" value="2222" />
+        <entry key="ENGLISH" value="2180" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="62" />
         <entry key="PORTUGUESE" value="5" />
