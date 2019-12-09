@@ -1,7 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Something" />
       <item value="do Something" />
+      <item value="do Some Thing" />
       <item value="Thing Event" />
       <item value="Thing" />
       <item value="Thing Listener" />
@@ -49,13 +51,11 @@
       <item value="specify Date" />
       <item value="day Of Week" />
       <item value="day" />
-      <item value="day Ofweek" />
-      <item value="concat Capitalize" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2233" />
-        <entry key="ENGLISH" value="2191" />
+        <entry key="CHINESE" value="2235" />
+        <entry key="ENGLISH" value="2193" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="62" />
         <entry key="PORTUGUESE" value="5" />
