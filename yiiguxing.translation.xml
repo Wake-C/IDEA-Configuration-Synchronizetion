@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="CALENDAR" />
+      <item value="ETICKET" />
+      <item value="ETICKETCALENDARUPDATEDUPLICATE" />
+      <item value="divide" />
+      <item value="Double Handler" />
+      <item value="specition List" />
+      <item value="exclusions" />
+      <item value="idle" />
       <item value="if {@code after} is null" />
       <item value="n followed by the {@code after} operation" />
       <item value="a composed {@code BiConsumer} that performs in sequence this" />
@@ -43,23 +51,15 @@
       <item value="[ERROR] Some problems were encountered while processing the POMs" />
       <item value="Re run Maven using the X switch to enable full debug logging." />
       <item value="For more information about the errors and possible solutions, please read the following articles" />
-      <item value="Symbol 'status' is inaccessible" />
-      <item value="batch delete" />
-      <item value="sale" />
-      <item value="batch sale update" />
-      <item value="batch Update Sale Status" />
-      <item value="specification Two Name" />
-      <item value="specification First Name" />
-      <item value="price Param" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2117" />
-        <entry key="ENGLISH" value="2081" />
+        <entry key="CHINESE" value="2122" />
+        <entry key="ENGLISH" value="2085" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="59" />
         <entry key="PORTUGUESE" value="5" />
-        <entry key="SPANISH" value="3" />
+        <entry key="SPANISH" value="4" />
       </map>
     </option>
   </component>
