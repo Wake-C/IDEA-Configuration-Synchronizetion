@@ -1,65 +1,65 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="CALENDAR" />
-      <item value="ETICKET" />
-      <item value="ETICKETCALENDARUPDATEDUPLICATE" />
-      <item value="divide" />
-      <item value="Double Handler" />
-      <item value="specition List" />
-      <item value="exclusions" />
-      <item value="idle" />
-      <item value="if {@code after} is null" />
-      <item value="n followed by the {@code after} operation" />
-      <item value="a composed {@code BiConsumer} that performs in sequence this" />
-      <item value="the operation to perform after this operation" />
-      <item value="Returns a composed {@code BiConsumer} that performs, in sequence, this * operation followed by the {@code after} operation. If performing either * operation throws an exception, it is relayed to the caller of the * composed operation. If performing this operation throws an exception, * the {@code after} operation will not be performed." />
-      <item value="sequence" />
-      <item value="performs" />
-      <item value="Performs this operation on the given arguments." />
-      <item value="test" />
-      <item value="assert" />
-      <item value="assert Empty" />
-      <item value="select Page" />
-      <item value="The POM for org.springframework.boot:spring boot starter actuator:jar:2.1.1.RELEASE is missing, no dependency information available&#10;The POM for com.h2database:h2:jar:1.4.197 is missing, no dependency information available" />
-      <item value="The POM for com.h2database:h2:jar:1.4.197 is missing, no dependency information available" />
-      <item value="purchase Limit" />
-      <item value="points Discount Flag" />
-      <item value="points" />
-      <item value="fenbi Exchange Product Flag" />
-      <item value="Exchange" />
-      <item value="Usage" />
-      <item value="classz" />
-      <item value="object Convert To Another Object" />
-      <item value="object Convert To Object" />
-      <item value="exclude Path Patterns" />
-      <item value="parameter Name" />
-      <item value="Introspectable" />
-      <item value="is Introspectable" />
-      <item value="should Be Excluded" />
-      <item value="exclusion Policy" />
-      <item value="Populate" />
-      <item value="populate Fields" />
-      <item value="Unparseable date" />
-      <item value="stupid random" />
-      <item value="calendar Price Info" />
-      <item value="price Switch" />
-      <item value="eticket" />
-      <item value="Non resolvable parent POM for com.gt.mall:parent:1.1 SNAPSHOT: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.springframework.boot:spring boot starter parent:pom:2.1.1.RELEASE has not been downloaded from it before. and 'parent.relativePath' points at wrong local POM @ line 75, column 13 &gt; [Help 2]" />
-      <item value="The project com.gt.mall:parent:1.1 SNAPSHOT (/Users/IdeaProjects/mall/pom.xml) has 1 error" />
-      <item value="The build could not read 1 project &gt; [Help 1]" />
-      <item value="[ERROR] Some problems were encountered while processing the POMs" />
-      <item value="Re run Maven using the X switch to enable full debug logging." />
-      <item value="For more information about the errors and possible solutions, please read the following articles" />
+      <item value="symmetric" />
+      <item value="intersection" />
+      <item value="Multi" />
+      <item value="This exception interacts with a thread's interrupted status, * and runtime misbehavior is likely to occur if an {@code * InterruptedException} is {@linkplain Throwable#addSuppressed * suppressed" />
+      <item value="Implementers of this interface are also strongly advised * to not have the" />
+      <item value="Cases where the close operation may fail require careful * attention by implementers. It is strongly advised to relinquish * the underlying resources and to internally &lt;em&gt;mark&lt;/em&gt; the * resource as closed, prior to throwing the exception. The {@code * close} method is unlikely to be invoked more than once and so * this ensures that the resources are released in a timely manner. * Furthermore it reduces problems that could arise when the resource * wraps, or is wrapped, by another resource." />
+      <item value="While this interface method is declared to throw {@code * Exception}, implementers are &lt;em&gt;strongly&lt;/em&gt; encouraged to * declare concrete implementations of the {@code close} method to * throw more specific exceptions, or to throw no exception at all * if the close operation cannot fail." />
+      <item value="Closes this resource, relinquishing any underlying resources. * This method is invoked automatically on objects managed by the * {@code try}withresources statement." />
+      <item value="It is possible, and in fact common, for a base class to * implement AutoCloseable even though not all of its subclasses or * instances will hold releasable resources. For code that must operate * in complete generality, or when it is known that the {@code AutoCloseable} * instance requires resource release, it is recommended to use {@code * try}withresources constructions. However, when using facilities such as * {@link java.util.stream.Stream} that support both I/Obased and * nonI/Obased forms, {@code try}withresources blocks are in * general unnecessary when using nonI/Obased forms." />
+      <item value="It is possible" />
+      <item value="An object that may hold resources (such as file or socket handles) * until it is closed. The {@link #close()} method of an {@code AutoCloseable} * object is called automatically when exiting a {@code * try}withresources block for which the object has been declared in * the resource specification header. This construction ensures prompt * release, avoiding resource exhaustion exceptions and errors that * may otherwise occur. *" />
+      <item value="Closes this stream and releases any system resources associated * with it. If the stream is already closed then invoking this * method has no effect." />
+      <item value="try Catch Resource" />
+      <item value="efficiency" />
+      <item value="fallback Execution" />
+      <item value="phase" />
+      <item value="Execution" />
+      <item value="fall" />
+      <item value="Phase" />
+      <item value="Transaction Phase" />
+      <item value="AFTERCOMPLETION" />
+      <item value="COMPLETION" />
+      <item value="AFTERCOMMIT" />
+      <item value="AFTERROLLBACK" />
+      <item value="SQLException: sql injection violation, delete not allow" />
+      <item value="sql injection violation" />
+      <item value="Something" />
+      <item value="do Something" />
+      <item value="do Some Thing" />
+      <item value="Thing Event" />
+      <item value="Thing" />
+      <item value="Thing Listener" />
+      <item value="do Thing" />
+      <item value="dothing" />
+      <item value="dothing Listener" />
+      <item value="Something Listener" />
+      <item value="thing" />
+      <item value="Something Event" />
+      <item value="publisher" />
+      <item value="listener" />
+      <item value="spring Listener" />
+      <item value="springlistenner" />
+      <item value="springlistener" />
+      <item value="Listener" />
+      <item value="today" />
+      <item value="is Today" />
+      <item value="elapse" />
+      <item value="elapsed" />
+      <item value="required" />
+      <item value="Precondition" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2122" />
-        <entry key="ENGLISH" value="2085" />
+        <entry key="CHINESE" value="2265" />
+        <entry key="ENGLISH" value="2223" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
-        <entry key="FRENCH" value="59" />
+        <entry key="FRENCH" value="62" />
         <entry key="PORTUGUESE" value="5" />
-        <entry key="SPANISH" value="4" />
+        <entry key="SPANISH" value="6" />
       </map>
     </option>
   </component>
