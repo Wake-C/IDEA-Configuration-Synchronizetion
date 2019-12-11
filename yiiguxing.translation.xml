@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="pass Word" />
+      <item value="password" />
       <item value="of" />
       <item value="exclude" />
       <item value="sink" />
@@ -49,13 +51,11 @@
       <item value="springlistener" />
       <item value="Listener" />
       <item value="today" />
-      <item value="is Today" />
-      <item value="elapse" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2268" />
-        <entry key="ENGLISH" value="2226" />
+        <entry key="CHINESE" value="2270" />
+        <entry key="ENGLISH" value="2228" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="62" />
         <entry key="PORTUGUESE" value="5" />
