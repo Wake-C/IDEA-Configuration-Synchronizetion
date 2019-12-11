@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Multi" />
       <item value="This exception interacts with a thread's interrupted status, * and runtime misbehavior is likely to occur if an {@code * InterruptedException} is {@linkplain Throwable#addSuppressed * suppressed" />
       <item value="Implementers of this interface are also strongly advised * to not have the" />
       <item value="Cases where the close operation may fail require careful * attention by implementers. It is strongly advised to relinquish * the underlying resources and to internally &lt;em&gt;mark&lt;/em&gt; the * resource as closed, prior to throwing the exception. The {@code * close} method is unlikely to be invoked more than once and so * this ensures that the resources are released in a timely manner. * Furthermore it reduces problems that could arise when the resource * wraps, or is wrapped, by another resource." />
@@ -50,12 +51,11 @@
       <item value="Precondition" />
       <item value="Pre" />
       <item value="Preconditions" />
-      <item value="check Argument" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2262" />
-        <entry key="ENGLISH" value="2220" />
+        <entry key="CHINESE" value="2263" />
+        <entry key="ENGLISH" value="2221" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="62" />
         <entry key="PORTUGUESE" value="5" />
