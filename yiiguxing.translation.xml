@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="symmetric" />
+      <item value="intersection" />
       <item value="Multi" />
       <item value="This exception interacts with a thread's interrupted status, * and runtime misbehavior is likely to occur if an {@code * InterruptedException} is {@linkplain Throwable#addSuppressed * suppressed" />
       <item value="Implementers of this interface are also strongly advised * to not have the" />
@@ -49,13 +51,11 @@
       <item value="elapsed" />
       <item value="required" />
       <item value="Precondition" />
-      <item value="Pre" />
-      <item value="Preconditions" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2263" />
-        <entry key="ENGLISH" value="2221" />
+        <entry key="CHINESE" value="2265" />
+        <entry key="ENGLISH" value="2223" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="62" />
         <entry key="PORTUGUESE" value="5" />
