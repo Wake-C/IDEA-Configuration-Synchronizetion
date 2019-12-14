@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Redis Distribution Service" />
       <item value="find Distribution Product List" />
       <item value="set Distribution Product List" />
       <item value="find Distribution Product Ids" />
@@ -50,14 +51,13 @@
       <item value="efficiency" />
       <item value="fallback Execution" />
       <item value="phase" />
-      <item value="Execution" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2306" />
+        <entry key="CHINESE" value="2307" />
         <entry key="ENGLISH" value="2263" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
-        <entry key="FRENCH" value="63" />
+        <entry key="FRENCH" value="64" />
         <entry key="PORTUGUESE" value="5" />
         <entry key="SPANISH" value="6" />
       </map>
