@@ -15,13 +15,14 @@
                         <GrepStyle>
                           <option name="backgroundColor">
                             <GrepColor>
-                              <option name="color" value="-61972" />
+                              <option name="color" value="-54717" />
+                              <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
                           <option name="bold" value="true" />
                           <option name="foregroundColor">
                             <GrepColor>
-                              <option name="color" value="-4846073" />
+                              <option name="color" value="-54717" />
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
@@ -34,12 +35,13 @@
                         <GrepStyle>
                           <option name="backgroundColor">
                             <GrepColor>
-                              <option name="color" value="-1616324" />
+                              <option name="color" value="-14336" />
+                              <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
                           <option name="foregroundColor">
                             <GrepColor>
-                              <option name="color" value="-5232631" />
+                              <option name="color" value="-54717" />
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
@@ -52,12 +54,13 @@
                         <GrepStyle>
                           <option name="backgroundColor">
                             <GrepColor>
-                              <option name="color" value="-2565012" />
+                              <option name="color" value="-256" />
+                              <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
                           <option name="foregroundColor">
                             <GrepColor>
-                              <option name="color" value="-2174964" />
+                              <option name="color" value="-1118613" />
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
@@ -69,14 +72,9 @@
                       <option name="grepExpression" value=".*INFO.*" />
                       <option name="style">
                         <GrepStyle>
-                          <option name="backgroundColor">
-                            <GrepColor>
-                              <option name="color" value="-328966" />
-                            </GrepColor>
-                          </option>
                           <option name="foregroundColor">
                             <GrepColor>
-                              <option name="color" value="-263173" />
+                              <option name="color" value="-16141976" />
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
@@ -87,14 +85,9 @@
                       <option name="grepExpression" value=".*DEBUG.*" />
                       <option name="style">
                         <GrepStyle>
-                          <option name="backgroundColor">
-                            <GrepColor>
-                              <option name="color" value="-1792140" />
-                            </GrepColor>
-                          </option>
                           <option name="foregroundColor">
                             <GrepColor>
-                              <option name="color" value="-2031703" />
+                              <option name="color" value="-8355712" />
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
@@ -105,14 +98,9 @@
                       <option name="grepExpression" value=".*TRACE.*" />
                       <option name="style">
                         <GrepStyle>
-                          <option name="backgroundColor">
-                            <GrepColor>
-                              <option name="color" value="-11468849" />
-                            </GrepColor>
-                          </option>
                           <option name="foregroundColor">
                             <GrepColor>
-                              <option name="color" value="-11092436" />
+                              <option name="color" value="-4144960" />
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>

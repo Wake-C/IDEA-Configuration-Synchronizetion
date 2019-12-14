@@ -1,6 +1,40 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Redis Distribution Service" />
+      <item value="find Distribution Product List" />
+      <item value="set Distribution Product List" />
+      <item value="find Distribution Product Ids" />
+      <item value="set Distribution Product Ids" />
+      <item value="split List" />
+      <item value="I Redis Distribution Service" />
+      <item value="distribution" />
+      <item value="design Thread" />
+      <item value="desige" />
+      <item value="Creates a thread pool that reuses a fixed number of threads operating off a shared unbounded queue. At any point, at most nThreads threads will be active processing tasks. If additional tasks are submitted when all threads are active, they will wait in the queue until a thread is available. If any thread terminates due to a failure during execution prior to shutdown, a new one will take its place if needed to execute subsequent tasks. The threads in the pool will exist until it is explicitly shutdown." />
+      <item value="reuses" />
+      <item value="the length of time" />
+      <item value="new Fixed Thread Pool" />
+      <item value="Interrupted Exception" />
+      <item value="Handle" />
+      <item value="old Handle" />
+      <item value="old Hanlde" />
+      <item value="Hanlder" />
+      <item value="Executors" />
+      <item value="Thread" />
+      <item value="Unexpected exception during isValid call." />
+      <item value="Unexpected" />
+      <item value="Constraint" />
+      <item value="param Validate Info" />
+      <item value="Executable" />
+      <item value="Groupsequence" />
+      <item value="not Empty" />
+      <item value="blank" />
+      <item value="pass Word" />
+      <item value="password" />
+      <item value="of" />
+      <item value="exclude" />
+      <item value="sink" />
       <item value="symmetric" />
       <item value="intersection" />
       <item value="Multi" />
@@ -17,47 +51,13 @@
       <item value="efficiency" />
       <item value="fallback Execution" />
       <item value="phase" />
-      <item value="Execution" />
-      <item value="fall" />
-      <item value="Phase" />
-      <item value="Transaction Phase" />
-      <item value="AFTERCOMPLETION" />
-      <item value="COMPLETION" />
-      <item value="AFTERCOMMIT" />
-      <item value="AFTERROLLBACK" />
-      <item value="SQLException: sql injection violation, delete not allow" />
-      <item value="sql injection violation" />
-      <item value="Something" />
-      <item value="do Something" />
-      <item value="do Some Thing" />
-      <item value="Thing Event" />
-      <item value="Thing" />
-      <item value="Thing Listener" />
-      <item value="do Thing" />
-      <item value="dothing" />
-      <item value="dothing Listener" />
-      <item value="Something Listener" />
-      <item value="thing" />
-      <item value="Something Event" />
-      <item value="publisher" />
-      <item value="listener" />
-      <item value="spring Listener" />
-      <item value="springlistenner" />
-      <item value="springlistener" />
-      <item value="Listener" />
-      <item value="today" />
-      <item value="is Today" />
-      <item value="elapse" />
-      <item value="elapsed" />
-      <item value="required" />
-      <item value="Precondition" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2265" />
-        <entry key="ENGLISH" value="2223" />
+        <entry key="CHINESE" value="2307" />
+        <entry key="ENGLISH" value="2263" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
-        <entry key="FRENCH" value="62" />
+        <entry key="FRENCH" value="64" />
         <entry key="PORTUGUESE" value="5" />
         <entry key="SPANISH" value="6" />
       </map>
