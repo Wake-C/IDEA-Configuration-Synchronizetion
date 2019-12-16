@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="distribution Spec" />
       <item value="distribution Spec Dao" />
       <item value="Mall Distribution Specification" />
       <item value="distribution Specification" />
@@ -50,12 +51,11 @@
       <item value="intersection" />
       <item value="Multi" />
       <item value="This exception interacts with a thread's interrupted status, * and runtime misbehavior is likely to occur if an {@code * InterruptedException} is {@linkplain Throwable#addSuppressed * suppressed" />
-      <item value="Implementers of this interface are also strongly advised * to not have the" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2320" />
-        <entry key="ENGLISH" value="2275" />
+        <entry key="CHINESE" value="2321" />
+        <entry key="ENGLISH" value="2276" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="65" />
         <entry key="PORTUGUESE" value="5" />
