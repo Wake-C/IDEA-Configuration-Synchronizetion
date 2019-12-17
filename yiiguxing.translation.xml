@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="DISTRIBUTIONSPECIFICATIONIDSLIST" />
+      <item value="DISTRIBUTIONPRODUCT" />
+      <item value="delete Cache" />
       <item value="distribution Product" />
       <item value="com Distribution Spec Service" />
       <item value="distribution Spec" />
@@ -48,14 +51,11 @@
       <item value="password" />
       <item value="of" />
       <item value="exclude" />
-      <item value="sink" />
-      <item value="symmetric" />
-      <item value="intersection" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2328" />
-        <entry key="ENGLISH" value="2283" />
+        <entry key="CHINESE" value="2331" />
+        <entry key="ENGLISH" value="2286" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="65" />
         <entry key="PORTUGUESE" value="5" />
