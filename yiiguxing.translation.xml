@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="find Distribution Specification By Distribution Id" />
       <item value="distribution Id" />
       <item value="info" />
       <item value="DISTRIBUTIONSPECIFICATIONIDSLIST" />
@@ -50,12 +51,11 @@
       <item value="not Empty" />
       <item value="blank" />
       <item value="pass Word" />
-      <item value="password" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2333" />
-        <entry key="ENGLISH" value="2288" />
+        <entry key="CHINESE" value="2334" />
+        <entry key="ENGLISH" value="2289" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="65" />
         <entry key="PORTUGUESE" value="5" />
