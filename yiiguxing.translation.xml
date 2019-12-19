@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="enable" />
+      <item value="recommendenable" />
       <item value="distributorid" />
       <item value="flag" />
       <item value="assert Empty" />
@@ -49,13 +51,11 @@
       <item value="Thread" />
       <item value="Unexpected exception during isValid call." />
       <item value="Unexpected" />
-      <item value="Constraint" />
-      <item value="param Validate Info" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2340" />
-        <entry key="ENGLISH" value="2295" />
+        <entry key="CHINESE" value="2342" />
+        <entry key="ENGLISH" value="2297" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="65" />
         <entry key="PORTUGUESE" value="5" />
