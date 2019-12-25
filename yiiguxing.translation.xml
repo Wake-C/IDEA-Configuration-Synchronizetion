@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="specification" />
       <item value="Product Inventory" />
       <item value="Be Product VO" />
       <item value="Specifica" />
@@ -50,12 +51,11 @@
       <item value="desige" />
       <item value="Creates a thread pool that reuses a fixed number of threads operating off a shared unbounded queue. At any point, at most nThreads threads will be active processing tasks. If additional tasks are submitted when all threads are active, they will wait in the queue until a thread is available. If any thread terminates due to a failure during execution prior to shutdown, a new one will take its place if needed to execute subsequent tasks. The threads in the pool will exist until it is explicitly shutdown." />
       <item value="reuses" />
-      <item value="the length of time" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2352" />
-        <entry key="ENGLISH" value="2307" />
+        <entry key="CHINESE" value="2353" />
+        <entry key="ENGLISH" value="2308" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="65" />
         <entry key="PORTUGUESE" value="5" />
