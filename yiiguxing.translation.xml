@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Specifica" />
       <item value="detail" />
       <item value="joins" />
       <item value="check" />
@@ -50,12 +51,11 @@
       <item value="the length of time" />
       <item value="new Fixed Thread Pool" />
       <item value="Interrupted Exception" />
-      <item value="Handle" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2349" />
-        <entry key="ENGLISH" value="2304" />
+        <entry key="CHINESE" value="2350" />
+        <entry key="ENGLISH" value="2305" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="65" />
         <entry key="PORTUGUESE" value="5" />
