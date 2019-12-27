@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="stock Num" />
       <item value="business Name" />
       <item value="DISTRIBUTIONPRODUCTDUPLICATION" />
       <item value="keep Alive Time" />
@@ -50,12 +51,11 @@
       <item value="set Distribution Product Ids" />
       <item value="split List" />
       <item value="I Redis Distribution Service" />
-      <item value="distribution" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2357" />
-        <entry key="ENGLISH" value="2311" />
+        <entry key="CHINESE" value="2358" />
+        <entry key="ENGLISH" value="2312" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="66" />
         <entry key="PORTUGUESE" value="5" />
