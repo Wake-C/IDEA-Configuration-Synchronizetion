@@ -57,6 +57,9 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
+  <action id="CopyThenJumpPaste">
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
   <action id="CopyWithoutSelect" />
   <action id="DebugClass">
     <keyboard-shortcut first-keystroke="shift ctrl f5" />
@@ -86,19 +89,23 @@
   </action>
   <action id="EditorDown">
     <keyboard-shortcut first-keystroke="down" />
-    <keyboard-shortcut first-keystroke="shift i" />
+    <keyboard-shortcut first-keystroke="meta i" />
   </action>
   <action id="EditorDuplicateLines">
     <keyboard-shortcut first-keystroke="ctrl down" />
   </action>
-  <action id="EditorLookupDown" />
-  <action id="EditorNextWord">
-    <keyboard-shortcut first-keystroke="ctrl right" />
-    <keyboard-shortcut first-keystroke="meta right" />
+  <action id="EditorLeft">
+    <keyboard-shortcut first-keystroke="left" />
+    <keyboard-shortcut first-keystroke="meta o" />
   </action>
+  <action id="EditorLookupDown" />
   <action id="EditorPreviousWord">
     <keyboard-shortcut first-keystroke="ctrl left" />
     <keyboard-shortcut first-keystroke="meta left" />
+  </action>
+  <action id="EditorRight">
+    <keyboard-shortcut first-keystroke="right" />
+    <keyboard-shortcut first-keystroke="meta p" />
   </action>
   <action id="EditorScrollBottom">
     <keyboard-shortcut first-keystroke="shift meta d" />
@@ -110,7 +117,7 @@
   <action id="EditorScrollUp" />
   <action id="EditorUp">
     <keyboard-shortcut first-keystroke="up" />
-    <keyboard-shortcut first-keystroke="shift u" />
+    <keyboard-shortcut first-keystroke="meta u" />
   </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="ctrl alt right" />
@@ -150,6 +157,9 @@
   <action id="ManageRecentProjects">
     <keyboard-shortcut first-keystroke="shift ctrl alt o" />
   </action>
+  <action id="MarkdownNavigator.ListIndent" />
+  <action id="MarkdownNavigator.ToggleCodeSpan" />
+  <action id="MarkdownNavigator.ToggleItalic" />
   <action id="Maven.AddFileAsMavenProject">
     <keyboard-shortcut first-keystroke="ctrl meta alt m" />
   </action>
@@ -210,7 +220,19 @@
   <action id="XPathView.Actions.Evaluate" />
   <action id="XPathView.Actions.FindByExpression" />
   <action id="XPathView.Actions.ShowPath" />
-  <action id="emacsIDEAs.AceJump" />
+  <action id="emacsIDEAs.AceJumpAndReplace.Block" />
+  <action id="emacsIDEAs.AceJumpAndReplace.Group" />
+  <action id="emacsIDEAs.AceJumpAndReplace.Line" />
+  <action id="emacsIDEAs.AceJumpAndReplace.Paragraph" />
+  <action id="emacsIDEAs.AceJumpAndReplace.Quote" />
+  <action id="emacsIDEAs.AceJumpAndReplace.String" />
+  <action id="emacsIDEAs.AceJumpAndReplace.ToLineEnd" />
+  <action id="emacsIDEAs.AceJumpAndReplace.ToLineStart" />
+  <action id="emacsIDEAs.AceJumpAndReplace.ToParagraphEnd" />
+  <action id="emacsIDEAs.AceJumpAndReplace.ToParagraphStart" />
+  <action id="emacsIDEAs.AceJumpAndReplace.Word" />
+  <action id="emacsIDEAs.AceJumpCopy" />
+  <action id="emacsIDEAs.AceJumpCut" />
   <action id="emacsIDEAs.AceJumpMove.Block" />
   <action id="emacsIDEAs.AceJumpMove.Group" />
   <action id="emacsIDEAs.AceJumpMove.Line" />
@@ -222,7 +244,17 @@
   <action id="emacsIDEAs.AceJumpMove.ToParagraphEnd" />
   <action id="emacsIDEAs.AceJumpMove.ToParagraphStart" />
   <action id="emacsIDEAs.AceJumpMove.Word" />
-  <action id="emacsIDEAs.AceJumpWord">
-    <keyboard-shortcut first-keystroke="meta j" />
-  </action>
+  <action id="emacsIDEAs.AceJumpObtainThenReplace.Block" />
+  <action id="emacsIDEAs.AceJumpObtainThenReplace.Group" />
+  <action id="emacsIDEAs.AceJumpObtainThenReplace.Line" />
+  <action id="emacsIDEAs.AceJumpObtainThenReplace.Paragraph" />
+  <action id="emacsIDEAs.AceJumpObtainThenReplace.Quote" />
+  <action id="emacsIDEAs.AceJumpObtainThenReplace.String" />
+  <action id="emacsIDEAs.AceJumpObtainThenReplace.ToLineEnd" />
+  <action id="emacsIDEAs.AceJumpObtainThenReplace.ToLineStart" />
+  <action id="emacsIDEAs.AceJumpObtainThenReplace.ToParagraphEnd" />
+  <action id="emacsIDEAs.AceJumpObtainThenReplace.ToParagraphStart" />
+  <action id="emacsIDEAs.AceJumpObtainThenReplace.Word" />
+  <action id="emacsIDEAs.AceJumpSelect" />
+  <action id="emacsIDEAs.AceJumpWord" />
 </keymap>
