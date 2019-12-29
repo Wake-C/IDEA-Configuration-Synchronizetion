@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Two Plus Array List" />
       <item value="traverses" />
       <item value="For example" />
       <item value="for" />
@@ -50,7 +51,6 @@
       <item value="commissiontypefixmoney" />
       <item value="COMMISSIONTYPEFIXMONEY" />
       <item value="PRODUCTDISABLE" />
-      <item value="DISTRIBUTIONCREATE" />
     </histories>
     <option name="languageScores">
       <map>
