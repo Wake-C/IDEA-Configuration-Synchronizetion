@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="traverses" />
+      <item value="For example" />
+      <item value="for" />
+      <item value="explicitly" />
+      <item value="This method supports postprocessing on optional values" />
+      <item value="postprocessing" />
+      <item value="This method supports postprocessing on optional values, without * the need to explicitly check for a return status. For example, the * following code traverses a stream of file names, selects one that has * not yet been processed, and then opens that file, returning an" />
+      <item value="If a value is present, apply the provided mapping function to it, * and if the result is nonnull, return an {@code Optional} describing the * result. Otherwise return an empty" />
+      <item value="pre" />
+      <item value="If a value is present, apply the provided {@code Optional}bearing * mapping function to it, return that result, otherwise return an empty * {@code Optional}. This method is similar to {@link #map(Function)}, * but the provided mapper is one whose result is already an {@code Optional}, * and if invoked, {@code flatMap} does not wrap it with an additional * {@code Optional}." />
       <item value="detail" />
       <item value="menus" />
       <item value="stock Num" />
@@ -41,21 +51,11 @@
       <item value="COMMISSIONTYPEFIXMONEY" />
       <item value="PRODUCTDISABLE" />
       <item value="DISTRIBUTIONCREATE" />
-      <item value="SYNCCREATE" />
-      <item value="distribution Create" />
-      <item value="distributioncreate" />
-      <item value="distributioncreate = 0" />
-      <item value="Redis Distribution Service" />
-      <item value="find Distribution Product List" />
-      <item value="set Distribution Product List" />
-      <item value="find Distribution Product Ids" />
-      <item value="set Distribution Product Ids" />
-      <item value="split List" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2360" />
-        <entry key="ENGLISH" value="2314" />
+        <entry key="CHINESE" value="2370" />
+        <entry key="ENGLISH" value="2324" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="66" />
         <entry key="PORTUGUESE" value="5" />
