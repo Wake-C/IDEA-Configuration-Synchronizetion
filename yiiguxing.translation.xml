@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="select Bus Id Pro Id" />
       <item value="PRODUCTOFF" />
       <item value="productoff" />
       <item value="find Distribution Product By Bus Id And Product Id" />
@@ -50,12 +51,11 @@
       <item value="com Distribution Spec Service" />
       <item value="distribution Spec" />
       <item value="distribution Spec Dao" />
-      <item value="Mall Distribution Specification" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2374" />
-        <entry key="ENGLISH" value="2328" />
+        <entry key="CHINESE" value="2375" />
+        <entry key="ENGLISH" value="2329" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="66" />
         <entry key="PORTUGUESE" value="5" />
