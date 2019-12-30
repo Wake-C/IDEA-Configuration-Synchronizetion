@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="find Distribution Product By Bus Id And Product Id" />
       <item value="duplicate Product" />
       <item value="Two Plus Array List" />
       <item value="traverses" />
@@ -50,12 +51,11 @@
       <item value="Mall Distribution Specification" />
       <item value="distribution Specification" />
       <item value="commissiontypefixmoney" />
-      <item value="COMMISSIONTYPEFIXMONEY" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2371" />
-        <entry key="ENGLISH" value="2325" />
+        <entry key="CHINESE" value="2372" />
+        <entry key="ENGLISH" value="2326" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="66" />
         <entry key="PORTUGUESE" value="5" />
