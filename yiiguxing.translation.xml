@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="clerk" />
+      <item value="pro Commision" />
       <item value="Clerk Distribution Condition BO" />
       <item value="Clear Distribution Condition BO" />
       <item value="Clear Distribtuion Condition BO" />
@@ -49,13 +51,11 @@
       <item value="find Distribution Specification By Distribution Id" />
       <item value="distribution Id" />
       <item value="info" />
-      <item value="DISTRIBUTIONSPECIFICATIONIDSLIST" />
-      <item value="DISTRIBUTIONPRODUCT" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2376" />
-        <entry key="ENGLISH" value="2330" />
+        <entry key="CHINESE" value="2378" />
+        <entry key="ENGLISH" value="2332" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="66" />
         <entry key="PORTUGUESE" value="5" />
