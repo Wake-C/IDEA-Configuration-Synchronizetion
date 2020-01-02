@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Intersection" />
+      <item value="list Intersection" />
+      <item value="entries Only On Right" />
+      <item value="entries In Common" />
       <item value="clerk" />
       <item value="pro Commision" />
       <item value="Clerk Distribution Condition BO" />
@@ -47,15 +51,11 @@
       <item value="flag" />
       <item value="assert Empty" />
       <item value="set Distribution Specifications" />
-      <item value="DISTRIBUTIONSPECIFICATIONLIST" />
-      <item value="find Distribution Specification By Distribution Id" />
-      <item value="distribution Id" />
-      <item value="info" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2378" />
-        <entry key="ENGLISH" value="2332" />
+        <entry key="CHINESE" value="2383" />
+        <entry key="ENGLISH" value="2337" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="66" />
         <entry key="PORTUGUESE" value="5" />
