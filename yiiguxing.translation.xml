@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="comment" />
+      <item value="commend" />
+      <item value="procommend" />
+      <item value="selpro" />
       <item value="swagger 补充" />
       <item value="bind Member Token" />
       <item value="find Distribution Product By Bus Id And Product Id" />
@@ -47,17 +51,13 @@
       <item value="DISTRIBUTIONPRODUCTDUPLICATION" />
       <item value="keep Alive Time" />
       <item value="maximum Pool Size" />
-      <item value="specification" />
-      <item value="Product Inventory" />
-      <item value="Be Product VO" />
-      <item value="Specifica" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2399" />
-        <entry key="ENGLISH" value="2354" />
+        <entry key="CHINESE" value="2405" />
+        <entry key="ENGLISH" value="2357" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
-        <entry key="FRENCH" value="66" />
+        <entry key="FRENCH" value="69" />
         <entry key="PORTUGUESE" value="5" />
         <entry key="SPANISH" value="6" />
       </map>
