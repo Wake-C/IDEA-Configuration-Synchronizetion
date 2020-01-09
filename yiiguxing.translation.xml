@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="specify Act Flag" />
+      <item value="specify Act" />
       <item value="SimpleMessageListenerContainer : Consumer failed to start in 60000 milliseconds; does the task executor have enough threads to support the container concurrency?" />
       <item value="bulletin" />
       <item value="orderbulletin" />
@@ -49,13 +51,11 @@
       <item value="for" />
       <item value="explicitly" />
       <item value="This method supports postprocessing on optional values" />
-      <item value="postprocessing" />
-      <item value="This method supports postprocessing on optional values, without * the need to explicitly check for a return status. For example, the * following code traverses a stream of file names, selects one that has * not yet been processed, and then opens that file, returning an" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2414" />
-        <entry key="ENGLISH" value="2364" />
+        <entry key="CHINESE" value="2417" />
+        <entry key="ENGLISH" value="2367" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="71" />
         <entry key="PORTUGUESE" value="5" />
