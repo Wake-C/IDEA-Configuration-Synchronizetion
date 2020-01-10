@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Product Act Type" />
+      <item value="select Product Act Type" />
       <item value="request Param Const" />
       <item value="sec Kill Price" />
       <item value="select Pro Id" />
@@ -49,13 +51,11 @@
       <item value="pro Commision" />
       <item value="Clerk Distribution Condition BO" />
       <item value="Clear Distribution Condition BO" />
-      <item value="Clear Distribtuion Condition BO" />
-      <item value="Clerk" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2427" />
-        <entry key="ENGLISH" value="2377" />
+        <entry key="CHINESE" value="2434" />
+        <entry key="ENGLISH" value="2384" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="71" />
         <entry key="PORTUGUESE" value="5" />
