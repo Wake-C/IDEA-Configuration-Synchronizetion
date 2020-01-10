@@ -1,6 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="request Param Const" />
+      <item value="sec Kill Price" />
+      <item value="select Pro Id" />
+      <item value="enums" />
+      <item value="param Name" />
+      <item value="请求参数enmu" />
+      <item value="request Param" />
+      <item value="Choose" />
+      <item value="get Specify Act Flag" />
+      <item value="My Exception" />
+      <item value="find Recommend Product By Bus Id And Store Id" />
       <item value="specify Act Flag" />
       <item value="specify Act" />
       <item value="SimpleMessageListenerContainer : Consumer failed to start in 60000 milliseconds; does the task executor have enough threads to support the container concurrency?" />
@@ -40,22 +51,11 @@
       <item value="Clear Distribution Condition BO" />
       <item value="Clear Distribtuion Condition BO" />
       <item value="Clerk" />
-      <item value="if (Objects.isNull(mallProduct)) { throw new MyException(ResponseEnums.PRODUCTDELETED); } if (mallProduct.getIsPublish().equals(1)) { throw new MyException(ResponseEnums.PRODUCTOFF); }" />
-      <item value="select Bus Id Pro Id" />
-      <item value="PRODUCTOFF" />
-      <item value="productoff" />
-      <item value="duplicate Product" />
-      <item value="Two Plus Array List" />
-      <item value="traverses" />
-      <item value="For example" />
-      <item value="for" />
-      <item value="explicitly" />
-      <item value="This method supports postprocessing on optional values" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2417" />
-        <entry key="ENGLISH" value="2367" />
+        <entry key="CHINESE" value="2427" />
+        <entry key="ENGLISH" value="2377" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="71" />
         <entry key="PORTUGUESE" value="5" />
