@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="top Price" />
+      <item value="lowest Price" />
+      <item value="lower Price" />
       <item value="get Product Act Type" />
       <item value="select Product Act Type" />
       <item value="request Param Const" />
@@ -48,14 +51,11 @@
       <item value="entries Only On Right" />
       <item value="entries In Common" />
       <item value="clerk" />
-      <item value="pro Commision" />
-      <item value="Clerk Distribution Condition BO" />
-      <item value="Clear Distribution Condition BO" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2434" />
-        <entry key="ENGLISH" value="2384" />
+        <entry key="CHINESE" value="2437" />
+        <entry key="ENGLISH" value="2387" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="71" />
         <entry key="PORTUGUESE" value="5" />
