@@ -3,6 +3,166 @@
     <option name="deletedKeys">
       <list>
         <TemplateKey>
+          <option name="groupName" value="Zen XSL" />
+          <option name="key" value="tmatch" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen XSL" />
+          <option name="key" value="tm" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen XSL" />
+          <option name="key" value="par" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen XSL" />
+          <option name="key" value="pare" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen XSL" />
+          <option name="key" value="co" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen XSL" />
+          <option name="key" value="attr" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen XSL" />
+          <option name="key" value="val" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen XSL" />
+          <option name="key" value="xsl:when" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen XSL" />
+          <option name="key" value="each" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen XSL" />
+          <option name="key" value="var" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen XSL" />
+          <option name="key" value="wh" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen XSL" />
+          <option name="key" value="ap" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen XSL" />
+          <option name="key" value="call" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen XSL" />
+          <option name="key" value="ch" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen XSL" />
+          <option name="key" value="choose" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen XSL" />
+          <option name="key" value="vare" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen XSL" />
+          <option name="key" value="tname" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen XSL" />
+          <option name="key" value="tn" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen XSL" />
+          <option name="key" value="if" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen XSL" />
+          <option name="key" value="sort" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen XSL" />
+          <option name="key" value="proc" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen XSL" />
+          <option name="key" value="for" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen XSL" />
+          <option name="key" value="strip" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen XSL" />
+          <option name="key" value="pres" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen XSL" />
+          <option name="key" value="nam" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen XSL" />
+          <option name="key" value="num" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen XSL" />
+          <option name="key" value="fall" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen XSL" />
+          <option name="key" value="msg" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen XSL" />
+          <option name="key" value="com" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen XSL" />
+          <option name="key" value="ot" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen XSL" />
+          <option name="key" value="tex" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen XSL" />
+          <option name="key" value="api" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen XSL" />
+          <option name="key" value="cp" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen XSL" />
+          <option name="key" value="attrs" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen XSL" />
+          <option name="key" value="elem" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen XSL" />
+          <option name="key" value="inc" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen XSL" />
+          <option name="key" value="imp" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen XSL" />
+          <option name="key" value="xsl" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen XSL" />
+          <option name="key" value="key" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen XSL" />
+          <option name="key" value="!!!" />
+        </TemplateKey>
+        <TemplateKey>
           <option name="groupName" value="Maven" />
           <option name="key" value="dep" />
         </TemplateKey>
