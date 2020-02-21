@@ -1,6 +1,20 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="menu Name" />
+      <item value="order Bulletin" />
+      <item value="bullets" />
+      <item value="Custom Rank" />
+      <item value="Custome Rank" />
+      <item value="Sales Rank" />
+      <item value="Distribution" />
+      <item value="Distribution Count" />
+      <item value="count" />
+      <item value="Sales Count" />
+      <item value="Count" />
+      <item value="summary" />
+      <item value="menu Url" />
+      <item value="menu Text" />
       <item value="symmetric" />
       <item value="async Product" />
       <item value="share Url" />
@@ -37,25 +51,11 @@
       <item value="commend" />
       <item value="procommend" />
       <item value="selpro" />
-      <item value="swagger 补充" />
-      <item value="bind Member Token" />
-      <item value="find Distribution Product By Bus Id And Product Id" />
-      <item value="find Distribution Product List By Pro Ids" />
-      <item value="be Group Buy Basic Data" />
-      <item value="be Sec Kill Act Basic Data" />
-      <item value="be Pro Duct Detail Data" />
-      <item value="group Buy Service" />
-      <item value="mall Image Associative DAO" />
-      <item value="sec Kill" />
-      <item value="seckill" />
-      <item value="Clerk Product Detail VO" />
-      <item value="intersection" />
-      <item value="Intersection" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2441" />
-        <entry key="ENGLISH" value="2391" />
+        <entry key="CHINESE" value="2457" />
+        <entry key="ENGLISH" value="2407" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="71" />
         <entry key="PORTUGUESE" value="5" />
