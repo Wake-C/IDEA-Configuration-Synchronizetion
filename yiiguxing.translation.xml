@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Distribution" />
       <item value="is Distribution Product" />
       <item value="app Menus" />
       <item value="Day Order" />
@@ -13,7 +14,6 @@
       <item value="Custom Rank" />
       <item value="Custome Rank" />
       <item value="Sales Rank" />
-      <item value="Distribution" />
       <item value="Distribution Count" />
       <item value="count" />
       <item value="Sales Count" />
