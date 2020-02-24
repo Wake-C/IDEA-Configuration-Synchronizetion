@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="App Menus" />
       <item value="execution" />
       <item value="Distribution" />
       <item value="is Distribution Product" />
@@ -50,12 +51,11 @@
       <item value="orderboard" />
       <item value="Be Pro Act Log Style Complete Data" />
       <item value="mall Store List" />
-      <item value="Mall Seller Join Product" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2464" />
-        <entry key="ENGLISH" value="2414" />
+        <entry key="CHINESE" value="2465" />
+        <entry key="ENGLISH" value="2415" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="71" />
         <entry key="PORTUGUESE" value="5" />
