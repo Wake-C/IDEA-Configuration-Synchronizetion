@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="JAR will be empty no content was marked for inclusion!" />
+      <item value="The artifact org.hibernate:hibernatevalidator:jar:6.0.8.Final has been relocated to org.hibernate.validator:hibernatevalidator:jar:6.0.8.Final" />
+      <item value="Some problems were encountered while building the effective model for com.gt.plugin.sdk:gtpluginsdkparent:pom:4.2.5SNAPSHOT 'parent.relativePath' of POM com.gt.plugin.sdk:gtpluginsdkparent:4.2.5SNAPSHOT (/Users/IdeaProjects/GTPluginSpringBootStarter/gtpluginsdkparent/pom.xml) points at com.gt.plugin:gtpluginstarter instead of org.springframework.boot:springbootstarterparent, please verify your project structure @ line 19, column 13 It is highly recommended to fix these problems because they threaten the stability of your build. For this reason, future Maven versions might no longer support building such malformed projects." />
+      <item value="relative Path" />
+      <item value="instead of" />
+      <item value="points at" />
+      <item value="Some problems were encountered while building the effective model" />
+      <item value="Some problems were encountered while building the effective model for com.gt.plugin.sdk:gtpluginsdkparent:pom:4.2.5SNAPSHOT 'parent.relativePath' of POM com.gt.plugin.sdk:gtpluginsdkparent:4.2.5SNAPSHOT (/Users/IdeaProjects/GTPluginSpringBootStarter/gtpluginsdkparent/pom.xml) points at com.gt.plugin:gtpluginstarter instead of org.springframework.boot:springbootstarterparent, please verify your project structure @ line 19, column 13" />
+      <item value="It is highly recommended to fix these problems because they threaten the stability of your build. For this reason, future Maven versions might no longer support building such malformed projects." />
+      <item value="encountered" />
       <item value="Distribution App Menus DTO" />
       <item value="App Menus" />
       <item value="execution" />
@@ -41,21 +51,11 @@
       <item value="请求参数enmu" />
       <item value="request Param" />
       <item value="Choose" />
-      <item value="get Specify Act Flag" />
-      <item value="My Exception" />
-      <item value="find Recommend Product By Bus Id And Store Id" />
-      <item value="specify Act Flag" />
-      <item value="specify Act" />
-      <item value="SimpleMessageListenerContainer : Consumer failed to start in 60000 milliseconds; does the task executor have enough threads to support the container concurrency?" />
-      <item value="bulletin" />
-      <item value="orderbulletin" />
-      <item value="orderboard" />
-      <item value="Be Pro Act Log Style Complete Data" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2466" />
-        <entry key="ENGLISH" value="2416" />
+        <entry key="CHINESE" value="2477" />
+        <entry key="ENGLISH" value="2427" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="71" />
         <entry key="PORTUGUESE" value="5" />
