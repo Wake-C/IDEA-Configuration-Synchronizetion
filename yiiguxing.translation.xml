@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="pre Number" />
       <item value="A bean with that name has already been defined in com.gt.plugin.sdk.mall.configuration.MallApiAutoConfiguration and overriding is disabled" />
       <item value="could not be registered" />
       <item value="import" />
@@ -50,7 +51,6 @@
       <item value="get Product Act Type" />
       <item value="select Product Act Type" />
       <item value="request Param Const" />
-      <item value="sec Kill Price" />
     </histories>
     <option name="languageScores">
       <map>
