@@ -150,6 +150,10 @@
           <option name="url" value="https://gitlab.deeptel.com.cn/GT-Dev/gt-budiler/GT-Plugin-Spring-Boot-Starter.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.deeptel.com.cn/GT-Dev/Hardware/Hardware" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="/Users/IdeaProjects" />
