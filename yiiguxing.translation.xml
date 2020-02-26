@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="difference" />
       <item value="non Null" />
       <item value="Can't continue rebase Couldn't check the working tree for unmerged files because of an error.Then you may continue rebase. You also may abort rebase to restore the original branch and stop rebasing. Failed to start Git process null" />
       <item value="abort" />
@@ -50,12 +51,11 @@
       <item value="share Url" />
       <item value="height" />
       <item value="top Price" />
-      <item value="lowest Price" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2485" />
-        <entry key="ENGLISH" value="2435" />
+        <entry key="CHINESE" value="2486" />
+        <entry key="ENGLISH" value="2436" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="71" />
         <entry key="PORTUGUESE" value="5" />
