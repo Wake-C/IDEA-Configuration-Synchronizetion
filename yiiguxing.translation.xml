@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Distribution Sale Statistics VO" />
+      <item value="statistics" />
+      <item value="statistatics" />
       <item value="Distribution Fission VO" />
       <item value="Distribution Fission List VO" />
       <item value="fission" />
@@ -48,14 +51,11 @@
       <item value="Custome Rank" />
       <item value="Sales Rank" />
       <item value="Distribution Count" />
-      <item value="count" />
-      <item value="Sales Count" />
-      <item value="Count" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2496" />
-        <entry key="ENGLISH" value="2446" />
+        <entry key="CHINESE" value="2498" />
+        <entry key="ENGLISH" value="2448" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="71" />
         <entry key="PORTUGUESE" value="5" />
