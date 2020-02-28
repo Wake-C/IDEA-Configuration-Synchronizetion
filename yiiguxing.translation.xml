@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="unduplicate" />
+      <item value="reduplicate" />
+      <item value="reduce" />
       <item value="recommended" />
       <item value="recommend" />
       <item value="推荐" />
@@ -48,14 +51,11 @@
       <item value="It is highly recommended to fix these problems because they threaten the stability of your build. For this reason, future Maven versions might no longer support building such malformed projects." />
       <item value="encountered" />
       <item value="Distribution App Menus DTO" />
-      <item value="App Menus" />
-      <item value="execution" />
-      <item value="Distribution" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2516" />
-        <entry key="ENGLISH" value="2466" />
+        <entry key="CHINESE" value="2519" />
+        <entry key="ENGLISH" value="2469" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="71" />
         <entry key="PORTUGUESE" value="7" />
