@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Data Format" />
+      <item value="generate Excel Style" />
+      <item value="set Border Left" />
+      <item value="MEDIUM" />
       <item value="Horizontal Alignment" />
       <item value="Vertical Alignment" />
       <item value="set Vertical Alignment" />
@@ -47,15 +51,11 @@
       <item value="Distribution Employes" />
       <item value="employees" />
       <item value="difference" />
-      <item value="non Null" />
-      <item value="Can't continue rebase Couldn't check the working tree for unmerged files because of an error.Then you may continue rebase. You also may abort rebase to restore the original branch and stop rebasing. Failed to start Git process null" />
-      <item value="abort" />
-      <item value="propagation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2546" />
-        <entry key="ENGLISH" value="2495" />
+        <entry key="CHINESE" value="2550" />
+        <entry key="ENGLISH" value="2499" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="71" />
         <entry key="PORTUGUESE" value="7" />
