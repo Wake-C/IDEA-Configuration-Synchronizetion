@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="set Border Bottom" />
       <item value="convert To Store Id" />
       <item value="Convert To Store Id" />
       <item value="store Id" />
@@ -50,12 +51,11 @@
       <item value="find Seller Pro Ids By Bus Id" />
       <item value="JAR will be empty no content was marked for inclusion!" />
       <item value="The artifact org.hibernate:hibernatevalidator:jar:6.0.8.Final has been relocated to org.hibernate.validator:hibernatevalidator:jar:6.0.8.Final" />
-      <item value="Some problems were encountered while building the effective model for com.gt.plugin.sdk:gtpluginsdkparent:pom:4.2.5SNAPSHOT 'parent.relativePath' of POM com.gt.plugin.sdk:gtpluginsdkparent:4.2.5SNAPSHOT (/Users/IdeaProjects/GTPluginSpringBootStarter/gtpluginsdkparent/pom.xml) points at com.gt.plugin:gtpluginstarter instead of org.springframework.boot:springbootstarterparent, please verify your project structure @ line 19, column 13 It is highly recommended to fix these problems because they threaten the stability of your build. For this reason, future Maven versions might no longer support building such malformed projects." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2531" />
-        <entry key="ENGLISH" value="2481" />
+        <entry key="CHINESE" value="2532" />
+        <entry key="ENGLISH" value="2482" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="71" />
         <entry key="PORTUGUESE" value="7" />
