@@ -1,9 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="set Vertical Alignment" />
       <item value="Horizontal Alignment" />
       <item value="Vertical Alignment" />
+      <item value="set Vertical Alignment" />
       <item value="set Bold" />
       <item value="CENTER" />
       <item value="GENERAL" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2543" />
-        <entry key="ENGLISH" value="2492" />
+        <entry key="CHINESE" value="2546" />
+        <entry key="ENGLISH" value="2495" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="71" />
         <entry key="PORTUGUESE" value="7" />
