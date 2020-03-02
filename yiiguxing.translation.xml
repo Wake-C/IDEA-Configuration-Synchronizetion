@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="set Vertical Alignment" />
+      <item value="Horizontal Alignment" />
+      <item value="Vertical Alignment" />
+      <item value="set Bold" />
+      <item value="CENTER" />
+      <item value="GENERAL" />
+      <item value="HSSF Cell Style" />
+      <item value="Horizontal Alignment.CENTER" />
       <item value="todo" />
       <item value="set Border Bottom" />
       <item value="convert To Store Id" />
@@ -43,19 +51,11 @@
       <item value="Can't continue rebase Couldn't check the working tree for unmerged files because of an error.Then you may continue rebase. You also may abort rebase to restore the original branch and stop rebasing. Failed to start Git process null" />
       <item value="abort" />
       <item value="propagation" />
-      <item value="pre Number" />
-      <item value="A bean with that name has already been defined in com.gt.plugin.sdk.mall.configuration.MallApiAutoConfiguration and overriding is disabled" />
-      <item value="could not be registered" />
-      <item value="import" />
-      <item value="exclusion" />
-      <item value="exclusions" />
-      <item value="find Seller Pro Ids By Bus Id" />
-      <item value="JAR will be empty no content was marked for inclusion!" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2533" />
-        <entry key="ENGLISH" value="2482" />
+        <entry key="CHINESE" value="2543" />
+        <entry key="ENGLISH" value="2492" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="71" />
         <entry key="PORTUGUESE" value="7" />
