@@ -96,7 +96,7 @@
   </action>
   <action id="EditorDown">
     <keyboard-shortcut first-keystroke="down" />
-    <keyboard-shortcut first-keystroke="shift i" />
+    <keyboard-shortcut first-keystroke="shift k" />
   </action>
   <action id="EditorDuplicateLines">
     <keyboard-shortcut first-keystroke="ctrl down" />
@@ -116,7 +116,7 @@
   </action>
   <action id="EditorRight">
     <keyboard-shortcut first-keystroke="right" />
-    <keyboard-shortcut first-keystroke="shift k" />
+    <keyboard-shortcut first-keystroke="shift l" />
   </action>
   <action id="EditorScrollBottom">
     <keyboard-shortcut first-keystroke="shift meta d" />
@@ -128,7 +128,7 @@
   <action id="EditorScrollUp" />
   <action id="EditorUp">
     <keyboard-shortcut first-keystroke="up" />
-    <keyboard-shortcut first-keystroke="shift u" />
+    <keyboard-shortcut first-keystroke="shift i" />
   </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="ctrl alt right" />
@@ -164,6 +164,9 @@
   </action>
   <action id="JRebel Executor">
     <keyboard-shortcut first-keystroke="shift ctrl alt f10" />
+  </action>
+  <action id="List-selectNextColumn">
+    <keyboard-shortcut first-keystroke="right" />
   </action>
   <action id="ManageRecentProjects">
     <keyboard-shortcut first-keystroke="shift ctrl alt o" />
@@ -209,6 +212,9 @@
   </action>
   <action id="Table-scrollUpChangeSelection">
     <keyboard-shortcut first-keystroke="page_up" />
+  </action>
+  <action id="Table-selectNextColumn">
+    <keyboard-shortcut first-keystroke="right" />
   </action>
   <action id="TailMyBatisLog" />
   <action id="ToggleFullScreen">
