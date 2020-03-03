@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="MybatisPlusException: can not use this method for &quot;getSqlSelect&quot;]" />
       <item value="Invalid Data Access Api Usage Exception" />
       <item value="export" />
       <item value="Data Format" />
@@ -50,12 +51,11 @@
       <item value="Distribution Employee" />
       <item value="Distribution Employee VO" />
       <item value="Distribution Employees VO" />
-      <item value="Distribution Employes" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2553" />
-        <entry key="ENGLISH" value="2502" />
+        <entry key="CHINESE" value="2554" />
+        <entry key="ENGLISH" value="2503" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="71" />
         <entry key="PORTUGUESE" value="7" />
