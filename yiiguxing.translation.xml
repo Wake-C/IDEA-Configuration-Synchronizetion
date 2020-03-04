@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Encodes this String into a sequence of bytes using the named charset, storing the result into a new byte array. The behavior of this method when this string cannot be encoded in the given charset is unspecified. The java.nio.charset.CharsetEncoder class should be used when more control over the encoding process is required." />
+      <item value="reset" />
       <item value="produces" />
       <item value="HttpMediaTypeNotAcceptableException: Could not find acceptable representation" />
       <item value="get Phone Number" />
@@ -49,13 +51,11 @@
       <item value="orders" />
       <item value="sales" />
       <item value="sales Count" />
-      <item value="statisticsexport" />
-      <item value="export Statistics" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2565" />
-        <entry key="ENGLISH" value="2514" />
+        <entry key="CHINESE" value="2566" />
+        <entry key="ENGLISH" value="2515" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="71" />
         <entry key="PORTUGUESE" value="7" />
