@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="hello world" />
       <item value="search Bus Id" />
       <item value="desc" />
       <item value="r evaluating expression" />
@@ -50,12 +51,11 @@
       <item value="statistics" />
       <item value="statistatics" />
       <item value="Distribution Fission VO" />
-      <item value="Distribution Fission List VO" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2557" />
-        <entry key="ENGLISH" value="2506" />
+        <entry key="CHINESE" value="2558" />
+        <entry key="ENGLISH" value="2507" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="71" />
         <entry key="PORTUGUESE" value="7" />
