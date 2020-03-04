@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="produces" />
+      <item value="HttpMediaTypeNotAcceptableException: Could not find acceptable representation" />
       <item value="get Phone Number" />
       <item value="statistics List VO" />
       <item value="get Instance" />
@@ -49,13 +51,11 @@
       <item value="sales Count" />
       <item value="statisticsexport" />
       <item value="export Statistics" />
-      <item value="exportstatistics" />
-      <item value="Distribution Sale Statistics VO" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2563" />
-        <entry key="ENGLISH" value="2512" />
+        <entry key="CHINESE" value="2565" />
+        <entry key="ENGLISH" value="2514" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="71" />
         <entry key="PORTUGUESE" value="7" />
