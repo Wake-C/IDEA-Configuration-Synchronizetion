@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="child Accounts" />
       <item value="find Child Account" />
       <item value="find Child Custome" />
       <item value="staff Basic Info" />
@@ -50,12 +51,11 @@
       <item value="recommends" />
       <item value="fissions" />
       <item value="fission" />
-      <item value="commissions" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2570" />
-        <entry key="ENGLISH" value="2519" />
+        <entry key="CHINESE" value="2573" />
+        <entry key="ENGLISH" value="2522" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="71" />
         <entry key="PORTUGUESE" value="7" />
