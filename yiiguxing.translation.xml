@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Fission List VO Fourth" />
+      <item value="Fission List VO Third" />
+      <item value="Fourth" />
       <item value="mapping Jackson 2 Http Message Converter" />
       <item value="join Date" />
       <item value="fission Count" />
@@ -48,14 +51,11 @@
       <item value="todo" />
       <item value="set Border Bottom" />
       <item value="convert To Store Id" />
-      <item value="Convert To Store Id" />
-      <item value="store Id" />
-      <item value="covertstore Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2594" />
-        <entry key="ENGLISH" value="2543" />
+        <entry key="CHINESE" value="2597" />
+        <entry key="ENGLISH" value="2546" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="71" />
         <entry key="PORTUGUESE" value="10" />
@@ -65,16 +65,6 @@
     </option>
   </component>
   <component name="Settings">
-    <option name="baiduTranslateSettings">
-      <app-key>
-        <option name="primaryLanguage" value="CHINESE" />
-      </app-key>
-    </option>
-    <option name="googleTranslateSettings">
-      <google-translate>
-        <option name="useTranslateGoogleCom" value="false" />
-      </google-translate>
-    </option>
     <option name="ignoreRegExp" value="[-_]" />
     <option name="overrideFont" value="true" />
     <option name="phoneticFontFamily" value="Lucida Sans Unicode" />
@@ -84,7 +74,6 @@
       <youdao-translate>
         <option name="appId" value="72daf72feb661e19" />
         <option name="appKeyConfigured" value="true" />
-        <option name="primaryLanguage" value="AUTO" />
       </youdao-translate>
     </option>
   </component>
