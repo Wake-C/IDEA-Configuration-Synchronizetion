@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Sort" />
+      <item value="get Sort" />
+      <item value="sort" />
+      <item value="sort Oder" />
+      <item value="reversed" />
       <item value="parent Seller" />
       <item value="seller Level" />
       <item value="Fission List VO Fourth" />
@@ -46,17 +51,13 @@
       <item value="Vertical Alignment" />
       <item value="set Vertical Alignment" />
       <item value="set Bold" />
-      <item value="CENTER" />
-      <item value="GENERAL" />
-      <item value="HSSF Cell Style" />
-      <item value="Horizontal Alignment.CENTER" />
-      <item value="todo" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2599" />
-        <entry key="ENGLISH" value="2548" />
+        <entry key="CHINESE" value="2604" />
+        <entry key="ENGLISH" value="2552" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
+        <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="71" />
         <entry key="PORTUGUESE" value="10" />
         <entry key="SPANISH" value="7" />
