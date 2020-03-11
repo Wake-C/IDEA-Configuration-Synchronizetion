@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Distribution Statistics VO" />
+      <item value="detail List" />
       <item value="order List" />
       <item value="statistics" />
       <item value="statistatics" />
@@ -49,13 +51,11 @@
       <item value="Fission List VO Fourth" />
       <item value="Fission List VO Third" />
       <item value="Fourth" />
-      <item value="mapping Jackson 2 Http Message Converter" />
-      <item value="join Date" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2640" />
-        <entry key="ENGLISH" value="2587" />
+        <entry key="CHINESE" value="2642" />
+        <entry key="ENGLISH" value="2589" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="71" />
