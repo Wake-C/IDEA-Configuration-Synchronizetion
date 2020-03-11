@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="product Total" />
+      <item value="product Count" />
       <item value="order List" />
       <item value="details" />
       <item value="orders" />
@@ -49,13 +51,11 @@
       <item value="employee Count" />
       <item value="fission" />
       <item value="order Count" />
-      <item value="select Seller By Bus Id" />
-      <item value="employess Count" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2625" />
-        <entry key="ENGLISH" value="2572" />
+        <entry key="CHINESE" value="2630" />
+        <entry key="ENGLISH" value="2577" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="71" />
