@@ -1,9 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="order List" />
+      <item value="statistics" />
+      <item value="statistatics" />
+      <item value="stastictics" />
+      <item value="account" />
+      <item value="staff Name" />
+      <item value="main Bus Name" />
+      <item value="main Name" />
+      <item value="is Main" />
+      <item value="staff Bus Name" />
       <item value="product Total" />
       <item value="product Count" />
-      <item value="order List" />
       <item value="details" />
       <item value="orders" />
       <item value="has Next" />
@@ -42,20 +51,11 @@
       <item value="Fourth" />
       <item value="mapping Jackson 2 Http Message Converter" />
       <item value="join Date" />
-      <item value="fission Count" />
-      <item value="fissions" />
-      <item value="employee" />
-      <item value="employee VO" />
-      <item value="employess VO" />
-      <item value="bus Staff Basic Info Vo" />
-      <item value="employee Count" />
-      <item value="fission" />
-      <item value="order Count" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2630" />
-        <entry key="ENGLISH" value="2577" />
+        <entry key="CHINESE" value="2640" />
+        <entry key="ENGLISH" value="2587" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="71" />
