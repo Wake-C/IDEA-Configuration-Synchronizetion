@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fission Count" />
+      <item value="fissions" />
       <item value="NOTMAINBUSUSER" />
       <item value="NOTMAINBUS" />
       <item value="employees" />
@@ -49,17 +51,15 @@
       <item value="sort" />
       <item value="sort Oder" />
       <item value="reversed" />
-      <item value="parent Seller" />
-      <item value="seller Level" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2645" />
-        <entry key="ENGLISH" value="2590" />
+        <entry key="CHINESE" value="2647" />
+        <entry key="ENGLISH" value="2591" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="71" />
-        <entry key="PORTUGUESE" value="10" />
+        <entry key="PORTUGUESE" value="11" />
         <entry key="SPANISH" value="7" />
         <entry key="ITALIAN" value="1" />
       </map>
