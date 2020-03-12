@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="NOTMAINBUSUSER" />
+      <item value="NOTMAINBUS" />
       <item value="employees" />
       <item value="Distribution Statistics VO" />
       <item value="detail List" />
@@ -49,12 +51,10 @@
       <item value="reversed" />
       <item value="parent Seller" />
       <item value="seller Level" />
-      <item value="Fission List VO Fourth" />
-      <item value="Fission List VO Third" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2643" />
+        <entry key="CHINESE" value="2645" />
         <entry key="ENGLISH" value="2590" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="GERMAN" value="1" />
