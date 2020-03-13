@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="userorder" />
       <item value="customer Count" />
       <item value="Distribution Employees Rank VO" />
       <item value="employeelist" />
@@ -50,11 +51,10 @@
       <item value="pass" />
       <item value="no Rule" />
       <item value="Positive example:" />
-      <item value="circle" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2661" />
+        <entry key="CHINESE" value="2662" />
         <entry key="ENGLISH" value="2603" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="GERMAN" value="1" />
