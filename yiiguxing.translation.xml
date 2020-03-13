@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Distribution Employees Rank VO" />
+      <item value="employeelist" />
       <item value="Fission" />
       <item value="Fissions" />
       <item value="fissions" />
@@ -49,13 +51,11 @@
       <item value="Positive example:" />
       <item value="circle" />
       <item value="UnexpectedTypeException: HV000030: No validator could be found for type: java.lang.Double" />
-      <item value="validator" />
-      <item value="find Main Bus Id By Token" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2659" />
-        <entry key="ENGLISH" value="2601" />
+        <entry key="CHINESE" value="2660" />
+        <entry key="ENGLISH" value="2602" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="71" />
@@ -66,16 +66,6 @@
     </option>
   </component>
   <component name="Settings">
-    <option name="baiduTranslateSettings">
-      <app-key>
-        <option name="primaryLanguage" value="CHINESE" />
-      </app-key>
-    </option>
-    <option name="googleTranslateSettings">
-      <google-translate>
-        <option name="useTranslateGoogleCom" value="false" />
-      </google-translate>
-    </option>
     <option name="ignoreRegExp" value="[-_]" />
     <option name="overrideFont" value="true" />
     <option name="phoneticFontFamily" value="Lucida Sans Unicode" />
@@ -85,7 +75,6 @@
       <youdao-translate>
         <option name="appId" value="72daf72feb661e19" />
         <option name="appKeyConfigured" value="true" />
-        <option name="primaryLanguage" value="AUTO" />
       </youdao-translate>
     </option>
   </component>
