@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Unsatisfied dependency expressed through field 'mallPresaleService';" />
       <item value="PRODUCTSTOREDELETED" />
       <item value="PRODUCTSOTREDELETED" />
       <item value="home Url" />
@@ -50,12 +51,11 @@
       <item value="main Name" />
       <item value="is Main" />
       <item value="staff Bus Name" />
-      <item value="product Total" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2682" />
-        <entry key="ENGLISH" value="2622" />
+        <entry key="CHINESE" value="2683" />
+        <entry key="ENGLISH" value="2623" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="71" />
