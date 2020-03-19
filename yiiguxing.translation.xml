@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="PRODUCTSTOREDELETED" />
+      <item value="PRODUCTSOTREDELETED" />
       <item value="home Url" />
       <item value="Domain VO" />
       <item value="Disconnected from the target VM, address: '127.0.0.1:50122', transport: 'socket'" />
@@ -49,13 +51,11 @@
       <item value="is Main" />
       <item value="staff Bus Name" />
       <item value="product Total" />
-      <item value="product Count" />
-      <item value="details" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2680" />
-        <entry key="ENGLISH" value="2620" />
+        <entry key="CHINESE" value="2682" />
+        <entry key="ENGLISH" value="2622" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="71" />
