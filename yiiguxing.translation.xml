@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="customers" />
+      <item value="customer" />
       <item value="I Com Distribution Statistics Service" />
       <item value="auto Result Map" />
       <item value="The value 0, with a scale of 0." />
@@ -49,13 +51,11 @@
       <item value="NOTMAINBUS" />
       <item value="employees" />
       <item value="Distribution Statistics VO" />
-      <item value="detail List" />
-      <item value="order List" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2691" />
-        <entry key="ENGLISH" value="2631" />
+        <entry key="CHINESE" value="2693" />
+        <entry key="ENGLISH" value="2633" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="71" />
