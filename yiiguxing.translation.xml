@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Nullable Result" />
+      <item value="set Non Null Parameter" />
+      <item value="Nullable" />
       <item value="Not all slots are covered! Only 10922 slots are avaliable" />
       <item value="Unsatisfied dependency expressed through field 'mallPresaleService';" />
       <item value="PRODUCTSTOREDELETED" />
@@ -48,14 +51,11 @@
       <item value="stastictics" />
       <item value="account" />
       <item value="staff Name" />
-      <item value="main Bus Name" />
-      <item value="main Name" />
-      <item value="is Main" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2684" />
-        <entry key="ENGLISH" value="2624" />
+        <entry key="CHINESE" value="2689" />
+        <entry key="ENGLISH" value="2629" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="71" />
