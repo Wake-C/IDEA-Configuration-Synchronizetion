@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Mall Distribution Operator Record DAO" />
       <item value="monitored" />
       <item value="/Users/IdeaProjects/mall/mallweb/target/classes' will be monitored for changes." />
       <item value="Malformed" />
@@ -50,12 +51,11 @@
       <item value="fissions" />
       <item value="direct Fission Count" />
       <item value="direct" />
-      <item value="indirect" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2701" />
-        <entry key="ENGLISH" value="2640" />
+        <entry key="CHINESE" value="2702" />
+        <entry key="ENGLISH" value="2641" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="71" />
