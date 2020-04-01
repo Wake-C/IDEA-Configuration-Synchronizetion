@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="update Fissions" />
       <item value="fission Count" />
       <item value="flush Statements" />
       <item value="Mall Distribution Operator Record DAO" />
@@ -50,16 +51,15 @@
       <item value="employeelist" />
       <item value="Fission" />
       <item value="Fissions" />
-      <item value="fissions" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2704" />
+        <entry key="CHINESE" value="2706" />
         <entry key="ENGLISH" value="2643" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="71" />
-        <entry key="PORTUGUESE" value="14" />
+        <entry key="PORTUGUESE" value="16" />
         <entry key="SPANISH" value="7" />
         <entry key="ITALIAN" value="1" />
       </map>
