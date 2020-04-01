@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="employees" />
       <item value="update Fissions" />
       <item value="fission Count" />
       <item value="flush Statements" />
@@ -50,12 +51,11 @@
       <item value="Distribution Employees Rank VO" />
       <item value="employeelist" />
       <item value="Fission" />
-      <item value="Fissions" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2707" />
-        <entry key="ENGLISH" value="2643" />
+        <entry key="CHINESE" value="2708" />
+        <entry key="ENGLISH" value="2644" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="71" />
