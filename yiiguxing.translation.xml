@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="count Sold Out Product" />
+      <item value="Sold Out" />
+      <item value="Sold" />
+      <item value="count Sold Product" />
       <item value="select Pro List By Store Id" />
       <item value="count Status By Bus Id" />
       <item value="detail" />
@@ -47,15 +51,11 @@
       <item value="PRODUCTSOTREDELETED" />
       <item value="home Url" />
       <item value="Domain VO" />
-      <item value="Disconnected from the target VM, address: '127.0.0.1:50122', transport: 'socket'" />
-      <item value="will be monitored for changes" />
-      <item value="will be monitored for changes." />
-      <item value="mask Count" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2729" />
-        <entry key="ENGLISH" value="2665" />
+        <entry key="CHINESE" value="2733" />
+        <entry key="ENGLISH" value="2669" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="71" />
