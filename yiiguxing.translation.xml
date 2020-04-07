@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="product Act Type" />
       <item value="Local Date" />
       <item value="PRODUCTPUBLISHED" />
       <item value="count Sold Out Product" />
@@ -50,12 +51,11 @@
       <item value="Not all slots are covered! Only 10922 slots are avaliable" />
       <item value="Unsatisfied dependency expressed through field 'mallPresaleService';" />
       <item value="PRODUCTSTOREDELETED" />
-      <item value="PRODUCTSOTREDELETED" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2736" />
-        <entry key="ENGLISH" value="2673" />
+        <entry key="CHINESE" value="2737" />
+        <entry key="ENGLISH" value="2674" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="72" />
