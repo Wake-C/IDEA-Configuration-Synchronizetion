@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="down Qr" />
+      <item value="off Shelf" />
+      <item value="on Shelf" />
+      <item value="offshelf" />
       <item value="product Act Type" />
       <item value="Local Date" />
       <item value="PRODUCTPUBLISHED" />
@@ -20,8 +24,6 @@
       <item value="audit Off" />
       <item value="off Check" />
       <item value="off Audit" />
-      <item value="off Shelf" />
-      <item value="on Shelf" />
       <item value="sale Off Count" />
       <item value="sale On" />
       <item value="on Sale" />
@@ -49,13 +51,11 @@
       <item value="set Non Null Parameter" />
       <item value="Nullable" />
       <item value="Not all slots are covered! Only 10922 slots are avaliable" />
-      <item value="Unsatisfied dependency expressed through field 'mallPresaleService';" />
-      <item value="PRODUCTSTOREDELETED" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2737" />
-        <entry key="ENGLISH" value="2674" />
+        <entry key="CHINESE" value="2741" />
+        <entry key="ENGLISH" value="2678" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="72" />
