@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="multiply" />
       <item value="down Qr" />
       <item value="off Shelf" />
       <item value="on Shelf" />
@@ -50,12 +51,11 @@
       <item value="get Nullable Result" />
       <item value="set Non Null Parameter" />
       <item value="Nullable" />
-      <item value="Not all slots are covered! Only 10922 slots are avaliable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2741" />
-        <entry key="ENGLISH" value="2678" />
+        <entry key="CHINESE" value="2742" />
+        <entry key="ENGLISH" value="2679" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="72" />
