@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Specifica By User" />
+      <item value="get Specifica By Type" />
+      <item value="select By User Id" />
+      <item value="Mall Specifica DAO" />
       <item value="return" />
       <item value="parameter" />
       <item value="unit" />
@@ -47,18 +51,15 @@
       <item value="customers" />
       <item value="customer" />
       <item value="I Com Distribution Statistics Service" />
-      <item value="auto Result Map" />
-      <item value="The value 0, with a scale of 0." />
-      <item value="*" />
-      <item value="1, 0, or 1 as this BigDecimal is numerically less than, equal to, or greater than val" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2746" />
-        <entry key="ENGLISH" value="2683" />
+        <entry key="CHINESE" value="2751" />
+        <entry key="ENGLISH" value="2687" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="72" />
+        <entry key="MALAY" value="1" />
         <entry key="PORTUGUESE" value="17" />
         <entry key="SPANISH" value="7" />
         <entry key="ITALIAN" value="1" />
