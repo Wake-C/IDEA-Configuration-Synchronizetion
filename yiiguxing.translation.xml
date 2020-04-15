@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="speclevel" />
+      <item value="specs" />
+      <item value="find Specification Value List By Bus Id" />
+      <item value="find Specification List By Bus Id" />
+      <item value="find Specifica List By Bus Id" />
       <item value="find Freight List By Bus Id" />
       <item value="Freight" />
       <item value="I Com Mall Specifica Service" />
@@ -46,16 +51,11 @@
       <item value="update Fissions" />
       <item value="fission Count" />
       <item value="flush Statements" />
-      <item value="Mall Distribution Operator Record DAO" />
-      <item value="monitored" />
-      <item value="/Users/IdeaProjects/mall/mallweb/target/classes' will be monitored for changes." />
-      <item value="Malformed" />
-      <item value="Available parameters are" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2757" />
-        <entry key="ENGLISH" value="2693" />
+        <entry key="CHINESE" value="2762" />
+        <entry key="ENGLISH" value="2698" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="72" />
