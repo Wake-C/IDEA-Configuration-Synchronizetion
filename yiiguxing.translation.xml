@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="group Pid" />
       <item value="Mall Product Sepc Value BO" />
       <item value="商品项目规格" />
       <item value="speclevel" />
@@ -50,12 +51,11 @@
       <item value="on Sale" />
       <item value="saleon" />
       <item value="employees" />
-      <item value="update Fissions" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2764" />
-        <entry key="ENGLISH" value="2700" />
+        <entry key="CHINESE" value="2765" />
+        <entry key="ENGLISH" value="2701" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="72" />
