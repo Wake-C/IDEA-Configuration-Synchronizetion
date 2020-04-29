@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="edit Status" />
       <item value="reversed" />
       <item value="detail" />
       <item value="ILLEGALACCESSEXCEPTION" />
@@ -50,12 +51,11 @@
       <item value="count Status By Bus Id" />
       <item value="audit Failed Count" />
       <item value="on Shelf Count" />
-      <item value="audit Failed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2776" />
-        <entry key="ENGLISH" value="2710" />
+        <entry key="CHINESE" value="2777" />
+        <entry key="ENGLISH" value="2711" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="72" />
