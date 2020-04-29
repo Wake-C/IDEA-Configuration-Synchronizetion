@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="only Edit Some Param" />
+      <item value="unedit" />
+      <item value="unedit Some Param" />
       <item value="edit Status" />
       <item value="reversed" />
       <item value="detail" />
@@ -48,17 +51,15 @@
       <item value="Sold" />
       <item value="count Sold Product" />
       <item value="select Pro List By Store Id" />
-      <item value="count Status By Bus Id" />
-      <item value="audit Failed Count" />
-      <item value="on Shelf Count" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2777" />
-        <entry key="ENGLISH" value="2711" />
+        <entry key="CHINESE" value="2780" />
+        <entry key="ENGLISH" value="2713" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="72" />
+        <entry key="ROMANIAN" value="1" />
         <entry key="MALAY" value="2" />
         <entry key="PORTUGUESE" value="17" />
         <entry key="SPANISH" value="7" />
