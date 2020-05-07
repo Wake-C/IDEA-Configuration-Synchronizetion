@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Unrecognized SSL message" />
+      <item value="plaintext connection?" />
       <item value="qr Code Type" />
       <item value="qr Code Url" />
       <item value="is Bind Applet" />
@@ -49,13 +51,11 @@
       <item value="product Act Type" />
       <item value="Local Date" />
       <item value="PRODUCTPUBLISHED" />
-      <item value="count Sold Out Product" />
-      <item value="Sold Out" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2783" />
-        <entry key="ENGLISH" value="2715" />
+        <entry key="CHINESE" value="2785" />
+        <entry key="ENGLISH" value="2717" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="72" />
