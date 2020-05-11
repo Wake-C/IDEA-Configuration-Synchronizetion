@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="cluster" />
+      <item value="minidle" />
+      <item value="maxidle" />
+      <item value="maxwait" />
+      <item value="maxactive" />
       <item value="sale Out Count" />
       <item value="sale Out" />
       <item value="{ @ApiModelProperty(&quot;总数&quot;) private Integer productCount; @ApiModelProperty(&quot;下架&quot;) private Integer offShelfCount; @ApiModelProperty(&quot;审核未通过&quot;) private Integer saleOut; }" />
@@ -46,19 +51,14 @@
       <item value="select By User Id" />
       <item value="Mall Specifica DAO" />
       <item value="return" />
-      <item value="parameter" />
-      <item value="unit" />
-      <item value="multiply" />
-      <item value="down Qr" />
-      <item value="off Shelf" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2791" />
-        <entry key="ENGLISH" value="2723" />
+        <entry key="CHINESE" value="2799" />
+        <entry key="ENGLISH" value="2729" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="GERMAN" value="2" />
-        <entry key="FRENCH" value="72" />
+        <entry key="FRENCH" value="74" />
         <entry key="ROMANIAN" value="1" />
         <entry key="MALAY" value="2" />
         <entry key="PORTUGUESE" value="17" />
