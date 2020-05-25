@@ -2,6 +2,10 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="is Required" />
+      <item value="format" />
+      <item value="hint" />
+      <item value="content Format" />
       <item value="custom Buy Info" />
       <item value="custom" />
       <item value="advance Schedule" />
@@ -48,15 +52,11 @@
       <item value="will be monitored for changes." />
       <item value="fixbugdistribufrom Prod" />
       <item value="connection" />
-      <item value="No qualifying bean of type" />
-      <item value="qualifying" />
-      <item value="item" />
-      <item value="Disconnected from the target VM, address: '127.0.0.1:50349', transport: 'socket'" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2861" />
-        <entry key="ENGLISH" value="2783" />
+        <entry key="CHINESE" value="2866" />
+        <entry key="ENGLISH" value="2788" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="74" />
