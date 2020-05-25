@@ -1,10 +1,19 @@
 <application>
   <component name="AppStorage">
+    <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="custom Date Limit" />
+      <item value="holiday Limit" />
+      <item value="holiday" />
+      <item value="holidays" />
+      <item value="weekly Limit" />
+      <item value="Weekly Limit" />
+      <item value="Weekly" />
+      <item value="refund Type" />
+      <item value="expiry Date" />
       <item value="expiry Date End" />
       <item value="expiry Date Begin" />
       <item value="expiry Date Start" />
-      <item value="expiry Date" />
       <item value="use Time Limit Type" />
       <item value="Use End Time" />
       <item value="use Time Limit" />
@@ -43,19 +52,11 @@
       <item value="{ @ApiModelProperty(&quot;总数&quot;) private Integer productCount; @ApiModelProperty(&quot;下架&quot;) private Integer offShelfCount; @ApiModelProperty(&quot;审核未通过&quot;) private Integer saleOut; }" />
       <item value="sale Off" />
       <item value="previous" />
-      <item value="Unrecognized SSL message" />
-      <item value="plaintext connection?" />
-      <item value="qr Code Type" />
-      <item value="qr Code Url" />
-      <item value="is Bind Applet" />
-      <item value="only Edit Some Param" />
-      <item value="unedit" />
-      <item value="unedit Some Param" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2832" />
-        <entry key="ENGLISH" value="2756" />
+        <entry key="CHINESE" value="2843" />
+        <entry key="ENGLISH" value="2765" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="74" />
