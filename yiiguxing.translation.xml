@@ -1,8 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Use End Time" />
       <item value="use Time Limit Type" />
+      <item value="Use End Time" />
       <item value="use Time Limit" />
       <item value="usege Type" />
       <item value="The annotated element must be a number whose value must be lower or * equal to the specified maximum." />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2827" />
-        <entry key="ENGLISH" value="2751" />
+        <entry key="CHINESE" value="2828" />
+        <entry key="ENGLISH" value="2752" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="74" />
