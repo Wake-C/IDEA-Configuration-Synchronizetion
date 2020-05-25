@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="expiry Date End" />
+      <item value="expiry Date Begin" />
+      <item value="expiry Date Start" />
+      <item value="expiry Date" />
       <item value="use Time Limit Type" />
       <item value="Use End Time" />
       <item value="use Time Limit" />
@@ -47,15 +51,11 @@
       <item value="only Edit Some Param" />
       <item value="unedit" />
       <item value="unedit Some Param" />
-      <item value="edit Status" />
-      <item value="reversed" />
-      <item value="detail" />
-      <item value="ILLEGALACCESSEXCEPTION" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2828" />
-        <entry key="ENGLISH" value="2752" />
+        <entry key="CHINESE" value="2832" />
+        <entry key="ENGLISH" value="2756" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="74" />
