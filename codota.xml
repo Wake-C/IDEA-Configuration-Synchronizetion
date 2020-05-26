@@ -12,7 +12,17 @@
     <option name="isMethodCompletionsPercentageSet" value="true" />
     <option name="isOverrideDoubleCtrlOpenSearch" value="true" />
     <option name="usingTabKeyForInlineCompletions" value="true" />
+    <option name="featureFlags">
+      <map>
+        <entry key="deep-completions" value="true" />
+      </map>
+    </option>
     <option name="testedFeatureFlags">
+      <set>
+        <option value="deep-completions" />
+      </set>
+    </option>
+    <option name="everTurnedOnFeatureFlags">
       <set>
         <option value="deep-completions" />
       </set>
