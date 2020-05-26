@@ -2,11 +2,15 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="holiday Flag" />
+      <item value="Set Date" />
+      <item value="Eticket Calendar Price BO" />
+      <item value="specify Date" />
+      <item value="sell Status" />
       <item value="set Holiday" />
       <item value="set Weekly" />
       <item value="batch Date" />
       <item value="date" />
-      <item value="Set Date" />
       <item value="Set Weekly" />
       <item value="Batch Set Weekly" />
       <item value="expiry Date End" />
@@ -48,15 +52,11 @@
       <item value="neweticketfromproduct Manage" />
       <item value="latst" />
       <item value="laste" />
-      <item value="redeclare" />
-      <item value="find Sort List By Bus Id" />
-      <item value="find List By Bus Ids" />
-      <item value="statistics Service" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2876" />
-        <entry key="ENGLISH" value="2798" />
+        <entry key="CHINESE" value="2881" />
+        <entry key="ENGLISH" value="2803" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="74" />
