@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Value that indicates that only properties with nonnull * values are to be included." />
       <item value="datetype" />
       <item value="settype" />
       <item value="tmallproducteticketbuyinfo" />
@@ -51,12 +52,11 @@
       <item value="holidays" />
       <item value="weekly Limit" />
       <item value="Weekly Limit" />
-      <item value="Weekly" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2900" />
-        <entry key="ENGLISH" value="2818" />
+        <entry key="CHINESE" value="2901" />
+        <entry key="ENGLISH" value="2819" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="GERMAN" value="4" />
         <entry key="FRENCH" value="74" />
