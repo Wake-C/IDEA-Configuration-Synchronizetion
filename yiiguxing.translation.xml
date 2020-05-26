@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="batchdate" />
+      <item value="day Price" />
       <item value="custom Date Limit" />
       <item value="Custom Limit Date" />
       <item value="holiday Flag" />
@@ -50,16 +52,15 @@
       <item value="Eticket Calendar Price Bo" />
       <item value="new eticket from product Manage" />
       <item value="newe ticket from product Manage" />
-      <item value="neweticketfromproduct Manage" />
-      <item value="latst" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2883" />
-        <entry key="ENGLISH" value="2805" />
+        <entry key="CHINESE" value="2885" />
+        <entry key="ENGLISH" value="2806" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="74" />
+        <entry key="FILIPINO" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="MALAY" value="2" />
         <entry key="PORTUGUESE" value="17" />
