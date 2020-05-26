@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="datetype" />
+      <item value="settype" />
+      <item value="tmallproducteticketbuyinfo" />
       <item value="duration" />
       <item value="tmallproducteticketdurationprice" />
       <item value="tmallproducteticketpriceday" />
@@ -49,14 +52,11 @@
       <item value="weekly Limit" />
       <item value="Weekly Limit" />
       <item value="Weekly" />
-      <item value="refund Type" />
-      <item value="expiry Date" />
-      <item value="expiry Date Start" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2897" />
-        <entry key="ENGLISH" value="2815" />
+        <entry key="CHINESE" value="2900" />
+        <entry key="ENGLISH" value="2818" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="GERMAN" value="4" />
         <entry key="FRENCH" value="74" />
