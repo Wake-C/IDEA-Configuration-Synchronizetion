@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="tmallproducteticket" />
+      <item value="tmallproducteticketcustomlimit" />
       <item value="save E Ticket Info" />
       <item value="save Eticket Info" />
       <item value="schedule Set" />
@@ -50,17 +52,16 @@
       <item value="use Time Limit Type" />
       <item value="Use End Time" />
       <item value="use Time Limit" />
-      <item value="usege Type" />
-      <item value="The annotated element must be a number whose value must be lower or * equal to the specified maximum." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2890" />
-        <entry key="ENGLISH" value="2811" />
+        <entry key="CHINESE" value="2893" />
+        <entry key="ENGLISH" value="2813" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="74" />
         <entry key="FILIPINO" value="1" />
+        <entry key="DUTCH" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="MALAY" value="2" />
         <entry key="PORTUGUESE" value="17" />
