@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="hint" />
+      <item value="del Custom Limit" />
       <item value="if the input argument matches the predicate" />
       <item value="custom Limit Save" />
       <item value="base Info" />
@@ -36,7 +38,6 @@
       <item value="expiry Date End" />
       <item value="is Required" />
       <item value="format" />
-      <item value="hint" />
       <item value="content Format" />
       <item value="custom Buy Info" />
       <item value="custom" />
@@ -51,12 +52,11 @@
       <item value="expiry Date Begin" />
       <item value="expiry Begin Date" />
       <item value="holiday Limit" />
-      <item value="holiday" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2904" />
-        <entry key="ENGLISH" value="2822" />
+        <entry key="CHINESE" value="2906" />
+        <entry key="ENGLISH" value="2824" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="GERMAN" value="4" />
         <entry key="FRENCH" value="74" />
