@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="month Day" />
       <item value="Eticket Calendar Price VO" />
       <item value="Service" />
       <item value="date Set" />
@@ -51,12 +52,11 @@
       <item value="content Format" />
       <item value="custom Buy Info" />
       <item value="custom" />
-      <item value="schedule Time Unit" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2918" />
-        <entry key="ENGLISH" value="2835" />
+        <entry key="CHINESE" value="2920" />
+        <entry key="ENGLISH" value="2837" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="GERMAN" value="4" />
         <entry key="FRENCH" value="74" />
