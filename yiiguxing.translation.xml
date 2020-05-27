@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="dayprice" />
+      <item value="save" />
+      <item value="daypricesave" />
       <item value="save Duration Price" />
       <item value="save Duraition Price" />
       <item value="object Convert To Another Object" />
@@ -49,14 +52,11 @@
       <item value="advance Booking" />
       <item value="booking" />
       <item value="book" />
-      <item value="booking Unit" />
-      <item value="schedule Unit" />
-      <item value="schedule" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2911" />
-        <entry key="ENGLISH" value="2829" />
+        <entry key="CHINESE" value="2914" />
+        <entry key="ENGLISH" value="2832" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="GERMAN" value="4" />
         <entry key="FRENCH" value="74" />
