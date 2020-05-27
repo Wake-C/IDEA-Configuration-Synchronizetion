@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="save Duration Price" />
+      <item value="save Duraition Price" />
       <item value="object Convert To Another Object" />
       <item value="hint" />
       <item value="del Custom Limit" />
@@ -50,13 +52,11 @@
       <item value="booking Unit" />
       <item value="schedule Unit" />
       <item value="schedule" />
-      <item value="expiry Date Begin" />
-      <item value="expiry Begin Date" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2907" />
-        <entry key="ENGLISH" value="2825" />
+        <entry key="CHINESE" value="2911" />
+        <entry key="ENGLISH" value="2829" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="GERMAN" value="4" />
         <entry key="FRENCH" value="74" />
