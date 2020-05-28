@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Specification" />
       <item value="Value that indicates that only properties with nonnull * values are to be included." />
       <item value="month Day" />
       <item value="Eticket Calendar Price VO" />
@@ -51,12 +52,11 @@
       <item value="format" />
       <item value="content Format" />
       <item value="custom Buy Info" />
-      <item value="custom" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2921" />
-        <entry key="ENGLISH" value="2838" />
+        <entry key="CHINESE" value="2922" />
+        <entry key="ENGLISH" value="2839" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="GERMAN" value="4" />
         <entry key="FRENCH" value="74" />
