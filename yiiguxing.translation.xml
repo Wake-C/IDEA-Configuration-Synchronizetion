@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="previous Id" />
       <item value="f 1 Level Name" />
       <item value="frs Level Name" />
       <item value="f Level Name" />
@@ -51,12 +52,11 @@
       <item value="sell Status" />
       <item value="set Holiday" />
       <item value="set Weekly" />
-      <item value="batch Date" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2930" />
-        <entry key="ENGLISH" value="2845" />
+        <entry key="CHINESE" value="2931" />
+        <entry key="ENGLISH" value="2846" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="GERMAN" value="4" />
         <entry key="FRENCH" value="74" />
