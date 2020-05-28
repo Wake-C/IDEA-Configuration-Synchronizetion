@@ -2,6 +2,16 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="month Days" />
+      <item value="find List By Pro Id And Year And Month" />
+      <item value="first Value" />
+      <item value="second Value" />
+      <item value="third Value" />
+      <item value="two Name" />
+      <item value="formatlist" />
+      <item value="produces" />
+      <item value="Find Buy Info Text Format List" />
+      <item value="buy Info Text Format List" />
       <item value="day Of Weekly" />
       <item value="day Of Week" />
       <item value="find List By Inv Id" />
@@ -12,7 +22,6 @@
       <item value="first Level Name" />
       <item value="first Lev Name" />
       <item value="first Name" />
-      <item value="two Name" />
       <item value="third Name" />
       <item value="Specification" />
       <item value="Value that indicates that only properties with nonnull * values are to be included." />
@@ -43,21 +52,13 @@
       <item value="save E Ticket Info" />
       <item value="save Eticket Info" />
       <item value="schedule Set" />
-      <item value="advance Schedule" />
-      <item value="batchdate" />
-      <item value="day Price" />
-      <item value="custom Date Limit" />
-      <item value="Custom Limit Date" />
-      <item value="holiday Flag" />
-      <item value="Set Date" />
-      <item value="Eticket Calendar Price BO" />
-      <item value="specify Date" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2934" />
-        <entry key="ENGLISH" value="2849" />
+        <entry key="CHINESE" value="2948" />
+        <entry key="ENGLISH" value="2862" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
+        <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="4" />
         <entry key="FRENCH" value="74" />
         <entry key="FILIPINO" value="1" />
