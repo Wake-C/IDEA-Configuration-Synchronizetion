@@ -2,6 +2,14 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="f 1 Level Name" />
+      <item value="frs Level Name" />
+      <item value="f Level Name" />
+      <item value="first Level Name" />
+      <item value="first Lev Name" />
+      <item value="first Name" />
+      <item value="two Name" />
+      <item value="third Name" />
       <item value="Specification" />
       <item value="Value that indicates that only properties with nonnull * values are to be included." />
       <item value="month Day" />
@@ -44,19 +52,11 @@
       <item value="set Holiday" />
       <item value="set Weekly" />
       <item value="batch Date" />
-      <item value="date" />
-      <item value="Set Weekly" />
-      <item value="Batch Set Weekly" />
-      <item value="expiry Date End" />
-      <item value="is Required" />
-      <item value="format" />
-      <item value="content Format" />
-      <item value="custom Buy Info" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2922" />
-        <entry key="ENGLISH" value="2839" />
+        <entry key="CHINESE" value="2930" />
+        <entry key="ENGLISH" value="2845" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="GERMAN" value="4" />
         <entry key="FRENCH" value="74" />
@@ -67,7 +67,7 @@
         <entry key="PORTUGUESE" value="17" />
         <entry key="SPANISH" value="7" />
         <entry key="ITALIAN" value="1" />
-        <entry key="HINDI" value="2" />
+        <entry key="HINDI" value="4" />
       </map>
     </option>
   </component>
