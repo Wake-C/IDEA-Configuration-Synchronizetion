@@ -2,6 +2,10 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="get Specify Duration Price Of Day" />
+      <item value="get Specify Day Duration Price" />
+      <item value="get Specify Duration Price" />
+      <item value="array Spe Ids" />
       <item value="THURSDAY" />
       <item value="current Date" />
       <item value="is Before" />
@@ -48,15 +52,11 @@
       <item value="if the input argument matches the predicate" />
       <item value="custom Limit Save" />
       <item value="base Info" />
-      <item value="datetype" />
-      <item value="settype" />
-      <item value="tmallproducteticketbuyinfo" />
-      <item value="duration" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2960" />
-        <entry key="ENGLISH" value="2874" />
+        <entry key="CHINESE" value="2964" />
+        <entry key="ENGLISH" value="2875" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="4" />
