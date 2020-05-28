@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="THURSDAY" />
+      <item value="current Date" />
       <item value="is Before" />
       <item value="is After" />
       <item value="reversed" />
@@ -50,13 +52,11 @@
       <item value="settype" />
       <item value="tmallproducteticketbuyinfo" />
       <item value="duration" />
-      <item value="tmallproducteticketdurationprice" />
-      <item value="tmallproducteticketpriceday" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2955" />
-        <entry key="ENGLISH" value="2869" />
+        <entry key="CHINESE" value="2960" />
+        <entry key="ENGLISH" value="2874" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="4" />
