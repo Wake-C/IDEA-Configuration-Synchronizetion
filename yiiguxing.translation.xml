@@ -2,6 +2,18 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="is Valid Batch Set" />
+      <item value="is Valid" />
+      <item value="is Validator" />
+      <item value="不能选择太过遥远之前的年份" />
+      <item value="Calendar Price Info" />
+      <item value="Calendar Price Query" />
+      <item value="find Calendar Price" />
+      <item value="The year 2AD/CE is represented by 2.&lt;br&gt;" />
+      <item value="This method accepts a year value from the proleptic ISO calendar system." />
+      <item value="proleptic" />
+      <item value="accepts" />
+      <item value="Obtains" />
       <item value="use Date Type" />
       <item value="use Date" />
       <item value="save Eticket Info" />
@@ -40,23 +52,11 @@
       <item value="Specification" />
       <item value="Value that indicates that only properties with nonnull * values are to be included." />
       <item value="month Day" />
-      <item value="Eticket Calendar Price VO" />
-      <item value="Service" />
-      <item value="date Set" />
-      <item value="com Duration Price" />
-      <item value="dayprice" />
-      <item value="save" />
-      <item value="daypricesave" />
-      <item value="save Duration Price" />
-      <item value="save Duraition Price" />
-      <item value="object Convert To Another Object" />
-      <item value="hint" />
-      <item value="del Custom Limit" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2968" />
-        <entry key="ENGLISH" value="2879" />
+        <entry key="CHINESE" value="2981" />
+        <entry key="ENGLISH" value="2889" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="4" />
