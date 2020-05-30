@@ -134,6 +134,10 @@
     <keyboard-shortcut first-keystroke="up" />
     <keyboard-shortcut first-keystroke="shift i" />
   </action>
+  <action id="FindUsagesInFile">
+    <keyboard-shortcut first-keystroke="ctrl f7" />
+    <keyboard-shortcut first-keystroke="meta f7" />
+  </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="ctrl alt right" />
     <mouse-shortcut keystroke="button5" />
