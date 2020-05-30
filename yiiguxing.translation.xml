@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="odeStream is a developer collaboration platform that makes it incredibly easy for development teams, especially remote teams, to discuss and review code in a more natural and contextual way. CodeStream not only makes discussions easier, by allowing them to happen in your IDE, in context, but also preserves the institutional knowledge that is currently being lost in Slack channels and emails." />
       <item value="get Specification" />
       <item value="JRebel offline seat renewed. Seat valid until November 26, 2020 12:38." />
       <item value="renewed" />
@@ -51,11 +52,10 @@
       <item value="spe List" />
       <item value="get Day Of Month" />
       <item value="find List By Pro Id And Year And Month" />
-      <item value="first Value" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3006" />
+        <entry key="CHINESE" value="3007" />
         <entry key="ENGLISH" value="2908" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="DANISH" value="1" />
