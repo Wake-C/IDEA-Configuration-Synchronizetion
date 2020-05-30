@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="get Specification" />
       <item value="JRebel offline seat renewed. Seat valid until November 26, 2020 12:38." />
       <item value="renewed" />
       <item value="month Days" />
@@ -51,12 +52,11 @@
       <item value="get Day Of Month" />
       <item value="find List By Pro Id And Year And Month" />
       <item value="first Value" />
-      <item value="second Value" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3005" />
-        <entry key="ENGLISH" value="2907" />
+        <entry key="CHINESE" value="3006" />
+        <entry key="ENGLISH" value="2908" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="4" />
