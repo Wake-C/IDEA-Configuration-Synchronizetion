@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="generator Month" />
+      <item value="specify Date" />
       <item value="calendarprice" />
       <item value="Integrity" />
       <item value="Stack Overflow Error" />
@@ -50,13 +52,11 @@
       <item value="f 1 Level Name" />
       <item value="frs Level Name" />
       <item value="f Level Name" />
-      <item value="first Level Name" />
-      <item value="first Lev Name" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2987" />
-        <entry key="ENGLISH" value="2893" />
+        <entry key="CHINESE" value="2989" />
+        <entry key="ENGLISH" value="2895" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="4" />
