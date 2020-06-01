@@ -228,6 +228,10 @@
   <action id="ToggleFullScreen">
     <keyboard-shortcut first-keystroke="shift ctrl f11" />
   </action>
+  <action id="Tool.GotoRequestService">
+    <keyboard-shortcut first-keystroke="ctrl alt slash" />
+    <keyboard-shortcut first-keystroke="ctrl back_slash" />
+  </action>
   <action id="Tree-scrollUpChangeSelection">
     <keyboard-shortcut first-keystroke="page_up" />
   </action>
