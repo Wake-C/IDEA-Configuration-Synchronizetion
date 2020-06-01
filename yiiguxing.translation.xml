@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="This method calls equals(Object) on two references of different class types and analysis suggests they will be to objects of different classes at runtime. Further, examination of the equals methods that would be invoked suggest that either this call will always return false, or else the equals method is not be symmetric (which is a property required by the contract for equals in class Object)." />
+      <item value="High Confidence Correctness" />
       <item value="Cannot renew JRebel offline seat" />
       <item value="odeStream is a developer collaboration platform that makes it incredibly easy for development teams, especially remote teams, to discuss and review code in a more natural and contextual way. CodeStream not only makes discussions easier, by allowing them to happen in your IDE, in context, but also preserves the institutional knowledge that is currently being lost in Slack channels and emails." />
       <item value="get Specification" />
@@ -50,12 +52,10 @@
       <item value="is Before" />
       <item value="is After" />
       <item value="reversed" />
-      <item value="spe List" />
-      <item value="get Day Of Month" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3008" />
+        <entry key="CHINESE" value="3010" />
         <entry key="ENGLISH" value="2909" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="DANISH" value="1" />
