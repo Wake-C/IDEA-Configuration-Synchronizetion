@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="size the element must be lower or equal to" />
       <item value="Data Integrity Violation Exception" />
       <item value="Violation" />
       <item value="Integrity" />
@@ -51,12 +52,11 @@
       <item value="Calendar Price Query" />
       <item value="The year 2AD/CE is represented by 2.&lt;br&gt;" />
       <item value="This method accepts a year value from the proleptic ISO calendar system." />
-      <item value="proleptic" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3029" />
-        <entry key="ENGLISH" value="2922" />
+        <entry key="CHINESE" value="3030" />
+        <entry key="ENGLISH" value="2923" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="6" />
