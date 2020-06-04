@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="ConstraintDeclarationException: HV000151: A method overriding another method must not alter the parameter constraint configuration, but method public void com.gt.mall.service.common.eticket.impl.ComProductEticketServiceImpl.createEticketInfo(java.lang.Long,java.lang.Long,com.gt.mall.condition.EticketConditionBO) changes the configuration of public abstract void com.gt.mall.service.common.eticket.IComProductEticketService.createEticketInfo(java.lang.Long,java.lang.Long,com.gt.mall.condition.EticketConditionBO)." />
       <item value="size the element must be lower or equal to" />
       <item value="Data Integrity Violation Exception" />
       <item value="Violation" />
@@ -51,12 +52,11 @@
       <item value="Calendar Price Info" />
       <item value="Calendar Price Query" />
       <item value="The year 2AD/CE is represented by 2.&lt;br&gt;" />
-      <item value="This method accepts a year value from the proleptic ISO calendar system." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3030" />
-        <entry key="ENGLISH" value="2923" />
+        <entry key="CHINESE" value="3031" />
+        <entry key="ENGLISH" value="2924" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="6" />
