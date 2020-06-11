@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Codota completes lines of code based on millions of open source Java programs and your context helping you code faster with fewer errors. The following features are available with the new version of Codota" />
       <item value="get Calendar Price Stock Count" />
       <item value="the initial capacity of the list" />
       <item value="AFTERROLLBACK" />
@@ -51,11 +52,10 @@
       <item value="buyinfoformat" />
       <item value="buyformat" />
       <item value="find Calendar Price" />
-      <item value="is Valid Batch Set" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3037" />
+        <entry key="CHINESE" value="3038" />
         <entry key="ENGLISH" value="2925" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="DANISH" value="2" />
