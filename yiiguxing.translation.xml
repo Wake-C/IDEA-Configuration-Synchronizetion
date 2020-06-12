@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="get Specify Duration Price Of Day" />
+      <item value="get Day Set Of Day" />
+      <item value="get Day Set" />
       <item value="is Invalid Date" />
       <item value="is Valid Year And Month" />
       <item value="Eticket Inv Calendar Price VO" />
@@ -49,14 +52,11 @@
       <item value="USEDATELIMITNON" />
       <item value="USEDATELIMITALL" />
       <item value="ETICKETUSELIMITON" />
-      <item value="use Limit" />
-      <item value="consume" />
-      <item value="generator Month" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3045" />
-        <entry key="ENGLISH" value="2926" />
+        <entry key="CHINESE" value="3050" />
+        <entry key="ENGLISH" value="2930" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="6" />
