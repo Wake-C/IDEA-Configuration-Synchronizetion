@@ -2,6 +2,10 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="month Days" />
+      <item value="is Today" />
+      <item value="temp Array" />
+      <item value="foo Bar" />
       <item value="get Specify Duration Price Of Day" />
       <item value="get Day Set Of Day" />
       <item value="get Day Set" />
@@ -42,21 +46,17 @@
       <item value="get Specification" />
       <item value="JRebel offline seat renewed. Seat valid until November 26, 2020 12:38." />
       <item value="renewed" />
-      <item value="month Days" />
       <item value="day Of Month Count" />
       <item value="day Of Month" />
       <item value="month Count" />
       <item value="unvarilable" />
       <item value="Unusable" />
       <item value="ETICKETUSELIMITSPECIFY" />
-      <item value="USEDATELIMITNON" />
-      <item value="USEDATELIMITALL" />
-      <item value="ETICKETUSELIMITON" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3050" />
-        <entry key="ENGLISH" value="2930" />
+        <entry key="CHINESE" value="3055" />
+        <entry key="ENGLISH" value="2935" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="6" />
