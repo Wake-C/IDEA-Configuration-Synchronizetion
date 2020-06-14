@@ -2,6 +2,12 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="MANDATORY" />
+      <item value="Support a current transaction, throw an exception if none exists. * Analogous to EJB transaction attribute of the same name." />
+      <item value="* Support a current transaction, throw an exception if none exists. * Analogous to EJB transaction attribute of the same name." />
+      <item value="Support a current transaction, execute nontransactionally if none exists. * Analogous to EJB transaction attribute of the same name. * &lt;p&gt;Note: For transaction managers with transaction synchronization, * PROPAGATIONSUPPORTS is slightly different from no transaction at all, * as it defines a transaction scope that synchronization will apply for. * As a consequence, the same resources (JDBC Connection, Hibernate Session, etc) * will be shared for the entire specified scope. Note that this depends on * the actual synchronization configuration of the transaction manager." />
+      <item value="Support a current transaction, create a new one if none exists. * Analogous to EJB transaction attribute of the same name. * &lt;p&gt;This is the default setting of a transaction annotation." />
+      <item value="Execute within a nested transaction if a current transaction exists, * behave like PROPAGATIONREQUIRED else. There is no analogous feature in EJB. * &lt;p&gt;Note: Actual creation of a nested transaction will only work on specific * transaction managers. Out of the box, this only applies to the JDBC * DataSourceTransactionManager when working on a JDBC 3.0 driver. * Some JTA providers might support nested transactions as well. * @see org.springframework.jdbc.datasource.DataSourceTransactionManager" />
       <item value="&lt;p&gt;An alternative to implementing {@code InitializingBean} is specifying a custom * init method, for example in an XML bean definition. For a list of all bean * lifecycle methods, see the {@link BeanFactory BeanFactory javadocs}." />
       <item value="Interface to be implemented by beans that need to react once all their properties * have been set by a {@link BeanFactory}: e.g. to perform custom initialization, * or merely to check that all mandatory properties have been set. *" />
       <item value="month Days" />
@@ -46,17 +52,11 @@
       <item value="Cannot renew JRebel offline seat" />
       <item value="odeStream is a developer collaboration platform that makes it incredibly easy for development teams, especially remote teams, to discuss and review code in a more natural and contextual way. CodeStream not only makes discussions easier, by allowing them to happen in your IDE, in context, but also preserves the institutional knowledge that is currently being lost in Slack channels and emails." />
       <item value="get Specification" />
-      <item value="JRebel offline seat renewed. Seat valid until November 26, 2020 12:38." />
-      <item value="renewed" />
-      <item value="day Of Month Count" />
-      <item value="day Of Month" />
-      <item value="month Count" />
-      <item value="unvarilable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3057" />
-        <entry key="ENGLISH" value="2937" />
+        <entry key="CHINESE" value="3065" />
+        <entry key="ENGLISH" value="2945" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="6" />
