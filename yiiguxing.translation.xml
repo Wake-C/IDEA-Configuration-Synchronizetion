@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="The transaction propagation type." />
       <item value="MANDATORY" />
       <item value="Support a current transaction, throw an exception if none exists. * Analogous to EJB transaction attribute of the same name." />
       <item value="* Support a current transaction, throw an exception if none exists. * Analogous to EJB transaction attribute of the same name." />
@@ -51,12 +52,11 @@
       <item value="High Confidence Correctness" />
       <item value="Cannot renew JRebel offline seat" />
       <item value="odeStream is a developer collaboration platform that makes it incredibly easy for development teams, especially remote teams, to discuss and review code in a more natural and contextual way. CodeStream not only makes discussions easier, by allowing them to happen in your IDE, in context, but also preserves the institutional knowledge that is currently being lost in Slack channels and emails." />
-      <item value="get Specification" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3065" />
-        <entry key="ENGLISH" value="2945" />
+        <entry key="CHINESE" value="3066" />
+        <entry key="ENGLISH" value="2946" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="6" />
