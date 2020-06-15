@@ -2,6 +2,11 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Foo" />
+      <item value="transaction" />
+      <item value="Programmatic Transaction Demo Application" />
+      <item value="programmatictransactiondemo" />
+      <item value="programmatic" />
       <item value="The transaction propagation type." />
       <item value="MANDATORY" />
       <item value="Support a current transaction, throw an exception if none exists. * Analogous to EJB transaction attribute of the same name." />
@@ -47,16 +52,11 @@
       <item value="cannot be cast to com.gt.mall.bean.bo.MallProductSepcValueBO" />
       <item value="Wildcards may be used only as reference parameter" />
       <item value="Mall Product Eticket Custom Limit" />
-      <item value="A free GUI tool integrated with MyBatis Generator, which is specially compatible with IDEA CE. Supported databases: mysql/postgresql/mariadb/oracle/sqlserver/sqlite/h2. Provides with additional features as below." />
-      <item value="This method calls equals(Object) on two references of different class types and analysis suggests they will be to objects of different classes at runtime. Further, examination of the equals methods that would be invoked suggest that either this call will always return false, or else the equals method is not be symmetric (which is a property required by the contract for equals in class Object)." />
-      <item value="High Confidence Correctness" />
-      <item value="Cannot renew JRebel offline seat" />
-      <item value="odeStream is a developer collaboration platform that makes it incredibly easy for development teams, especially remote teams, to discuss and review code in a more natural and contextual way. CodeStream not only makes discussions easier, by allowing them to happen in your IDE, in context, but also preserves the institutional knowledge that is currently being lost in Slack channels and emails." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3066" />
-        <entry key="ENGLISH" value="2946" />
+        <entry key="CHINESE" value="3071" />
+        <entry key="ENGLISH" value="2949" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="6" />
