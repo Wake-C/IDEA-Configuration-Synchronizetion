@@ -2,6 +2,14 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Transaction Application" />
+      <item value="Command Line Runner" />
+      <item value="technical" />
+      <item value="If you have any technical questions that you would like to ask" />
+      <item value="We need you for 5 seconds. This will be the only time you see this screen, we promise! It's been 12 days since you started evaluating, and your opinion is really valuable to us." />
+      <item value="and your opinion" />
+      <item value="It's been 12 days since you started evaluating," />
+      <item value="We need you for 5 seconds. This will be the only time you see this screen" />
       <item value="is Invalid Date" />
       <item value="Latte" />
       <item value="Foo" />
@@ -44,19 +52,11 @@
       <item value="Integrity" />
       <item value="exist Costom Limit" />
       <item value="content Name" />
-      <item value="content Format" />
-      <item value="Content Format" />
-      <item value="content" />
-      <item value="format" />
-      <item value="contentformat" />
-      <item value="contentname" />
-      <item value="cannot be cast to com.gt.mall.bean.bo.MallProductSepcValueBO" />
-      <item value="Wildcards may be used only as reference parameter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3073" />
-        <entry key="ENGLISH" value="2950" />
+        <entry key="CHINESE" value="3081" />
+        <entry key="ENGLISH" value="2952" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="6" />
