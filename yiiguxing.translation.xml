@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="is Invalid Date" />
       <item value="Latte" />
       <item value="Foo" />
       <item value="transaction" />
@@ -24,7 +25,6 @@
       <item value="get Specify Duration Price Of Day" />
       <item value="get Day Set Of Day" />
       <item value="get Day Set" />
-      <item value="is Invalid Date" />
       <item value="is Valid Year And Month" />
       <item value="Eticket Inv Calendar Price VO" />
       <item value="Eticket Inv Price VO" />
@@ -55,8 +55,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3072" />
-        <entry key="ENGLISH" value="2949" />
+        <entry key="CHINESE" value="3073" />
+        <entry key="ENGLISH" value="2950" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="6" />
