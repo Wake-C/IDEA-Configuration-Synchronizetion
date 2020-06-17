@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="* Entry expiration. By default the entries never expire." />
+      <item value="Entry expiration." />
+      <item value="ntry expiration. By default the entries never expire." />
       <item value="排序是为了在重复设置相同的日期场景下用最新的设置" />
       <item value="INVALIDVALUEOFMONTHORYEAR" />
       <item value="is Optional" />
@@ -49,14 +52,11 @@
       <item value="get Specify Duration Price Of Day" />
       <item value="get Day Set Of Day" />
       <item value="get Day Set" />
-      <item value="is Valid Year And Month" />
-      <item value="Eticket Inv Calendar Price VO" />
-      <item value="Eticket Inv Price VO" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3105" />
-        <entry key="ENGLISH" value="2964" />
+        <entry key="CHINESE" value="3108" />
+        <entry key="ENGLISH" value="2967" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
