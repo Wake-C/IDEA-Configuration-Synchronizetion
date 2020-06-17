@@ -2,6 +2,12 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="optional" />
+      <item value="is Choice" />
+      <item value="0" />
+      <item value="tmallorderuserinfo" />
+      <item value="tmallorderuser" />
+      <item value="contenttext" />
       <item value="Adjust to IJ 2020.1 (EAP) (3rd and last batch" />
       <item value="Do not show suggestions which are not in the classpath." />
       <item value="Transaction Application" />
@@ -46,25 +52,19 @@
       <item value="AFTERROLLBACK" />
       <item value="Plugin &quot;FindBugsIDEA&quot; is incompatible (marked as broken)." />
       <item value="FindBugs module for QAPlug an Intellij IDEA plugin to manage code quality which integrates tools such as PMD, Checkstyle and Findbugs." />
-      <item value="Class&lt;MallSpecifica&gt; is not compatible with Class&lt;Object&gt;" />
-      <item value="ConstraintDeclarationException: HV000151: A method overriding another method must not alter the parameter constraint configuration, but method public void com.gt.mall.service.common.eticket.impl.ComProductEticketServiceImpl.createEticketInfo(java.lang.Long,java.lang.Long,com.gt.mall.condition.EticketConditionBO) changes the configuration of public abstract void com.gt.mall.service.common.eticket.IComProductEticketService.createEticketInfo(java.lang.Long,java.lang.Long,com.gt.mall.condition.EticketConditionBO)." />
-      <item value="size the element must be lower or equal to" />
-      <item value="Data Integrity Violation Exception" />
-      <item value="Violation" />
-      <item value="Integrity" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3083" />
-        <entry key="ENGLISH" value="2952" />
+        <entry key="CHINESE" value="3089" />
+        <entry key="ENGLISH" value="2955" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="DANISH" value="2" />
-        <entry key="GERMAN" value="6" />
+        <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="74" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="ROMANIAN" value="1" />
-        <entry key="MALAY" value="7" />
+        <entry key="MALAY" value="8" />
         <entry key="PORTUGUESE" value="17" />
         <entry key="TURKISH" value="1" />
         <entry key="SPANISH" value="7" />
