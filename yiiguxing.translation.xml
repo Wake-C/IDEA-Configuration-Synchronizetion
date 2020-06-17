@@ -2,6 +2,11 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="is Seelable" />
+      <item value="is Between Sell Date" />
+      <item value="Between" />
+      <item value="is Between Sell" />
+      <item value="is Sell Date" />
       <item value="Eticket Commit Order Price VO" />
       <item value="* Entry expiration. By default the entries never expire." />
       <item value="Entry expiration." />
@@ -47,16 +52,11 @@
       <item value="&lt;p&gt;An alternative to implementing {@code InitializingBean} is specifying a custom * init method, for example in an XML bean definition. For a list of all bean * lifecycle methods, see the {@link BeanFactory BeanFactory javadocs}." />
       <item value="Interface to be implemented by beans that need to react once all their properties * have been set by a {@link BeanFactory}: e.g. to perform custom initialization, * or merely to check that all mandatory properties have been set. *" />
       <item value="month Days" />
-      <item value="is Today" />
-      <item value="temp Array" />
-      <item value="foo Bar" />
-      <item value="get Specify Duration Price Of Day" />
-      <item value="get Day Set Of Day" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3109" />
-        <entry key="ENGLISH" value="2967" />
+        <entry key="CHINESE" value="3115" />
+        <entry key="ENGLISH" value="2969" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
