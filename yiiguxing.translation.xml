@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Borrow" />
       <item value="his plugin is sponsored by Codota and CodeStream" />
       <item value="specify Date" />
       <item value="price Date" />
@@ -51,12 +52,11 @@
       <item value="Support a current transaction, throw an exception if none exists. * Analogous to EJB transaction attribute of the same name." />
       <item value="* Support a current transaction, throw an exception if none exists. * Analogous to EJB transaction attribute of the same name." />
       <item value="Support a current transaction, execute nontransactionally if none exists. * Analogous to EJB transaction attribute of the same name. * &lt;p&gt;Note: For transaction managers with transaction synchronization, * PROPAGATIONSUPPORTS is slightly different from no transaction at all, * as it defines a transaction scope that synchronization will apply for. * As a consequence, the same resources (JDBC Connection, Hibernate Session, etc) * will be shared for the entire specified scope. Note that this depends on * the actual synchronization configuration of the transaction manager." />
-      <item value="Support a current transaction, create a new one if none exists. * Analogous to EJB transaction attribute of the same name. * &lt;p&gt;This is the default setting of a transaction annotation." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3119" />
-        <entry key="ENGLISH" value="2972" />
+        <entry key="CHINESE" value="3120" />
+        <entry key="ENGLISH" value="2973" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
