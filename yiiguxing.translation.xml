@@ -2,7 +2,27 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="19 Plugin Error: Plugin &quot;FindBugsIDEA&quot; is incompatible (marked as broken)." />
+      <item value="(marked as broken" />
+      <item value="TODO tags are commonly used to mark places where some more code is required, but which the developer wants to implement later. Sometimes the developer will not have the time or will simply forget to get back to that tag. This rule is meant to track those tags and to ensure that they do not go unnoticed." />
+      <item value="This rule is meant to track those tags and to ensure that they do not go unnoticed." />
+      <item value="Sometimes the developer will not have the time or will simply forget to get back to that tag." />
+      <item value="TODO tags are commonly used to mark places where some more code is required, but which the developer wants to implement later." />
+      <item value="generator Update Custom Holiday" />
+      <item value="update Custom Holiday Limit" />
+      <item value="is After" />
+      <item value="is Between Week" />
+      <item value="is Between Custom Date" />
+      <item value="is Between Custom Date Use Date" />
+      <item value="is Between Use Date" />
+      <item value="Between Use Date Limit" />
+      <item value="is Between Use Date Limit" />
+      <item value="Specify Date Is Holiday" />
+      <item value="is Holiday Of Specify Date" />
+      <item value="is Holiday By Specify Date" />
+      <item value="Cognitive Complexity of methods should not be too high" />
       <item value="Cognitive Complexity is a measure of how hard the control flow of a method is to understand. Methods with high Cognitive Complexity will be difficult to maintain." />
+      <item value="Cognitive Complexity is a measure of how hard the control flow of a method is to understand. Methods with high Cognitive Complexity will be difficult to maintain. See" />
       <item value="The method name starts with &quot;parse&quot;, &quot;format&quot;, &quot;decode&quot; or &quot;valueOf&quot; or the method is String.getBytes(Charset)." />
       <item value="The method call is in a try block with an associated catch clause." />
       <item value="This rule will not raise an issue when both these conditions are met:" />
@@ -32,31 +52,11 @@
       <item value="optional" />
       <item value="LOGICFALSE" />
       <item value="ETICKETUSELIMITON" />
-      <item value="ETICKETUSELIMITOFF" />
-      <item value="is Use Date" />
-      <item value="optional End Date" />
-      <item value="is Choice" />
-      <item value="0" />
-      <item value="tmallorderuserinfo" />
-      <item value="tmallorderuser" />
-      <item value="contenttext" />
-      <item value="Adjust to IJ 2020.1 (EAP) (3rd and last batch" />
-      <item value="Do not show suggestions which are not in the classpath." />
-      <item value="Transaction Application" />
-      <item value="Command Line Runner" />
-      <item value="technical" />
-      <item value="If you have any technical questions that you would like to ask" />
-      <item value="We need you for 5 seconds. This will be the only time you see this screen, we promise! It's been 12 days since you started evaluating, and your opinion is really valuable to us." />
-      <item value="and your opinion" />
-      <item value="It's been 12 days since you started evaluating," />
-      <item value="We need you for 5 seconds. This will be the only time you see this screen" />
-      <item value="is Invalid Date" />
-      <item value="Latte" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3125" />
-        <entry key="ENGLISH" value="2975" />
+        <entry key="CHINESE" value="3146" />
+        <entry key="ENGLISH" value="2978" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
