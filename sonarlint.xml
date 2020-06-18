@@ -1,5 +1,15 @@
 <application>
   <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonar.deeptel.com.cn" />
+          <token>df93df9ddfc8df98df9fdf98dfcedf9fdf99df9edf9edfc9df93df9cdfccdfcfdf9cdf92dfc8df9adf98dfccdf9cdfcedf9bdf9ddf9adfcbdf9bdfcedf9fdfc8df93dfccdf9cdfc9df92df93dfcfdf9c</token>
+          <option name="name" value="多粉Style" />
+          <organizationKey>default-organization</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
     <rules>
       <Rule active="false" key="java:S1612" />
     </rules>

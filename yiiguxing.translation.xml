@@ -2,6 +2,13 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="The method name starts with &quot;parse&quot;, &quot;format&quot;, &quot;decode&quot; or &quot;valueOf&quot; or the method is String.getBytes(Charset)." />
+      <item value="The method call is in a try block with an associated catch clause." />
+      <item value="This rule will not raise an issue when both these conditions are met:" />
+      <item value="Compliant" />
+      <item value="To prevent generating any falsepositives, this rule triggers an issue only on the following predefined list of immutable classes in the Java API :" />
+      <item value="When the call to a function doesn't have any side effects, what is the point of making the call if the results are ignored? In such case, either the function call is useless and should be dropped or the source code doesn't behave as expected." />
+      <item value="Return values from functions without side effects should not be ignored" />
       <item value="unmodifiable List" />
       <item value="or Else Throw" />
       <item value="Borrow" />
@@ -45,17 +52,10 @@
       <item value="is Invalid Date" />
       <item value="Latte" />
       <item value="Foo" />
-      <item value="transaction" />
-      <item value="Programmatic Transaction Demo Application" />
-      <item value="programmatictransactiondemo" />
-      <item value="programmatic" />
-      <item value="The transaction propagation type." />
-      <item value="MANDATORY" />
-      <item value="Support a current transaction, throw an exception if none exists. * Analogous to EJB transaction attribute of the same name." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3122" />
+        <entry key="CHINESE" value="3124" />
         <entry key="ENGLISH" value="2975" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="DANISH" value="3" />
