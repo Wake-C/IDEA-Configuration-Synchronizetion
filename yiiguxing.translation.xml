@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="be Pro Order VO" />
       <item value="none Match" />
       <item value="Deprecated" />
       <item value="Could not resolve placeholder" />
@@ -51,11 +52,10 @@
       <item value="* Entry expiration. By default the entries never expire." />
       <item value="Entry expiration." />
       <item value="ntry expiration. By default the entries never expire." />
-      <item value="排序是为了在重复设置相同的日期场景下用最新的设置" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3153" />
+        <entry key="CHINESE" value="3154" />
         <entry key="ENGLISH" value="2984" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="DANISH" value="3" />
@@ -64,7 +64,7 @@
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="ROMANIAN" value="1" />
-        <entry key="MALAY" value="11" />
+        <entry key="MALAY" value="12" />
         <entry key="PORTUGUESE" value="17" />
         <entry key="TURKISH" value="1" />
         <entry key="SPANISH" value="7" />
