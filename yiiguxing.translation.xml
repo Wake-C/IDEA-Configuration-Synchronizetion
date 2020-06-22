@@ -2,6 +2,11 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="is Conflict" />
+      <item value="冲突" />
+      <item value="is Confilict" />
+      <item value="Cognitive Complexity is a measure of how hard the control flow of a method is to understand. Methods with high Cognitive Complexity will be difficult to maintain." />
+      <item value="specifica Name" />
       <item value="Is Empty Spec" />
       <item value="spec Is Empty" />
       <item value="spec Empty" />
@@ -43,19 +48,14 @@
       <item value="is Holiday Of Specify Date" />
       <item value="is Holiday By Specify Date" />
       <item value="Cognitive Complexity of methods should not be too high" />
-      <item value="Cognitive Complexity is a measure of how hard the control flow of a method is to understand. Methods with high Cognitive Complexity will be difficult to maintain." />
       <item value="Cognitive Complexity is a measure of how hard the control flow of a method is to understand. Methods with high Cognitive Complexity will be difficult to maintain. See" />
       <item value="The method name starts with &quot;parse&quot;, &quot;format&quot;, &quot;decode&quot; or &quot;valueOf&quot; or the method is String.getBytes(Charset)." />
       <item value="The method call is in a try block with an associated catch clause." />
       <item value="This rule will not raise an issue when both these conditions are met:" />
-      <item value="Compliant" />
-      <item value="To prevent generating any falsepositives, this rule triggers an issue only on the following predefined list of immutable classes in the Java API :" />
-      <item value="When the call to a function doesn't have any side effects, what is the point of making the call if the results are ignored? In such case, either the function call is useless and should be dropped or the source code doesn't behave as expected." />
-      <item value="Return values from functions without side effects should not be ignored" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3170" />
+        <entry key="CHINESE" value="3174" />
         <entry key="ENGLISH" value="2991" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="DANISH" value="3" />
@@ -64,7 +64,7 @@
         <entry key="FILIPINO" value="3" />
         <entry key="DUTCH" value="1" />
         <entry key="ROMANIAN" value="1" />
-        <entry key="MALAY" value="12" />
+        <entry key="MALAY" value="13" />
         <entry key="PORTUGUESE" value="17" />
         <entry key="TURKISH" value="1" />
         <entry key="SPANISH" value="7" />
