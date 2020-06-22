@@ -2,6 +2,12 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Class cannot be instantiated and does not provide any static methods or fields" />
+      <item value="This class defines an equals method that overrides an equals method in a superclass. Both equals methods methods use instanceof in the determination of whether two objects are equal. This is fraught with peril, since it is important that the equals method is symmetrical (in other words, a.equals(b) == b.equals(a)). If B is a subtype of A, and A's equals method checks that the argument is an instanceof A, and B's equals method checks that the argument is an instanceof B, it is quite likely that the equivalence relation defined by these methods is not symmetric." />
+      <item value="Checks that class which has only private constructors is declared as final." />
+      <item value="date" />
+      <item value="Calendar Price" />
+      <item value="Eticket Base Info VO" />
       <item value="price" />
       <item value="calendar" />
       <item value="calendarprice" />
@@ -46,22 +52,16 @@
       <item value="his plugin is sponsored by Codota and CodeStream" />
       <item value="specify Date" />
       <item value="price Date" />
-      <item value="calendar Date" />
-      <item value="is Seelable" />
-      <item value="is Between Sell Date" />
-      <item value="Between" />
-      <item value="is Between Sell" />
-      <item value="is Sell Date" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3158" />
-        <entry key="ENGLISH" value="2987" />
+        <entry key="CHINESE" value="3164" />
+        <entry key="ENGLISH" value="2989" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="74" />
-        <entry key="FILIPINO" value="2" />
+        <entry key="FILIPINO" value="3" />
         <entry key="DUTCH" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="MALAY" value="12" />

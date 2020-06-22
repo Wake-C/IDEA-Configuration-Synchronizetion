@@ -72,6 +72,7 @@
   <action id="DebugClass">
     <keyboard-shortcut first-keystroke="shift ctrl f5" />
   </action>
+  <action id="Diagram.DeselectAll" />
   <action id="Editor Copy">
     <keyboard-shortcut first-keystroke="meta c" />
   </action>
@@ -200,6 +201,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl o" />
   </action>
   <action id="PopupHector" />
+  <action id="QAPlug.AnalyzeMenu.AnalyzeCode">
+    <keyboard-shortcut first-keystroke="ctrl alt a" />
+  </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl alt l" />
     <keyboard-shortcut first-keystroke="ctrl meta l" />
