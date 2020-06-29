@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Execute within a nested transaction if a current transaction exists, * behave like PROPAGATIONREQUIRED else. There is no analogous feature in EJB. * &lt;p&gt;Note: Actual creation of a nested transaction will only work on specific * transaction managers. Out of the box, this only applies to the JDBC * DataSourceTransactionManager when working on a JDBC 3.0 driver. * Some JTA providers might support nested transactions as well." />
       <item value="is Invalid Date" />
       <item value="is Conflict" />
       <item value="冲突" />
@@ -51,12 +52,11 @@
       <item value="Cognitive Complexity of methods should not be too high" />
       <item value="Cognitive Complexity is a measure of how hard the control flow of a method is to understand. Methods with high Cognitive Complexity will be difficult to maintain. See" />
       <item value="The method name starts with &quot;parse&quot;, &quot;format&quot;, &quot;decode&quot; or &quot;valueOf&quot; or the method is String.getBytes(Charset)." />
-      <item value="The method call is in a try block with an associated catch clause." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3175" />
-        <entry key="ENGLISH" value="2992" />
+        <entry key="CHINESE" value="3176" />
+        <entry key="ENGLISH" value="2993" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
