@@ -2,6 +2,19 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="save Contact" />
+      <item value="find No Token" />
+      <item value="is Invalid Date" />
+      <item value="invalid Date" />
+      <item value="is Sell Status" />
+      <item value="is Sale" />
+      <item value="is Saleable" />
+      <item value="sale Boolean" />
+      <item value="is Sall Ble" />
+      <item value="is Sellble" />
+      <item value="is Sell" />
+      <item value="expiry Date" />
+      <item value="is Between Expiry Date" />
       <item value="Contact Create" />
       <item value="Contact" />
       <item value="verify" />
@@ -10,7 +23,6 @@
       <item value="valid" />
       <item value="uc/eticket/order" />
       <item value="Execute within a nested transaction if a current transaction exists, * behave like PROPAGATIONREQUIRED else. There is no analogous feature in EJB. * &lt;p&gt;Note: Actual creation of a nested transaction will only work on specific * transaction managers. Out of the box, this only applies to the JDBC * DataSourceTransactionManager when working on a JDBC 3.0 driver. * Some JTA providers might support nested transactions as well." />
-      <item value="is Invalid Date" />
       <item value="is Conflict" />
       <item value="冲突" />
       <item value="is Confilict" />
@@ -40,23 +52,11 @@
       <item value="find Price Info By Inv Id And Date" />
       <item value="19 Plugin Error: Plugin &quot;FindBugsIDEA&quot; is incompatible (marked as broken)." />
       <item value="(marked as broken" />
-      <item value="TODO tags are commonly used to mark places where some more code is required, but which the developer wants to implement later. Sometimes the developer will not have the time or will simply forget to get back to that tag. This rule is meant to track those tags and to ensure that they do not go unnoticed." />
-      <item value="This rule is meant to track those tags and to ensure that they do not go unnoticed." />
-      <item value="Sometimes the developer will not have the time or will simply forget to get back to that tag." />
-      <item value="TODO tags are commonly used to mark places where some more code is required, but which the developer wants to implement later." />
-      <item value="generator Update Custom Holiday" />
-      <item value="update Custom Holiday Limit" />
-      <item value="is After" />
-      <item value="is Between Week" />
-      <item value="is Between Custom Date" />
-      <item value="is Between Custom Date Use Date" />
-      <item value="is Between Use Date" />
-      <item value="Between Use Date Limit" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3183" />
-        <entry key="ENGLISH" value="2999" />
+        <entry key="CHINESE" value="3198" />
+        <entry key="ENGLISH" value="3014" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
