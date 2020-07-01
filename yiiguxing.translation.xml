@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="is Contact Duplicate" />
       <item value="save Contact" />
       <item value="find No Token" />
       <item value="is Invalid Date" />
@@ -51,11 +52,10 @@
       <item value="between Sell Date Boolean" />
       <item value="find Price Info By Inv Id And Date" />
       <item value="19 Plugin Error: Plugin &quot;FindBugsIDEA&quot; is incompatible (marked as broken)." />
-      <item value="(marked as broken" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3198" />
+        <entry key="CHINESE" value="3199" />
         <entry key="ENGLISH" value="3014" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="DANISH" value="3" />
