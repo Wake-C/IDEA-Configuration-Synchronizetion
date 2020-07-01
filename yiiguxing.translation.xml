@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Contact Create" />
+      <item value="Contact" />
       <item value="verify" />
       <item value="orderverify" />
       <item value="ordervalid" />
@@ -50,13 +52,11 @@
       <item value="is Between Custom Date Use Date" />
       <item value="is Between Use Date" />
       <item value="Between Use Date Limit" />
-      <item value="is Between Use Date Limit" />
-      <item value="Specify Date Is Holiday" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3181" />
-        <entry key="ENGLISH" value="2997" />
+        <entry key="CHINESE" value="3183" />
+        <entry key="ENGLISH" value="2999" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
