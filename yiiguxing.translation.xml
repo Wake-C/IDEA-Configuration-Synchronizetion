@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="mportant: Restart your IDE after the installation" />
       <item value="contenttext" />
       <item value="submit Order" />
       <item value="submit" />
@@ -51,11 +52,10 @@
       <item value="be Pro Order VO" />
       <item value="none Match" />
       <item value="Deprecated" />
-      <item value="Could not resolve placeholder" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3202" />
+        <entry key="CHINESE" value="3203" />
         <entry key="ENGLISH" value="3016" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="DANISH" value="3" />
