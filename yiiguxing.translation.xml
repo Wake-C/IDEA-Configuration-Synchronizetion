@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Returns a stream consisting of the remaining elements of this stream * after discarding the first {@code n} elements of the stream. * If this stream contains fewer than {@code n} elements then an * empty stream will be returned." />
       <item value="will be thrown if an unknown property * is encountered)." />
       <item value="Feature is enabled by default (meaning that a" />
       <item value="Feature that determines whether encountering of unknown * properties (ones that do not map to a property, and there is * no &quot;any setter&quot; or handler that can handle it) * should result in a failure (by throwing a * {@link JsonMappingException}) or not. * This setting only takes effect after all other handling * methods for unknown properties have been tried, and * property remains unhandled." />
@@ -51,12 +52,11 @@
       <item value="Eticket Detail Spec VO" />
       <item value="Class cannot be instantiated and does not provide any static methods or fields" />
       <item value="This class defines an equals method that overrides an equals method in a superclass. Both equals methods methods use instanceof in the determination of whether two objects are equal. This is fraught with peril, since it is important that the equals method is symmetrical (in other words, a.equals(b) == b.equals(a)). If B is a subtype of A, and A's equals method checks that the argument is an instanceof A, and B's equals method checks that the argument is an instanceof B, it is quite likely that the equivalence relation defined by these methods is not symmetric." />
-      <item value="Checks that class which has only private constructors is declared as final." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3213" />
-        <entry key="ENGLISH" value="3022" />
+        <entry key="CHINESE" value="3214" />
+        <entry key="ENGLISH" value="3023" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
