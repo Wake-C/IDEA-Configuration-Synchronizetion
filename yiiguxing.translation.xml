@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="generate Per Day Price" />
+      <item value="generator Per Day Price" />
       <item value="is Can Use" />
       <item value="is Invalid Date" />
       <item value="invalid Date" />
@@ -50,12 +52,10 @@
       <item value="Cognitive Complexity is a measure of how hard the control flow of a method is to understand. Methods with high Cognitive Complexity will be difficult to maintain." />
       <item value="specifica Name" />
       <item value="Is Empty Spec" />
-      <item value="spec Is Empty" />
-      <item value="spec Empty" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3225" />
+        <entry key="CHINESE" value="3227" />
         <entry key="ENGLISH" value="3032" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="DANISH" value="3" />
