@@ -11,6 +11,7 @@
       </list>
     </option>
     <rules>
+      <Rule active="false" key="java:S106" />
       <Rule active="false" key="java:S5411" />
       <Rule active="false" key="java:S2201" />
       <Rule active="false" key="java:S1612" />
