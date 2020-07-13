@@ -2,6 +2,11 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Expiry" />
+      <item value="Overdue" />
+      <item value="eticket Expiry SMS Notification" />
+      <item value="eticket Expiry Notification" />
+      <item value="eticket Expiry Notion" />
       <item value="is Match Param" />
       <item value="if str contains only unicode numeric" />
       <item value="generate Per Day Price" />
@@ -47,16 +52,11 @@
       <item value="ordervalid" />
       <item value="valid" />
       <item value="uc/eticket/order" />
-      <item value="Execute within a nested transaction if a current transaction exists, * behave like PROPAGATIONREQUIRED else. There is no analogous feature in EJB. * &lt;p&gt;Note: Actual creation of a nested transaction will only work on specific * transaction managers. Out of the box, this only applies to the JDBC * DataSourceTransactionManager when working on a JDBC 3.0 driver. * Some JTA providers might support nested transactions as well." />
-      <item value="is Conflict" />
-      <item value="冲突" />
-      <item value="is Confilict" />
-      <item value="Cognitive Complexity is a measure of how hard the control flow of a method is to understand. Methods with high Cognitive Complexity will be difficult to maintain." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3230" />
-        <entry key="ENGLISH" value="3035" />
+        <entry key="CHINESE" value="3236" />
+        <entry key="ENGLISH" value="3041" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
