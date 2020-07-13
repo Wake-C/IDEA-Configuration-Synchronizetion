@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="specify Date" />
       <item value="Expiry" />
       <item value="Overdue" />
       <item value="eticket Expiry SMS Notification" />
@@ -51,12 +52,11 @@
       <item value="orderverify" />
       <item value="ordervalid" />
       <item value="valid" />
-      <item value="uc/eticket/order" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3236" />
-        <entry key="ENGLISH" value="3041" />
+        <entry key="CHINESE" value="3237" />
+        <entry key="ENGLISH" value="3042" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
