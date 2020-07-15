@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Expiry" />
+      <item value="is Optional Expiry" />
       <item value="is Optinal" />
       <item value="is After" />
       <item value="format Local Time" />
@@ -25,7 +27,6 @@
       <item value="eticket Expiry SMS Notification" />
       <item value="Be Store In Fo VO" />
       <item value="specify Date" />
-      <item value="Expiry" />
       <item value="Overdue" />
       <item value="eticket Expiry Notification" />
       <item value="eticket Expiry Notion" />
@@ -51,12 +52,11 @@
       <item value="invalid Order Price And Inv Num" />
       <item value="Valid Order Price And Inv Num" />
       <item value="cucl Order Price And Inv Num" />
-      <item value="mportant: Restart your IDE after the installation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3264" />
-        <entry key="ENGLISH" value="3061" />
+        <entry key="CHINESE" value="3266" />
+        <entry key="ENGLISH" value="3063" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
