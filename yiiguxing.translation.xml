@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="is After" />
       <item value="format Local Time" />
       <item value="INCREASE" />
       <item value="batch Set Consume Stock" />
@@ -51,12 +52,11 @@
       <item value="cucl Order Price And Inv Num" />
       <item value="mportant: Restart your IDE after the installation" />
       <item value="contenttext" />
-      <item value="submit Order" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3262" />
-        <entry key="ENGLISH" value="3059" />
+        <entry key="CHINESE" value="3263" />
+        <entry key="ENGLISH" value="3060" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
