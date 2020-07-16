@@ -2,7 +2,13 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="set Is Optional" />
+      <item value="is Before Expiry" />
+      <item value="is After Expiry" />
+      <item value="EXPIRY DATE" />
       <item value="Expiry" />
+      <item value="today Between Expiry" />
+      <item value="today Betw Expiry" />
       <item value="is Optional Expiry" />
       <item value="is Optinal" />
       <item value="is After" />
@@ -46,17 +52,11 @@
       <item value="Feature is enabled by default (meaning that a" />
       <item value="Feature that determines whether encountering of unknown * properties (ones that do not map to a property, and there is * no &quot;any setter&quot; or handler that can handle it) * should result in a failure (by throwing a * {@link JsonMappingException}) or not. * This setting only takes effect after all other handling * methods for unknown properties have been tried, and * property remains unhandled." />
       <item value="is New Contact" />
-      <item value="contact Name" />
-      <item value="is Order Valid" />
-      <item value="check Order Price And Inv Num" />
-      <item value="invalid Order Price And Inv Num" />
-      <item value="Valid Order Price And Inv Num" />
-      <item value="cucl Order Price And Inv Num" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3266" />
-        <entry key="ENGLISH" value="3063" />
+        <entry key="CHINESE" value="3276" />
+        <entry key="ENGLISH" value="3073" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
