@@ -2,6 +2,10 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="ETICKETCALENDARSTOCKOUT" />
+      <item value="get Allow Calendar Stock Num" />
+      <item value="get Allow Calendar Stock" />
+      <item value="get Allow Calendar Price Stock Count" />
       <item value="today" />
       <item value="invalid Date" />
       <item value="month Days" />
@@ -48,15 +52,11 @@
       <item value="Be Store In Fo VO" />
       <item value="specify Date" />
       <item value="Overdue" />
-      <item value="eticket Expiry Notification" />
-      <item value="eticket Expiry Notion" />
-      <item value="is Match Param" />
-      <item value="if str contains only unicode numeric" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3295" />
-        <entry key="ENGLISH" value="3092" />
+        <entry key="CHINESE" value="3299" />
+        <entry key="ENGLISH" value="3096" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
