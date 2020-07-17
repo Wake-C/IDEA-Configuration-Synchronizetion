@@ -2,14 +2,15 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="surplus Stock" />
+      <item value="consume Stock Num" />
+      <item value="get Allow Calendar Stock Num" />
       <item value="The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server" />
       <item value="get Surplus Stock" />
       <item value="surplus stock" />
       <item value="surplus" />
       <item value="剩余库存" />
-      <item value="consume Stock Num" />
       <item value="rollback For" />
-      <item value="get Allow Calendar Stock Num" />
       <item value="is Beyond Stock Num" />
       <item value="is Out Stock Num" />
       <item value="ETICKETCALENDARSTOCKOUT" />
@@ -51,12 +52,11 @@
       <item value="false" />
       <item value="Stock" />
       <item value="operate Flag" />
-      <item value="operate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3308" />
-        <entry key="ENGLISH" value="3102" />
+        <entry key="CHINESE" value="3311" />
+        <entry key="ENGLISH" value="3105" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
