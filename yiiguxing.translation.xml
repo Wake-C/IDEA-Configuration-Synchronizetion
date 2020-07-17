@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Don Eticket" />
       <item value="Methods annotated with Spring's @RequestMapping (and related shortcut annotations, like @GetRequest) or @JsonCreator may have a lot of parameters, encapsulation being possible. Such methods are therefore ignored." />
       <item value="thods annotated with Spring's @RequestMapping (and related shortcut annotations, like @GetRequest) or @JsonCreator may have a lot of parameters, encapsulation being possible. Such methods are therefore ignored." />
       <item value="surplus Stock" />
@@ -51,11 +52,10 @@
       <item value="public method boolean consumeStock(Long proId, Long invId, LocalDate specifyDate, Long consumeStock)" />
       <item value="consume Stock" />
       <item value="increase Stock" />
-      <item value="false" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3313" />
+        <entry key="CHINESE" value="3314" />
         <entry key="ENGLISH" value="3105" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="DANISH" value="3" />
