@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="today Use Limit Expiry End" />
       <item value="duration Calendar Price Beyond Stock" />
       <item value="is Beyond Duration Price Stock" />
       <item value="duration Price Stock Is Valid" />
@@ -31,7 +32,6 @@
       <item value="invalid Date" />
       <item value="month Days" />
       <item value="is Sale" />
-      <item value="today Use Limit Expiry End" />
       <item value="User Limit Expiry End" />
       <item value="Use Limit Expiry End" />
       <item value="today Isn Expiry End" />
@@ -55,8 +55,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3322" />
-        <entry key="ENGLISH" value="3105" />
+        <entry key="CHINESE" value="3323" />
+        <entry key="ENGLISH" value="3106" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
