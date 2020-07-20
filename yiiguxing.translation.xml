@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="true" />
+      <item value="ture" />
       <item value="is After" />
       <item value="schedule Set" />
       <item value="advance Schedule" />
@@ -50,13 +52,11 @@
       <item value="specify Date Is Before Expiry" />
       <item value="isn Expiry End" />
       <item value="set Is Optional" />
-      <item value="is Before Expiry" />
-      <item value="is After Expiry" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3332" />
-        <entry key="ENGLISH" value="3115" />
+        <entry key="CHINESE" value="3334" />
+        <entry key="ENGLISH" value="3117" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
