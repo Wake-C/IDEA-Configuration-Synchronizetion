@@ -2,6 +2,14 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="schedule Set" />
+      <item value="advance Schedule" />
+      <item value="use Date Set" />
+      <item value="use Date Type" />
+      <item value="holiday Limit" />
+      <item value="weekly Limit" />
+      <item value="redision Locker" />
+      <item value="get Surplus Stock" />
       <item value="today Use Limit Expiry End" />
       <item value="duration Calendar Price Beyond Stock" />
       <item value="is Beyond Duration Price Stock" />
@@ -18,7 +26,6 @@
       <item value="consume Stock Num" />
       <item value="get Allow Calendar Stock Num" />
       <item value="The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server" />
-      <item value="get Surplus Stock" />
       <item value="surplus stock" />
       <item value="surplus" />
       <item value="剩余库存" />
@@ -45,18 +52,11 @@
       <item value="is Before Expiry" />
       <item value="is After Expiry" />
       <item value="EXPIRY DATE" />
-      <item value="Expiry" />
-      <item value="today Between Expiry" />
-      <item value="today Betw Expiry" />
-      <item value="is Optional Expiry" />
-      <item value="is Optinal" />
-      <item value="is After" />
-      <item value="format Local Time" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3323" />
-        <entry key="ENGLISH" value="3106" />
+        <entry key="CHINESE" value="3331" />
+        <entry key="ENGLISH" value="3114" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
