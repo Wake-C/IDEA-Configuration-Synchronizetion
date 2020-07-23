@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Del Contact" />
       <item value="modifytime" />
       <item value="Verify the connector's configuration, identify and stop any process that's listening on port 8099, or configure this application to listen on another port." />
       <item value="true" />
@@ -51,11 +52,10 @@
       <item value="today Is After Expiry" />
       <item value="today Is After" />
       <item value="specify Date Is After Expiry" />
-      <item value="specify Date Is Before Expiry" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3336" />
+        <entry key="CHINESE" value="3337" />
         <entry key="ENGLISH" value="3119" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="DANISH" value="3" />
@@ -67,7 +67,7 @@
         <entry key="MALAY" value="14" />
         <entry key="PORTUGUESE" value="18" />
         <entry key="TURKISH" value="1" />
-        <entry key="SPANISH" value="7" />
+        <entry key="SPANISH" value="8" />
         <entry key="ITALIAN" value="2" />
         <entry key="HINDI" value="4" />
       </map>
