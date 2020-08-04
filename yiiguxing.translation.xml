@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="activity Style List" />
       <item value="commission Rate Rule" />
       <item value="commission Fixed Rule" />
       <item value="get Surplus Stock" />
@@ -51,12 +52,11 @@
       <item value="get Allow Calendar Stock Num" />
       <item value="The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server" />
       <item value="surplus stock" />
-      <item value="surplus" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3356" />
-        <entry key="ENGLISH" value="3137" />
+        <entry key="CHINESE" value="3357" />
+        <entry key="ENGLISH" value="3138" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
