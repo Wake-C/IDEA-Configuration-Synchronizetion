@@ -2,6 +2,24 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Please note that all methods in this class are static." />
+      <item value="For more information on MDC please see the &lt;a * href=&quot;http://logback.qos.ch/manual/mdc.html&quot;&gt;chapter on MDC&lt;/a&gt; in the * logback manual." />
+      <item value="Thus, as a SLF4J user, you can take advantage of MDC in the presence of log4j, * logback, or java.util.logging, but without forcing these systems as * dependencies upon your users." />
+      <item value="Thus" />
+      <item value="will be used" />
+      <item value="i.e. slf4jsimple * and slf4jnop" />
+      <item value="For other systems" />
+      <item value="namely log4j and logback" />
+      <item value="will delegate to the underlying system's MDC" />
+      <item value="delegate" />
+      <item value="If the underlying logging system offers MDC functionality, then SLF4J's MDC, * i.e. this class" />
+      <item value="If the underlying logging system offers MDC functionality, then SLF4J's MDC, * i.e." />
+      <item value="functionality" />
+      <item value="This class hides and serves as a substitute for the underlying logging * system's MDC implementation" />
+      <item value="MDC implementation." />
+      <item value="substitute" />
+      <item value="serves" />
+      <item value="在MDC中放入trace Id" />
       <item value="Acquire" />
       <item value="Rate Limiter" />
       <item value="activity Style List" />
@@ -34,29 +52,11 @@
       <item value="schedule Set" />
       <item value="advance Schedule" />
       <item value="use Date Set" />
-      <item value="use Date Type" />
-      <item value="holiday Limit" />
-      <item value="weekly Limit" />
-      <item value="redision Locker" />
-      <item value="today Use Limit Expiry End" />
-      <item value="duration Calendar Price Beyond Stock" />
-      <item value="is Beyond Duration Price Stock" />
-      <item value="duration Price Stock Is Valid" />
-      <item value="duration Price Stock Invalid" />
-      <item value="duration Price Stock Valid" />
-      <item value="duration Price Out Of Stock" />
-      <item value="duration Price Out Stock" />
-      <item value="duration Price Stock Out" />
-      <item value="Don Eticket" />
-      <item value="Methods annotated with Spring's @RequestMapping (and related shortcut annotations, like @GetRequest) or @JsonCreator may have a lot of parameters, encapsulation being possible. Such methods are therefore ignored." />
-      <item value="thods annotated with Spring's @RequestMapping (and related shortcut annotations, like @GetRequest) or @JsonCreator may have a lot of parameters, encapsulation being possible. Such methods are therefore ignored." />
-      <item value="surplus Stock" />
-      <item value="consume Stock Num" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3361" />
-        <entry key="ENGLISH" value="3140" />
+        <entry key="CHINESE" value="3380" />
+        <entry key="ENGLISH" value="3159" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
