@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="exclude Path Patterns" />
+      <item value="CONSOLELOGPATTERN" />
+      <item value="Handler Interceptor" />
       <item value="Put a diagnostic context value (the &lt;code&gt;val&lt;/code&gt; parameter) as identified with the * &lt;code&gt;key&lt;/code&gt; parameter into the current thread's diagnostic context map. The * &lt;code&gt;key&lt;/code&gt; parameter cannot be null. The &lt;code&gt;val&lt;/code&gt; parameter * can be null only if the underlying implementation supports it." />
       <item value="This method delegates all work to the MDC of the underlying logging system." />
       <item value="in case the &quot;key&quot; parameter is null" />
@@ -49,20 +52,18 @@
       <item value="Data truncation: Out of range value for column" />
       <item value="store Name" />
       <item value="Del Contact" />
-      <item value="modifytime" />
-      <item value="Verify the connector's configuration, identify and stop any process that's listening on port 8099, or configure this application to listen on another port." />
-      <item value="true" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3385" />
-        <entry key="ENGLISH" value="3164" />
+        <entry key="CHINESE" value="3388" />
+        <entry key="ENGLISH" value="3166" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
         <entry key="FRENCH" value="74" />
         <entry key="FILIPINO" value="4" />
         <entry key="DUTCH" value="2" />
+        <entry key="CZECH" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="MALAY" value="14" />
         <entry key="PORTUGUESE" value="18" />
