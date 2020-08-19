@@ -2,6 +2,11 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Put a diagnostic context value (the &lt;code&gt;val&lt;/code&gt; parameter) as identified with the * &lt;code&gt;key&lt;/code&gt; parameter into the current thread's diagnostic context map. The * &lt;code&gt;key&lt;/code&gt; parameter cannot be null. The &lt;code&gt;val&lt;/code&gt; parameter * can be null only if the underlying implementation supports it." />
+      <item value="This method delegates all work to the MDC of the underlying logging system." />
+      <item value="in case the &quot;key&quot; parameter is null" />
+      <item value="Remove the diagnostic context identified by the &lt;code&gt;key&lt;/code&gt; parameter using * the underlying system's MDC implementation. The &lt;code&gt;key&lt;/code&gt; parameter * cannot be null. This method does nothing if there is no previous value * associated with" />
+      <item value="log Trace Id" />
       <item value="Please note that all methods in this class are static." />
       <item value="For more information on MDC please see the &lt;a * href=&quot;http://logback.qos.ch/manual/mdc.html&quot;&gt;chapter on MDC&lt;/a&gt; in the * logback manual." />
       <item value="Thus, as a SLF4J user, you can take advantage of MDC in the presence of log4j, * logback, or java.util.logging, but without forcing these systems as * dependencies upon your users." />
@@ -47,16 +52,11 @@
       <item value="modifytime" />
       <item value="Verify the connector's configuration, identify and stop any process that's listening on port 8099, or configure this application to listen on another port." />
       <item value="true" />
-      <item value="ture" />
-      <item value="is After" />
-      <item value="schedule Set" />
-      <item value="advance Schedule" />
-      <item value="use Date Set" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3380" />
-        <entry key="ENGLISH" value="3159" />
+        <entry key="CHINESE" value="3385" />
+        <entry key="ENGLISH" value="3164" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
