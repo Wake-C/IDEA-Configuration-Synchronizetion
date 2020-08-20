@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="sel Pro Detail View Act Log" />
+      <item value="Deprecated" />
       <item value="cluster" />
       <item value="BLANK" />
       <item value="FORMULA" />
@@ -50,13 +52,11 @@
       <item value="is Contacts Duplicate" />
       <item value="Contact" />
       <item value="is Contact Duplicate" />
-      <item value="Mall Eticket Order Buy Info" />
-      <item value="Out Of Bounds" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3395" />
-        <entry key="ENGLISH" value="3173" />
+        <entry key="CHINESE" value="3397" />
+        <entry key="ENGLISH" value="3175" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="8" />
