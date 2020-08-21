@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="store managment" />
+      <item value="storemanager" />
       <item value="sel Pro Detail View Act Log" />
       <item value="Deprecated" />
       <item value="cluster" />
@@ -50,12 +52,10 @@
       <item value="is not a leap year" />
       <item value="Contacts" />
       <item value="is Contacts Duplicate" />
-      <item value="Contact" />
-      <item value="is Contact Duplicate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3397" />
+        <entry key="CHINESE" value="3398" />
         <entry key="ENGLISH" value="3175" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="DANISH" value="3" />
