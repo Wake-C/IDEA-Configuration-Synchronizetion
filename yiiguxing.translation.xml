@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="10.2.8.39" />
+      <item value="10.2.8.39:18087" />
       <item value="get Scaled Instance" />
       <item value="SCALESMOOTH" />
       <item value="draw Image" />
@@ -50,13 +52,11 @@
       <item value="delegate" />
       <item value="If the underlying logging system offers MDC functionality, then SLF4J's MDC, * i.e. this class" />
       <item value="If the underlying logging system offers MDC functionality, then SLF4J's MDC, * i.e." />
-      <item value="functionality" />
-      <item value="This class hides and serves as a substitute for the underlying logging * system's MDC implementation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3418" />
-        <entry key="ENGLISH" value="3189" />
+        <entry key="CHINESE" value="3420" />
+        <entry key="ENGLISH" value="3191" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="3" />
