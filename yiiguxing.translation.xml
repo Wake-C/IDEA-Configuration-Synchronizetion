@@ -2,6 +2,15 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Attempted" />
+      <item value="Invocation of init method failed" />
+      <item value="Invocation" />
+      <item value="milliseconds" />
+      <item value="Expected" />
+      <item value="unexpectedly" />
+      <item value="Can not read response from server" />
+      <item value="response from server" />
+      <item value="response" />
       <item value="unify" />
       <item value="eticket model copy into Unify Package" />
       <item value="Unify" />
@@ -43,20 +52,11 @@
       <item value="in case the &quot;key&quot; parameter is null" />
       <item value="Remove the diagnostic context identified by the &lt;code&gt;key&lt;/code&gt; parameter using * the underlying system's MDC implementation. The &lt;code&gt;key&lt;/code&gt; parameter * cannot be null. This method does nothing if there is no previous value * associated with" />
       <item value="log Trace Id" />
-      <item value="Please note that all methods in this class are static." />
-      <item value="For more information on MDC please see the &lt;a * href=&quot;http://logback.qos.ch/manual/mdc.html&quot;&gt;chapter on MDC&lt;/a&gt; in the * logback manual." />
-      <item value="Thus, as a SLF4J user, you can take advantage of MDC in the presence of log4j, * logback, or java.util.logging, but without forcing these systems as * dependencies upon your users." />
-      <item value="Thus" />
-      <item value="will be used" />
-      <item value="i.e. slf4jsimple * and slf4jnop" />
-      <item value="For other systems" />
-      <item value="namely log4j and logback" />
-      <item value="will delegate to the underlying system's MDC" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3423" />
-        <entry key="ENGLISH" value="3192" />
+        <entry key="CHINESE" value="3432" />
+        <entry key="ENGLISH" value="3201" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="3" />
