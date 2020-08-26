@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="slots" />
+      <item value="10922" />
       <item value="Attempted" />
       <item value="Invocation of init method failed" />
       <item value="Invocation" />
@@ -50,13 +52,11 @@
       <item value="Put a diagnostic context value (the &lt;code&gt;val&lt;/code&gt; parameter) as identified with the * &lt;code&gt;key&lt;/code&gt; parameter into the current thread's diagnostic context map. The * &lt;code&gt;key&lt;/code&gt; parameter cannot be null. The &lt;code&gt;val&lt;/code&gt; parameter * can be null only if the underlying implementation supports it." />
       <item value="This method delegates all work to the MDC of the underlying logging system." />
       <item value="in case the &quot;key&quot; parameter is null" />
-      <item value="Remove the diagnostic context identified by the &lt;code&gt;key&lt;/code&gt; parameter using * the underlying system's MDC implementation. The &lt;code&gt;key&lt;/code&gt; parameter * cannot be null. This method does nothing if there is no previous value * associated with" />
-      <item value="log Trace Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3432" />
-        <entry key="ENGLISH" value="3201" />
+        <entry key="CHINESE" value="3434" />
+        <entry key="ENGLISH" value="3203" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="3" />
