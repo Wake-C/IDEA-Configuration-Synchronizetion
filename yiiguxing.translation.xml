@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="unify" />
       <item value="eticket model copy into Unify Package" />
       <item value="Unify" />
       <item value="10.2.8.39" />
@@ -51,12 +52,11 @@
       <item value="For other systems" />
       <item value="namely log4j and logback" />
       <item value="will delegate to the underlying system's MDC" />
-      <item value="delegate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3422" />
-        <entry key="ENGLISH" value="3191" />
+        <entry key="CHINESE" value="3423" />
+        <entry key="ENGLISH" value="3192" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="3" />
