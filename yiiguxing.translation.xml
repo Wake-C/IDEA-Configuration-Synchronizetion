@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="bit" />
+      <item value="Deduction" />
+      <item value="bit Deduction" />
       <item value="slots" />
       <item value="10922" />
       <item value="Attempted" />
@@ -49,14 +52,11 @@
       <item value="exclude Path Patterns" />
       <item value="CONSOLELOGPATTERN" />
       <item value="Handler Interceptor" />
-      <item value="Put a diagnostic context value (the &lt;code&gt;val&lt;/code&gt; parameter) as identified with the * &lt;code&gt;key&lt;/code&gt; parameter into the current thread's diagnostic context map. The * &lt;code&gt;key&lt;/code&gt; parameter cannot be null. The &lt;code&gt;val&lt;/code&gt; parameter * can be null only if the underlying implementation supports it." />
-      <item value="This method delegates all work to the MDC of the underlying logging system." />
-      <item value="in case the &quot;key&quot; parameter is null" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3434" />
-        <entry key="ENGLISH" value="3203" />
+        <entry key="CHINESE" value="3437" />
+        <entry key="ENGLISH" value="3206" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="3" />
