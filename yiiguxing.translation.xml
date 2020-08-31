@@ -2,6 +2,13 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="stock Num Status" />
+      <item value="stock Num Switch" />
+      <item value="default Stock Num" />
+      <item value="use Default Inv Status" />
+      <item value="Flag" />
+      <item value="stock Num" />
+      <item value="stock Num Flag" />
       <item value="bit" />
       <item value="Deduction" />
       <item value="bit Deduction" />
@@ -45,18 +52,11 @@
       <item value="cluster" />
       <item value="BLANK" />
       <item value="FORMULA" />
-      <item value="if the specified cell type is invalid" />
-      <item value="Formula cell type" />
-      <item value="Numeric cell type (whole numbers, fractional numbers, dates)" />
-      <item value="NUMERIC" />
-      <item value="exclude Path Patterns" />
-      <item value="CONSOLELOGPATTERN" />
-      <item value="Handler Interceptor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3437" />
-        <entry key="ENGLISH" value="3206" />
+        <entry key="CHINESE" value="3446" />
+        <entry key="ENGLISH" value="3214" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="3" />
@@ -67,7 +67,7 @@
         <entry key="CZECH" value="2" />
         <entry key="ROMANIAN" value="1" />
         <entry key="MALAY" value="14" />
-        <entry key="PORTUGUESE" value="18" />
+        <entry key="PORTUGUESE" value="19" />
         <entry key="TURKISH" value="1" />
         <entry key="SPANISH" value="8" />
         <entry key="ITALIAN" value="4" />
