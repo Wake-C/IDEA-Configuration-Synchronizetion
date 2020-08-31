@@ -2,6 +2,12 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="find Specify Date Price" />
+      <item value="price" />
+      <item value="today" />
+      <item value="todayprice" />
+      <item value="find Today Price" />
+      <item value="find Current Price" />
       <item value="stock Num Status" />
       <item value="stock Num Switch" />
       <item value="default Stock Num" />
@@ -46,17 +52,11 @@
       <item value="set Scale" />
       <item value="is Between Custom Date" />
       <item value="store managment" />
-      <item value="storemanager" />
-      <item value="sel Pro Detail View Act Log" />
-      <item value="Deprecated" />
-      <item value="cluster" />
-      <item value="BLANK" />
-      <item value="FORMULA" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3446" />
-        <entry key="ENGLISH" value="3214" />
+        <entry key="CHINESE" value="3453" />
+        <entry key="ENGLISH" value="3221" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="3" />
