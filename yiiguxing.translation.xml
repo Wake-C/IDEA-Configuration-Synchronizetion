@@ -2,8 +2,15 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <histories>
-      <item value="buy Button Text" />
+      <item value="get Buy Button Text" />
       <item value="buy Button Status" />
+      <item value="未到销售日期" />
+      <item value="SELLING" />
+      <item value="OFF" />
+      <item value="SHELF" />
+      <item value="下架" />
+      <item value="is Sell" />
+      <item value="buy Button Text" />
       <item value="find Specify Date Price" />
       <item value="price" />
       <item value="today" />
@@ -45,18 +52,11 @@
       <item value="zoomin" />
       <item value="缩小" />
       <item value="suoxiao" />
-      <item value="get Scale Instance" />
-      <item value="fangda" />
-      <item value="distribu" />
-      <item value="distribu Pro Ids" />
-      <item value="intersection" />
-      <item value="find Pro Ids By Bus Id And Store Id And Recommend" />
-      <item value="set Scale" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3455" />
-        <entry key="ENGLISH" value="3223" />
+        <entry key="CHINESE" value="3464" />
+        <entry key="ENGLISH" value="3232" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="3" />
