@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Conditionally executed code should be reachable" />
+      <item value="Noncompliant Code Example" />
+      <item value="Conditional expressions which are always true or false can lead to dead code. Such code is always buggy and should never be used in production." />
       <item value="get Buy Button Text" />
       <item value="buy Button Status" />
       <item value="未到销售日期" />
@@ -49,13 +52,10 @@
       <item value="graphics 2 d" />
       <item value="height" />
       <item value="zoom Out" />
-      <item value="zoomin" />
-      <item value="缩小" />
-      <item value="suoxiao" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3464" />
+        <entry key="CHINESE" value="3467" />
         <entry key="ENGLISH" value="3232" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
