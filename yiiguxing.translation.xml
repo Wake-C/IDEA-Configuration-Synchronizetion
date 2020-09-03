@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="sel Be Pro Basic Data List Page" />
       <item value="Unify Product Condition BO" />
       <item value="Condition" />
       <item value="search Product By Page" />
@@ -51,12 +52,11 @@
       <item value="Invocation of init method failed" />
       <item value="Invocation" />
       <item value="milliseconds" />
-      <item value="Expected" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3487" />
-        <entry key="ENGLISH" value="3252" />
+        <entry key="ENGLISH" value="3253" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="3" />
@@ -77,14 +77,17 @@
     </option>
   </component>
   <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="useTranslateGoogleCom" value="true" />
+      </google-translate>
+    </option>
     <option name="ignoreRegExp" value="[-_]" />
     <option name="overrideFont" value="true" />
     <option name="phoneticFontFamily" value="Lucida Sans Unicode" />
     <option name="primaryFontFamily" value="Microsoft YaHei UI" />
-    <option name="selectTargetLanguageBeforeReplacement" value="true" />
-    <option name="showExplanation" value="true" />
+    <option name="showWordForms" value="false" />
     <option name="targetLanguageSelection" value="PRIMARY_LANGUAGE" />
-    <option name="translator" value="ai.youdao" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="72daf72feb661e19" />
