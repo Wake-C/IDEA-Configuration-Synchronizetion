@@ -2,6 +2,11 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="search Product By Page" />
+      <item value="search Product Page" />
+      <item value="Attribute" />
+      <item value="Search Product" />
+      <item value="search" />
       <item value="expiration" />
       <item value="expire End Time" />
       <item value="uploadvideo" />
@@ -47,16 +52,11 @@
       <item value="Expected" />
       <item value="unexpectedly" />
       <item value="Can not read response from server" />
-      <item value="response from server" />
-      <item value="response" />
-      <item value="unify" />
-      <item value="eticket model copy into Unify Package" />
-      <item value="Unify" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3478" />
-        <entry key="ENGLISH" value="3243" />
+        <entry key="CHINESE" value="3485" />
+        <entry key="ENGLISH" value="3250" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="3" />
