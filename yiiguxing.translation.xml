@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Be Pro Search Basic Data" />
       <item value="Be Pro Act Log Data" />
       <item value="Be" />
       <item value="get Row Count" />
@@ -51,12 +52,11 @@
       <item value="Deduction" />
       <item value="bit Deduction" />
       <item value="slots" />
-      <item value="10922" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3487" />
-        <entry key="ENGLISH" value="3255" />
+        <entry key="ENGLISH" value="3256" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="3" />
