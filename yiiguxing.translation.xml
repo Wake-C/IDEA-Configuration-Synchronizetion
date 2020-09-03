@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="expiration" />
+      <item value="expire End Time" />
       <item value="uploadvideo" />
       <item value="upload Video" />
       <item value="sign Direct" />
@@ -50,13 +52,11 @@
       <item value="unify" />
       <item value="eticket model copy into Unify Package" />
       <item value="Unify" />
-      <item value="10.2.8.39" />
-      <item value="10.2.8.39:18087" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3476" />
-        <entry key="ENGLISH" value="3241" />
+        <entry key="CHINESE" value="3478" />
+        <entry key="ENGLISH" value="3243" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="3" />
