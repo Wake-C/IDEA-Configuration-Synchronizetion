@@ -2,6 +2,11 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="uploadvideo" />
+      <item value="upload Video" />
+      <item value="sign Direct" />
+      <item value="convert To Store Id" />
+      <item value="clerk Token Service" />
       <item value="after" />
       <item value="Conditionally executed code should be reachable" />
       <item value="Noncompliant Code Example" />
@@ -47,16 +52,11 @@
       <item value="Unify" />
       <item value="10.2.8.39" />
       <item value="10.2.8.39:18087" />
-      <item value="get Scaled Instance" />
-      <item value="SCALESMOOTH" />
-      <item value="draw Image" />
-      <item value="graphics 2 d" />
-      <item value="height" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3468" />
-        <entry key="ENGLISH" value="3233" />
+        <entry key="CHINESE" value="3476" />
+        <entry key="ENGLISH" value="3241" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="3" />
