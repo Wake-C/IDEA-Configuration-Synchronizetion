@@ -2,6 +2,10 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="submit Order Page Info" />
+      <item value="submit Order View Info" />
+      <item value="order View Info" />
+      <item value="find Order View Info" />
       <item value="appears" />
       <item value=": The web application [ROOT] appears to have started a thread named [lettuceeventExecutorLoop11] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:" />
       <item value="Could be header, cookie, body, query etc." />
@@ -48,15 +52,11 @@
       <item value="stock Num Status" />
       <item value="stock Num Switch" />
       <item value="default Stock Num" />
-      <item value="use Default Inv Status" />
-      <item value="Flag" />
-      <item value="stock Num" />
-      <item value="stock Num Flag" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3487" />
-        <entry key="ENGLISH" value="3260" />
+        <entry key="ENGLISH" value="3264" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="3" />
