@@ -2,6 +2,10 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="repository" />
+      <item value="strict" />
+      <item value="entering" />
+      <item value="The following profiles are active" />
       <item value="virtual Goods" />
       <item value="submit Order Page Info" />
       <item value="submit Order View Info" />
@@ -48,15 +52,11 @@
       <item value="price" />
       <item value="today" />
       <item value="todayprice" />
-      <item value="find Today Price" />
-      <item value="find Current Price" />
-      <item value="stock Num Status" />
-      <item value="stock Num Switch" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3487" />
-        <entry key="ENGLISH" value="3265" />
+        <entry key="ENGLISH" value="3269" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="3" />
