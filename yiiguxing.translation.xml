@@ -86,7 +86,6 @@
     <option name="overrideFont" value="true" />
     <option name="phoneticFontFamily" value="Lucida Sans Unicode" />
     <option name="primaryFontFamily" value="Microsoft YaHei UI" />
-    <option name="showWordForms" value="false" />
     <option name="targetLanguageSelection" value="PRIMARY_LANGUAGE" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
