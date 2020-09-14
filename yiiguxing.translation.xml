@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="responsibility" />
+      <item value="responsbility" />
+      <item value="responsebility" />
       <item value="strategy" />
       <item value="com.example.design.strategy" />
       <item value="stratagy" />
@@ -49,13 +52,10 @@
       <item value="Conditionally executed code should be reachable" />
       <item value="Noncompliant Code Example" />
       <item value="Conditional expressions which are always true or false can lead to dead code. Such code is always buggy and should never be used in production." />
-      <item value="get Buy Button Text" />
-      <item value="buy Button Status" />
-      <item value="未到销售日期" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3491" />
+        <entry key="CHINESE" value="3492" />
         <entry key="ENGLISH" value="3272" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
