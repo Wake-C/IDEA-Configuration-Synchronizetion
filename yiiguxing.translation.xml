@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="shops" />
+      <item value="groups" />
+      <item value="shop" />
       <item value="storelist" />
       <item value="Convenience annotation to put a &lt;code&gt;@Bean&lt;/code&gt; definition in * {@link org.springframework.cloud.context.scope.refresh.RefreshScope refresh scope}. * Beans annotated this way can be refreshed at runtime and any components that are using * them will get a new instance on the next method call, fully initialized and injected * with all dependencies." />
       <item value="responsibility" />
@@ -49,14 +52,11 @@
       <item value="upload Video" />
       <item value="sign Direct" />
       <item value="convert To Store Id" />
-      <item value="clerk Token Service" />
-      <item value="after" />
-      <item value="Conditionally executed code should be reachable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3495" />
-        <entry key="ENGLISH" value="3274" />
+        <entry key="CHINESE" value="3498" />
+        <entry key="ENGLISH" value="3277" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="4" />
