@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="today Is Advance Shedule" />
+      <item value="today Is Shedule Day" />
       <item value="advance Schedule" />
       <item value="advance" />
       <item value="based Factory Mode Strategy" />
@@ -50,12 +52,10 @@
       <item value="virtual Goods" />
       <item value="submit Order View Info" />
       <item value="order View Info" />
-      <item value="find Order View Info" />
-      <item value="appears" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3522" />
+        <entry key="CHINESE" value="3524" />
         <entry key="ENGLISH" value="3297" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
