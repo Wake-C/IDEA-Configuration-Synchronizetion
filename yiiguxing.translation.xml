@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Unable to find a" />
       <item value="No Class Def Found Error" />
       <item value="Merged Annotations" />
       <item value="The value may indicate a suggestion for a logical component name, * to be turned into a Spring bean in case of an autodetected component. * @return the suggested component name, if any (or empty String otherwise)" />
@@ -51,12 +52,11 @@
       <item value="simply" />
       <item value="Old Customer" />
       <item value="Old Custom" />
-      <item value="do Process" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3565" />
-        <entry key="ENGLISH" value="3330" />
+        <entry key="CHINESE" value="3566" />
+        <entry key="ENGLISH" value="3331" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="4" />
