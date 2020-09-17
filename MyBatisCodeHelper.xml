@@ -4,7 +4,7 @@
       <Profile>
         <option name="convertByteOrShortToInt" value="true" />
         <option name="ifTestStringNullAndEmpty" value="true" />
-        <option name="usageCount" value="42" />
+        <option name="usageCount" value="57" />
         <option name="usejava8LocalDateTimeEct" value="true" />
         <option name="valid" value="true" />
       </Profile>
