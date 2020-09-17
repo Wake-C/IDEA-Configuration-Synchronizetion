@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="No Class Def Found Error" />
+      <item value="Merged Annotations" />
       <item value="The value may indicate a suggestion for a logical component name, * to be turned into a Spring bean in case of an autodetected component. * @return the suggested component name, if any (or empty String otherwise)" />
       <item value="indicate" />
       <item value="Sponsored by Codota and CodeStream" />
@@ -50,13 +52,11 @@
       <item value="Old Customer" />
       <item value="Old Custom" />
       <item value="do Process" />
-      <item value="Responsibility Test" />
-      <item value="abstract" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3563" />
-        <entry key="ENGLISH" value="3328" />
+        <entry key="CHINESE" value="3565" />
+        <entry key="ENGLISH" value="3330" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="4" />
