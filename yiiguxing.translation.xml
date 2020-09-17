@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="The value may indicate a suggestion for a logical component name, * to be turned into a Spring bean in case of an autodetected component. * @return the suggested component name, if any (or empty String otherwise)" />
+      <item value="indicate" />
       <item value="Sponsored by Codota and CodeStream" />
       <item value="Sponsored by Codota and CodeStream." />
       <item value="Sponsored" />
@@ -50,13 +52,11 @@
       <item value="do Process" />
       <item value="Responsibility Test" />
       <item value="abstract" />
-      <item value="Senior Check" />
-      <item value="Manager Check" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3561" />
-        <entry key="ENGLISH" value="3326" />
+        <entry key="CHINESE" value="3563" />
+        <entry key="ENGLISH" value="3328" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="4" />
