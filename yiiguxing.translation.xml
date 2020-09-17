@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="HOUR" />
+      <item value="HOURS" />
       <item value="today Is Advance Shedule" />
       <item value="today Is Shedule Day" />
       <item value="advance Schedule" />
@@ -50,13 +52,11 @@
       <item value="entering" />
       <item value="The following profiles are active" />
       <item value="virtual Goods" />
-      <item value="submit Order View Info" />
-      <item value="order View Info" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3524" />
-        <entry key="ENGLISH" value="3297" />
+        <entry key="CHINESE" value="3526" />
+        <entry key="ENGLISH" value="3299" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="4" />
