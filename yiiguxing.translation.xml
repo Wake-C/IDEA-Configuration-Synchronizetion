@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="allow Early Reference" />
+      <item value="is Singleton Currently In Creation" />
       <item value="Unable to find" />
       <item value="create Air Conditioner" />
       <item value="Unable to find a" />
@@ -50,13 +52,11 @@
       <item value="base" />
       <item value="base Factory Mode Strategy" />
       <item value="base Factory" />
-      <item value="simple" />
-      <item value="simply" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3568" />
-        <entry key="ENGLISH" value="3333" />
+        <entry key="CHINESE" value="3570" />
+        <entry key="ENGLISH" value="3335" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="4" />
