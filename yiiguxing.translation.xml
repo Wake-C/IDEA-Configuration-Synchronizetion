@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="today Is Advance Schedule" />
       <item value="volatile" />
       <item value="Singleton Holder" />
       <item value="Synchronize Lock Singleton" />
@@ -48,15 +49,14 @@
       <item value="advance Date" />
       <item value="minus" />
       <item value="date Check" />
-      <item value="today Is Advance Schedule" />
       <item value="Shedule" />
       <item value="HOUR" />
       <item value="HOURS" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3577" />
-        <entry key="ENGLISH" value="3340" />
+        <entry key="CHINESE" value="3578" />
+        <entry key="ENGLISH" value="3341" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="4" />
