@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="is not a functional interface" />
       <item value="Memory leak detection has started...." />
       <item value="thief" />
       <item value="today Is Advance Schedule" />
@@ -51,11 +52,10 @@
       <item value="advance Date" />
       <item value="minus" />
       <item value="date Check" />
-      <item value="Shedule" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3580" />
+        <entry key="CHINESE" value="3581" />
         <entry key="ENGLISH" value="3341" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
