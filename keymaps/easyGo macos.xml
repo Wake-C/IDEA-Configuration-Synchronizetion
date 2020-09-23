@@ -57,11 +57,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl meta e" />
   </action>
   <action id="CloseAllEditors">
-    <keyboard-shortcut first-keystroke="ctrl alt x" />
-  </action>
-  <action id="CloseContent">
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
+  <action id="CloseContent" />
   <action id="ConsoleView.ClearAll">
     <keyboard-shortcut first-keystroke="shift ctrl x" />
   </action>
