@@ -143,7 +143,7 @@
     <keyboard-shortcut first-keystroke="ctrl meta right" />
   </action>
   <action id="Generate">
-    <keyboard-shortcut first-keystroke="meta s" />
+    <keyboard-shortcut first-keystroke="alt s" />
   </action>
   <action id="Git.Pull">
     <keyboard-shortcut first-keystroke="shift ctrl alt p" />
@@ -165,6 +165,7 @@
   <action id="Gradle.AddGradleDslDependencyAction">
     <keyboard-shortcut first-keystroke="shift m" />
   </action>
+  <action id="GsonFormatPlus" />
   <action id="IntroduceFunctionalParameter" />
   <action id="JRebel Debug">
     <keyboard-shortcut first-keystroke="shift ctrl alt f9" />
@@ -213,6 +214,10 @@
   <action id="RunAnything">
     <keyboard-shortcut first-keystroke="shift ctrl alt f11" />
   </action>
+  <action id="SaveAll">
+    <keyboard-shortcut first-keystroke="ctrl s" />
+    <keyboard-shortcut first-keystroke="meta s" />
+  </action>
   <action id="SelectIn">
     <keyboard-shortcut first-keystroke="alt f1" />
     <keyboard-shortcut first-keystroke="meta f1" />
@@ -220,6 +225,9 @@
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="alt enter" />
     <keyboard-shortcut first-keystroke="meta enter" />
+  </action>
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="shift ctrl meta d" />
   </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="shift ctrl meta w" />
