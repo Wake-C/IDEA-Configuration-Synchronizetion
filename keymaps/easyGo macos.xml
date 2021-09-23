@@ -67,6 +67,8 @@
     <keyboard-shortcut first-keystroke="meta r" />
   </action>
   <action id="CopyWithoutSelect" />
+  <action id="Cpt.OpenSettings" />
+  <action id="Cpt.OpenTemplates" />
   <action id="DatabaseView.CopyDdlAction">
     <keyboard-shortcut first-keystroke="shift ctrl c" />
   </action>
@@ -244,7 +246,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl meta d" />
   </action>
   <action id="SplitVertically">
-    <keyboard-shortcut first-keystroke="shift ctrl meta r" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta w" />
   </action>
   <action id="Table-scrollUpChangeSelection">
     <keyboard-shortcut first-keystroke="page_up" />
@@ -266,6 +268,7 @@
   <action id="Vcs.Push">
     <keyboard-shortcut first-keystroke="shift ctrl k" />
     <keyboard-shortcut first-keystroke="shift ctrl alt r" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta r" />
   </action>
   <action id="Vcs.ShowTabbedFileHistory">
     <keyboard-shortcut first-keystroke="shift ctrl alt h" />
