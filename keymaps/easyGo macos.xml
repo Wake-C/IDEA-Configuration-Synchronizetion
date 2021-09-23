@@ -317,4 +317,7 @@
   <action id="emacsIDEAs.AceJumpObtainThenReplace.Word" />
   <action id="emacsIDEAs.AceJumpSelect" />
   <action id="emacsIDEAs.AceJumpWord" />
+  <action id="javadoc.generator">
+    <keyboard-shortcut first-keystroke="shift ctrl meta c" />
+  </action>
 </keymap>
