@@ -33,6 +33,10 @@
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="meta 1" />
   </action>
+  <action id="AliP3CInspectionAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt j" />
+    <keyboard-shortcut first-keystroke="ctrl alt d" />
+  </action>
   <action id="Back">
     <keyboard-shortcut first-keystroke="ctrl alt left" />
     <mouse-shortcut keystroke="button4" />
@@ -56,6 +60,7 @@
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
   <action id="CloseContent" />
+  <action id="Console.TableResult.SetDefault" />
   <action id="ConsoleView.ClearAll">
     <keyboard-shortcut first-keystroke="shift ctrl x" />
   </action>
@@ -242,6 +247,11 @@
     <keyboard-shortcut first-keystroke="alt enter" />
     <keyboard-shortcut first-keystroke="meta enter" />
   </action>
+  <action id="ShowSettings" />
+  <action id="SonarLint.AnalyzeFiles">
+    <keyboard-shortcut first-keystroke="shift ctrl s" />
+    <keyboard-shortcut first-keystroke="ctrl alt s" />
+  </action>
   <action id="SplitHorizontally">
     <keyboard-shortcut first-keystroke="shift ctrl meta d" />
   </action>
@@ -265,6 +275,7 @@
   <action id="Tree-scrollUpChangeSelection">
     <keyboard-shortcut first-keystroke="page_up" />
   </action>
+  <action id="UsageGrouping.DirectoryStructure" />
   <action id="UsageView.Exclude">
     <keyboard-shortcut first-keystroke="delete" />
   </action>
