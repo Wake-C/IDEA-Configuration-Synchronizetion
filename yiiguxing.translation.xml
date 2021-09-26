@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="1846" />
     <option name="newTranslationDialogY" value="280" />
     <histories>
+      <item value="invalid Product List" />
+      <item value="invalid" />
+      <item value="order Detail List" />
       <item value="reorder" />
       <item value="list By Order Id And Act Style Not In" />
       <item value="odota is now Tabnine! Great news, we’ve released our next generation AI Code Completion - Tabnine. Codota will be sunsetting soon - we recommend installing the Tabnine plugin instead. Check it out at Tabnine.com. Tabnine supports all languages and uses a stronger Machine Learning model to give you much better code completions." />
@@ -52,14 +55,11 @@
       <item value="I Holiday Gift Strategy" />
       <item value="Gift Holiday" />
       <item value="is Before" />
-      <item value="remains" />
-      <item value="decrementing" />
-      <item value="amount from the days" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3581" />
-        <entry key="ENGLISH" value="3344" />
+        <entry key="ENGLISH" value="3347" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="4" />
