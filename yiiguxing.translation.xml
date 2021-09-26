@@ -5,6 +5,18 @@
     <option name="newTranslationDialogX" value="1846" />
     <option name="newTranslationDialogY" value="280" />
     <histories>
+      <item value="When the loop counters are updated in the body of the for loop When the stop condition depend upon a method call When the stop condition depends on an object property, since such properties could change during the execution of the loop" />
+      <item value="Cognitive Complexity is a measure of how hard the control flow of a method is to understand. Methods with high Cognitive Complexity will be difficult to maintain." />
+      <item value="Following parameter values can be set in Rule Settings. In connected mode, server side configuration overrides local sett" />
+      <item value="Cognitive Complexity of methods should not be too high" />
+      <item value="Critical" />
+      <item value="Cognitive" />
+      <item value="compliant" />
+      <item value="Noncompliant" />
+      <item value="Noncompliant Code Example" />
+      <item value="Noncompliant; counter updated in the body of the loop" />
+      <item value="&quot;for&quot; loop stop conditions should be invariant" />
+      <item value="invariant" />
       <item value="invalid Product List" />
       <item value="invalid" />
       <item value="order Detail List" />
@@ -43,18 +55,6 @@
       <item value="list By Store Id And Member Id" />
       <item value="list" />
       <item value="quantity" />
-      <item value="cart Quantity" />
-      <item value="cart" />
-      <item value="card Num" />
-      <item value="New Year Festive" />
-      <item value="National Day Festive" />
-      <item value="National Day" />
-      <item value="国庆节" />
-      <item value="National Dy" />
-      <item value="Mid Autumn Festive" />
-      <item value="I Holiday Gift Strategy" />
-      <item value="Gift Holiday" />
-      <item value="is Before" />
     </histories>
     <option name="languageScores">
       <map>
