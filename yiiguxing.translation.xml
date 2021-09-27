@@ -5,9 +5,11 @@
     <option name="newTranslationDialogX" value="1846" />
     <option name="newTranslationDialogY" value="280" />
     <histories>
-      <item value="not Default Value" />
+      <item value="is Last Product" />
+      <item value="Cognitive Complexity is a measure of how hard the control flow of a method is to understand. Methods with high Cognitive Complexity will be difficult to maintain." />
       <item value="Complexity" />
       <item value="Cognitive" />
+      <item value="not Default Value" />
       <item value="Atomic Reference" />
       <item value="Variable used in lambda expression should be final or effectively final" />
       <item value="effectivel" />
@@ -15,7 +17,6 @@
       <item value="compliant" />
       <item value="Noncompliant Code Example" />
       <item value="When the loop counters are updated in the body of the for loop When the stop condition depend upon a method call When the stop condition depends on an object property, since such properties could change during the execution of the loop" />
-      <item value="Cognitive Complexity is a measure of how hard the control flow of a method is to understand. Methods with high Cognitive Complexity will be difficult to maintain." />
       <item value="Following parameter values can be set in Rule Settings. In connected mode, server side configuration overrides local sett" />
       <item value="Cognitive Complexity of methods should not be too high" />
       <item value="Critical" />
@@ -54,12 +55,11 @@
       <item value="The value may indicate a suggestion for a logical component name, * to be turned into a Spring bean in case of an autodetected component. * @return the suggested component name, if any (or empty String otherwise)" />
       <item value="indicate" />
       <item value="Sponsored by Codota and CodeStream" />
-      <item value="Sponsored by Codota and CodeStream." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3581" />
-        <entry key="ENGLISH" value="3349" />
+        <entry key="ENGLISH" value="3350" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="4" />
