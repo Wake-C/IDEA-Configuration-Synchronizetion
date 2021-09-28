@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1846" />
     <option name="newTranslationDialogY" value="280" />
     <histories>
+      <item value="Dis Count" />
       <item value="Contain" />
       <item value="discount Set DTO List" />
       <item value="fright Price List" />
@@ -54,12 +55,11 @@
       <item value="create Air Conditioner" />
       <item value="Unable to find a" />
       <item value="No Class Def Found Error" />
-      <item value="Merged Annotations" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3581" />
-        <entry key="ENGLISH" value="3353" />
+        <entry key="ENGLISH" value="3354" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="4" />
