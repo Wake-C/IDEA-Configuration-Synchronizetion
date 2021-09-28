@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="1846" />
     <option name="newTranslationDialogY" value="280" />
     <histories>
+      <item value="Contain" />
+      <item value="discount Set DTO List" />
       <item value="fright Price List" />
       <item value="is Last Product" />
       <item value="Cognitive Complexity is a measure of how hard the control flow of a method is to understand. Methods with high Cognitive Complexity will be difficult to maintain." />
@@ -53,13 +55,11 @@
       <item value="Unable to find a" />
       <item value="No Class Def Found Error" />
       <item value="Merged Annotations" />
-      <item value="The value may indicate a suggestion for a logical component name, * to be turned into a Spring bean in case of an autodetected component. * @return the suggested component name, if any (or empty String otherwise)" />
-      <item value="indicate" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3581" />
-        <entry key="ENGLISH" value="3351" />
+        <entry key="ENGLISH" value="3353" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="4" />
