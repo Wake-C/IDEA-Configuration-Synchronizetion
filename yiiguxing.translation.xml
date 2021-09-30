@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="1846" />
     <option name="newTranslationDialogY" value="280" />
     <histories>
+      <item value="average" />
+      <item value="average Price" />
       <item value="no Discount Goods Total Price" />
       <item value="no Discount Price" />
       <item value="add Discount Set" />
@@ -53,13 +55,11 @@
       <item value="Synchronize Singleton" />
       <item value="Static Inner" />
       <item value="单例" />
-      <item value="sigleton" />
-      <item value="get Recommend Series List" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3581" />
-        <entry key="ENGLISH" value="3362" />
+        <entry key="ENGLISH" value="3364" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="4" />
