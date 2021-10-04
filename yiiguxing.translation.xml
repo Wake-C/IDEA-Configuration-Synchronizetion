@@ -83,17 +83,11 @@
     <option name="lastTrimTime" value="1632797972733" />
   </component>
   <component name="Settings">
-    <option name="googleTranslateSettings">
-      <google-translate>
-        <option name="useTranslateGoogleCom" value="true" />
-      </google-translate>
-    </option>
     <option name="overrideFont" value="true" />
     <option name="phoneticFontFamily" value="Lucida Sans Unicode" />
     <option name="primaryFontFamily" value="Microsoft YaHei UI" />
     <option name="showExplanation" value="true" />
     <option name="showWordsOnStartup" value="true" />
-    <option name="targetLanguageSelection" value="PRIMARY_LANGUAGE" />
     <option name="translateDocumentation" value="true" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
