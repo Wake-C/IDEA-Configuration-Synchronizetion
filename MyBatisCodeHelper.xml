@@ -3,6 +3,8 @@
     <option name="profile">
       <Profile>
         <option name="convertByteOrShortToInt" value="true" />
+        <option name="generateMethodInService" value="true" />
+        <option name="generateMethodInServiceInterface" value="true" />
         <option name="methodNameSqlCommment" value="" />
         <option name="theUsageCount" value="1634897258815" />
         <option name="usejava8LocalDateTimeEct" value="true" />
