@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="1494" />
     <option name="newTranslationDialogY" value="274" />
     <histories>
+      <item value="get Order Price" />
+      <item value="com Cart Util Service" />
+      <item value="ORDER PRODUCT NO FIND" />
       <item value="original" />
       <item value="origina" />
       <item value="original Total Price" />
@@ -52,14 +55,11 @@
       <item value="list By Order Id And Act Style Not In" />
       <item value="odota is now Tabnine! Great news, we’ve released our next generation AI Code Completion - Tabnine. Codota will be sunsetting soon - we recommend installing the Tabnine plugin instead. Check it out at Tabnine.com. Tabnine supports all languages and uses a stronger Machine Learning model to give you much better code completions." />
       <item value="handling" />
-      <item value="is not a functional interface" />
-      <item value="Memory leak detection has started...." />
-      <item value="thief" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3581" />
-        <entry key="ENGLISH" value="3368" />
+        <entry key="CHINESE" value="3582" />
+        <entry key="ENGLISH" value="3370" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="4" />
@@ -68,7 +68,7 @@
         <entry key="FILIPINO" value="5" />
         <entry key="DUTCH" value="2" />
         <entry key="CZECH" value="2" />
-        <entry key="ROMANIAN" value="1" />
+        <entry key="ROMANIAN" value="2" />
         <entry key="MALAY" value="14" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="ESPERANTO" value="2" />
@@ -95,6 +95,7 @@
     <option name="showExplanation" value="true" />
     <option name="showWordsOnStartup" value="true" />
     <option name="translateDocumentation" value="true" />
+    <option name="translator" value="YOUDAO" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="72daf72feb661e19" />
