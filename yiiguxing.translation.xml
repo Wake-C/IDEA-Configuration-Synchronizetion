@@ -89,6 +89,7 @@
         <option name="useTranslateGoogleCom" value="true" />
       </google-translate>
     </option>
+    <option name="keepFormat" value="true" />
     <option name="overrideFont" value="true" />
     <option name="phoneticFontFamily" value="Lucida Sans Unicode" />
     <option name="primaryFontFamily" value="Microsoft YaHei UI" />
