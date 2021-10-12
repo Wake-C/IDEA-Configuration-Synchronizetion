@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1494" />
     <option name="newTranslationDialogY" value="274" />
     <histories>
+      <item value="augend" />
       <item value="discount Goods Price" />
       <item value="no Discount Goods Total Price" />
       <item value="current Discount Times" />
@@ -54,12 +55,11 @@
       <item value="invalid Product List" />
       <item value="invalid" />
       <item value="order Detail List" />
-      <item value="reorder" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3589" />
-        <entry key="ENGLISH" value="3377" />
+        <entry key="CHINESE" value="3590" />
+        <entry key="ENGLISH" value="3378" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="4" />
