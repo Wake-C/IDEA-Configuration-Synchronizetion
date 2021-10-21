@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1494" />
     <option name="newTranslationDialogY" value="274" />
     <histories>
+      <item value="Conditional On Class" />
       <item value="retrieve" />
       <item value="get Last Task Time Millis" />
       <item value="get Total Time Millis" />
@@ -54,12 +55,11 @@
       <item value="compliant" />
       <item value="Noncompliant Code Example" />
       <item value="When the loop counters are updated in the body of the for loop When the stop condition depend upon a method call When the stop condition depends on an object property, since such properties could change during the execution of the loop" />
-      <item value="Following parameter values can be set in Rule Settings. In connected mode, server side configuration overrides local sett" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3600" />
-        <entry key="ENGLISH" value="3387" />
+        <entry key="CHINESE" value="3601" />
+        <entry key="ENGLISH" value="3388" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="4" />
