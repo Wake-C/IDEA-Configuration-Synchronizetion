@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1494" />
     <option name="newTranslationDialogY" value="274" />
     <histories>
+      <item value="check Valid Rule" />
       <item value="longitude" />
       <item value="check-valid-rule" />
       <item value="verification" />
@@ -54,12 +55,11 @@
       <item value="is Last Product" />
       <item value="Cognitive Complexity is a measure of how hard the control flow of a method is to understand. Methods with high Cognitive Complexity will be difficult to maintain." />
       <item value="Complexity" />
-      <item value="Cognitive" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3609" />
-        <entry key="ENGLISH" value="3396" />
+        <entry key="CHINESE" value="3610" />
+        <entry key="ENGLISH" value="3397" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="4" />
