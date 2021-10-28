@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="1494" />
     <option name="newTranslationDialogY" value="274" />
     <histories>
+      <item value="Assertion Error" />
+      <item value="response should present" />
       <item value="signed Time" />
       <item value="signed" />
       <item value="Express Sign DTO" />
@@ -53,13 +55,11 @@
       <item value="add Discount Set" />
       <item value="dicount Times" />
       <item value="hint" />
-      <item value="is Required" />
-      <item value="Required" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3619" />
-        <entry key="ENGLISH" value="3404" />
+        <entry key="CHINESE" value="3621" />
+        <entry key="ENGLISH" value="3406" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="4" />
