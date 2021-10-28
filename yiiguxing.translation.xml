@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1494" />
     <option name="newTranslationDialogY" value="274" />
     <histories>
+      <item value="check Valid Rule" />
       <item value="Assertion Error" />
       <item value="response should present" />
       <item value="signed Time" />
@@ -14,7 +15,6 @@
       <item value="city Delivery Is Signed" />
       <item value="is After" />
       <item value="FIXED" />
-      <item value="check Valid Rule" />
       <item value="longitude" />
       <item value="check-valid-rule" />
       <item value="verification" />
@@ -58,8 +58,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3621" />
-        <entry key="ENGLISH" value="3406" />
+        <entry key="CHINESE" value="3622" />
+        <entry key="ENGLISH" value="3407" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="4" />
