@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1494" />
     <option name="newTranslationDialogY" value="274" />
     <histories>
+      <item value="when Update Remove Product Cache" />
       <item value="market" />
       <item value="submit Order To Centre" />
       <item value="Centre" />
@@ -54,12 +55,11 @@
       <item value="tomorrow Expiry List" />
       <item value="blocked eticket sms notification" />
       <item value="average" />
-      <item value="average Price" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3626" />
-        <entry key="ENGLISH" value="3411" />
+        <entry key="CHINESE" value="3627" />
+        <entry key="ENGLISH" value="3412" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="4" />
