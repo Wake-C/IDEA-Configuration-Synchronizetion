@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1494" />
     <option name="newTranslationDialogY" value="274" />
     <histories>
+      <item value="The location for the repository is determined as follows (in order of precedence):&#10;     " />
       <item value="Deprecated Gradle features were used in this build, making it incompatible with Gradle 8.0." />
       <item value="hint" />
       <item value="FORBID" />
@@ -54,12 +55,11 @@
       <item value="augend" />
       <item value="discount Goods Price" />
       <item value="no Discount Goods Total Price" />
-      <item value="current Discount Times" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3632" />
-        <entry key="ENGLISH" value="3425" />
+        <entry key="ENGLISH" value="3426" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="4" />
