@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1494" />
     <option name="newTranslationDialogY" value="274" />
     <histories>
+      <item value="Shop Card Specification VO" />
       <item value="specification Sets" />
       <item value="use Generated Keys" />
       <item value="Selective" />
@@ -54,12 +55,11 @@
       <item value="verification" />
       <item value="return Active Order Detail Ids By Order Id" />
       <item value="return Order Detail Ids By Order Id" />
-      <item value="order Return Money List" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3633" />
-        <entry key="ENGLISH" value="3440" />
+        <entry key="ENGLISH" value="3441" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="4" />
