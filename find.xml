@@ -1,12 +1,12 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…/mall-bean/src/main/java/com/gt/mall/vo/DistributionSaleStatisticsVO.java [mall-bean]'" />
-    <option name="defaultScopeName" value="File '…/mall-bean/src/main/java/com/gt/mall/vo/DistributionSaleStatisticsVO.java [mall-bean]'" />
+    <option name="customScope" value="Project 'Mall_new_eticket'" />
+    <option name="defaultScopeName" value="Project 'Mall_new_eticket'" />
     <option name="localRegularExpressions" value="true" />
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '…/mall-bean/src/main/java/com/gt/mall/vo/DistributionSaleStatisticsVO.java [mall-bean]'" />
+    <option name="SEARCH_SCOPE" value="Project 'Mall_new_eticket'" />
     <option name="FILE_MASK" value="*.java" />
     <mask>*.js</mask>
     <mask>*.as</mask>
