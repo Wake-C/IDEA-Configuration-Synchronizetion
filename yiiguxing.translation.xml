@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="1494" />
     <option name="newTranslationDialogY" value="274" />
     <histories>
+      <item value="maximum number of messages that the server will deliver, 0 if unlimited" />
+      <item value="global – true if the settings should be applied to the entire channel" />
       <item value="true if the rejected message(s) should be requeued rather than discardeddead-lettered" />
       <item value="discarded" />
       <item value="confirm Select" />
@@ -53,13 +55,11 @@
       <item value="signed" />
       <item value="Express Sign DTO" />
       <item value="Vip Package" />
-      <item value="city Delivery Is Signed" />
-      <item value="is After" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3637" />
-        <entry key="ENGLISH" value="3449" />
+        <entry key="CHINESE" value="3639" />
+        <entry key="ENGLISH" value="3451" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="4" />
