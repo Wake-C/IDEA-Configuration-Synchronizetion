@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1494" />
     <option name="newTranslationDialogY" value="274" />
     <histories>
+      <item value="Ambiguous mapping. Cannot map 'PCShopCardController' method " />
       <item value="Ambiguous" />
       <item value="Ambiguous mapping. Cannot map 'PCShopCardController' method" />
       <item value="can have only one of 'queues', 'queuesToDeclare', or 'bindings" />
@@ -54,12 +55,11 @@
       <item value="MEIYE" />
       <item value="Circuit Breaker" />
       <item value="not Discount" />
-      <item value="not Contains Act" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3655" />
-        <entry key="ENGLISH" value="3467" />
+        <entry key="CHINESE" value="3656" />
+        <entry key="ENGLISH" value="3468" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="4" />
