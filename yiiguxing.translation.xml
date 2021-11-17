@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="1494" />
     <option name="newTranslationDialogY" value="274" />
     <histories>
+      <item value="can have only one of 'queues', 'queuesToDeclare', or 'bindings" />
+      <item value="Shutdown Signal" />
       <item value="can have only one of 'queues', 'queuesToDeclare', or 'bindings'" />
       <item value="an have only one of 'queues', 'queuesToDeclare', or 'bindings'" />
       <item value="reward" />
@@ -53,13 +55,11 @@
       <item value="not Contains Act" />
       <item value="bulletin" />
       <item value="correlation Data" />
-      <item value="when Update Remove Product Cache" />
-      <item value="market" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3651" />
-        <entry key="ENGLISH" value="3463" />
+        <entry key="CHINESE" value="3653" />
+        <entry key="ENGLISH" value="3465" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="4" />
