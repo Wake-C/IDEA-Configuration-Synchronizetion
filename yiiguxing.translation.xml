@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="1494" />
     <option name="newTranslationDialogY" value="274" />
     <histories>
+      <item value="product Change" />
+      <item value="order Change" />
+      <item value="is Change" />
+      <item value="select By Order Id And Order Detail Ids In" />
       <item value="Ambiguous mapping. Cannot map 'PCShopCardController' method " />
       <item value="Ambiguous" />
       <item value="Ambiguous mapping. Cannot map 'PCShopCardController' method" />
@@ -51,15 +55,11 @@
       <item value="FORBID" />
       <item value="join Activity" />
       <item value="SKILL" />
-      <item value="recharge Discount" />
-      <item value="MEIYE" />
-      <item value="Circuit Breaker" />
-      <item value="not Discount" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3656" />
-        <entry key="ENGLISH" value="3468" />
+        <entry key="CHINESE" value="3660" />
+        <entry key="ENGLISH" value="3472" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="4" />
