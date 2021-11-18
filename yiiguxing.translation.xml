@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="1494" />
     <option name="newTranslationDialogY" value="274" />
     <histories>
+      <item value="list With Page" />
+      <item value="list By Shop Id And Id Not In And Pro Name Like And Pro Type Id In With Page" />
       <item value="Select" />
       <item value="Check" />
       <item value="product Change" />
@@ -53,13 +55,11 @@
       <item value="Async" />
       <item value="The location for the repository is determined as follows (in order of precedence):&#10;     " />
       <item value="Deprecated Gradle features were used in this build, making it incompatible with Gradle 8.0." />
-      <item value="hint" />
-      <item value="FORBID" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3662" />
-        <entry key="ENGLISH" value="3474" />
+        <entry key="CHINESE" value="3663" />
+        <entry key="ENGLISH" value="3478" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="4" />
@@ -91,7 +91,6 @@
     <option name="showExplanation" value="true" />
     <option name="showWordsOnStartup" value="true" />
     <option name="translateDocumentation" value="true" />
-    <option name="translator" value="YOUDAO" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="72daf72feb661e19" />
