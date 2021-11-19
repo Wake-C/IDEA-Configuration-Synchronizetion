@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1599" />
     <option name="newTranslationDialogY" value="283" />
     <histories>
+      <item value="notification Refund" />
       <item value="Need to specify how to reconcile divergent branches." />
       <item value="change Product Rule" />
       <item value="order Change Product Delivery Rule" />
@@ -54,12 +55,11 @@
       <item value="Unexpected exception occurred invoking async method: public void com.food.orderservicemanage.service.OrderMessageService.handleMessage() throws java.io.IOException,java.util.concurrent.TimeoutException,java.lang.InterruptedException&#10;" />
       <item value="selsct" />
       <item value="Start a non-nolocal, non-exclusive consumer, with explicit acknowledgement and a server-generated consumerTag." />
-      <item value="other properties for the message - routing headers etc" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3664" />
-        <entry key="ENGLISH" value="3482" />
+        <entry key="ENGLISH" value="3483" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="4" />
