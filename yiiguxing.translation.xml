@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="1599" />
     <option name="newTranslationDialogY" value="283" />
     <histories>
+      <item value="Activity Calendar Price" />
+      <item value="    public static class ActivityCalendarPrice extends Query {&#10;" />
+      <item value="Cart" />
       <item value="try Parse" />
       <item value="Direct Exchange" />
       <item value="Remove" />
@@ -52,14 +55,11 @@
       <item value="Selective" />
       <item value="Is Dist Act Product" />
       <item value="Bargain" />
-      <item value="bo" />
-      <item value="exist Shop Card Store Set" />
-      <item value="exite Shop Card Store Set" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3664" />
-        <entry key="ENGLISH" value="3487" />
+        <entry key="ENGLISH" value="3498" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="4" />
