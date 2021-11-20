@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="1599" />
     <option name="newTranslationDialogY" value="283" />
     <histories>
+      <item value="temple" />
+      <item value="temp" />
       <item value="ACTIVITY PRODUCT DETAIL" />
       <item value="ACTIVITY PRODUCT DETAIL BYA ACTIVITYIDS" />
       <item value="mall Activity Api" />
@@ -53,13 +55,11 @@
       <item value="true if the rejected message(s) should be requeued rather than discardeddead-lettered" />
       <item value="discarded" />
       <item value="confirm Select" />
-      <item value="confirm" />
-      <item value="unset" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3664" />
-        <entry key="ENGLISH" value="3506" />
+        <entry key="ENGLISH" value="3508" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="4" />
