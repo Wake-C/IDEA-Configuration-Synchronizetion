@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1599" />
     <option name="newTranslationDialogY" value="283" />
     <histories>
+      <item value="footstep" />
       <item value="create Valid" />
       <item value="SHOP CARD PRODUCT HAS BEEN DELETE" />
       <item value="create Product List" />
@@ -54,12 +55,11 @@
       <item value="DELIVERYMAN CONFIRMED" />
       <item value="PC Shop Card Controller" />
       <item value="Ambiguous mapping" />
-      <item value="Recharge" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3669" />
-        <entry key="ENGLISH" value="3512" />
+        <entry key="CHINESE" value="3670" />
+        <entry key="ENGLISH" value="3513" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="4" />
