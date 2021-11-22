@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="1599" />
     <option name="newTranslationDialogY" value="283" />
     <histories>
+      <item value="create Valid" />
+      <item value="SHOP CARD PRODUCT HAS BEEN DELETE" />
+      <item value="create Product List" />
       <item value="segment" />
       <item value="Malformed input at 3." />
       <item value="temple" />
@@ -52,14 +55,11 @@
       <item value="PC Shop Card Controller" />
       <item value="Ambiguous mapping" />
       <item value="Recharge" />
-      <item value="maximum number of messages that the server will deliver, 0 if unlimited" />
-      <item value="global – true if the settings should be applied to the entire channel" />
-      <item value="true if the rejected message(s) should be requeued rather than discardeddead-lettered" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3666" />
-        <entry key="ENGLISH" value="3509" />
+        <entry key="CHINESE" value="3669" />
+        <entry key="ENGLISH" value="3512" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="4" />
