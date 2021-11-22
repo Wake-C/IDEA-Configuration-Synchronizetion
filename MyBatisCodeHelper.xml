@@ -5,7 +5,6 @@
         <option name="convertByteOrShortToInt" value="true" />
         <option name="generateMethodInService" value="true" />
         <option name="generateMethodInServiceInterface" value="true" />
-        <option name="generateWithIfTest" value="true" />
         <option name="methodNameSqlCommment" value="" />
         <option name="theUsageCount" value="1640052203213" />
         <option name="usejava8LocalDateTimeEct" value="true" />
