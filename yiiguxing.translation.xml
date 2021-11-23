@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="1599" />
     <option name="newTranslationDialogY" value="283" />
     <histories>
+      <item value="multiple Specification" />
+      <item value="multip Specification" />
       <item value="inv Id With Min Discount Value Map" />
       <item value="shop Card Set List" />
       <item value="ystemException: nested exception is org.apache.ibatis.reflection.ReflectionException: Could not set property 'barProFreightSet' of 'class com.gt.mall.entity.product.MallProduct' with value '2' Cause: org.apache.ibatis.reflection.ReflectionException: There is no setter for property named 'barProFreightSet' in 'class com.gt.mall.entity.product.MallProduct" />
@@ -53,13 +55,11 @@
       <item value="can have only one of 'queues', 'queuesToDeclare', or 'bindings'" />
       <item value="an have only one of 'queues', 'queuesToDeclare', or 'bindings'" />
       <item value="reward" />
-      <item value="Alias For" />
-      <item value="set Default Requeue Rejected" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3675" />
-        <entry key="ENGLISH" value="3518" />
+        <entry key="CHINESE" value="3677" />
+        <entry key="ENGLISH" value="3520" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="4" />
