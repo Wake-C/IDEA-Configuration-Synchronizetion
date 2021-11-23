@@ -64,6 +64,12 @@
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
   <action id="CloseContent" />
+  <action id="Console.TableResult.NavigateForeignAction">
+    <keyboard-shortcut first-keystroke="ctrl b" />
+    <mouse-shortcut keystroke="control button1" />
+    <mouse-shortcut keystroke="button2" />
+    <mouse-shortcut keystroke="meta button1" />
+  </action>
   <action id="Console.TableResult.SetDefault" />
   <action id="ConsoleView.ClearAll">
     <keyboard-shortcut first-keystroke="shift ctrl x" />
@@ -185,12 +191,12 @@
     <mouse-shortcut keystroke="control button1" />
     <mouse-shortcut keystroke="button2" />
     <mouse-shortcut keystroke="meta button1" />
-    <keyboard-shortcut first-keystroke="meta b" />
   </action>
   <action id="GotoImplementation">
     <keyboard-shortcut first-keystroke="ctrl alt b" />
     <mouse-shortcut keystroke="control alt button1" />
     <keyboard-shortcut first-keystroke="ctrl meta b" />
+    <keyboard-shortcut first-keystroke="meta b" />
   </action>
   <action id="Gradle.AddGradleDslDependencyAction">
     <keyboard-shortcut first-keystroke="shift m" />
