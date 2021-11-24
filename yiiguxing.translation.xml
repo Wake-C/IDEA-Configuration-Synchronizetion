@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1599" />
     <option name="newTranslationDialogY" value="283" />
     <histories>
+      <item value="exist Inventory Card Ids" />
       <item value="Amount" />
       <item value="general Card Amount" />
       <item value="specify Card Amount" />
@@ -54,12 +55,11 @@
       <item value="WATER PLANT LOG" />
       <item value="Activity Calendar Price" />
       <item value="    public static class ActivityCalendarPrice extends Query {&#10;" />
-      <item value="Cart" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3705" />
-        <entry key="ENGLISH" value="3548" />
+        <entry key="CHINESE" value="3706" />
+        <entry key="ENGLISH" value="3549" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="4" />
