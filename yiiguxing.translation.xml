@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1599" />
     <option name="newTranslationDialogY" value="283" />
     <histories>
+      <item value="find Shop Card Shop List" />
       <item value="add Shop Card Pay" />
       <item value="add Shop Card Pay Type" />
       <item value="add Shop Card Pay Style" />
@@ -54,12 +55,11 @@
       <item value="Ambiguous mapping. Cannot map 'PCShopCardController' method " />
       <item value="Ambiguous" />
       <item value="Ambiguous mapping. Cannot map 'PCShopCardController' method" />
-      <item value="can have only one of 'queues', 'queuesToDeclare', or 'bindings" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3681" />
-        <entry key="ENGLISH" value="3524" />
+        <entry key="CHINESE" value="3682" />
+        <entry key="ENGLISH" value="3525" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="4" />
