@@ -6,6 +6,9 @@
     <option name="newTranslationDialogY" value="283" />
     <histories>
       <item value="Amount" />
+      <item value="shop Card Amount" />
+      <item value="shop Card Money Amount" />
+      <item value="card Money" />
       <item value="general Card Amount" />
       <item value="navigation Url" />
       <item value="applet Navigation Url" />
@@ -52,14 +55,11 @@
       <item value="segment" />
       <item value="Malformed input at 3." />
       <item value="temple" />
-      <item value="temp" />
-      <item value="ACTIVITY PRODUCT DETAIL" />
-      <item value="ACTIVITY PRODUCT DETAIL BYA ACTIVITYIDS" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3716" />
-        <entry key="ENGLISH" value="3559" />
+        <entry key="CHINESE" value="3720" />
+        <entry key="ENGLISH" value="3563" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="4" />
