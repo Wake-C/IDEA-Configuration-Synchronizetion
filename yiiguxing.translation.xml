@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="1599" />
     <option name="newTranslationDialogY" value="283" />
     <histories>
+      <item value="Balance" />
+      <item value="shop Card Id With Balance Map" />
+      <item value="store Shop Card Id With Discount Value Map" />
+      <item value="            final Map&lt;Long, BigDecimal&gt; storeShopCardIdWithDiscountValueMap = Optional.ofNullable(comMallShopCardStoreService.listByShopCardIdInAndStoreIdIn(shopCardIds, singletonList(bo.getStoreId())))&#10;" />
       <item value="payment Amount" />
       <item value="paymemt Amount" />
       <item value="order Shop Ids" />
@@ -51,15 +55,11 @@
       <item value="shop Card Set List" />
       <item value="ystemException: nested exception is org.apache.ibatis.reflection.ReflectionException: Could not set property 'barProFreightSet' of 'class com.gt.mall.entity.product.MallProduct' with value '2' Cause: org.apache.ibatis.reflection.ReflectionException: There is no setter for property named 'barProFreightSet' in 'class com.gt.mall.entity.product.MallProduct" />
       <item value="here is no setter for property named 'barProFreightSet' in 'class com.gt.mall.entity.product.MallProduct'" />
-      <item value="footstep" />
-      <item value="create Valid" />
-      <item value="SHOP CARD PRODUCT HAS BEEN DELETE" />
-      <item value="create Product List" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3723" />
-        <entry key="ENGLISH" value="3565" />
+        <entry key="CHINESE" value="3728" />
+        <entry key="ENGLISH" value="3572" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="4" />
@@ -91,7 +91,6 @@
     <option name="showExplanation" value="true" />
     <option name="showWordsOnStartup" value="true" />
     <option name="translateDocumentation" value="true" />
-    <option name="translator" value="YOUDAO" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="72daf72feb661e19" />
