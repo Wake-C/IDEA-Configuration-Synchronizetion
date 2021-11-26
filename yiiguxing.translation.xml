@@ -5,9 +5,12 @@
     <option name="newTranslationDialogX" value="1599" />
     <option name="newTranslationDialogY" value="283" />
     <histories>
+      <item value="product Set Discount Price" />
+      <item value="min" />
+      <item value="store Shop Card Id With Discount Value Map" />
+      <item value="shop Card Id With Store Set Map" />
       <item value="Balance" />
       <item value="shop Card Id With Balance Map" />
-      <item value="store Shop Card Id With Discount Value Map" />
       <item value="            final Map&lt;Long, BigDecimal&gt; storeShopCardIdWithDiscountValueMap = Optional.ofNullable(comMallShopCardStoreService.listByShopCardIdInAndStoreIdIn(shopCardIds, singletonList(bo.getStoreId())))&#10;" />
       <item value="payment Amount" />
       <item value="paymemt Amount" />
@@ -52,14 +55,11 @@
       <item value="multiple Specification" />
       <item value="multip Specification" />
       <item value="inv Id With Min Discount Value Map" />
-      <item value="shop Card Set List" />
-      <item value="ystemException: nested exception is org.apache.ibatis.reflection.ReflectionException: Could not set property 'barProFreightSet' of 'class com.gt.mall.entity.product.MallProduct' with value '2' Cause: org.apache.ibatis.reflection.ReflectionException: There is no setter for property named 'barProFreightSet' in 'class com.gt.mall.entity.product.MallProduct" />
-      <item value="here is no setter for property named 'barProFreightSet' in 'class com.gt.mall.entity.product.MallProduct'" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3728" />
-        <entry key="ENGLISH" value="3572" />
+        <entry key="ENGLISH" value="3575" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="4" />
@@ -68,6 +68,7 @@
         <entry key="FILIPINO" value="5" />
         <entry key="DUTCH" value="2" />
         <entry key="CZECH" value="2" />
+        <entry key="KURDISH" value="1" />
         <entry key="ROMANIAN" value="3" />
         <entry key="MALAY" value="14" />
         <entry key="PORTUGUESE" value="19" />
