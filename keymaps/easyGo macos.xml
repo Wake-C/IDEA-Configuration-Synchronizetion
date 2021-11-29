@@ -93,8 +93,7 @@
   </action>
   <action id="EditSourceInNewWindow">
     <keyboard-shortcut first-keystroke="shift f4" />
-    <keyboard-shortcut first-keystroke="ctrl f4" />
-    <keyboard-shortcut first-keystroke="meta f4" />
+    <keyboard-shortcut first-keystroke="shift f5" />
   </action>
   <action id="Editor Copy">
     <keyboard-shortcut first-keystroke="meta c" />
@@ -206,6 +205,7 @@
   <action id="Gradle.AddGradleDslDependencyAction">
     <keyboard-shortcut first-keystroke="shift m" />
   </action>
+  <action id="Graph.ApplyCurrentLayout" />
   <action id="GsonFormatPlus" />
   <action id="HideSideWindows">
     <keyboard-shortcut first-keystroke="shift ctrl alt f12" />
