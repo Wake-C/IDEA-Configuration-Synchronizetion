@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1599" />
     <option name="newTranslationDialogY" value="283" />
     <histories>
+      <item value="specify Card Link Product List" />
       <item value="general" />
       <item value="general Card" />
       <item value="add Specify Card Pay Info" />
@@ -54,12 +55,11 @@
       <item value="ecard" />
       <item value="general Card List" />
       <item value="specify Card List" />
-      <item value="shop Card Navigation Url" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3728" />
-        <entry key="ENGLISH" value="3598" />
+        <entry key="ENGLISH" value="3599" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="4" />
