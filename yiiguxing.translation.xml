@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1599" />
     <option name="newTranslationDialogY" value="283" />
     <histories>
+      <item value="discount After Money Amount" />
       <item value="full Range Store Card Ids" />
       <item value="Head Img" />
       <item value="specify Card Link Product List" />
@@ -24,7 +25,6 @@
       <item value="use Range Full Product" />
       <item value="not eligible for auto-proxying" />
       <item value="eligible" />
-      <item value="discount After Money Amount" />
       <item value="Discount After Money" />
       <item value="discount Price" />
       <item value="product Set Discount Price" />
@@ -59,7 +59,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3728" />
-        <entry key="ENGLISH" value="3601" />
+        <entry key="ENGLISH" value="3602" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="4" />
