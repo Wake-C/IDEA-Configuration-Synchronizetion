@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="1599" />
     <option name="newTranslationDialogY" value="283" />
     <histories>
+      <item value="is Join Shop Card" />
+      <item value="Join" />
+      <item value="is Joined Shop Card" />
+      <item value="joined Shop Card" />
+      <item value="Product Joined Shop Card" />
       <item value="discount After Money Amount" />
       <item value="full Range Store Card Ids" />
       <item value="Head Img" />
@@ -50,16 +55,11 @@
       <item value="inv Ids" />
       <item value="inventory Ids" />
       <item value="exist Inventory Card Ids" />
-      <item value="specify Card Amount" />
-      <item value="exist" />
-      <item value="exsit" />
-      <item value="e Card" />
-      <item value="ecard" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3728" />
-        <entry key="ENGLISH" value="3602" />
+        <entry key="CHINESE" value="3729" />
+        <entry key="ENGLISH" value="3608" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="4" />
