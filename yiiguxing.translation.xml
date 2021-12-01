@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="1599" />
     <option name="newTranslationDialogY" value="283" />
     <histories>
+      <item value="can Pay Money Amount" />
+      <item value="can Pay Amount" />
+      <item value="specify Card Pay Amount" />
+      <item value="discount After Price Total" />
       <item value="add Shop Card Pay Info" />
       <item value="Base Column List Alias" />
       <item value="alise" />
@@ -51,15 +55,11 @@
       <item value="order Shop Ids" />
       <item value="Amount" />
       <item value="shop Card Amount" />
-      <item value="shop Card Money Amount" />
-      <item value="card Money" />
-      <item value="general Card Amount" />
-      <item value="navigation Url" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3729" />
-        <entry key="ENGLISH" value="3614" />
+        <entry key="ENGLISH" value="3618" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="4" />

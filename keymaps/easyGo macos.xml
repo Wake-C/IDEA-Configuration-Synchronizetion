@@ -64,6 +64,8 @@
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
   <action id="CloseContent" />
+  <action id="CompareTwoFiles" />
+  <action id="Console.TableResult.CloneRow" />
   <action id="Console.TableResult.NavigateForeignAction">
     <keyboard-shortcut first-keystroke="ctrl b" />
     <mouse-shortcut keystroke="control button1" />
@@ -88,6 +90,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl f5" />
   </action>
   <action id="Diagram.DeselectAll" />
+  <action id="Diff.ShowDiff" />
   <action id="DomElementsTreeView.DeleteElement">
     <keyboard-shortcut first-keystroke="delete" />
   </action>
@@ -125,8 +128,9 @@
     <keyboard-shortcut first-keystroke="down" />
     <keyboard-shortcut first-keystroke="shift k" />
   </action>
+  <action id="EditorDuplicate" />
   <action id="EditorDuplicateLines">
-    <keyboard-shortcut first-keystroke="ctrl down" />
+    <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
   <action id="EditorLeft">
     <keyboard-shortcut first-keystroke="left" />
@@ -157,6 +161,7 @@
     <keyboard-shortcut first-keystroke="up" />
     <keyboard-shortcut first-keystroke="shift i" />
   </action>
+  <action id="FileChooser.GotoDesktop" />
   <action id="Find">
     <keyboard-shortcut first-keystroke="ctrl f" />
     <keyboard-shortcut first-keystroke="alt f3" />
@@ -262,6 +267,7 @@
   <action id="RunAnything">
     <keyboard-shortcut first-keystroke="shift ctrl alt f11" />
   </action>
+  <action id="RunDashboard.CopyConfiguration" />
   <action id="SafeDelete">
     <keyboard-shortcut first-keystroke="alt delete" />
     <keyboard-shortcut first-keystroke="meta back_space" />
@@ -274,6 +280,7 @@
     <keyboard-shortcut first-keystroke="alt f1" />
     <keyboard-shortcut first-keystroke="meta f1" />
   </action>
+  <action id="SendEOF" />
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="alt enter" />
     <keyboard-shortcut first-keystroke="meta enter" />
@@ -319,6 +326,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt h" />
     <keyboard-shortcut first-keystroke="shift ctrl meta h" />
   </action>
+  <action id="XDebugger.CopyWatch" />
   <action id="XDebugger.MuteBreakpoints">
     <keyboard-shortcut first-keystroke="meta f8" />
   </action>
@@ -365,4 +373,5 @@
   <action id="javadoc.generator">
     <keyboard-shortcut first-keystroke="shift ctrl meta c" />
   </action>
+  <action id="openAssertEqualsDiff" />
 </keymap>
