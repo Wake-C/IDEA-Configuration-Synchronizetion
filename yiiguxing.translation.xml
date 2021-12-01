@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1599" />
     <option name="newTranslationDialogY" value="283" />
     <histories>
+      <item value="Rabbit Barrage Data" />
       <item value="multiple Inventory Product" />
       <item value="is Join Shop Card" />
       <item value="Join" />
@@ -54,12 +55,11 @@
       <item value="get General Card List" />
       <item value="discount Price Amount" />
       <item value="inv Ids" />
-      <item value="inventory Ids" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3729" />
-        <entry key="ENGLISH" value="3609" />
+        <entry key="ENGLISH" value="3610" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="4" />
