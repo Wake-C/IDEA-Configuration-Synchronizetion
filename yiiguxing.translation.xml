@@ -6,6 +6,10 @@
     <option name="newTranslationDialogY" value="283" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="tasks" />
+      <item value="post" />
+      <item value="post-compile" />
+      <item value="Executing post-compile tasks.." />
       <item value="SHOP CARD PAYMENT NOT ENOUGH" />
       <item value="store Id With Shop Id Map" />
       <item value="Cannot Acquire Lock Exception" />
@@ -52,15 +56,11 @@
       <item value="discount Price" />
       <item value="product Set Discount Price" />
       <item value="min" />
-      <item value="store Shop Card Id With Discount Value Map" />
-      <item value="shop Card Id With Store Set Map" />
-      <item value="Balance" />
-      <item value="shop Card Id With Balance Map" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3730" />
-        <entry key="ENGLISH" value="3626" />
+        <entry key="ENGLISH" value="3630" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="4" />
