@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="283" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Is Expiryd" />
       <item value="Freight" />
       <item value="is Freight" />
       <item value="is Intra City" />
@@ -55,12 +56,11 @@
       <item value="remaining Money" />
       <item value="remaning Money" />
       <item value="full Card Money" />
-      <item value="full Card Money Flag" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3730" />
-        <entry key="ENGLISH" value="3642" />
+        <entry key="ENGLISH" value="3643" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="4" />
