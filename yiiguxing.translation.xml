@@ -6,6 +6,10 @@
     <option name="newTranslationDialogY" value="283" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="template" />
+      <item value="find Pay Shop Card Discount VO By Receive Ids" />
+      <item value="pay Shop Card Price DTO List" />
+      <item value="store Id With Discount Value Map" />
       <item value="Pay Shop Card Price" />
       <item value="Pay Discount Price" />
       <item value="Pay Info Discount Price" />
@@ -52,15 +56,11 @@
       <item value="shop Card List" />
       <item value="pay Card List" />
       <item value="exist Discount Price Card Ids" />
-      <item value="discount Amount" />
-      <item value="discount Value" />
-      <item value="use Range Full Product" />
-      <item value="not eligible for auto-proxying" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3730" />
-        <entry key="ENGLISH" value="3635" />
+        <entry key="ENGLISH" value="3639" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="4" />
@@ -84,7 +84,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1638155739422" />
+    <option name="lastTrimTime" value="1638752239197" />
   </component>
   <component name="Settings">
     <option name="keepFormat" value="true" />
