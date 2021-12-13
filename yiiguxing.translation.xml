@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="283" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="predicates" />
       <item value="Freight" />
       <item value="Intra City" />
       <item value="Intra" />
@@ -55,7 +56,6 @@
       <item value="general" />
       <item value="general Card" />
       <item value="add Specify Card Pay Info" />
-      <item value="remaining Money" />
     </histories>
     <option name="languageScores">
       <map>
