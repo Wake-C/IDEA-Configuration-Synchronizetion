@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="283" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="source" />
       <item value="valid Price Correct" />
       <item value="Afford" />
       <item value="can Afford" />
@@ -55,12 +56,11 @@
       <item value=" Method queryTotal execution error of sql" />
       <item value="Rabbit Barrage Data" />
       <item value="multiple Inventory Product" />
-      <item value="is Join Shop Card" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3730" />
-        <entry key="ENGLISH" value="3659" />
+        <entry key="ENGLISH" value="3660" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="4" />
