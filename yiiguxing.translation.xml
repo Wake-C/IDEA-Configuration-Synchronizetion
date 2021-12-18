@@ -6,6 +6,9 @@
     <option name="newTranslationDialogY" value="283" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="valid Price Correct" />
+      <item value="Afford" />
+      <item value="can Afford" />
       <item value="Cannot execute request on any known server" />
       <item value="To display the conditions report re-run your application with 'debug' enabled." />
       <item value="Returns Lock instance by name.&#10;Implements a non-fair locking so doesn't guarantees an acquire order by threads.&#10;To increase reliability during failover, all operations wait for propagation to all Redis slaves." />
@@ -53,14 +56,11 @@
       <item value="Rabbit Barrage Data" />
       <item value="multiple Inventory Product" />
       <item value="is Join Shop Card" />
-      <item value="Join" />
-      <item value="is Joined Shop Card" />
-      <item value="joined Shop Card" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3730" />
-        <entry key="ENGLISH" value="3655" />
+        <entry key="ENGLISH" value="3659" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="4" />
