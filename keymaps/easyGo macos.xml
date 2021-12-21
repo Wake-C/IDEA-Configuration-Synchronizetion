@@ -162,6 +162,9 @@
     <keyboard-shortcut first-keystroke="shift i" />
   </action>
   <action id="FileChooser.GotoDesktop" />
+  <action id="FileChooser.LightEditGotoOpenedFile">
+    <keyboard-shortcut first-keystroke="meta alt 2" />
+  </action>
   <action id="Find">
     <keyboard-shortcut first-keystroke="ctrl f" />
     <keyboard-shortcut first-keystroke="alt f3" />
@@ -279,6 +282,7 @@
   <action id="SelectIn">
     <keyboard-shortcut first-keystroke="alt f1" />
     <keyboard-shortcut first-keystroke="meta f1" />
+    <keyboard-shortcut first-keystroke="meta 2" />
   </action>
   <action id="SendEOF" />
   <action id="ShowIntentionActions">
