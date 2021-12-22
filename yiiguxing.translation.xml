@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="283" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="set Bit" />
       <item value="transaction" />
       <item value="Get the bit value at offset of value at key." />
       <item value="offset" />
@@ -55,7 +56,6 @@
       <item value="add Shop Card Pay Info" />
       <item value="Base Column List Alias" />
       <item value="alise" />
-      <item value="database Id" />
     </histories>
     <option name="languageScores">
       <map>
@@ -87,6 +87,16 @@
     <option name="lastTrimTime" value="1639792545628" />
   </component>
   <component name="Settings">
+    <option name="aliTranslateSettings">
+      <app-key>
+        <option name="appId" value="LTAI5tM3AGhBjTcp1HQmrqJB" />
+      </app-key>
+    </option>
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="primaryLanguage" value="ESPERANTO" />
+      </google-translate>
+    </option>
     <option name="keepFormat" value="true" />
     <option name="overrideFont" value="true" />
     <option name="phoneticFontFamily" value="Lucida Sans Unicode" />
