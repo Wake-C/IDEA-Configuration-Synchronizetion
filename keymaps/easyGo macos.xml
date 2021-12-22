@@ -205,10 +205,11 @@
     <mouse-shortcut keystroke="meta button1" />
   </action>
   <action id="GotoImplementation">
-    <keyboard-shortcut first-keystroke="ctrl alt b" />
-    <mouse-shortcut keystroke="control alt button1" />
-    <keyboard-shortcut first-keystroke="ctrl meta b" />
     <keyboard-shortcut first-keystroke="meta b" />
+  </action>
+  <action id="GotoSuperMethod">
+    <keyboard-shortcut first-keystroke="ctrl u" />
+    <keyboard-shortcut first-keystroke="meta u" />
   </action>
   <action id="Gradle.AddGradleDslDependencyAction">
     <keyboard-shortcut first-keystroke="shift m" />
