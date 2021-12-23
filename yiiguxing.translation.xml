@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="283" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="request timed out " />
       <item value="set Bit" />
       <item value="transaction" />
       <item value="Get the bit value at offset of value at key." />
@@ -55,12 +56,11 @@
       <item value="discount After Price Total" />
       <item value="add Shop Card Pay Info" />
       <item value="Base Column List Alias" />
-      <item value="alise" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3730" />
-        <entry key="ENGLISH" value="3663" />
+        <entry key="ENGLISH" value="3664" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="4" />
@@ -74,7 +74,7 @@
         <entry key="ROMANIAN" value="5" />
         <entry key="MALAY" value="14" />
         <entry key="PORTUGUESE" value="19" />
-        <entry key="ESPERANTO" value="2" />
+        <entry key="ESPERANTO" value="3" />
         <entry key="TURKISH" value="1" />
         <entry key="SPANISH" value="8" />
         <entry key="ITALIAN" value="4" />
