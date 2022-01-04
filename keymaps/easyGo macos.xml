@@ -207,6 +207,10 @@
   <action id="GotoImplementation">
     <keyboard-shortcut first-keystroke="meta b" />
   </action>
+  <action id="GotoLine">
+    <keyboard-shortcut first-keystroke="ctrl g" />
+    <keyboard-shortcut first-keystroke="meta g" />
+  </action>
   <action id="GotoSuperMethod">
     <keyboard-shortcut first-keystroke="ctrl u" />
     <keyboard-shortcut first-keystroke="meta u" />
@@ -255,6 +259,10 @@
   </action>
   <action id="OpenFile">
     <keyboard-shortcut first-keystroke="shift ctrl o" />
+  </action>
+  <action id="ParameterInfo">
+    <keyboard-shortcut first-keystroke="ctrl p" />
+    <keyboard-shortcut first-keystroke="meta p" />
   </action>
   <action id="PopupHector" />
   <action id="QAPlug.AnalyzeMenu.AnalyzeCode">
