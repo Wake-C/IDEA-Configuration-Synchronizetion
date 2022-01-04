@@ -6,6 +6,9 @@
     <option name="newTranslationDialogY" value="283" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="remain Inv Num" />
+      <item value="specification Changed" />
+      <item value="specification" />
       <item value="product Info List" />
       <item value="request timed out " />
       <item value="set Bit" />
@@ -53,14 +56,11 @@
       <item value="shop Card Price Discount After" />
       <item value="can Pay Money Amount" />
       <item value="can Pay Amount" />
-      <item value="specify Card Pay Amount" />
-      <item value="discount After Price Total" />
-      <item value="add Shop Card Pay Info" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3730" />
-        <entry key="ENGLISH" value="3665" />
+        <entry key="CHINESE" value="3731" />
+        <entry key="ENGLISH" value="3672" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="4" />
@@ -74,7 +74,7 @@
         <entry key="ROMANIAN" value="5" />
         <entry key="MALAY" value="14" />
         <entry key="PORTUGUESE" value="19" />
-        <entry key="ESPERANTO" value="4" />
+        <entry key="ESPERANTO" value="7" />
         <entry key="TURKISH" value="1" />
         <entry key="SPANISH" value="8" />
         <entry key="ITALIAN" value="4" />
@@ -91,11 +91,6 @@
       <app-key>
         <option name="appId" value="LTAI5tM3AGhBjTcp1HQmrqJB" />
       </app-key>
-    </option>
-    <option name="googleTranslateSettings">
-      <google-translate>
-        <option name="primaryLanguage" value="ESPERANTO" />
-      </google-translate>
     </option>
     <option name="keepFormat" value="true" />
     <option name="overrideFont" value="true" />
