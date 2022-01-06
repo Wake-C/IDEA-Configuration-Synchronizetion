@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="283" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="perf(运费计算): 配送距离提示语修改" />
       <item value="remain Inv Num" />
       <item value="specification Changed" />
       <item value="specification" />
@@ -55,12 +56,11 @@
       <item value="The error occurred while setting parameters" />
       <item value="shop Card Price Discount After" />
       <item value="can Pay Money Amount" />
-      <item value="can Pay Amount" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3731" />
-        <entry key="ENGLISH" value="3672" />
+        <entry key="CHINESE" value="3732" />
+        <entry key="ENGLISH" value="3673" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="4" />
