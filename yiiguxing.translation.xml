@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="283" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="classification Style" />
       <item value="subtract" />
       <item value=" Lock wait timeout exceeded" />
       <item value="address Set Url" />
@@ -55,12 +56,11 @@
       <item value="post" />
       <item value="post-compile" />
       <item value="Executing post-compile tasks.." />
-      <item value="SHOP CARD PAYMENT NOT ENOUGH" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3732" />
-        <entry key="ENGLISH" value="3678" />
+        <entry key="ENGLISH" value="3679" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="4" />
@@ -84,7 +84,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1642993318536" />
+    <option name="lastTrimTime" value="1644469920057" />
   </component>
   <component name="Settings">
     <option name="aliTranslateSettings">
