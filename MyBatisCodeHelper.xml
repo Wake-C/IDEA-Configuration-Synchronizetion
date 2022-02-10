@@ -6,6 +6,7 @@
         <option name="generateMethodInService" value="true" />
         <option name="generateMethodInServiceInterface" value="true" />
         <option name="methodNameSqlCommment" value="" />
+        <option name="theUsageCount" value="1647068876697" />
         <option name="usejava8LocalDateTimeEct" value="true" />
         <option name="valid" value="true" />
       </Profile>
