@@ -2,10 +2,16 @@
   <component name="AppStorage">
     <option name="lastReplacementTargetLanguage" value="CHINESE" />
     <option name="newTranslationDialogHeight" value="356" />
-    <option name="newTranslationDialogX" value="1599" />
-    <option name="newTranslationDialogY" value="283" />
-    <option name="pinNewTranslationDialog" value="true" />
+    <option name="newTranslationDialogX" value="574" />
+    <option name="newTranslationDialogY" value="394" />
     <histories>
+      <item value="entity" />
+      <item value="save" />
+      <item value="final" />
+      <item value="this" />
+      <item value="Optional" />
+      <item value="create" />
+      <item value="of Nullable" />
       <item value="validate Style Param" />
       <item value="validate" />
       <item value="valida" />
@@ -49,18 +55,11 @@
       <item value="Is Expiryd" />
       <item value="is Freight" />
       <item value="is Intra City" />
-      <item value="template" />
-      <item value="find Pay Shop Card Discount VO By Receive Ids" />
-      <item value="pay Shop Card Price DTO List" />
-      <item value="store Id With Discount Value Map" />
-      <item value="Pay Shop Card Price" />
-      <item value="Pay Discount Price" />
-      <item value="Pay Info Discount Price" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3739" />
-        <entry key="ENGLISH" value="3685" />
+        <entry key="CHINESE" value="3743" />
+        <entry key="ENGLISH" value="3699" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="4" />
@@ -74,7 +73,7 @@
         <entry key="ROMANIAN" value="5" />
         <entry key="MALAY" value="14" />
         <entry key="PORTUGUESE" value="19" />
-        <entry key="ESPERANTO" value="7" />
+        <entry key="ESPERANTO" value="9" />
         <entry key="TURKISH" value="1" />
         <entry key="SPANISH" value="9" />
         <entry key="ITALIAN" value="4" />
@@ -84,7 +83,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1644469920057" />
+    <option name="lastTrimTime" value="1644996445384" />
   </component>
   <component name="Settings">
     <option name="aliTranslateSettings">
@@ -94,7 +93,7 @@
     </option>
     <option name="keepFormat" value="true" />
     <option name="overrideFont" value="true" />
-    <option name="phoneticFontFamily" value="Lucida Sans Unicode" />
+    <option name="phoneticFontFamily" value="Arial" />
     <option name="primaryFontFamily" value="Microsoft YaHei UI" />
     <option name="showExplanation" value="true" />
     <option name="showWordsOnStartup" value="true" />
