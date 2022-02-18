@@ -5,13 +5,22 @@
     <option name="newTranslationDialogX" value="574" />
     <option name="newTranslationDialogY" value="394" />
     <histories>
+      <item value="update" />
+      <item value="validation" />
+      <item value="copy Object" />
+      <item value="equals" />
+      <item value="copy" />
+      <item value="update Default Style" />
+      <item value=" As I began to love myself I recognized that my mind can disturb me and it can make me sick. But As I connected it to my heart, my mind became a valuable ally. Today I call this connection WISDOM OF THE HEART.&#10;        " />
+      <item value="exist Style" />
+      <item value="of Nullable" />
+      <item value="create" />
+      <item value="Create" />
       <item value="entity" />
       <item value="save" />
       <item value="final" />
       <item value="this" />
       <item value="Optional" />
-      <item value="create" />
-      <item value="of Nullable" />
       <item value="validate Style Param" />
       <item value="validate" />
       <item value="valida" />
@@ -46,20 +55,11 @@
       <item value="failover" />
       <item value="Reentrant" />
       <item value="reentrant" />
-      <item value="fill Bean With Map" />
-      <item value="predicates" />
-      <item value="Freight" />
-      <item value="Intra City" />
-      <item value="Intra" />
-      <item value="is Expiry" />
-      <item value="Is Expiryd" />
-      <item value="is Freight" />
-      <item value="is Intra City" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3743" />
-        <entry key="ENGLISH" value="3699" />
+        <entry key="CHINESE" value="3746" />
+        <entry key="ENGLISH" value="3714" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="4" />
@@ -89,6 +89,11 @@
     <option name="aliTranslateSettings">
       <app-key>
         <option name="appId" value="LTAI5tM3AGhBjTcp1HQmrqJB" />
+      </app-key>
+    </option>
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="appId" value="20220216001084666" />
       </app-key>
     </option>
     <option name="keepFormat" value="true" />
