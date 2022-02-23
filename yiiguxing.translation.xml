@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="574" />
     <option name="newTranslationDialogY" value="394" />
     <histories>
+      <item value="add Maximum Deductible Integral" />
+      <item value="maximum Deductible Integral" />
+      <item value="high Integral Price" />
+      <item value="maximum Deductible Integral DTO" />
+      <item value="max Deductible Integral" />
       <item value="consume Stock Num" />
       <item value="is Unavailable Date" />
       <item value="Lambda" />
@@ -50,16 +55,11 @@
       <item value="source" />
       <item value="valid Price Correct" />
       <item value="Afford" />
-      <item value="can Afford" />
-      <item value="Cannot execute request on any known server" />
-      <item value="To display the conditions report re-run your application with 'debug' enabled." />
-      <item value="Returns Lock instance by name.&#10;Implements a non-fair locking so doesn't guarantees an acquire order by threads.&#10;To increase reliability during failover, all operations wait for propagation to all Redis slaves." />
-      <item value="during failover" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3750" />
-        <entry key="ENGLISH" value="3718" />
+        <entry key="CHINESE" value="3755" />
+        <entry key="ENGLISH" value="3723" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="4" />
