@@ -5,8 +5,13 @@
     <option name="newTranslationDialogX" value="574" />
     <option name="newTranslationDialogY" value="394" />
     <histories>
-      <item value="Deduction" />
       <item value="add Maximum Deductible Integral" />
+      <item value="Maximum" />
+      <item value="add Maxium Deductible Integral" />
+      <item value="Deductible" />
+      <item value="Decuctible" />
+      <item value="add Maxium Decuctible Integral" />
+      <item value="Deduction" />
       <item value="maximum Deductible Integral" />
       <item value="high Integral Price" />
       <item value="maximum Deductible Integral DTO" />
@@ -50,16 +55,11 @@
       <item value="product Info List" />
       <item value="request timed out " />
       <item value="set Bit" />
-      <item value="transaction" />
-      <item value="Get the bit value at offset of value at key." />
-      <item value="offset" />
-      <item value="source" />
-      <item value="valid Price Correct" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3756" />
-        <entry key="ENGLISH" value="3724" />
+        <entry key="CHINESE" value="3762" />
+        <entry key="ENGLISH" value="3730" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="4" />
