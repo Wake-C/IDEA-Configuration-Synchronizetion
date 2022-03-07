@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="574" />
     <option name="newTranslationDialogY" value="394" />
     <histories>
+      <item value="navigation Address Latitude" />
       <item value="add Maximum Deductible Integral" />
       <item value="Maximum" />
       <item value="add Maxium Deductible Integral" />
@@ -54,12 +55,11 @@
       <item value="specification" />
       <item value="product Info List" />
       <item value="request timed out " />
-      <item value="set Bit" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3762" />
-        <entry key="ENGLISH" value="3730" />
+        <entry key="CHINESE" value="3763" />
+        <entry key="ENGLISH" value="3731" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="4" />
@@ -83,7 +83,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1646041925540" />
+    <option name="lastTrimTime" value="1646615636315" />
   </component>
   <component name="Settings">
     <option name="aliTranslateSettings">
