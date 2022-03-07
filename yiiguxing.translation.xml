@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="574" />
     <option name="newTranslationDialogY" value="394" />
     <histories>
+      <item value=" jdbcType (null) combination" />
       <item value="format" />
       <item value="navigation Address Latitude" />
       <item value="add Maximum Deductible Integral" />
@@ -54,12 +55,11 @@
       <item value="remain Inv Num" />
       <item value="specification Changed" />
       <item value="specification" />
-      <item value="product Info List" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3764" />
-        <entry key="ENGLISH" value="3732" />
+        <entry key="CHINESE" value="3765" />
+        <entry key="ENGLISH" value="3733" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="4" />
