@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="574" />
     <option name="newTranslationDialogY" value="394" />
     <histories>
+      <item value="verified" />
+      <item value="verifyed" />
       <item value="verification List" />
       <item value="verify List" />
       <item value="BO" />
@@ -53,13 +55,11 @@
       <item value=" Lock wait timeout exceeded" />
       <item value="address Set Url" />
       <item value="deadline" />
-      <item value="dead Line" />
-      <item value="advance" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3771" />
-        <entry key="ENGLISH" value="3735" />
+        <entry key="CHINESE" value="3773" />
+        <entry key="ENGLISH" value="3737" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="4" />
