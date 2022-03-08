@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="574" />
     <option name="newTranslationDialogY" value="394" />
     <histories>
+      <item value="verification List" />
+      <item value="verify List" />
+      <item value="BO" />
+      <item value="verification BO" />
       <item value=" jdbcType (null) combination" />
       <item value="format" />
       <item value="navigation Address Latitude" />
@@ -51,21 +55,17 @@
       <item value="deadline" />
       <item value="dead Line" />
       <item value="advance" />
-      <item value="perf(运费计算): 配送距离提示语修改" />
-      <item value="remain Inv Num" />
-      <item value="specification Changed" />
-      <item value="specification" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3765" />
-        <entry key="ENGLISH" value="3733" />
+        <entry key="CHINESE" value="3771" />
+        <entry key="ENGLISH" value="3735" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="10" />
-        <entry key="FRENCH" value="74" />
-        <entry key="FILIPINO" value="5" />
+        <entry key="FRENCH" value="77" />
+        <entry key="FILIPINO" value="6" />
         <entry key="DUTCH" value="2" />
         <entry key="CZECH" value="2" />
         <entry key="KURDISH" value="1" />
