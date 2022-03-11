@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="574" />
     <option name="newTranslationDialogY" value="394" />
     <histories>
+      <item value="all Verification" />
       <item value="redirect Url" />
       <item value="derect Url" />
       <item value="get Shop Cart Product Amount" />
@@ -54,12 +55,11 @@
       <item value="of Nullable" />
       <item value="create" />
       <item value="Create" />
-      <item value="entity" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3788" />
-        <entry key="ENGLISH" value="3752" />
+        <entry key="CHINESE" value="3789" />
+        <entry key="ENGLISH" value="3753" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="4" />
