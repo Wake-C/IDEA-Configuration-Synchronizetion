@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="574" />
     <option name="newTranslationDialogY" value="394" />
     <histories>
+      <item value="limit" />
+      <item value="limit Cart Product Number" />
       <item value="image Format Not Empty" />
       <item value="another Format Not Empty" />
       <item value="Deprecated" />
@@ -53,13 +55,11 @@
       <item value="equals" />
       <item value="copy" />
       <item value="update Default Style" />
-      <item value=" As I began to love myself I recognized that my mind can disturb me and it can make me sick. But As I connected it to my heart, my mind became a valuable ally. Today I call this connection WISDOM OF THE HEART.&#10;        " />
-      <item value="exist Style" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3792" />
-        <entry key="ENGLISH" value="3756" />
+        <entry key="CHINESE" value="3793" />
+        <entry key="ENGLISH" value="3757" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="4" />
