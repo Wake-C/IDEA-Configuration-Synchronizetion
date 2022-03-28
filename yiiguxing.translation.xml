@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="574" />
     <option name="newTranslationDialogY" value="394" />
     <histories>
+      <item value="shop Set VO" />
       <item value="PURCHASE" />
       <item value="SECKILL ACTIVITY LIMIT PURCHASE NUMBER" />
       <item value="SEC KILL ACTIVITY NOT START" />
@@ -54,12 +55,11 @@
       <item value="add Maxium Decuctible Integral" />
       <item value="Deduction" />
       <item value="maximum Deductible Integral" />
-      <item value="high Integral Price" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3804" />
-        <entry key="ENGLISH" value="3768" />
+        <entry key="CHINESE" value="3805" />
+        <entry key="ENGLISH" value="3769" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="4" />
