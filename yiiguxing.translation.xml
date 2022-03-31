@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="574" />
     <option name="newTranslationDialogY" value="394" />
     <histories>
+      <item value="Intra City" />
+      <item value="is Intra City" />
+      <item value="shuffle" />
       <item value="primitive" />
       <item value="grade Price Condition" />
       <item value="Integral" />
@@ -52,14 +55,11 @@
       <item value="navigation Address Latitude" />
       <item value="add Maximum Deductible Integral" />
       <item value="Maximum" />
-      <item value="add Maxium Deductible Integral" />
-      <item value="Deductible" />
-      <item value="Decuctible" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3808" />
-        <entry key="ENGLISH" value="3772" />
+        <entry key="CHINESE" value="3811" />
+        <entry key="ENGLISH" value="3774" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="4" />
@@ -70,7 +70,7 @@
         <entry key="CZECH" value="2" />
         <entry key="KURDISH" value="1" />
         <entry key="LATVIAN" value="1" />
-        <entry key="ROMANIAN" value="5" />
+        <entry key="ROMANIAN" value="6" />
         <entry key="MALAY" value="14" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="ESPERANTO" value="9" />
