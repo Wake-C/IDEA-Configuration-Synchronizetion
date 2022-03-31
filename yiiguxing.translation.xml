@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="574" />
     <option name="newTranslationDialogY" value="394" />
     <histories>
+      <item value="Upper Case" />
+      <item value="Rebate" />
       <item value="Intra City" />
       <item value="is Intra City" />
       <item value="shuffle" />
@@ -53,13 +55,11 @@
       <item value=" jdbcType (null) combination" />
       <item value="format" />
       <item value="navigation Address Latitude" />
-      <item value="add Maximum Deductible Integral" />
-      <item value="Maximum" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3811" />
-        <entry key="ENGLISH" value="3774" />
+        <entry key="CHINESE" value="3813" />
+        <entry key="ENGLISH" value="3776" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="4" />
