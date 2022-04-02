@@ -316,6 +316,10 @@
     <keyboard-shortcut first-keystroke="right" />
   </action>
   <action id="TailMyBatisLog" />
+  <action id="ToggleBookmark">
+    <keyboard-shortcut first-keystroke="f11" />
+    <keyboard-shortcut first-keystroke="meta f11" />
+  </action>
   <action id="ToggleFullScreen">
     <keyboard-shortcut first-keystroke="shift ctrl f11" />
   </action>
