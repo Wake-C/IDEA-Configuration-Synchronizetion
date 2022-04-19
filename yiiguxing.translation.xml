@@ -5,6 +5,12 @@
     <option name="newTranslationDialogX" value="574" />
     <option name="newTranslationDialogY" value="394" />
     <histories>
+      <item value="format" />
+      <item value="is Required" />
+      <item value="field Name" />
+      <item value="field Id" />
+      <item value="field Format" />
+      <item value="filed" />
       <item value="content Text" />
       <item value="replace Price To Calendar Price" />
       <item value="send Before" />
@@ -49,17 +55,11 @@
       <item value="get Card" />
       <item value="message" />
       <item value="allow Refund" />
-      <item value="Verified" />
-      <item value="order Verified List" />
-      <item value="out Of Order Number" />
-      <item value="between Expiry Eticket List" />
-      <item value="specify Date Eticket List" />
-      <item value="specify Order List" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3823" />
-        <entry key="ENGLISH" value="3785" />
+        <entry key="CHINESE" value="3831" />
+        <entry key="ENGLISH" value="3793" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="4" />
