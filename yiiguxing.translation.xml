@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="574" />
     <option name="newTranslationDialogY" value="394" />
     <histories>
+      <item value="Join Special Product List" />
       <item value="format" />
       <item value="is Required" />
       <item value="field Name" />
@@ -54,12 +55,11 @@
       <item value="get Cart Number" />
       <item value="get Card" />
       <item value="message" />
-      <item value="allow Refund" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3831" />
-        <entry key="ENGLISH" value="3793" />
+        <entry key="CHINESE" value="3832" />
+        <entry key="ENGLISH" value="3794" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="4" />
