@@ -4,7 +4,13 @@
     <option name="newTranslationDialogHeight" value="356" />
     <option name="newTranslationDialogX" value="574" />
     <option name="newTranslationDialogY" value="394" />
+    <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="fetch True Type Font Descriptor" />
+      <item value=".Html2PdfException: Font Provider contains zero fonts. At least one font shall be present" />
+      <item value="Provider" />
+      <item value="Font Provider contains zero fonts. At least one font shall be present" />
+      <item value=" Font Provider contains zero fonts. At least one font shall be present" />
       <item value="Type of font STSongStd-Light is not recognized." />
       <item value="accomplish" />
       <item value="complish" />
@@ -50,16 +56,11 @@
       <item value="discount Times" />
       <item value="discount Quantity" />
       <item value="limit" />
-      <item value="limit Cart Product Number" />
-      <item value="image Format Not Empty" />
-      <item value="another Format Not Empty" />
-      <item value="Deprecated" />
-      <item value="all Verification" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3840" />
-        <entry key="ENGLISH" value="3802" />
+        <entry key="CHINESE" value="3844" />
+        <entry key="ENGLISH" value="3806" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="4" />
