@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="574" />
     <option name="newTranslationDialogY" value="394" />
     <histories>
+      <item value="Type of font STSongStd-Light is not recognized." />
+      <item value="accomplish" />
+      <item value="complish" />
       <item value="create With Default Set" />
       <item value="Unify Special Product Form Controller" />
       <item value="add Special Product Form List" />
@@ -52,14 +55,11 @@
       <item value="another Format Not Empty" />
       <item value="Deprecated" />
       <item value="all Verification" />
-      <item value="redirect Url" />
-      <item value="derect Url" />
-      <item value="get Shop Cart Product Amount" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3837" />
-        <entry key="ENGLISH" value="3799" />
+        <entry key="CHINESE" value="3840" />
+        <entry key="ENGLISH" value="3802" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="4" />
