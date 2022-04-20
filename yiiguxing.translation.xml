@@ -6,10 +6,10 @@
     <option name="newTranslationDialogY" value="394" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Font Provider contains zero fonts. At least one font shall be present" />
       <item value="fetch True Type Font Descriptor" />
       <item value=".Html2PdfException: Font Provider contains zero fonts. At least one font shall be present" />
       <item value="Provider" />
-      <item value="Font Provider contains zero fonts. At least one font shall be present" />
       <item value=" Font Provider contains zero fonts. At least one font shall be present" />
       <item value="Type of font STSongStd-Light is not recognized." />
       <item value="accomplish" />
@@ -59,8 +59,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3844" />
-        <entry key="ENGLISH" value="3806" />
+        <entry key="CHINESE" value="3845" />
+        <entry key="ENGLISH" value="3807" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="4" />
