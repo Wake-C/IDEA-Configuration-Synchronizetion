@@ -6,6 +6,12 @@
     <option name="newTranslationDialogY" value="394" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="speical-product" />
+      <item value="special" />
+      <item value="member-special-form-list" />
+      <item value="Special Product Client Info List" />
+      <item value="Client" />
+      <item value="bound Value Ops" />
       <item value="Font Provider contains zero fonts. At least one font shall be present" />
       <item value="fetch True Type Font Descriptor" />
       <item value=".Html2PdfException: Font Provider contains zero fonts. At least one font shall be present" />
@@ -50,17 +56,11 @@
       <item value="SECKILL" />
       <item value="SECKILL ACTIVITY NOT START" />
       <item value="ordinary Product Buy Limit Verify" />
-      <item value="Skill" />
-      <item value="not Attend Skill Activity" />
-      <item value="attend Activity" />
-      <item value="discount Times" />
-      <item value="discount Quantity" />
-      <item value="limit" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3845" />
-        <entry key="ENGLISH" value="3807" />
+        <entry key="CHINESE" value="3852" />
+        <entry key="ENGLISH" value="3814" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="4" />
