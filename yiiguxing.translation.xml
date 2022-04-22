@@ -6,6 +6,9 @@
     <option name="newTranslationDialogY" value="394" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="non" />
+      <item value="non-delivery-order" />
+      <item value="non-delivery-order-list" />
       <item value="Principal" />
       <item value="accept" />
       <item value="memento" />
@@ -53,14 +56,11 @@
       <item value="shuffle" />
       <item value="primitive" />
       <item value="grade Price Condition" />
-      <item value="Integral" />
-      <item value="shop Set VO" />
-      <item value="PURCHASE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3857" />
-        <entry key="ENGLISH" value="3819" />
+        <entry key="CHINESE" value="3860" />
+        <entry key="ENGLISH" value="3821" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="4" />
@@ -77,7 +77,7 @@
         <entry key="ESPERANTO" value="9" />
         <entry key="TURKISH" value="1" />
         <entry key="SPANISH" value="9" />
-        <entry key="ITALIAN" value="4" />
+        <entry key="ITALIAN" value="5" />
         <entry key="HINDI" value="7" />
         <entry key="INDONESIAN" value="2" />
       </map>
