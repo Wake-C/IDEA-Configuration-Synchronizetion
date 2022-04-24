@@ -6,6 +6,9 @@
     <option name="newTranslationDialogY" value="394" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="batch Send Online Delivery" />
+      <item value="batch Online Delivery" />
+      <item value="BATCH DELIVERY ONLINE" />
       <item value="non" />
       <item value="non-delivery-order" />
       <item value="non-delivery-order-list" />
@@ -53,14 +56,11 @@
       <item value="Rebate" />
       <item value="Intra City" />
       <item value="is Intra City" />
-      <item value="shuffle" />
-      <item value="primitive" />
-      <item value="grade Price Condition" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3860" />
-        <entry key="ENGLISH" value="3821" />
+        <entry key="CHINESE" value="3863" />
+        <entry key="ENGLISH" value="3824" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="4" />
