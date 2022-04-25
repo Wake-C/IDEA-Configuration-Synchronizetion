@@ -6,6 +6,10 @@
     <option name="newTranslationDialogY" value="394" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="delivered" />
+      <item value="delivered List" />
+      <item value="has Delivery" />
+      <item value="delivery Data Excel Url" />
       <item value="non Delivery List" />
       <item value="progress" />
       <item value="percentage" />
@@ -52,15 +56,11 @@
       <item value="content Text" />
       <item value="replace Price To Calendar Price" />
       <item value="send Before" />
-      <item value="MINUTES" />
-      <item value="get Buy Info Format List" />
-      <item value="meiye Validation" />
-      <item value="Submit Info User Info VO" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3871" />
-        <entry key="ENGLISH" value="3831" />
+        <entry key="CHINESE" value="3875" />
+        <entry key="ENGLISH" value="3835" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="5" />
