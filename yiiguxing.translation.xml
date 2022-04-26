@@ -6,6 +6,9 @@
     <option name="newTranslationDialogY" value="394" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value=" Re-enable the &quot;Times&quot; font to remove this warning." />
+      <item value="d, but may have unexpected appearance or behavor" />
+      <item value="substituted" />
       <item value="update Progress" />
       <item value="print Temp" />
       <item value="print Temporary File" />
@@ -53,14 +56,11 @@
       <item value="Type of font STSongStd-Light is not recognized." />
       <item value="accomplish" />
       <item value="complish" />
-      <item value="create With Default Set" />
-      <item value="Unify Special Product Form Controller" />
-      <item value="add Special Product Form List" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3889" />
-        <entry key="ENGLISH" value="3849" />
+        <entry key="CHINESE" value="3892" />
+        <entry key="ENGLISH" value="3852" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="5" />
