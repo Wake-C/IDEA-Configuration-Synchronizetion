@@ -6,6 +6,9 @@
     <option name="newTranslationDialogY" value="394" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="wait-deliver-order" />
+      <item value="wait Delivery List" />
+      <item value="already-deliver-order" />
       <item value=" Re-enable the &quot;Times&quot; font to remove this warning." />
       <item value="d, but may have unexpected appearance or behavor" />
       <item value="substituted" />
@@ -53,14 +56,11 @@
       <item value=".Html2PdfException: Font Provider contains zero fonts. At least one font shall be present" />
       <item value="Provider" />
       <item value=" Font Provider contains zero fonts. At least one font shall be present" />
-      <item value="Type of font STSongStd-Light is not recognized." />
-      <item value="accomplish" />
-      <item value="complish" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3892" />
-        <entry key="ENGLISH" value="3852" />
+        <entry key="CHINESE" value="3895" />
+        <entry key="ENGLISH" value="3855" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="5" />
