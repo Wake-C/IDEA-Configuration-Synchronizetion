@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="394" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="conflict Activity" />
+      <item value="conflict Act" />
       <item value="哈哈" />
       <item value="wait-deliver-order" />
       <item value="wait Delivery List" />
@@ -54,13 +56,11 @@
       <item value="bound Value Ops" />
       <item value="Font Provider contains zero fonts. At least one font shall be present" />
       <item value="fetch True Type Font Descriptor" />
-      <item value=".Html2PdfException: Font Provider contains zero fonts. At least one font shall be present" />
-      <item value="Provider" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3896" />
-        <entry key="ENGLISH" value="3856" />
+        <entry key="CHINESE" value="3899" />
+        <entry key="ENGLISH" value="3859" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="5" />
