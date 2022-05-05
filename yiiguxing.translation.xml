@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="394" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="SECKILL" />
       <item value="conflict Activity" />
       <item value="conflict Act" />
       <item value="哈哈" />
@@ -55,12 +56,11 @@
       <item value="Client" />
       <item value="bound Value Ops" />
       <item value="Font Provider contains zero fonts. At least one font shall be present" />
-      <item value="fetch True Type Font Descriptor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3899" />
-        <entry key="ENGLISH" value="3859" />
+        <entry key="CHINESE" value="3900" />
+        <entry key="ENGLISH" value="3860" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="5" />
