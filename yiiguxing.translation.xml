@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="394" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="delimiter" />
       <item value="success Extend Message" />
       <item value="success Extend Mesaage" />
       <item value="SECKILL" />
@@ -55,12 +56,11 @@
       <item value="special" />
       <item value="member-special-form-list" />
       <item value="Special Product Client Info List" />
-      <item value="Client" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3902" />
-        <entry key="ENGLISH" value="3862" />
+        <entry key="CHINESE" value="3903" />
+        <entry key="ENGLISH" value="3863" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="5" />
