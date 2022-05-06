@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="394" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="already Delivery Error" />
+      <item value="alrady Delivery Error" />
       <item value="valid Price Correct" />
       <item value="log" />
       <item value="REQUIRES NEW" />
@@ -54,13 +56,11 @@
       <item value="accept" />
       <item value="memento" />
       <item value="Config Originator" />
-      <item value="cursor" />
-      <item value="speical-product" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3904" />
-        <entry key="ENGLISH" value="3866" />
+        <entry key="CHINESE" value="3906" />
+        <entry key="ENGLISH" value="3868" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="5" />
