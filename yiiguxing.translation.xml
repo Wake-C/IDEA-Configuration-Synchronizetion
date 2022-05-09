@@ -6,6 +6,11 @@
     <option name="newTranslationDialogY" value="394" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Amount" />
+      <item value="payment Amount" />
+      <item value="payment" />
+      <item value="pay Total" />
+      <item value="pay Total Money" />
       <item value="store Discount Value" />
       <item value="full Card Money" />
       <item value="already Delivery Error" />
@@ -51,16 +56,11 @@
       <item value="list By Order Id And Ret Handling Way" />
       <item value="batch Send Online Delivery" />
       <item value="BATCH DELIVERY ONLINE" />
-      <item value="non" />
-      <item value="non-delivery-order" />
-      <item value="non-delivery-order-list" />
-      <item value="Principal" />
-      <item value="accept" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3908" />
-        <entry key="ENGLISH" value="3870" />
+        <entry key="CHINESE" value="3913" />
+        <entry key="ENGLISH" value="3875" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="5" />
