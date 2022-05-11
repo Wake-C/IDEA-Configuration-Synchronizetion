@@ -6,6 +6,14 @@
     <option name="newTranslationDialogY" value="394" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="discount After Money Total" />
+      <item value="Authorization Member Submit Order And Get Member" />
+      <item value="Auth Member Submit Order And Get Member" />
+      <item value="Authorization Submit Order And Get Member" />
+      <item value="Authen Submit Order And Get Member" />
+      <item value="Auth Submit Order And Get Member" />
+      <item value="find Member Id By Token Real With Submit Order" />
+      <item value="find Member Id By Token Real For Submit Order" />
       <item value="Amount" />
       <item value="payment Amount" />
       <item value="payment" />
@@ -48,19 +56,11 @@
       <item value="delivered" />
       <item value="has Delivery" />
       <item value="delivery Data Excel Url" />
-      <item value="non Delivery List" />
-      <item value="progress" />
-      <item value="percentage" />
-      <item value="print File Url" />
-      <item value="Ret Handling" />
-      <item value="list By Order Id And Ret Handling Way" />
-      <item value="batch Send Online Delivery" />
-      <item value="BATCH DELIVERY ONLINE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3913" />
-        <entry key="ENGLISH" value="3875" />
+        <entry key="CHINESE" value="3921" />
+        <entry key="ENGLISH" value="3883" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="5" />
