@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="394" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Http Async Client Plugin Impl" />
+      <item value="Internal Http Async Client" />
       <item value="already Set" />
       <item value="merge Status" />
       <item value="discount After Money Total" />
@@ -54,13 +56,11 @@
       <item value="No Transaction Order Delivery" />
       <item value="delivered Finish List" />
       <item value="delivered List" />
-      <item value="batch Online Delivery" />
-      <item value="delivered" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3923" />
-        <entry key="ENGLISH" value="3884" />
+        <entry key="CHINESE" value="3925" />
+        <entry key="ENGLISH" value="3886" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="5" />
