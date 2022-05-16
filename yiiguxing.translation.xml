@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="394" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="union Specify Card Ids" />
       <item value="IO reactor terminated abnormally" />
       <item value="Http Async Client Plugin Impl" />
       <item value="Internal Http Async Client" />
@@ -55,12 +56,11 @@
       <item value="upload Checked Data" />
       <item value="delivery Order List" />
       <item value="No Transaction Order Delivery" />
-      <item value="delivered Finish List" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3926" />
-        <entry key="ENGLISH" value="3887" />
+        <entry key="CHINESE" value="3931" />
+        <entry key="ENGLISH" value="3892" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="5" />
@@ -84,7 +84,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1652172021438" />
+    <option name="lastTrimTime" value="1652663110263" />
   </component>
   <component name="Settings">
     <option name="aliTranslateSettings">
