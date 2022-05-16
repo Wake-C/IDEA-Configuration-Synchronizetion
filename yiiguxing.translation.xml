@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="394" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="gift Money" />
       <item value="union Specify Card Ids" />
       <item value="IO reactor terminated abnormally" />
       <item value="Http Async Client Plugin Impl" />
@@ -55,12 +56,11 @@
       <item value="upload Delivery Order Data" />
       <item value="upload Checked Data" />
       <item value="delivery Order List" />
-      <item value="No Transaction Order Delivery" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3931" />
-        <entry key="ENGLISH" value="3892" />
+        <entry key="CHINESE" value="3932" />
+        <entry key="ENGLISH" value="3893" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="5" />
