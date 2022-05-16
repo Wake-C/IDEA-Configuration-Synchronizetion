@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="394" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="store Full Product Usage" />
+      <item value="shop Card Store Full Product Usage" />
       <item value="contains Inv Id" />
       <item value="gift Money" />
       <item value="union Specify Card Ids" />
@@ -54,13 +56,11 @@
       <item value="print Template File" />
       <item value="PAGING CODE" />
       <item value="delivery Order Excel Url" />
-      <item value="upload Delivery Order Data" />
-      <item value="upload Checked Data" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3933" />
-        <entry key="ENGLISH" value="3894" />
+        <entry key="CHINESE" value="3936" />
+        <entry key="ENGLISH" value="3897" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="5" />
