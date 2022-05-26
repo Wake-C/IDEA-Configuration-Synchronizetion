@@ -6,6 +6,20 @@
     <option name="newTranslationDialogY" value="394" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="direct Distance" />
+      <item value="range Radii" />
+      <item value="mall Intra City Range List" />
+      <item value="city Delivery Info" />
+      <item value="distance KM" />
+      <item value="mem Longitude" />
+      <item value="ra Ill" />
+      <item value="start Coordinate" />
+      <item value="end Coordinate" />
+      <item value="open City Delivery" />
+      <item value="city Delivery" />
+      <item value="Mall Intra City" />
+      <item value="Intra" />
+      <item value="in Delivery Range" />
       <item value="express Delivery" />
       <item value="is Open City Delivery" />
       <item value="is Open Express Delivery" />
@@ -42,25 +56,11 @@
       <item value="alrady Delivery Error" />
       <item value="valid Price Correct" />
       <item value="log" />
-      <item value="REQUIRES NEW" />
-      <item value="delimiter" />
-      <item value="success Extend Message" />
-      <item value="success Extend Mesaage" />
-      <item value="SECKILL" />
-      <item value="conflict Activity" />
-      <item value="conflict Act" />
-      <item value="哈哈" />
-      <item value="wait-deliver-order" />
-      <item value="wait Delivery List" />
-      <item value="already-deliver-order" />
-      <item value=" Re-enable the &quot;Times&quot; font to remove this warning." />
-      <item value="d, but may have unexpected appearance or behavor" />
-      <item value="substituted" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3943" />
-        <entry key="ENGLISH" value="3904" />
+        <entry key="CHINESE" value="3964" />
+        <entry key="ENGLISH" value="3922" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="5" />
@@ -71,14 +71,15 @@
         <entry key="CZECH" value="2" />
         <entry key="KURDISH" value="1" />
         <entry key="LATVIAN" value="1" />
-        <entry key="ROMANIAN" value="7" />
+        <entry key="ROMANIAN" value="8" />
         <entry key="MALAY" value="14" />
+        <entry key="NORWEGIAN" value="1" />
         <entry key="PORTUGUESE" value="19" />
         <entry key="ESPERANTO" value="9" />
         <entry key="TURKISH" value="1" />
         <entry key="SPANISH" value="9" />
         <entry key="ITALIAN" value="5" />
-        <entry key="HINDI" value="7" />
+        <entry key="HINDI" value="8" />
         <entry key="INDONESIAN" value="2" />
       </map>
     </option>
