@@ -6,10 +6,12 @@
     <option name="newTranslationDialogY" value="394" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="unify Freight Product List" />
+      <item value="ty Freight" />
+      <item value="calculate Freight Price" />
       <item value="get Freigth Price DTO" />
       <item value="get Fregith Price DTO" />
       <item value="freight DTO" />
-      <item value="calculate Freight Price" />
       <item value="caculate Freight Price" />
       <item value="Unified" />
       <item value="is Unified Freight" />
@@ -54,17 +56,15 @@
       <item value="find Member Id By Token Real For Submit Order" />
       <item value="Amount" />
       <item value="payment Amount" />
-      <item value="payment" />
-      <item value="pay Total" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3973" />
-        <entry key="ENGLISH" value="3930" />
+        <entry key="CHINESE" value="3976" />
+        <entry key="ENGLISH" value="3932" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="5" />
-        <entry key="GERMAN" value="11" />
+        <entry key="GERMAN" value="12" />
         <entry key="FRENCH" value="77" />
         <entry key="FILIPINO" value="6" />
         <entry key="DUTCH" value="2" />
