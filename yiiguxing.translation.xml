@@ -6,6 +6,10 @@
     <option name="newTranslationDialogY" value="394" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="multiple Freight Set List" />
+      <item value="Multiple Freight Set List" />
+      <item value="Multip Freight Set List" />
+      <item value="product Freight Multiple Unit" />
       <item value="inv Id With Product Map" />
       <item value="product Freight DTO List" />
       <item value="get Distribute Freight Price List" />
@@ -52,15 +56,11 @@
       <item value="is Open City Delivery" />
       <item value="is Open Express Delivery" />
       <item value="distinct Pro Data" />
-      <item value="compatible Spe Ids" />
-      <item value="reality Product" />
-      <item value="no Sku Product" />
-      <item value="store Full Product Usage" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3999" />
-        <entry key="ENGLISH" value="3954" />
+        <entry key="CHINESE" value="4003" />
+        <entry key="ENGLISH" value="3958" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="5" />
