@@ -6,6 +6,9 @@
     <option name="newTranslationDialogY" value="394" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="inv Id With Pro Data List Map" />
+      <item value="{&#10;            final Map&lt;Long, List&lt;BeFreightBO.ProSpeAllByNum&gt;&gt; invIdWithProDataListMap              = proDataList.stream().filter(item -&gt; item.getProId().equals(product.getId())).collect(Collectors.groupingBy(BeFreightBO.ProSpeAllByNum::getInvId));&#10;            final List&lt;BeFreightBO.ProSpeAllByNum&gt;            productConditionList = (List&lt;BeFreightBO.ProSpeAllByNum&gt;) invIdWithProDataListMap;&#10;            for (BeFreightBO.ProSpeAllByNum proData : productConditionList) {&#10;&#10;                final Long unitId = inventoryList.stream().filter(item -&gt; Objects.equals(item.getId(), proData.getInvId())).findFirst().map(MallProductInventory::getUnitId).orElse(0L);&#10;                unitFreightSetList.stream()&#10;                    .filter(freightSet -&gt; Objects.equals(freightSet.getUnitId(),unitId))&#10;&#10;&#10;            }&#10;        }" />
+      <item value="condition List" />
       <item value="unique Unit Product List" />
       <item value="Multiple Unit Pro Data List" />
       <item value="multiple Unit Product List" />
@@ -53,14 +56,11 @@
       <item value="end Coordinate" />
       <item value="open City Delivery" />
       <item value="city Delivery" />
-      <item value="Mall Intra City" />
-      <item value="Intra" />
-      <item value="in Delivery Range" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4007" />
-        <entry key="ENGLISH" value="3962" />
+        <entry key="CHINESE" value="4010" />
+        <entry key="ENGLISH" value="3965" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="5" />
