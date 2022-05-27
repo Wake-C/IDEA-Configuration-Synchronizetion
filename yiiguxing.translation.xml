@@ -6,6 +6,10 @@
     <option name="newTranslationDialogY" value="394" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="unique Unit Product List" />
+      <item value="Multiple Unit Pro Data List" />
+      <item value="multiple Unit Product List" />
+      <item value="multiple Unit Pro List" />
       <item value="multiple Freight Set List" />
       <item value="Multiple Freight Set List" />
       <item value="Multip Freight Set List" />
@@ -52,15 +56,11 @@
       <item value="Mall Intra City" />
       <item value="Intra" />
       <item value="in Delivery Range" />
-      <item value="express Delivery" />
-      <item value="is Open City Delivery" />
-      <item value="is Open Express Delivery" />
-      <item value="distinct Pro Data" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4003" />
-        <entry key="ENGLISH" value="3958" />
+        <entry key="CHINESE" value="4007" />
+        <entry key="ENGLISH" value="3962" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="5" />
