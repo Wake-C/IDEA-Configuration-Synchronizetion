@@ -6,6 +6,14 @@
     <option name="newTranslationDialogY" value="394" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="get Distribute Freight Price List" />
+      <item value="get Distribute Freight List" />
+      <item value="already Distribute" />
+      <item value="already Distrubte" />
+      <item value="already Use" />
+      <item value="used Price" />
+      <item value="use Price" />
+      <item value="use Amount" />
       <item value="Freight" />
       <item value="distribute Freight List" />
       <item value="distribute" />
@@ -48,19 +56,11 @@
       <item value="store Full Product Usage" />
       <item value="shop Card Store Full Product Usage" />
       <item value="contains Inv Id" />
-      <item value="gift Money" />
-      <item value="union Specify Card Ids" />
-      <item value="IO reactor terminated abnormally" />
-      <item value="Http Async Client Plugin Impl" />
-      <item value="Internal Http Async Client" />
-      <item value="already Set" />
-      <item value="merge Status" />
-      <item value="discount After Money Total" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3988" />
-        <entry key="ENGLISH" value="3944" />
+        <entry key="CHINESE" value="3996" />
+        <entry key="ENGLISH" value="3951" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="5" />
@@ -79,7 +79,7 @@
         <entry key="TURKISH" value="1" />
         <entry key="SPANISH" value="9" />
         <entry key="ITALIAN" value="5" />
-        <entry key="HINDI" value="8" />
+        <entry key="HINDI" value="9" />
         <entry key="INDONESIAN" value="2" />
       </map>
     </option>
