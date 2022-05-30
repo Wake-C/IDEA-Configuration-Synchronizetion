@@ -6,6 +6,15 @@
     <option name="newTranslationDialogY" value="394" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="template Price List" />
+      <item value="template Freight Price List" />
+      <item value="template Freight List" />
+      <item value="template Calculation Freight" />
+      <item value="calculation" />
+      <item value="culcualation" />
+      <item value="freight Template Id" />
+      <item value="template Id" />
+      <item value="same Inv Id Product List" />
       <item value="inv Id With Pro Data List Map" />
       <item value="{&#10;            final Map&lt;Long, List&lt;BeFreightBO.ProSpeAllByNum&gt;&gt; invIdWithProDataListMap              = proDataList.stream().filter(item -&gt; item.getProId().equals(product.getId())).collect(Collectors.groupingBy(BeFreightBO.ProSpeAllByNum::getInvId));&#10;            final List&lt;BeFreightBO.ProSpeAllByNum&gt;            productConditionList = (List&lt;BeFreightBO.ProSpeAllByNum&gt;) invIdWithProDataListMap;&#10;            for (BeFreightBO.ProSpeAllByNum proData : productConditionList) {&#10;&#10;                final Long unitId = inventoryList.stream().filter(item -&gt; Objects.equals(item.getId(), proData.getInvId())).findFirst().map(MallProductInventory::getUnitId).orElse(0L);&#10;                unitFreightSetList.stream()&#10;                    .filter(freightSet -&gt; Objects.equals(freightSet.getUnitId(),unitId))&#10;&#10;&#10;            }&#10;        }" />
       <item value="condition List" />
@@ -47,24 +56,15 @@
       <item value="is Unified Freight" />
       <item value="direct Distance" />
       <item value="range Radii" />
-      <item value="mall Intra City Range List" />
-      <item value="city Delivery Info" />
-      <item value="distance KM" />
-      <item value="mem Longitude" />
-      <item value="ra Ill" />
-      <item value="start Coordinate" />
-      <item value="end Coordinate" />
-      <item value="open City Delivery" />
-      <item value="city Delivery" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4010" />
-        <entry key="ENGLISH" value="3965" />
+        <entry key="CHINESE" value="4019" />
+        <entry key="ENGLISH" value="3973" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="5" />
-        <entry key="GERMAN" value="12" />
+        <entry key="GERMAN" value="13" />
         <entry key="FRENCH" value="77" />
         <entry key="FILIPINO" value="6" />
         <entry key="DUTCH" value="2" />
@@ -85,7 +85,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1653268784247" />
+    <option name="lastTrimTime" value="1653875262104" />
   </component>
   <component name="Settings">
     <option name="aliTranslateSettings">
