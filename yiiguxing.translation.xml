@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="394" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="activity Not Restriction" />
       <item value="convert Inv Id" />
       <item value="convert" />
       <item value="convert Invid" />
@@ -55,12 +56,11 @@
       <item value="get Distribute Freight List" />
       <item value="already Distribute" />
       <item value="already Distrubte" />
-      <item value="already Use" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4049" />
-        <entry key="ENGLISH" value="4002" />
+        <entry key="CHINESE" value="4050" />
+        <entry key="ENGLISH" value="4003" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="5" />
