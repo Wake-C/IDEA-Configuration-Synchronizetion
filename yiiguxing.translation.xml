@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="394" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="recovery" />
       <item value="button" />
       <item value="recovery-button" />
       <item value="recall" />
@@ -55,12 +56,11 @@
       <item value="Multip Freight Set List" />
       <item value="product Freight Multiple Unit" />
       <item value="inv Id With Product Map" />
-      <item value="product Freight DTO List" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4054" />
-        <entry key="ENGLISH" value="4007" />
+        <entry key="CHINESE" value="4055" />
+        <entry key="ENGLISH" value="4008" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="5" />
