@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="394" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="not Contains Act" />
       <item value="Recovery" />
       <item value="Agency Recovery" />
       <item value="agency" />
@@ -55,12 +56,11 @@
       <item value="unique Unit Product List" />
       <item value="Multiple Unit Pro Data List" />
       <item value="multiple Unit Product List" />
-      <item value="multiple Unit Pro List" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4066" />
-        <entry key="ENGLISH" value="4019" />
+        <entry key="CHINESE" value="4067" />
+        <entry key="ENGLISH" value="4020" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="5" />
