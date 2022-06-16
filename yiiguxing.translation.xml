@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="394" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="PC Bargain Classification Styles Controller" />
+      <item value="Bargain" />
       <item value="purchased Num" />
       <item value="purchased" />
       <item value="already" />
@@ -54,13 +56,11 @@
       <item value="commodity" />
       <item value="commodity Info" />
       <item value="commidity" />
-      <item value="Label" />
-      <item value="print Lable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4089" />
-        <entry key="ENGLISH" value="4035" />
+        <entry key="CHINESE" value="4091" />
+        <entry key="ENGLISH" value="4037" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="5" />
