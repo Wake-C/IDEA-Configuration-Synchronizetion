@@ -6,6 +6,21 @@
     <option name="newTranslationDialogY" value="394" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="purchased Num" />
+      <item value="purchased" />
+      <item value="already" />
+      <item value="already Buy Num" />
+      <item value="can Buy Number" />
+      <item value="Min Buy Num Limit" />
+      <item value="miss Min Buy Num Limit" />
+      <item value="not Min Buy Num Limit" />
+      <item value="min Buy Num Limit" />
+      <item value="minux Buy Number Limit" />
+      <item value="conversion Number" />
+      <item value="conversion Num" />
+      <item value="divide" />
+      <item value="order Detail Buy Num" />
+      <item value="unit Conversion" />
       <item value="not Contains Act" />
       <item value="Recovery" />
       <item value="Agency Recovery" />
@@ -41,26 +56,11 @@
       <item value="commidity" />
       <item value="Label" />
       <item value="print Lable" />
-      <item value="Receipt" />
-      <item value="template Price List" />
-      <item value="template Freight Price List" />
-      <item value="template Freight List" />
-      <item value="template Calculation Freight" />
-      <item value="calculation" />
-      <item value="culcualation" />
-      <item value="freight Template Id" />
-      <item value="same Inv Id Product List" />
-      <item value="inv Id With Pro Data List Map" />
-      <item value="{&#10;            final Map&lt;Long, List&lt;BeFreightBO.ProSpeAllByNum&gt;&gt; invIdWithProDataListMap              = proDataList.stream().filter(item -&gt; item.getProId().equals(product.getId())).collect(Collectors.groupingBy(BeFreightBO.ProSpeAllByNum::getInvId));&#10;            final List&lt;BeFreightBO.ProSpeAllByNum&gt;            productConditionList = (List&lt;BeFreightBO.ProSpeAllByNum&gt;) invIdWithProDataListMap;&#10;            for (BeFreightBO.ProSpeAllByNum proData : productConditionList) {&#10;&#10;                final Long unitId = inventoryList.stream().filter(item -&gt; Objects.equals(item.getId(), proData.getInvId())).findFirst().map(MallProductInventory::getUnitId).orElse(0L);&#10;                unitFreightSetList.stream()&#10;                    .filter(freightSet -&gt; Objects.equals(freightSet.getUnitId(),unitId))&#10;&#10;&#10;            }&#10;        }" />
-      <item value="condition List" />
-      <item value="unique Unit Product List" />
-      <item value="Multiple Unit Pro Data List" />
-      <item value="multiple Unit Product List" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4067" />
-        <entry key="ENGLISH" value="4020" />
+        <entry key="CHINESE" value="4089" />
+        <entry key="ENGLISH" value="4035" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="5" />
@@ -74,12 +74,12 @@
         <entry key="ROMANIAN" value="8" />
         <entry key="MALAY" value="14" />
         <entry key="NORWEGIAN" value="1" />
-        <entry key="PORTUGUESE" value="19" />
+        <entry key="PORTUGUESE" value="20" />
         <entry key="ESPERANTO" value="9" />
         <entry key="TURKISH" value="1" />
         <entry key="SPANISH" value="9" />
         <entry key="ITALIAN" value="6" />
-        <entry key="HINDI" value="9" />
+        <entry key="HINDI" value="15" />
         <entry key="INDONESIAN" value="2" />
       </map>
     </option>
