@@ -124,6 +124,10 @@
     <keyboard-shortcut first-keystroke="alt d" />
     <keyboard-shortcut first-keystroke="meta y" />
   </action>
+  <action id="EditorDeleteToWordEnd">
+    <keyboard-shortcut first-keystroke="ctrl delete" />
+    <keyboard-shortcut first-keystroke="ctrl meta back_space" />
+  </action>
   <action id="EditorDown">
     <keyboard-shortcut first-keystroke="down" />
     <keyboard-shortcut first-keystroke="shift k" />
