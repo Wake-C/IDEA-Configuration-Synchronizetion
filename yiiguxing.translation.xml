@@ -6,6 +6,9 @@
     <option name="newTranslationDialogY" value="394" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="limit Buy Cart Product List" />
+      <item value="restriction Cart Product List" />
+      <item value="restriction" />
       <item value="PC Bargain Classification Styles Controller" />
       <item value="Bargain" />
       <item value="purchased Num" />
@@ -53,14 +56,11 @@
       <item value="is After" />
       <item value="template Id" />
       <item value="print-express" />
-      <item value="commodity" />
-      <item value="commodity Info" />
-      <item value="commidity" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4091" />
-        <entry key="ENGLISH" value="4037" />
+        <entry key="CHINESE" value="4096" />
+        <entry key="ENGLISH" value="4042" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="5" />
