@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="394" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="recall" />
+      <item value="valid Distributor Store Delivery" />
       <item value="distributor Store Flag" />
       <item value="distributor Delivery Flag" />
       <item value="Delivery" />
@@ -47,7 +49,6 @@
       <item value="recovery" />
       <item value="button" />
       <item value="recovery-button" />
-      <item value="recall" />
       <item value="activity Not Restriction" />
       <item value="convert Inv Id" />
       <item value="convert" />
@@ -55,12 +56,11 @@
       <item value="is Stock Sufficient" />
       <item value="current Detail Pro Ids" />
       <item value="current Detail Ids" />
-      <item value="STORE ID MUST EXIST" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4112" />
-        <entry key="ENGLISH" value="4058" />
+        <entry key="CHINESE" value="4115" />
+        <entry key="ENGLISH" value="4061" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="5" />
