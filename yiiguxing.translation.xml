@@ -98,6 +98,11 @@
         <option name="appId" value="20220216001084666" />
       </app-key>
     </option>
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="primaryLanguage" value="ESPERANTO" />
+      </google-translate>
+    </option>
     <option name="keepFormat" value="true" />
     <option name="overrideFont" value="true" />
     <option name="phoneticFontFamily" value="Arial" />
@@ -109,6 +114,7 @@
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="72daf72feb661e19" />
+        <option name="primaryLanguage" value="ESPERANTO" />
       </youdao-translate>
     </option>
   </component>
