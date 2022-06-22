@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="394" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Consignee" />
+      <item value="receive Name" />
       <item value="valid Contains Distributor Product" />
       <item value="pro Id With Product List" />
       <item value="recall" />
@@ -54,13 +56,11 @@
       <item value="activity Not Restriction" />
       <item value="convert Inv Id" />
       <item value="convert" />
-      <item value="convert Invid" />
-      <item value="is Stock Sufficient" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4117" />
-        <entry key="ENGLISH" value="4063" />
+        <entry key="CHINESE" value="4120" />
+        <entry key="ENGLISH" value="4066" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="5" />
