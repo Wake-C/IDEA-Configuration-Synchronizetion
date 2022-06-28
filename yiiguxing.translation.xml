@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="394" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="distributor" />
+      <item value="distributor-address" />
       <item value="is Delivered Order Contain Distributor Product" />
       <item value="is Delivered Order Contains Distributor Product" />
       <item value="is Delivered Order Contains Distributor" />
@@ -54,13 +56,11 @@
       <item value="Recovery" />
       <item value="Agency Recovery" />
       <item value="agency" />
-      <item value="recovery Button" />
-      <item value="agency Recovery" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4126" />
-        <entry key="ENGLISH" value="4072" />
+        <entry key="CHINESE" value="4128" />
+        <entry key="ENGLISH" value="4074" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="5" />
