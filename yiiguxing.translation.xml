@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="394" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="remind Number" />
       <item value="get History Order Buy Number" />
       <item value="get History Order Buy Num" />
       <item value="get History Buy Num" />
@@ -55,12 +56,11 @@
       <item value="conversion Num" />
       <item value="divide" />
       <item value="order Detail Buy Num" />
-      <item value="unit Conversion" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4132" />
-        <entry key="ENGLISH" value="4078" />
+        <entry key="CHINESE" value="4133" />
+        <entry key="ENGLISH" value="4079" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="5" />
