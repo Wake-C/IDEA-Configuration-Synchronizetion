@@ -6,6 +6,10 @@
     <option name="newTranslationDialogY" value="394" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="get History Order Buy Number" />
+      <item value="get History Order Buy Num" />
+      <item value="get History Buy Num" />
+      <item value="get History Buy Number" />
       <item value="distributor" />
       <item value="distributor-address" />
       <item value="is Delivered Order Contain Distributor Product" />
@@ -52,15 +56,11 @@
       <item value="divide" />
       <item value="order Detail Buy Num" />
       <item value="unit Conversion" />
-      <item value="not Contains Act" />
-      <item value="Recovery" />
-      <item value="Agency Recovery" />
-      <item value="agency" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4128" />
-        <entry key="ENGLISH" value="4074" />
+        <entry key="CHINESE" value="4132" />
+        <entry key="ENGLISH" value="4078" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="5" />
