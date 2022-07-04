@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="394" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="total Buy Number" />
       <item value="buy Num" />
       <item value="get Limit Buy Surplus Num" />
       <item value="Surplus" />
@@ -55,12 +56,11 @@
       <item value="miss Min Buy Num Limit" />
       <item value="not Min Buy Num Limit" />
       <item value="min Buy Num Limit" />
-      <item value="minux Buy Number Limit" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4139" />
-        <entry key="ENGLISH" value="4084" />
+        <entry key="CHINESE" value="4140" />
+        <entry key="ENGLISH" value="4085" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="5" />
