@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="394" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="restriction Discount Num" />
       <item value="conform Order Status" />
       <item value="equals Inv Id" />
       <item value="limit Buy Product Total Price" />
@@ -55,12 +56,11 @@
       <item value="purchased Num" />
       <item value="purchased" />
       <item value="already" />
-      <item value="already Buy Num" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4146" />
-        <entry key="ENGLISH" value="4090" />
+        <entry key="CHINESE" value="4147" />
+        <entry key="ENGLISH" value="4091" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="5" />
