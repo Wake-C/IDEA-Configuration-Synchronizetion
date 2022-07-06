@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="394" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="history Buy Num" />
       <item value="pro Id With Product List Map" />
       <item value="not Attend Limit Buy Price" />
       <item value="delivery" />
@@ -55,12 +56,11 @@
       <item value="verify Any Stock Lack" />
       <item value="limit Buy Cart Product List" />
       <item value="restriction Cart Product List" />
-      <item value="restriction" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4153" />
-        <entry key="ENGLISH" value="4097" />
+        <entry key="CHINESE" value="4154" />
+        <entry key="ENGLISH" value="4098" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="5" />
@@ -114,7 +114,6 @@
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="72daf72feb661e19" />
-        <option name="primaryLanguage" value="ESPERANTO" />
       </youdao-translate>
     </option>
   </component>
