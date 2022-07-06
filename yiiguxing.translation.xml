@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="394" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="limit Buy Price Discount Total" />
       <item value="surplus Discount Times" />
       <item value="origin Total Price" />
       <item value="discount Total Price" />
@@ -55,12 +56,11 @@
       <item value="Deliver" />
       <item value="distributor Deliver Flag" />
       <item value="distributor Send Flag" />
-      <item value="business Type" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4180" />
-        <entry key="ENGLISH" value="4124" />
+        <entry key="CHINESE" value="4181" />
+        <entry key="ENGLISH" value="4125" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="5" />
