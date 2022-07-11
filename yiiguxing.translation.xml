@@ -6,6 +6,10 @@
     <option name="newTranslationDialogY" value="394" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="THREAD CUSTOM NAME" />
+      <item value="custom Name" />
+      <item value="CUSTOME" />
+      <item value="CUSTOM" />
       <item value="pro Act Log Map With Store Id" />
       <item value="limit Buy Price Product List" />
       <item value="product BO List" />
@@ -52,15 +56,11 @@
       <item value="none Match" />
       <item value="Consignee" />
       <item value="receive Name" />
-      <item value="valid Contains Distributor Product" />
-      <item value="pro Id With Product List" />
-      <item value="recall" />
-      <item value="valid Distributor Store Delivery" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4189" />
-        <entry key="ENGLISH" value="4133" />
+        <entry key="CHINESE" value="4193" />
+        <entry key="ENGLISH" value="4137" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="5" />
