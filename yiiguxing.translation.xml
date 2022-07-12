@@ -6,6 +6,13 @@
     <option name="newTranslationDialogY" value="394" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="first Track Log Map" />
+      <item value="get Send Once Info" />
+      <item value="get First Delivery Track Info" />
+      <item value="async" />
+      <item value="asynchronisous" />
+      <item value="asyn" />
+      <item value="asny" />
       <item value="transmittable" />
       <item value="THREAD CUSTOM NAME" />
       <item value="custom Name" />
@@ -49,20 +56,14 @@
       <item value="get History Buy Number" />
       <item value="distributor" />
       <item value="distributor-address" />
-      <item value="is Delivered Order Contain Distributor Product" />
-      <item value="is Delivered Order Contains Distributor Product" />
-      <item value="is Delivered Order Contains Distributor" />
-      <item value="delivered Order Contains Distributor" />
-      <item value="delivered" />
-      <item value="none Match" />
-      <item value="Consignee" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4194" />
-        <entry key="ENGLISH" value="4138" />
+        <entry key="CHINESE" value="4202" />
+        <entry key="ENGLISH" value="4142" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
+        <entry key="POLISH" value="3" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="13" />
         <entry key="FRENCH" value="77" />
@@ -79,7 +80,7 @@
         <entry key="TURKISH" value="1" />
         <entry key="SPANISH" value="9" />
         <entry key="ITALIAN" value="6" />
-        <entry key="HINDI" value="16" />
+        <entry key="HINDI" value="17" />
         <entry key="INDONESIAN" value="2" />
       </map>
     </option>
