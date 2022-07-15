@@ -6,6 +6,22 @@
     <option name="newTranslationDialogY" value="394" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="delivery Range List" />
+      <item value="deliver Range List" />
+      <item value="valid Range" />
+      <item value="freight Template" />
+      <item value="calculate Multiple Unit Product Freight Price" />
+      <item value="multiple Unit Set List" />
+      <item value="multip Unit Set" />
+      <item value="unit Freight Set" />
+      <item value="inv Id Pro Data Map" />
+      <item value="product Unit Set List" />
+      <item value="unique Unit Pro Data List" />
+      <item value="unique Unit Product List" />
+      <item value="calculate Multip Unit Product Freight Price" />
+      <item value="calculate Multip Product Freight Price" />
+      <item value="product List" />
+      <item value="freight Price List" />
       <item value="average Distribute Freight Price" />
       <item value="product Freight Price" />
       <item value="Average Distribute Freight Price" />
@@ -40,27 +56,11 @@
       <item value="valid Member Address" />
       <item value="valid Address" />
       <item value="is Open Take Their" />
-      <item value="is Open Express Delivery" />
-      <item value="open City Delivery" />
-      <item value="is Express Delivery" />
-      <item value="open Express Delivery" />
-      <item value="Open Express Delivery" />
-      <item value="store Freight" />
-      <item value="address Id" />
-      <item value="compatible Spe Ids" />
-      <item value="Store Freight VO" />
-      <item value="first Track Log Map" />
-      <item value="get Send Once Info" />
-      <item value="get First Delivery Track Info" />
-      <item value="async" />
-      <item value="asynchronisous" />
-      <item value="asyn" />
-      <item value="asny" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4254" />
-        <entry key="ENGLISH" value="4193" />
+        <entry key="CHINESE" value="4272" />
+        <entry key="ENGLISH" value="4211" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="3" />
