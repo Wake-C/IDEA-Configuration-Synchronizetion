@@ -6,6 +6,49 @@
     <option name="newTranslationDialogY" value="394" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="average Distribute Freight Price" />
+      <item value="product Freight Price" />
+      <item value="Average Distribute Freight Price" />
+      <item value="calculate" />
+      <item value="calculate City Delivery Price" />
+      <item value="calculat City Delivery Price" />
+      <item value="calculation City Delivery Price" />
+      <item value="City Deliver Price" />
+      <item value="calculation" />
+      <item value="calculation City Deliver Price" />
+      <item value="city Delivery List" />
+      <item value="city Deliver List" />
+      <item value="city Delivery Freight Price List" />
+      <item value="get City Deliver Price" />
+      <item value="map Result" />
+      <item value="start Coordinate" />
+      <item value="Coordinate" />
+      <item value="longitude" />
+      <item value="latitude" />
+      <item value="longtitude" />
+      <item value="member Longitude" />
+      <item value="city Delivery Info" />
+      <item value="match Business" />
+      <item value="mathch Rule" />
+      <item value="is Match" />
+      <item value="business Error" />
+      <item value="store Product Map" />
+      <item value="store Group Product Map" />
+      <item value="city Freigh Pricet List" />
+      <item value="Product Freight Price" />
+      <item value="validation Member Address" />
+      <item value="valid Member Address" />
+      <item value="valid Address" />
+      <item value="is Open Take Their" />
+      <item value="is Open Express Delivery" />
+      <item value="open City Delivery" />
+      <item value="is Express Delivery" />
+      <item value="open Express Delivery" />
+      <item value="Open Express Delivery" />
+      <item value="store Freight" />
+      <item value="address Id" />
+      <item value="compatible Spe Ids" />
+      <item value="Store Freight VO" />
       <item value="first Track Log Map" />
       <item value="get Send Once Info" />
       <item value="get First Delivery Track Info" />
@@ -13,54 +56,11 @@
       <item value="asynchronisous" />
       <item value="asyn" />
       <item value="asny" />
-      <item value="transmittable" />
-      <item value="THREAD CUSTOM NAME" />
-      <item value="custom Name" />
-      <item value="CUSTOME" />
-      <item value="CUSTOM" />
-      <item value="pro Act Log Map With Store Id" />
-      <item value="limit Buy Price Product List" />
-      <item value="product BO List" />
-      <item value="get History Order Num" />
-      <item value="origin Total Price" />
-      <item value="remove Empty Activity List" />
-      <item value="remove Disable Activity" />
-      <item value="limit Buy Price Discount Total" />
-      <item value="surplus Discount Times" />
-      <item value="discount Total Price" />
-      <item value="discount Money" />
-      <item value="    private BigDecimal discountMoney;&#10;" />
-      <item value="current Total Discount Num" />
-      <item value="is Limit Buy Price" />
-      <item value="history Buy Num" />
-      <item value="pro Id With Product List Map" />
-      <item value="not Attend Limit Buy Price" />
-      <item value="delivery" />
-      <item value="deliver" />
-      <item value="is Open City Delivery" />
-      <item value="restriction Discount Num" />
-      <item value="conform Order Status" />
-      <item value="equals Inv Id" />
-      <item value="limit Buy Product Total Price" />
-      <item value="surplus Discount Num" />
-      <item value="suplus Discount Num" />
-      <item value="total Buy Number" />
-      <item value="buy Num" />
-      <item value="get Limit Buy Surplus Num" />
-      <item value="Surplus" />
-      <item value="get Surplus Num" />
-      <item value="remind Number" />
-      <item value="get History Order Buy Number" />
-      <item value="get History Order Buy Num" />
-      <item value="get History Buy Num" />
-      <item value="get History Buy Number" />
-      <item value="distributor" />
-      <item value="distributor-address" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4202" />
-        <entry key="ENGLISH" value="4142" />
+        <entry key="CHINESE" value="4254" />
+        <entry key="ENGLISH" value="4193" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="3" />
@@ -78,7 +78,7 @@
         <entry key="PORTUGUESE" value="21" />
         <entry key="ESPERANTO" value="9" />
         <entry key="TURKISH" value="1" />
-        <entry key="SPANISH" value="9" />
+        <entry key="SPANISH" value="10" />
         <entry key="ITALIAN" value="6" />
         <entry key="HINDI" value="17" />
         <entry key="INDONESIAN" value="2" />
