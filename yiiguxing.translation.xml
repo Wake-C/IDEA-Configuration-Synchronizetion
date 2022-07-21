@@ -6,9 +6,30 @@
     <option name="newTranslationDialogY" value="394" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Kilometre " />
+      <item value="exceed Kilometre" />
+      <item value="distance" />
+      <item value="xc Jl" />
+      <item value="ra Ill" />
+      <item value="exceed Weight" />
+      <item value="total Weight" />
+      <item value="logistics Weight" />
+      <item value="sum Weight" />
+      <item value="reduce Weight" />
+      <item value="Multip" />
+      <item value="calculate Multip Unit Product Freight" />
+      <item value="markup Money" />
+      <item value="add Num" />
+      <item value="add Money Num" />
+      <item value="markup Num" />
+      <item value="excess Buy Num" />
+      <item value="out Of Buy Num" />
+      <item value="out Of Num" />
+      <item value="freight Price" />
+      <item value="charge By Piece" />
+      <item value="get Freight Price List" />
       <item value="freight" />
       <item value="calculate Charge By Piece" />
-      <item value="freight Price" />
       <item value="ceil" />
       <item value="start Num" />
       <item value="template Price Set" />
@@ -35,53 +56,33 @@
       <item value="charge By Kilometre" />
       <item value="charge By Kelomitre" />
       <item value="charge By Mile" />
-      <item value="charge By Weight" />
-      <item value="charge By Piece" />
-      <item value="charge Per Piece" />
-      <item value="free Delivery On Buy Number" />
-      <item value="free Delivery By Buy Num" />
-      <item value="area Delivery Info" />
-      <item value="area Delivery Set Info" />
-      <item value="special Area Set Info" />
-      <item value="fixed Delivery Cost" />
-      <item value="free Delivery According To Condition" />
-      <item value="Unify Delivery Cost" />
-      <item value="free Delivery Accordingto Condition" />
-      <item value="free Delivery According Condition" />
-      <item value="Unify Shipping Cost" />
-      <item value="custom Freight" />
-      <item value="free Delivery On Condition" />
-      <item value="custome Freight" />
-      <item value="get Price Type" />
-      <item value="member Address In Range" />
-      <item value="InRange " />
-      <item value="member Address Out Of Range" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4373" />
-        <entry key="ENGLISH" value="4308" />
+        <entry key="CHINESE" value="4398" />
+        <entry key="ENGLISH" value="4327" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="3" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="14" />
         <entry key="FRENCH" value="77" />
-        <entry key="FILIPINO" value="6" />
+        <entry key="FILIPINO" value="7" />
         <entry key="DUTCH" value="2" />
-        <entry key="CZECH" value="3" />
+        <entry key="CZECH" value="4" />
         <entry key="KURDISH" value="1" />
         <entry key="LATVIAN" value="1" />
         <entry key="ROMANIAN" value="8" />
         <entry key="MALAY" value="14" />
-        <entry key="NORWEGIAN" value="1" />
-        <entry key="PORTUGUESE" value="21" />
+        <entry key="NORWEGIAN" value="2" />
+        <entry key="PORTUGUESE" value="22" />
         <entry key="ESPERANTO" value="9" />
-        <entry key="TURKISH" value="2" />
+        <entry key="TURKISH" value="3" />
         <entry key="SPANISH" value="10" />
         <entry key="ITALIAN" value="6" />
         <entry key="HINDI" value="18" />
         <entry key="INDONESIAN" value="2" />
+        <entry key="VIETNAMESE" value="1" />
       </map>
     </option>
   </component>
