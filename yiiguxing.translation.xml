@@ -6,70 +6,70 @@
     <option name="newTranslationDialogY" value="394" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
-      <item value="delivery Range List" />
-      <item value="deliver Range List" />
-      <item value="valid Range" />
-      <item value="freight Template" />
-      <item value="calculate Multiple Unit Product Freight Price" />
-      <item value="multiple Unit Set List" />
-      <item value="multip Unit Set" />
-      <item value="unit Freight Set" />
-      <item value="inv Id Pro Data Map" />
-      <item value="product Unit Set List" />
-      <item value="unique Unit Pro Data List" />
-      <item value="unique Unit Product List" />
-      <item value="calculate Multip Unit Product Freight Price" />
-      <item value="calculate Multip Product Freight Price" />
-      <item value="product List" />
-      <item value="freight Price List" />
-      <item value="average Distribute Freight Price" />
-      <item value="product Freight Price" />
-      <item value="Average Distribute Freight Price" />
-      <item value="calculate" />
-      <item value="calculate City Delivery Price" />
-      <item value="calculat City Delivery Price" />
-      <item value="calculation City Delivery Price" />
-      <item value="City Deliver Price" />
-      <item value="calculation" />
-      <item value="calculation City Deliver Price" />
-      <item value="city Delivery List" />
-      <item value="city Deliver List" />
-      <item value="city Delivery Freight Price List" />
-      <item value="get City Deliver Price" />
-      <item value="map Result" />
-      <item value="start Coordinate" />
-      <item value="Coordinate" />
-      <item value="longitude" />
-      <item value="latitude" />
-      <item value="longtitude" />
-      <item value="member Longitude" />
-      <item value="city Delivery Info" />
-      <item value="match Business" />
-      <item value="mathch Rule" />
-      <item value="is Match" />
-      <item value="business Error" />
-      <item value="store Product Map" />
-      <item value="store Group Product Map" />
-      <item value="city Freigh Pricet List" />
-      <item value="Product Freight Price" />
-      <item value="validation Member Address" />
-      <item value="valid Member Address" />
-      <item value="valid Address" />
-      <item value="is Open Take Their" />
+      <item value="freight" />
+      <item value="calculate Charge By Piece" />
+      <item value="freight Price" />
+      <item value="ceil" />
+      <item value="start Num" />
+      <item value="template Price Set" />
+      <item value="Kilometre" />
+      <item value="is Result Money" />
+      <item value="free Delivery" />
+      <item value="get Free Postage" />
+      <item value="free Postage" />
+      <item value="free Delivery According To Buy Num" />
+      <item value="free Delivery According To Price" />
+      <item value="free Delivery According To Number" />
+      <item value="quantity Free Delivery" />
+      <item value="price Free Delivery" />
+      <item value="Free Delivery" />
+      <item value="Address In Special Range" />
+      <item value="in Special Range" />
+      <item value="member Address In Special Range" />
+      <item value="Calculate Price Set" />
+      <item value="Calculate" />
+      <item value="Palculate Price Set" />
+      <item value="add Nums" />
+      <item value="first Nums" />
+      <item value="no Money Num" />
+      <item value="charge By Kilometre" />
+      <item value="charge By Kelomitre" />
+      <item value="charge By Mile" />
+      <item value="charge By Weight" />
+      <item value="charge By Piece" />
+      <item value="charge Per Piece" />
+      <item value="free Delivery On Buy Number" />
+      <item value="free Delivery By Buy Num" />
+      <item value="area Delivery Info" />
+      <item value="area Delivery Set Info" />
+      <item value="special Area Set Info" />
+      <item value="fixed Delivery Cost" />
+      <item value="free Delivery According To Condition" />
+      <item value="Unify Delivery Cost" />
+      <item value="free Delivery Accordingto Condition" />
+      <item value="free Delivery According Condition" />
+      <item value="Unify Shipping Cost" />
+      <item value="custom Freight" />
+      <item value="free Delivery On Condition" />
+      <item value="custome Freight" />
+      <item value="get Price Type" />
+      <item value="member Address In Range" />
+      <item value="InRange " />
+      <item value="member Address Out Of Range" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4272" />
-        <entry key="ENGLISH" value="4211" />
+        <entry key="CHINESE" value="4373" />
+        <entry key="ENGLISH" value="4308" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="3" />
         <entry key="DANISH" value="5" />
-        <entry key="GERMAN" value="13" />
+        <entry key="GERMAN" value="14" />
         <entry key="FRENCH" value="77" />
         <entry key="FILIPINO" value="6" />
         <entry key="DUTCH" value="2" />
-        <entry key="CZECH" value="2" />
+        <entry key="CZECH" value="3" />
         <entry key="KURDISH" value="1" />
         <entry key="LATVIAN" value="1" />
         <entry key="ROMANIAN" value="8" />
@@ -77,16 +77,16 @@
         <entry key="NORWEGIAN" value="1" />
         <entry key="PORTUGUESE" value="21" />
         <entry key="ESPERANTO" value="9" />
-        <entry key="TURKISH" value="1" />
+        <entry key="TURKISH" value="2" />
         <entry key="SPANISH" value="10" />
         <entry key="ITALIAN" value="6" />
-        <entry key="HINDI" value="17" />
+        <entry key="HINDI" value="18" />
         <entry key="INDONESIAN" value="2" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1657502451564" />
+    <option name="lastTrimTime" value="1658108137886" />
   </component>
   <component name="Settings">
     <option name="aliTranslateSettings">
