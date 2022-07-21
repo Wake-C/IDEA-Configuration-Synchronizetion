@@ -6,6 +6,11 @@
     <option name="newTranslationDialogY" value="394" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="店铺配送方式运费列表" />
+      <item value="Open City Delivery" />
+      <item value="is Open City Delivery" />
+      <item value="is Open Express Delivery" />
+      <item value="is Open Take Their Delivery" />
       <item value="calculate Product Freight" />
       <item value="not Calculate Price Store Freight List" />
       <item value="non Pricce Store Express List" />
@@ -51,16 +56,11 @@
       <item value="in Special Range" />
       <item value="member Address In Special Range" />
       <item value="Calculate Price Set" />
-      <item value="Calculate" />
-      <item value="Palculate Price Set" />
-      <item value="add Nums" />
-      <item value="first Nums" />
-      <item value="no Money Num" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4403" />
-        <entry key="ENGLISH" value="4332" />
+        <entry key="CHINESE" value="4409" />
+        <entry key="ENGLISH" value="4338" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="3" />
