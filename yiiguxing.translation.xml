@@ -6,6 +6,9 @@
     <option name="newTranslationDialogY" value="394" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="calculate Product Freight" />
+      <item value="not Calculate Price Store Freight List" />
+      <item value="non Pricce Store Express List" />
       <item value="Kilometre " />
       <item value="exceed Kilometre" />
       <item value="distance" />
@@ -53,14 +56,11 @@
       <item value="add Nums" />
       <item value="first Nums" />
       <item value="no Money Num" />
-      <item value="charge By Kilometre" />
-      <item value="charge By Kelomitre" />
-      <item value="charge By Mile" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4398" />
-        <entry key="ENGLISH" value="4327" />
+        <entry key="CHINESE" value="4403" />
+        <entry key="ENGLISH" value="4332" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="3" />
