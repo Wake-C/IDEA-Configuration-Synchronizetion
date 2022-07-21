@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="394" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="is New Version Applet" />
       <item value="店铺配送方式运费列表" />
       <item value="Open City Delivery" />
       <item value="is Open City Delivery" />
@@ -55,12 +56,11 @@
       <item value="Address In Special Range" />
       <item value="in Special Range" />
       <item value="member Address In Special Range" />
-      <item value="Calculate Price Set" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4409" />
-        <entry key="ENGLISH" value="4338" />
+        <entry key="CHINESE" value="4410" />
+        <entry key="ENGLISH" value="4339" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="3" />
