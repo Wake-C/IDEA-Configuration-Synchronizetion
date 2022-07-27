@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="394" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Shared Amount Algorithm Util" />
       <item value="custom" />
       <item value="Custom" />
       <item value="customize" />
@@ -55,12 +56,11 @@
       <item value="get Free Postage" />
       <item value="free Postage" />
       <item value="free Delivery According To Buy Num" />
-      <item value="free Delivery According To Price" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4415" />
-        <entry key="ENGLISH" value="4344" />
+        <entry key="CHINESE" value="4416" />
+        <entry key="ENGLISH" value="4345" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="3" />
