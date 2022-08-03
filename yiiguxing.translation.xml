@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="394" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="CAPACITY" />
       <item value="product Exist" />
       <item value="Shared Amount Algorithm Util" />
       <item value="custom" />
@@ -55,12 +56,11 @@
       <item value="is Result Money" />
       <item value="free Delivery" />
       <item value="get Free Postage" />
-      <item value="free Postage" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4417" />
-        <entry key="ENGLISH" value="4346" />
+        <entry key="CHINESE" value="4418" />
+        <entry key="ENGLISH" value="4347" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="3" />
