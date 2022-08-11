@@ -6,6 +6,9 @@
     <option name="newTranslationDialogY" value="394" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="distribute Specify Card" />
+      <item value="distribute Specify" />
+      <item value="distribut" />
       <item value="distribute List" />
       <item value="full Payment Flag" />
       <item value="full Payment Status" />
@@ -53,14 +56,11 @@
       <item value="logistics Weight" />
       <item value="sum Weight" />
       <item value="reduce Weight" />
-      <item value="Multip" />
-      <item value="calculate Multip Unit Product Freight" />
-      <item value="markup Money" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4441" />
-        <entry key="ENGLISH" value="4370" />
+        <entry key="CHINESE" value="4444" />
+        <entry key="ENGLISH" value="4373" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="3" />
