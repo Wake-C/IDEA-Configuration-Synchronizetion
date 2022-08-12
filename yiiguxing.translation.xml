@@ -6,6 +6,13 @@
     <option name="newTranslationDialogY" value="394" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="industry Valid" />
+      <item value="discount Price" />
+      <item value="use Scene" />
+      <item value="use Secene" />
+      <item value="use Secence" />
+      <item value="card Type" />
+      <item value="distribute Shop Card Balance DTO" />
       <item value="shop Card Price Discount After" />
       <item value="distribute Card Price" />
       <item value="the zone ID, not null" />
@@ -49,18 +56,11 @@
       <item value="not Calculate Price Store Freight List" />
       <item value="non Pricce Store Express List" />
       <item value="Kilometre " />
-      <item value="exceed Kilometre" />
-      <item value="distance" />
-      <item value="xc Jl" />
-      <item value="ra Ill" />
-      <item value="exceed Weight" />
-      <item value="total Weight" />
-      <item value="logistics Weight" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4448" />
-        <entry key="ENGLISH" value="4377" />
+        <entry key="CHINESE" value="4455" />
+        <entry key="ENGLISH" value="4384" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="3" />
