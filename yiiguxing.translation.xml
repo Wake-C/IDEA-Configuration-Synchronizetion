@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="394" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Conditional On Class" />
+      <item value="distribute-price" />
       <item value="Shop Card Set Info" />
       <item value="virtual Product Remove Shop Pay" />
       <item value="total Price Amount" />
@@ -54,13 +56,11 @@
       <item value="    @PostMapping(value = &quot;customize-print&quot;)&#10;" />
       <item value="Com Print Template Field Service Impl" />
       <item value="parallel" />
-      <item value="is New Version Applet" />
-      <item value="店铺配送方式运费列表" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4466" />
-        <entry key="ENGLISH" value="4395" />
+        <entry key="CHINESE" value="4467" />
+        <entry key="ENGLISH" value="4396" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="3" />
