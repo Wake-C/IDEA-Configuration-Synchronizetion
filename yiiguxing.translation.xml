@@ -6,6 +6,18 @@
     <option name="newTranslationDialogY" value="394" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="first Pay Method Total Amount" />
+      <item value="first Pay Total Amount" />
+      <item value="first Pay Style Total Amount" />
+      <item value="first Pay Method Amount" />
+      <item value="first Pay Amount" />
+      <item value="Multiple Pay DTO" />
+      <item value="use Multiple Pay Method" />
+      <item value="second Pay Style" />
+      <item value="next Pay Style" />
+      <item value="second" />
+      <item value="get first pay method  totalAmount" />
+      <item value="shop Card Deduction Amount" />
       <item value="the context to use." />
       <item value="Flag" />
       <item value="has Inventory Product" />
@@ -44,23 +56,11 @@
       <item value="pay Info" />
       <item value="pay Card" />
       <item value="Distribute DTO" />
-      <item value="Shop Card Pay BO" />
-      <item value="Product BO" />
-      <item value="total Price" />
-      <item value="Shop Card Distribute Balance BO" />
-      <item value="Distribute" />
-      <item value="Shop Card Distribte Balance BO" />
-      <item value="Synchronized Resolve" />
-      <item value="none Specification" />
-      <item value="CAPACITY" />
-      <item value="product Exist" />
-      <item value="Shared Amount Algorithm Util" />
-      <item value="custom" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4474" />
-        <entry key="ENGLISH" value="4403" />
+        <entry key="CHINESE" value="4487" />
+        <entry key="ENGLISH" value="4416" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="3" />
