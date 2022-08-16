@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="394" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="has Inventory Product" />
       <item value="specify Card Full Payment" />
       <item value="specify Cardfull Payment" />
       <item value="Specify Cardfull Payment" />
@@ -55,12 +56,11 @@
       <item value="custom" />
       <item value="Custom" />
       <item value="customize" />
-      <item value="customize-print" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4471" />
-        <entry key="ENGLISH" value="4400" />
+        <entry key="CHINESE" value="4472" />
+        <entry key="ENGLISH" value="4401" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="3" />
