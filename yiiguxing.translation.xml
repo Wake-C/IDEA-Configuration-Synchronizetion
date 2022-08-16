@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="394" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="open Multiple Pay Method" />
+      <item value="get Multiple Pay Method" />
       <item value="first Pay Method Total Amount" />
       <item value="first Pay Total Amount" />
       <item value="first Pay Style Total Amount" />
@@ -54,13 +56,11 @@
       <item value="full Pay" />
       <item value="complete Status" />
       <item value="pay Info" />
-      <item value="pay Card" />
-      <item value="Distribute DTO" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="4487" />
-        <entry key="ENGLISH" value="4416" />
+        <entry key="ENGLISH" value="4418" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="3" />
@@ -76,7 +76,7 @@
         <entry key="MALAY" value="14" />
         <entry key="NORWEGIAN" value="2" />
         <entry key="PORTUGUESE" value="22" />
-        <entry key="ESPERANTO" value="9" />
+        <entry key="ESPERANTO" value="10" />
         <entry key="TURKISH" value="3" />
         <entry key="SPANISH" value="10" />
         <entry key="ITALIAN" value="6" />
@@ -100,11 +100,6 @@
         <option name="appId" value="20220216001084666" />
       </app-key>
     </option>
-    <option name="googleTranslateSettings">
-      <google-translate>
-        <option name="primaryLanguage" value="ESPERANTO" />
-      </google-translate>
-    </option>
     <option name="keepFormat" value="true" />
     <option name="overrideFont" value="true" />
     <option name="phoneticFontFamily" value="Arial" />
@@ -112,7 +107,6 @@
     <option name="showExplanation" value="true" />
     <option name="showWordsOnStartup" value="true" />
     <option name="translateDocumentation" value="true" />
-    <option name="translator" value="YOUDAO" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="72daf72feb661e19" />
