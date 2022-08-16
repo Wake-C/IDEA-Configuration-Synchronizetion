@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="394" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="store Basic List" />
       <item value="combination Pay" />
       <item value="store Order Price Total Amount" />
       <item value="remainder" />
@@ -55,12 +56,11 @@
       <item value="distribut" />
       <item value="distribute List" />
       <item value="full Payment Flag" />
-      <item value="full Payment Status" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4487" />
-        <entry key="ENGLISH" value="4423" />
+        <entry key="CHINESE" value="4488" />
+        <entry key="ENGLISH" value="4425" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="3" />
@@ -107,9 +107,11 @@
     <option name="showExplanation" value="true" />
     <option name="showWordsOnStartup" value="true" />
     <option name="translateDocumentation" value="true" />
+    <option name="translator" value="YOUDAO" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
-        <option name="appId" value="72daf72feb661e19" />
+        <option name="appId" value="326f2483a65ad632" />
+        <option name="primaryLanguage" value="ESPERANTO" />
       </youdao-translate>
     </option>
   </component>
