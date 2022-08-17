@@ -111,7 +111,6 @@
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="326f2483a65ad632" />
-        <option name="primaryLanguage" value="ESPERANTO" />
       </youdao-translate>
     </option>
   </component>
