@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="394" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="COMBINATION PAY FIRST PAY AMOUNT ERROR" />
       <item value="require" />
       <item value="requires" />
       <item value="store Basic List" />
@@ -55,12 +56,11 @@
       <item value="the zone ID, not null" />
       <item value="distribute Specify Card" />
       <item value="distribute Specify" />
-      <item value="distribut" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4491" />
-        <entry key="ENGLISH" value="4428" />
+        <entry key="CHINESE" value="4492" />
+        <entry key="ENGLISH" value="4429" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="3" />
