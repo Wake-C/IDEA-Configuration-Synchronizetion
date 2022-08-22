@@ -5,10 +5,8 @@
         <option name="convertByteOrShortToInt" value="true" />
         <option name="generateMethodInService" value="true" />
         <option name="generateMethodInServiceInterface" value="true" />
-        <option name="generatedCount" value="1655451843834" />
-        <option name="lastD1" value="1657187952278" />
-        <option name="lastD2" value="1657187952283" />
         <option name="methodNameSqlCommment" value="" />
+        <option name="useD1" value="1661161793922" />
         <option name="usejava8LocalDateTimeEct" value="true" />
         <option name="valid" value="true" />
       </Profile>
