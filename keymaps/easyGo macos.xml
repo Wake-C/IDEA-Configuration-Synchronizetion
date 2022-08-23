@@ -95,7 +95,6 @@
     <keyboard-shortcut first-keystroke="delete" />
   </action>
   <action id="EditSourceInNewWindow">
-    <keyboard-shortcut first-keystroke="shift f4" />
     <keyboard-shortcut first-keystroke="shift f5" />
   </action>
   <action id="Editor Copy">
