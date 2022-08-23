@@ -4,8 +4,8 @@
     <option name="newTranslationDialogHeight" value="356" />
     <option name="newTranslationDialogX" value="574" />
     <option name="newTranslationDialogY" value="394" />
-    <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="is Return" />
       <item value="sequencer" />
       <item value="COMBINATION PAY FIRST PAY AMOUNT ERROR" />
       <item value="require" />
@@ -55,12 +55,11 @@
       <item value="shop Card Price Discount After" />
       <item value="distribute Card Price" />
       <item value="the zone ID, not null" />
-      <item value="distribute Specify Card" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4493" />
-        <entry key="ENGLISH" value="4430" />
+        <entry key="CHINESE" value="4494" />
+        <entry key="ENGLISH" value="4431" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="3" />
