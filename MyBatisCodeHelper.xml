@@ -7,6 +7,7 @@
         <option name="generateMethodInServiceInterface" value="true" />
         <option name="insertMethodNameText" value="insert;save" />
         <option name="methodNameSqlCommment" value="" />
+        <option name="theUsageCount" value="1663814258521" />
         <option name="usejava8LocalDateTimeEct" value="true" />
         <option name="valid" value="true" />
       </Profile>
