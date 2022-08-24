@@ -168,6 +168,7 @@
   <action id="FileChooser.LightEditGotoOpenedFile">
     <keyboard-shortcut first-keystroke="meta alt 2" />
   </action>
+  <action id="FileChooserList.Root" />
   <action id="Find">
     <keyboard-shortcut first-keystroke="ctrl f" />
     <keyboard-shortcut first-keystroke="alt f3" />
@@ -286,6 +287,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt f11" />
   </action>
   <action id="RunDashboard.CopyConfiguration" />
+  <action id="RunInspection" />
   <action id="SafeDelete">
     <keyboard-shortcut first-keystroke="alt delete" />
     <keyboard-shortcut first-keystroke="meta back_space" />
@@ -331,7 +333,6 @@
   </action>
   <action id="Tool.GotoRequestService">
     <keyboard-shortcut first-keystroke="ctrl alt slash" />
-    <keyboard-shortcut first-keystroke="ctrl back_slash" />
   </action>
   <action id="Tree-scrollUpChangeSelection">
     <keyboard-shortcut first-keystroke="page_up" />
@@ -393,6 +394,10 @@
   <action id="emacsIDEAs.AceJumpObtainThenReplace.Word" />
   <action id="emacsIDEAs.AceJumpSelect" />
   <action id="emacsIDEAs.AceJumpWord" />
+  <action id="fastRequest.generator" />
+  <action id="fastRequest.gotoFastRequest">
+    <keyboard-shortcut first-keystroke="ctrl back_slash" />
+  </action>
   <action id="javadoc.generator">
     <keyboard-shortcut first-keystroke="shift ctrl meta c" />
   </action>
