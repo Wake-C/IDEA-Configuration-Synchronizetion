@@ -1,10 +1,11 @@
 <application>
   <component name="easyJavadoc">
-    <option name="appId" value="" />
+    <option name="appId" value="20220216001084666" />
     <option name="author" value="zhan bing" />
     <option name="secretId" value="" />
     <option name="secretKey" value="" />
     <option name="simpleFieldDoc" value="true" />
-    <option name="token" value="" />
+    <option name="token" value="lLHZT5pa_iOtZkL76I0s" />
+    <option name="translator" value="百度翻译" />
   </component>
 </application>
