@@ -94,6 +94,7 @@
         <option value="localhost:8080" />
       </list>
     </option>
+    <option name="eual" value="true" />
     <option name="headerGroupList">
       <list>
         <HeaderGroup>
@@ -139,8 +140,8 @@
     <option name="statisticsList">
       <list>
         <YearStatistics>
-          <option name="totalActionCount" value="61" />
-          <option name="totalRocketCount" value="9" />
+          <option name="totalActionCount" value="65" />
+          <option name="totalRocketCount" value="11" />
           <option name="year" value="2022" />
         </YearStatistics>
       </list>
