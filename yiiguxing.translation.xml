@@ -86,6 +86,7 @@
   </component>
   <component name="States">
     <histories>
+      <item value="virtual Product" />
       <item value="custom Buy Info" />
       <item value="when Save Remove Product Cache" />
       <item value="Shop Card Deduction Amount" />
@@ -95,8 +96,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="6" />
+        <entry key="CHINESE" value="8" />
+        <entry key="ENGLISH" value="7" />
         <entry key="SWEDISH" value="1" />
       </map>
     </option>
