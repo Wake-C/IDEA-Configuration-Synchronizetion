@@ -88,6 +88,10 @@
     <option name="newTranslationDialogX" value="-1132" />
     <option name="newTranslationDialogY" value="397" />
     <histories>
+      <item value="remaining Detail List" />
+      <item value="remain" />
+      <item value="reminde" />
+      <item value="reminder" />
       <item value="applet Order Delivery Notification" />
       <item value="No Transaction Order Delivery" />
       <item value="savecontact" />
@@ -101,9 +105,10 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="10" />
-        <entry key="ENGLISH" value="9" />
+        <entry key="CHINESE" value="14" />
+        <entry key="ENGLISH" value="12" />
         <entry key="SWEDISH" value="1" />
+        <entry key="TURKISH" value="1" />
       </map>
     </option>
   </component>
