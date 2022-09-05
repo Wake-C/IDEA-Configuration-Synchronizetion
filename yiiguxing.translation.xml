@@ -85,7 +85,10 @@
     </option>
   </component>
   <component name="States">
+    <option name="newTranslationDialogX" value="-1132" />
+    <option name="newTranslationDialogY" value="397" />
     <histories>
+      <item value="applet Order Delivery Notification" />
       <item value="No Transaction Order Delivery" />
       <item value="savecontact" />
       <item value="virtual Product" />
