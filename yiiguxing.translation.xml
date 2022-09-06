@@ -88,6 +88,12 @@
     <option name="newTranslationDialogX" value="-1132" />
     <option name="newTranslationDialogY" value="397" />
     <histories>
+      <item value="exsit Special Product" />
+      <item value="fill Special Form Flag" />
+      <item value="fill Special Form" />
+      <item value="full" />
+      <item value="full Special From" />
+      <item value="full Special Form" />
       <item value="save Virtual Product Buy Info" />
       <item value="remaining Detail List" />
       <item value="remain" />
@@ -106,8 +112,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="15" />
-        <entry key="ENGLISH" value="13" />
+        <entry key="CHINESE" value="23" />
+        <entry key="ENGLISH" value="21" />
         <entry key="SWEDISH" value="1" />
         <entry key="TURKISH" value="1" />
       </map>
