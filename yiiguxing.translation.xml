@@ -88,6 +88,7 @@
     <option name="newTranslationDialogX" value="-1132" />
     <option name="newTranslationDialogY" value="397" />
     <histories>
+      <item value="Predefined" />
       <item value="find List On Not Create" />
       <item value="find Or Create" />
       <item value="exsit Special Product" />
@@ -114,8 +115,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="25" />
-        <entry key="ENGLISH" value="23" />
+        <entry key="CHINESE" value="26" />
+        <entry key="ENGLISH" value="24" />
         <entry key="SWEDISH" value="1" />
         <entry key="TURKISH" value="1" />
       </map>
