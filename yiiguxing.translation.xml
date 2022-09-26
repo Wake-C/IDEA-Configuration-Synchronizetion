@@ -88,6 +88,7 @@
     <option name="newTranslationDialogX" value="-1132" />
     <option name="newTranslationDialogY" value="397" />
     <histories>
+      <item value="not Calculate Price Store Freight List" />
       <item value="free Condition" />
       <item value="remove" />
       <item value="set Free Shipping List" />
@@ -127,8 +128,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="39" />
-        <entry key="ENGLISH" value="37" />
+        <entry key="CHINESE" value="41" />
+        <entry key="ENGLISH" value="39" />
         <entry key="SWEDISH" value="1" />
         <entry key="TURKISH" value="1" />
       </map>
