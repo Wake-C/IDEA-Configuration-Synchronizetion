@@ -56,7 +56,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1663925910134" />
+    <option name="lastTrimTime" value="1664414961230" />
   </component>
   <component name="Settings">
     <option name="aliTranslateSettings">
@@ -88,6 +88,7 @@
     <option name="newTranslationDialogX" value="-1132" />
     <option name="newTranslationDialogY" value="397" />
     <histories>
+      <item value="card" />
       <item value="not Calculate Price Store Freight List" />
       <item value="free Condition" />
       <item value="remove" />
@@ -128,8 +129,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="41" />
-        <entry key="ENGLISH" value="39" />
+        <entry key="CHINESE" value="42" />
+        <entry key="ENGLISH" value="40" />
         <entry key="SWEDISH" value="1" />
         <entry key="TURKISH" value="1" />
       </map>
