@@ -88,6 +88,7 @@
     <option name="newTranslationDialogX" value="-1132" />
     <option name="newTranslationDialogY" value="397" />
     <histories>
+      <item value="freight Price" />
       <item value="validation Delivery Style" />
       <item value="free Package Text" />
       <item value="free Text" />
@@ -134,8 +135,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="47" />
-        <entry key="ENGLISH" value="45" />
+        <entry key="CHINESE" value="48" />
+        <entry key="ENGLISH" value="46" />
         <entry key="SWEDISH" value="1" />
         <entry key="TURKISH" value="1" />
       </map>
