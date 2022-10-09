@@ -88,6 +88,7 @@
     <option name="newTranslationDialogX" value="-1132" />
     <option name="newTranslationDialogY" value="397" />
     <histories>
+      <item value="get Distance Freight" />
       <item value="error Info" />
       <item value="calculation Strategy" />
       <item value="direct Distance" />
@@ -137,12 +138,11 @@
       <item value="virtual Product" />
       <item value="custom Buy Info" />
       <item value="when Save Remove Product Cache" />
-      <item value="Shop Card Deduction Amount" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="62" />
-        <entry key="ENGLISH" value="59" />
+        <entry key="CHINESE" value="63" />
+        <entry key="ENGLISH" value="60" />
         <entry key="SWEDISH" value="1" />
         <entry key="TURKISH" value="2" />
       </map>
