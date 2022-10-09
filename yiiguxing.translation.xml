@@ -88,6 +88,8 @@
     <option name="newTranslationDialogX" value="-1132" />
     <option name="newTranslationDialogY" value="397" />
     <histories>
+      <item value="direct Distance" />
+      <item value="in Range List" />
       <item value="match Condition Text" />
       <item value="free Package Text" />
       <item value="satify" />
@@ -136,12 +138,11 @@
       <item value="Shop Card Deduction Amount" />
       <item value="append Pay Amount" />
       <item value="annts" />
-      <item value="inclusive" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="58" />
-        <entry key="ENGLISH" value="55" />
+        <entry key="CHINESE" value="60" />
+        <entry key="ENGLISH" value="57" />
         <entry key="SWEDISH" value="1" />
         <entry key="TURKISH" value="2" />
       </map>
