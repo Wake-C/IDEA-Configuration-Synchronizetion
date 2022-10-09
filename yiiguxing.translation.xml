@@ -88,6 +88,7 @@
     <option name="newTranslationDialogX" value="-1132" />
     <option name="newTranslationDialogY" value="397" />
     <histories>
+      <item value="any In Range" />
       <item value="in Range" />
       <item value="between Latitude And Longitude" />
       <item value="in Range Longitude And Latitude" />
@@ -137,12 +138,11 @@
       <item value="remaining Detail List" />
       <item value="remain" />
       <item value="reminde" />
-      <item value="reminder" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="69" />
-        <entry key="ENGLISH" value="65" />
+        <entry key="CHINESE" value="70" />
+        <entry key="ENGLISH" value="66" />
         <entry key="SWEDISH" value="1" />
         <entry key="TURKISH" value="2" />
         <entry key="SPANISH" value="1" />
