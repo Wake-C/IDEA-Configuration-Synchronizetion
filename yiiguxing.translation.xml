@@ -88,6 +88,8 @@
     <option name="newTranslationDialogX" value="-1132" />
     <option name="newTranslationDialogY" value="397" />
     <histories>
+      <item value="Merchant Delivery Set" />
+      <item value="bus Delivery Set" />
       <item value="Charge" />
       <item value="calculate Charge By Weight" />
       <item value="template Id With Product List" />
@@ -136,13 +138,11 @@
       <item value="find Or Create" />
       <item value="exsit Special Product" />
       <item value="fill Special Form Flag" />
-      <item value="fill Special Form" />
-      <item value="full" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="76" />
-        <entry key="ENGLISH" value="72" />
+        <entry key="CHINESE" value="78" />
+        <entry key="ENGLISH" value="74" />
         <entry key="SWEDISH" value="1" />
         <entry key="TURKISH" value="2" />
         <entry key="SPANISH" value="1" />
