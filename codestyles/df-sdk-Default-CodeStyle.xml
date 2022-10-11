@@ -1,5 +1,6 @@
 <code_scheme name="df-sdk-Default-CodeStyle" version="173">
   <option name="RIGHT_MARGIN" value="180" />
+  <option name="ENABLE_SECOND_REFORMAT" value="true" />
   <JavaCodeStyleSettings>
     <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
     <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />

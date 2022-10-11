@@ -1,0 +1,150 @@
+<application>
+  <component name="fastRequest">
+    <option name="dataList">
+      <list>
+        <NameGroup>
+          <option name="hostGroup">
+            <list>
+              <HostGroup>
+                <option name="env" value="localhost:8080" />
+                <option name="url" value="" />
+              </HostGroup>
+            </list>
+          </option>
+          <option name="name" value="dev" />
+        </NameGroup>
+      </list>
+    </option>
+    <option name="defaultDataMappingList">
+      <list>
+        <DataMapping>
+          <option name="type" value="byte" />
+          <option name="value" value="1" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="java.lang.Byte" />
+          <option name="value" value="1" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="short" />
+          <option name="value" value="1" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="java.lang.Short" />
+          <option name="value" value="1" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="int" />
+          <option name="value" value="1" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="java.lang.Integer" />
+          <option name="value" value="1" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="long" />
+          <option name="value" value="1" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="java.lang.Long" />
+          <option name="value" value="1" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="char" />
+          <option name="value" value="a" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="java.lang.Character" />
+          <option name="value" value="a" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="float" />
+          <option name="value" value="1" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="java.lang.Float" />
+          <option name="value" value="1" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="double" />
+          <option name="value" value="1" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="java.lang.Double" />
+          <option name="value" value="1" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="boolean" />
+          <option name="value" value="true" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="java.lang.Boolean" />
+          <option name="value" value="true" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="java.math.BigDecimal" />
+          <option name="value" value="1" />
+        </DataMapping>
+      </list>
+    </option>
+    <option name="enableEnv" value="localhost:8080" />
+    <option name="enableProject" value="dev" />
+    <option name="envList">
+      <list>
+        <option value="localhost:8080" />
+      </list>
+    </option>
+    <option name="eual" value="true" />
+    <option name="headerGroupList">
+      <list>
+        <HeaderGroup>
+          <option name="envMap">
+            <map>
+              <entry key="localhost:8080">
+                <value>
+                  <map>
+                    <entry key="accept" value="application/json;charset=UTF-8" />
+                    <entry key="accept-encoding" value="gzip,deflate" />
+                    <entry key="content-type" value="application/json;charset=UTF-8" />
+                    <entry key="log-center-trace-application-name" value="gt-mall-activity" />
+                    <entry key="log-center-trace-application-profile" value="prod" />
+                    <entry key="log-center-trace-id" value="f03b327d-fae3-44b7-8aec-42916a20664d" />
+                    <entry key="log-center-trace-model" value="request" />
+                    <entry key="log-center-trace-uuid" value="48f2eda0-d5d9-4eb4-a6b6-d3f0f50749d4" />
+                    <entry key="sign" value="{&quot;randNum&quot;:&quot;92675&quot;,&quot;sign&quot;:&quot;032c4af35016adef5551321785f2cb58&quot;,&quot;timeStamp&quot;:&quot;1661350321220&quot;}" />
+                    <entry key="user-agent" value="Apache-HttpClient/4.5.6 (Java/1.8.0_212)" />
+                    <entry key="x-b3-parentspanid" value="27dc5f37216594d4" />
+                    <entry key="x-b3-sampled" value="0" />
+                    <entry key="x-b3-spanid" value="59580501483a9fd9" />
+                    <entry key="x-b3-traceid" value="56fb00bdc7ea3dff27dc5f37216594d4" />
+                    <entry key="x-envoy-attempt-count" value="1" />
+                    <entry key="x-forwarded-client-cert" value="By=spiffe://cluster.local/ns/df-prod/sa/default;Hash=05c60506fa2fc3241db41f231c31994bd08b8a94180558429baf695785d7f470;Subject=&quot;&quot;;URI=spiffe://cluster.local/ns/df-prod/sa/default" />
+                    <entry key="x-forwarded-proto" value="http" />
+                    <entry key="x-request-id" value="71e6d137-a32b-47d1-b87b-03db04cd9d46" />
+                  </map>
+                </value>
+              </entry>
+            </map>
+          </option>
+          <option name="projectName" value="dev" />
+        </HeaderGroup>
+      </list>
+    </option>
+    <option name="projectList">
+      <list>
+        <option value="dev" />
+      </list>
+    </option>
+    <option name="randomStringLength" value="5" />
+    <option name="statisticsDate" value="2022-08-24 15:42:36" />
+    <option name="statisticsList">
+      <list>
+        <YearStatistics>
+          <option name="totalActionCount" value="265" />
+          <option name="totalRocketCount" value="17" />
+          <option name="year" value="2022" />
+        </YearStatistics>
+      </list>
+    </option>
+  </component>
+</application>
