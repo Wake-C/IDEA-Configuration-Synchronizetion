@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="574" />
     <option name="newTranslationDialogY" value="394" />
     <histories>
+      <item value="is Change Product" />
       <item value="exchange" />
       <item value="eticket" />
       <item value="verify" />
@@ -27,7 +28,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="4505" />
-        <entry key="ENGLISH" value="4448" />
+        <entry key="ENGLISH" value="4449" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="3" />
@@ -77,7 +78,6 @@
     <option name="showExplanation" value="true" />
     <option name="showWordsOnStartup" value="true" />
     <option name="translateDocumentation" value="true" />
-    <option name="translator" value="YOUDAO" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="326f2483a65ad632" />
