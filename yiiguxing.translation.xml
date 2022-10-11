@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="574" />
     <option name="newTranslationDialogY" value="394" />
     <histories>
+      <item value="Same Template Id Pro Data List" />
       <item value="warm:其他业务不要使用" />
       <item value="list Excluded Refund Item" />
       <item value="is Change Product" />
@@ -30,7 +31,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="4506" />
-        <entry key="ENGLISH" value="4451" />
+        <entry key="ENGLISH" value="4452" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="3" />
