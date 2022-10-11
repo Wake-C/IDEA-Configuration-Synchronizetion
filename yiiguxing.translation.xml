@@ -5,6 +5,19 @@
     <option name="newTranslationDialogX" value="574" />
     <option name="newTranslationDialogY" value="394" />
     <histories>
+      <item value="validation" />
+      <item value="validation Member Address" />
+      <item value="valid" />
+      <item value="valid Member Address" />
+      <item value="Express Delivery Settings" />
+      <item value="Merchant Delivery Settings" />
+      <item value="Settings" />
+      <item value="delivery Settings" />
+      <item value="validation Merchant Logistics Settings" />
+      <item value="validation Bus Logistics Settings" />
+      <item value="validation Delivery Set" />
+      <item value="Charge By Piece" />
+      <item value="calculate Charge By Piece" />
       <item value="Same Template Id Pro Data List" />
       <item value="warm:其他业务不要使用" />
       <item value="list Excluded Refund Item" />
@@ -31,7 +44,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="4506" />
-        <entry key="ENGLISH" value="4452" />
+        <entry key="ENGLISH" value="4468" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="3" />
