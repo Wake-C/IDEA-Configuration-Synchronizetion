@@ -402,5 +402,9 @@
   <action id="javadoc.generator">
     <keyboard-shortcut first-keystroke="shift ctrl meta c" />
   </action>
+  <action id="javadoc.generatorAll">
+    <keyboard-shortcut first-keystroke="shift ctrl meta x" />
+    <keyboard-shortcut first-keystroke="shift meta back_slash" />
+  </action>
   <action id="openAssertEqualsDiff" />
 </keymap>
