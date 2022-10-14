@@ -6,12 +6,47 @@
           <option name="hostGroup">
             <list>
               <HostGroup>
-                <option name="env" value="localhost:8080" />
-                <option name="url" value="" />
+                <option name="env" value="dev" />
+                <option name="url" value="localhost:8080" />
+              </HostGroup>
+              <HostGroup>
+                <option name="env" value="test" />
+                <option name="url" value="https://mall.deeptel.com.cn/" />
+              </HostGroup>
+              <HostGroup>
+                <option name="env" value="pre" />
+                <option name="url" value="https://nbmall.deeptel.com.cn" />
+              </HostGroup>
+              <HostGroup>
+                <option name="env" value="prod" />
+                <option name="url" value="https://mall.duofriend.com" />
               </HostGroup>
             </list>
           </option>
-          <option name="name" value="dev" />
+          <option name="name" value="mall" />
+        </NameGroup>
+        <NameGroup>
+          <option name="hostGroup">
+            <list>
+              <HostGroup>
+                <option name="env" value="dev" />
+                <option name="url" value="localhost:8080" />
+              </HostGroup>
+              <HostGroup>
+                <option name="env" value="test" />
+                <option name="url" value="https://mall-order.deeptel.com.cn/" />
+              </HostGroup>
+              <HostGroup>
+                <option name="env" value="pre" />
+                <option name="url" value="https://nbmall-order.deeptel.com.cn" />
+              </HostGroup>
+              <HostGroup>
+                <option name="env" value="prod" />
+                <option name="url" value="https://mall-order.duofriend.com" />
+              </HostGroup>
+            </list>
+          </option>
+          <option name="name" value="mall_order" />
         </NameGroup>
       </list>
     </option>
@@ -87,11 +122,15 @@
         </DataMapping>
       </list>
     </option>
-    <option name="enableEnv" value="localhost:8080" />
-    <option name="enableProject" value="dev" />
+    <option name="domain" value="https://mall.deeptel.com.cn/" />
+    <option name="enableEnv" value="test" />
+    <option name="enableProject" value="mall" />
     <option name="envList">
       <list>
-        <option value="localhost:8080" />
+        <option value="dev" />
+        <option value="test" />
+        <option value="pre" />
+        <option value="prod" />
       </list>
     </option>
     <option name="eual" value="true" />
@@ -103,16 +142,31 @@
               <entry key="localhost:8080">
                 <value>
                   <map>
-                    <entry key="accept" value="application/json;charset=UTF-8" />
+                    <entry key="accept" value="*/*" />
                     <entry key="accept-encoding" value="gzip,deflate" />
-                    <entry key="content-type" value="application/json;charset=UTF-8" />
+                    <entry key="accept-language" value="en-US,en;q=0.9,zh-TW;q=0.8,zh;q=0.7" />
+                    <entry key="authority" value="m-api.deeptel.com.cn" />
+                    <entry key="cache-control" value="no-cache" />
+                    <entry key="content-type" value="application/json" />
+                    <entry key="cookie" value="JSESSIONID=89BAEA0CE79AA94E28E78126879E113D; APP_MESSAGE_COOKIE_2022-10-13=e018e394748c127f6c2d832fad2054ca; LOGIN_MEMBER_TOKEN_V2=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2NjU2NDUzNTcsInN1YiI6IntcImJ1c0lkXCI6MzYsXCJyYW5kb21cIjpcIjQ3NjYyNDY0XCIsXCJtZW1iZXJJZFwiOjYzNTUwODg0NjE0MzE3fSIsImlzcyI6ImR1b2ZyaWVuZCIsImF1ZCI6Im1lbWJlciIsImV4cCI6MTY2NTczMTc1NywibmJmIjoxNjY1NjQ1MzU3fQ.0uB1u2423zpiqGrLFsXb6Bggk7vUA_AqZ1jLgWmHcB8" />
+                    <entry key="distributor_login_token" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlbmNyeXB0SWQiOiJNakF4TkRNeU5qRXlNRFUwTWpJMiIsInN1YiI6Iue7j-mUgOWVhi0yMDE0MzI2MTIwNTQyMjYiLCJpc3MiOiIwOThmNmJjZDQ2MjFkMzczY2FkZTRlODMyNjI3YjRmNiIsImlhdCI6MTY1OTUxNjc2NCwiYXVkIjoiZGlzdHJpYnV0b3IiLCJleHAiOjE5NzQ4NzY3NjQsIm5iZiI6MTY1OTUxNjc2NH0.6O-mXOBKrdU39a8L6AEu4WCt3hqWxnJdg1fytLs_-eU" />
                     <entry key="log-center-trace-application-name" value="gt-mall-activity" />
                     <entry key="log-center-trace-application-profile" value="prod" />
                     <entry key="log-center-trace-id" value="f03b327d-fae3-44b7-8aec-42916a20664d" />
                     <entry key="log-center-trace-model" value="request" />
                     <entry key="log-center-trace-uuid" value="48f2eda0-d5d9-4eb4-a6b6-d3f0f50749d4" />
+                    <entry key="login_source" value="3" />
+                    <entry key="main_bus" value="36" />
+                    <entry key="origin" value="https://36.m.deeptel.com.cn" />
+                    <entry key="referer" value="https://36.m.deeptel.com.cn/" />
+                    <entry key="sec-ch-ua" value="&quot;Chromium&quot;;v=&quot;106&quot;, &quot;Google Chrome&quot;;v=&quot;106&quot;, &quot;Not;A=Brand&quot;;v=&quot;99&quot;" />
+                    <entry key="sec-ch-ua-mobile" value="?1" />
+                    <entry key="sec-ch-ua-platform" value="&quot;Android&quot;" />
+                    <entry key="sec-fetch-dest" value="empty" />
+                    <entry key="sec-fetch-mode" value="cors" />
+                    <entry key="sec-fetch-site" value="same-site" />
                     <entry key="sign" value="{&quot;randNum&quot;:&quot;92675&quot;,&quot;sign&quot;:&quot;032c4af35016adef5551321785f2cb58&quot;,&quot;timeStamp&quot;:&quot;1661350321220&quot;}" />
-                    <entry key="user-agent" value="Apache-HttpClient/4.5.6 (Java/1.8.0_212)" />
+                    <entry key="user-agent" value="Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36" />
                     <entry key="x-b3-parentspanid" value="27dc5f37216594d4" />
                     <entry key="x-b3-sampled" value="0" />
                     <entry key="x-b3-spanid" value="59580501483a9fd9" />
@@ -128,11 +182,42 @@
           </option>
           <option name="projectName" value="dev" />
         </HeaderGroup>
+        <HeaderGroup>
+          <option name="envMap">
+            <map>
+              <entry key="dev">
+                <value>
+                  <map>
+                    <entry key="accept" value="application/json, text/plain, */*" />
+                    <entry key="accept-language" value="en-US,en;q=0.9,zh-TW;q=0.8,zh;q=0.7" />
+                    <entry key="authority" value="mall-web.deeptel.com.cn" />
+                    <entry key="cookie" value="LOGIN_MEMBER_TOKEN_V2=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2NjU2NDUzNTcsInN1YiI6IntcImJ1c0lkXCI6MzYsXCJyYW5kb21cIjpcIjQ3NjYyNDY0XCIsXCJtZW1iZXJJZFwiOjYzNTUwODg0NjE0MzE3fSIsImlzcyI6ImR1b2ZyaWVuZCIsImF1ZCI6Im1lbWJlciIsImV4cCI6MTY2NTczMTc1NywibmJmIjoxNjY1NjQ1MzU3fQ.0uB1u2423zpiqGrLFsXb6Bggk7vUA_AqZ1jLgWmHcB8; loginToken=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2NjU3MTU2ODQsInN1YiI6IntcImJ1c0lkXCI6XCIzNlwiLFwicmFuZG9tXCI6XCI1NTg4NjlcIixcImJ1c05hbWVcIjpcImdvb2R0b21cIn0iLCJpc3MiOiJkdW9mcmllbmQiLCJhdWQiOiJkdW9mZW4iLCJleHAiOjE2OTcyOTkxOTksIm5iZiI6MTY2NTcxNTY4NH0.h-O-VkI2Mn8XNA4SZ-3sGE-KAX9RLg2NrHAMYkc7dgk" />
+                    <entry key="referer" value="https://mall-web.deeptel.com.cn/web/pc/product.html" />
+                    <entry key="sec-ch-ua" value="&quot;Chromium&quot;;v=&quot;106&quot;, &quot;Google Chrome&quot;;v=&quot;106&quot;, &quot;Not;A=Brand&quot;;v=&quot;99&quot;" />
+                    <entry key="sec-ch-ua-mobile" value="?0" />
+                    <entry key="sec-ch-ua-platform" value="&quot;macOS&quot;" />
+                    <entry key="sec-fetch-dest" value="empty" />
+                    <entry key="sec-fetch-mode" value="cors" />
+                    <entry key="sec-fetch-site" value="same-origin" />
+                    <entry key="user-agent" value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" />
+                  </map>
+                </value>
+              </entry>
+              <entry key="test">
+                <value>
+                  <map />
+                </value>
+              </entry>
+            </map>
+          </option>
+          <option name="projectName" value="mall" />
+        </HeaderGroup>
       </list>
     </option>
     <option name="projectList">
       <list>
-        <option value="dev" />
+        <option value="mall" />
+        <option value="mall_order" />
       </list>
     </option>
     <option name="randomStringLength" value="5" />
@@ -140,8 +225,9 @@
     <option name="statisticsList">
       <list>
         <YearStatistics>
-          <option name="totalActionCount" value="278" />
-          <option name="totalRocketCount" value="23" />
+          <option name="totalActionCount" value="288" />
+          <option name="totalRocketCount" value="26" />
+          <option name="totalSuccessCount" value="5" />
           <option name="year" value="2022" />
         </YearStatistics>
       </list>
