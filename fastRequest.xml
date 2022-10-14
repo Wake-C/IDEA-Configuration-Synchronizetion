@@ -122,8 +122,8 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="https://mall.deeptel.com.cn/" />
-    <option name="enableEnv" value="test" />
+    <option name="domain" value="localhost:8080" />
+    <option name="enableEnv" value="dev" />
     <option name="enableProject" value="mall" />
     <option name="envList">
       <list>
@@ -205,7 +205,20 @@
               </entry>
               <entry key="test">
                 <value>
-                  <map />
+                  <map>
+                    <entry key="accept" value="application/json, text/plain, */*" />
+                    <entry key="accept-language" value="en-US,en;q=0.9,zh-TW;q=0.8,zh;q=0.7" />
+                    <entry key="authority" value="mall-web.deeptel.com.cn" />
+                    <entry key="cookie" value="LOGIN_MEMBER_TOKEN_V2=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2NjU2NDUzNTcsInN1YiI6IntcImJ1c0lkXCI6MzYsXCJyYW5kb21cIjpcIjQ3NjYyNDY0XCIsXCJtZW1iZXJJZFwiOjYzNTUwODg0NjE0MzE3fSIsImlzcyI6ImR1b2ZyaWVuZCIsImF1ZCI6Im1lbWJlciIsImV4cCI6MTY2NTczMTc1NywibmJmIjoxNjY1NjQ1MzU3fQ.0uB1u2423zpiqGrLFsXb6Bggk7vUA_AqZ1jLgWmHcB8; loginToken=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2NjU3MTU2ODQsInN1YiI6IntcImJ1c0lkXCI6XCIzNlwiLFwicmFuZG9tXCI6XCI1NTg4NjlcIixcImJ1c05hbWVcIjpcImdvb2R0b21cIn0iLCJpc3MiOiJkdW9mcmllbmQiLCJhdWQiOiJkdW9mZW4iLCJleHAiOjE2OTcyOTkxOTksIm5iZiI6MTY2NTcxNTY4NH0.h-O-VkI2Mn8XNA4SZ-3sGE-KAX9RLg2NrHAMYkc7dgk" />
+                    <entry key="referer" value="https://mall-web.deeptel.com.cn/web/pc/product.html" />
+                    <entry key="sec-ch-ua" value="&quot;Chromium&quot;;v=&quot;106&quot;, &quot;Google Chrome&quot;;v=&quot;106&quot;, &quot;Not;A=Brand&quot;;v=&quot;99&quot;" />
+                    <entry key="sec-ch-ua-mobile" value="?0" />
+                    <entry key="sec-ch-ua-platform" value="&quot;macOS&quot;" />
+                    <entry key="sec-fetch-dest" value="empty" />
+                    <entry key="sec-fetch-mode" value="cors" />
+                    <entry key="sec-fetch-site" value="same-origin" />
+                    <entry key="user-agent" value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" />
+                  </map>
                 </value>
               </entry>
             </map>
@@ -225,9 +238,9 @@
     <option name="statisticsList">
       <list>
         <YearStatistics>
-          <option name="totalActionCount" value="288" />
+          <option name="totalActionCount" value="309" />
           <option name="totalRocketCount" value="26" />
-          <option name="totalSuccessCount" value="5" />
+          <option name="totalSuccessCount" value="16" />
           <option name="year" value="2022" />
         </YearStatistics>
       </list>
