@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="574" />
     <option name="newTranslationDialogY" value="394" />
     <histories>
+      <item value="times" />
       <item value="validation Member Address" />
       <item value="validation Merchant Logistics Settings" />
       <item value="Free Condition VO" />
@@ -49,8 +50,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4512" />
-        <entry key="ENGLISH" value="4475" />
+        <entry key="CHINESE" value="4513" />
+        <entry key="ENGLISH" value="4476" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="3" />
