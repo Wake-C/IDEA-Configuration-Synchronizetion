@@ -188,18 +188,23 @@
               <entry key="dev">
                 <value>
                   <map>
-                    <entry key="accept" value="application/json, text/plain, */*" />
-                    <entry key="accept-language" value="en-US,en;q=0.9,zh-TW;q=0.8,zh;q=0.7" />
-                    <entry key="authority" value="mall-web.deeptel.com.cn" />
-                    <entry key="cookie" value="LOGIN_MEMBER_TOKEN_V2=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2NjU2NDUzNTcsInN1YiI6IntcImJ1c0lkXCI6MzYsXCJyYW5kb21cIjpcIjQ3NjYyNDY0XCIsXCJtZW1iZXJJZFwiOjYzNTUwODg0NjE0MzE3fSIsImlzcyI6ImR1b2ZyaWVuZCIsImF1ZCI6Im1lbWJlciIsImV4cCI6MTY2NTczMTc1NywibmJmIjoxNjY1NjQ1MzU3fQ.0uB1u2423zpiqGrLFsXb6Bggk7vUA_AqZ1jLgWmHcB8; loginToken=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2NjU3MTU2ODQsInN1YiI6IntcImJ1c0lkXCI6XCIzNlwiLFwicmFuZG9tXCI6XCI1NTg4NjlcIixcImJ1c05hbWVcIjpcImdvb2R0b21cIn0iLCJpc3MiOiJkdW9mcmllbmQiLCJhdWQiOiJkdW9mZW4iLCJleHAiOjE2OTcyOTkxOTksIm5iZiI6MTY2NTcxNTY4NH0.h-O-VkI2Mn8XNA4SZ-3sGE-KAX9RLg2NrHAMYkc7dgk" />
-                    <entry key="referer" value="https://mall-web.deeptel.com.cn/web/pc/product.html" />
+                    <entry key="accept" value="*/*" />
+                    <entry key="accept-language" value="zh-CN,zh;q=0.9" />
+                    <entry key="authority" value="m-api.deeptel.com.cn" />
+                    <entry key="cache-control" value="no-cache" />
+                    <entry key="cookie" value="JSESSIONID=89BAEA0CE79AA94E28E78126879E113D; APP_MESSAGE_COOKIE_2022-10-19=e018e394748c127f90fcca3d1198d3c4; LOGIN_MEMBER_TOKEN_V2=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2NjYxNDYxNzEsInN1YiI6IntcImJ1c0lkXCI6MzYsXCJyYW5kb21cIjpcIjkzNTI1NjQ4XCIsXCJtZW1iZXJJZFwiOjYzNTUwODg0NjE0MzE3fSIsImlzcyI6ImR1b2ZyaWVuZCIsImF1ZCI6Im1lbWJlciIsImV4cCI6MTY2NjIzMjU3MSwibmJmIjoxNjY2MTQ2MTcxfQ.QbYB8me2Dv52l9gbUEiEheftBQxCK07wydVk_69s1Gw" />
+                    <entry key="distributor_login_token" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlbmNyeXB0SWQiOiJNakF4TkRNeU5qRXlNRFUwTWpJMiIsInN1YiI6Iue7j-mUgOWVhi0yMDE0MzI2MTIwNTQyMjYiLCJpc3MiOiIwOThmNmJjZDQ2MjFkMzczY2FkZTRlODMyNjI3YjRmNiIsImlhdCI6MTY1OTUxNjc2NCwiYXVkIjoiZGlzdHJpYnV0b3IiLCJleHAiOjE5NzQ4NzY3NjQsIm5iZiI6MTY1OTUxNjc2NH0.6O-mXOBKrdU39a8L6AEu4WCt3hqWxnJdg1fytLs_-eU" />
+                    <entry key="login_source" value="3" />
+                    <entry key="main_bus" value="36" />
+                    <entry key="origin" value="https://36.m.deeptel.com.cn" />
+                    <entry key="referer" value="https://36.m.deeptel.com.cn/" />
                     <entry key="sec-ch-ua" value="&quot;Chromium&quot;;v=&quot;106&quot;, &quot;Google Chrome&quot;;v=&quot;106&quot;, &quot;Not;A=Brand&quot;;v=&quot;99&quot;" />
-                    <entry key="sec-ch-ua-mobile" value="?0" />
-                    <entry key="sec-ch-ua-platform" value="&quot;macOS&quot;" />
+                    <entry key="sec-ch-ua-mobile" value="?1" />
+                    <entry key="sec-ch-ua-platform" value="&quot;Android&quot;" />
                     <entry key="sec-fetch-dest" value="empty" />
                     <entry key="sec-fetch-mode" value="cors" />
-                    <entry key="sec-fetch-site" value="same-origin" />
-                    <entry key="user-agent" value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" />
+                    <entry key="sec-fetch-site" value="same-site" />
+                    <entry key="user-agent" value="Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36" />
                   </map>
                 </value>
               </entry>
@@ -238,7 +243,7 @@
     <option name="statisticsList">
       <list>
         <YearStatistics>
-          <option name="totalActionCount" value="315" />
+          <option name="totalActionCount" value="317" />
           <option name="totalRocketCount" value="26" />
           <option name="totalSuccessCount" value="16" />
           <option name="year" value="2022" />
