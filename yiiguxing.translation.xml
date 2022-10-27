@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="574" />
     <option name="newTranslationDialogY" value="394" />
     <histories>
+      <item value="exceed Number" />
       <item value="is Distributor Delivery" />
       <item value="save Delivery Record" />
       <item value="distribute" />
@@ -54,8 +55,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4519" />
-        <entry key="ENGLISH" value="4482" />
+        <entry key="CHINESE" value="4520" />
+        <entry key="ENGLISH" value="4483" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="3" />
