@@ -188,16 +188,28 @@
               <entry key="dev">
                 <value>
                   <map>
+                    <entry key="Accept" value="*/*" />
+                    <entry key="Accept-Language" value="zh-CN,zh;q=0.9" />
+                    <entry key="Cache-Control" value="no-cache" />
+                    <entry key="Connection" value="keep-alive" />
+                    <entry key="Content-Type" value="application/json" />
+                    <entry key="Cookie" value="APP_MESSAGE_COOKIE_2022-10-28=e018e394748c127fa9687f12e3cc401e; LOGIN_MEMBER_TOKEN_V2=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2NjY5MjM5MDMsInN1YiI6IntcImJ1c0lkXCI6MzYsXCJyYW5kb21cIjpcIjE3NjAwOTY4XCIsXCJtZW1iZXJJZFwiOjg1OTAxODQ4Mjk5MzM3fSIsImlzcyI6ImR1b2ZyaWVuZCIsImF1ZCI6Im1lbWJlciIsImV4cCI6MTY2NzAxMDMwMywibmJmIjoxNjY2OTIzOTAzfQ.B9GOZuNwSbj9nhzcxlnitliozvGsbMEz4HuUh_qn8mU" />
+                    <entry key="DISTRIBUTOR_LOGIN_TOKEN" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlbmNyeXB0SWQiOiJPRFU1TVRRM016azBPVEU1TmpjPSIsInN1YiI6Iue7j-mUgOWVhi04NTkxNDczOTQ5MTk2NyIsImlzcyI6IjA5OGY2YmNkNDYyMWQzNzNjYWRlNGU4MzI2MjdiNGY2IiwiaWF0IjoxNjYyNjE5MDE2LCJhdWQiOiJkaXN0cmlidXRvciIsImV4cCI6MTk3Nzk3OTAxNiwibmJmIjoxNjYyNjE5MDE2fQ.kWmYZih1Z1RjuWBP9bVQxd3IF54zUVKGK3EcZqyQUa4" />
+                    <entry key="LOGIN_SOURCE" value="3" />
+                    <entry key="MAIN_BUS" value="36" />
+                    <entry key="Origin" value="http://a.deeptel.com.cn" />
+                    <entry key="Referer" value="http://a.deeptel.com.cn/mall/web/h5/index.html" />
+                    <entry key="User-Agent" value="Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1" />
                     <entry key="accept" value="*/*" />
-                    <entry key="accept-language" value="zh-CN,zh;q=0.9" />
-                    <entry key="authority" value="m-api.deeptel.com.cn" />
+                    <entry key="accept-language" value="en-US,en;q=0.9,zh-TW;q=0.8,zh;q=0.7" />
+                    <entry key="authority" value="m-api.duofriend.com" />
                     <entry key="cache-control" value="no-cache" />
-                    <entry key="cookie" value="JSESSIONID=89BAEA0CE79AA94E28E78126879E113D; APP_MESSAGE_COOKIE_2022-10-19=e018e394748c127f90fcca3d1198d3c4; LOGIN_MEMBER_TOKEN_V2=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2NjYxNDYxNzEsInN1YiI6IntcImJ1c0lkXCI6MzYsXCJyYW5kb21cIjpcIjkzNTI1NjQ4XCIsXCJtZW1iZXJJZFwiOjYzNTUwODg0NjE0MzE3fSIsImlzcyI6ImR1b2ZyaWVuZCIsImF1ZCI6Im1lbWJlciIsImV4cCI6MTY2NjIzMjU3MSwibmJmIjoxNjY2MTQ2MTcxfQ.QbYB8me2Dv52l9gbUEiEheftBQxCK07wydVk_69s1Gw" />
+                    <entry key="cookie" value="APP_MESSAGE_COOKIE_2022-10-28=e018e394748c127fa9687f12e3cc401e; LOGIN_MEMBER_TOKEN_V2=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2NjY5MjE3OTIsInN1YiI6IntcImJ1c0lkXCI6MjkyNCxcInJhbmRvbVwiOlwiNzIxOTUxNjdcIixcIm1lbWJlcklkXCI6MzI1NzA1MX0iLCJpc3MiOiJkdW9mcmllbmQiLCJhdWQiOiJtZW1iZXIiLCJleHAiOjE2NjcwMDgxOTIsIm5iZiI6MTY2NjkyMTc5Mn0.6Ru9-YTkMn6cRwT8NZlHCqeFO1QHj2gpgrtxQgxcpGo" />
                     <entry key="distributor_login_token" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlbmNyeXB0SWQiOiJNakF4TkRNeU5qRXlNRFUwTWpJMiIsInN1YiI6Iue7j-mUgOWVhi0yMDE0MzI2MTIwNTQyMjYiLCJpc3MiOiIwOThmNmJjZDQ2MjFkMzczY2FkZTRlODMyNjI3YjRmNiIsImlhdCI6MTY1OTUxNjc2NCwiYXVkIjoiZGlzdHJpYnV0b3IiLCJleHAiOjE5NzQ4NzY3NjQsIm5iZiI6MTY1OTUxNjc2NH0.6O-mXOBKrdU39a8L6AEu4WCt3hqWxnJdg1fytLs_-eU" />
                     <entry key="login_source" value="3" />
-                    <entry key="main_bus" value="36" />
-                    <entry key="origin" value="https://36.m.deeptel.com.cn" />
-                    <entry key="referer" value="https://36.m.deeptel.com.cn/" />
+                    <entry key="main_bus" value="2924" />
+                    <entry key="origin" value="https://2924.m.duofriend.com" />
+                    <entry key="referer" value="https://2924.m.duofriend.com/" />
                     <entry key="sec-ch-ua" value="&quot;Chromium&quot;;v=&quot;106&quot;, &quot;Google Chrome&quot;;v=&quot;106&quot;, &quot;Not;A=Brand&quot;;v=&quot;99&quot;" />
                     <entry key="sec-ch-ua-mobile" value="?1" />
                     <entry key="sec-ch-ua-platform" value="&quot;Android&quot;" />
@@ -243,9 +255,9 @@
     <option name="statisticsList">
       <list>
         <YearStatistics>
-          <option name="totalActionCount" value="401" />
+          <option name="totalActionCount" value="418" />
           <option name="totalRocketCount" value="28" />
-          <option name="totalSuccessCount" value="16" />
+          <option name="totalSuccessCount" value="27" />
           <option name="year" value="2022" />
         </YearStatistics>
       </list>
