@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="574" />
     <option name="newTranslationDialogY" value="394" />
     <histories>
+      <item value="send Track Url" />
       <item value="we Chat Video Order Notification" />
       <item value="VIDEO ORDER DELIVERY FORBIDDEN" />
       <item value="distance Freight" />
@@ -54,12 +55,11 @@
       <item value="mainusyequest" />
       <item value="submitinfo" />
       <item value="orderverify" />
-      <item value="order-verify" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4523" />
-        <entry key="ENGLISH" value="4486" />
+        <entry key="CHINESE" value="4524" />
+        <entry key="ENGLISH" value="4487" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="3" />
