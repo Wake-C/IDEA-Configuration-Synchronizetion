@@ -212,14 +212,14 @@
                     <entry key="main_bus" value="36" />
                     <entry key="origin" value="https://36.m.deeptel.com.cn" />
                     <entry key="referer" value="https://36.m.deeptel.com.cn/" />
-                    <entry key="sec-ch-ua" value="&quot;Google Chrome&quot;;v=&quot;107&quot;, &quot;Chromium&quot;;v=&quot;107&quot;, &quot;Not=A?Brand&quot;;v=&quot;24&quot;" />
-                    <entry key="sec-ch-ua-mobile" value="?0" />
-                    <entry key="sec-ch-ua-platform" value="&quot;Windows&quot;" />
+                    <entry key="sec-ch-ua" value="&quot;Chromium&quot;;v=&quot;106&quot;, &quot;Google Chrome&quot;;v=&quot;106&quot;, &quot;Not;A=Brand&quot;;v=&quot;99&quot;" />
+                    <entry key="sec-ch-ua-mobile" value="?1" />
+                    <entry key="sec-ch-ua-platform" value="&quot;Android&quot;" />
                     <entry key="sec-fetch-dest" value="empty" />
                     <entry key="sec-fetch-mode" value="cors" />
                     <entry key="sec-fetch-site" value="same-site" />
                     <entry key="url" value="https://mall.deeptel.com.cn/html/back/views/setUp/index.html#/addSameCity/181866815096718" />
-                    <entry key="user-agent" value="Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/87.0.4280.77 Mobile/15E148 Safari/604.1" />
+                    <entry key="user-agent" value="Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36" />
                     <entry key="x-requested-with" value="XMLHttpRequest" />
                   </map>
                 </value>
@@ -259,9 +259,9 @@
     <option name="statisticsList">
       <list>
         <YearStatistics>
-          <option name="totalActionCount" value="504" />
+          <option name="totalActionCount" value="509" />
           <option name="totalRocketCount" value="28" />
-          <option name="totalSuccessCount" value="29" />
+          <option name="totalSuccessCount" value="30" />
           <option name="year" value="2022" />
         </YearStatistics>
       </list>
