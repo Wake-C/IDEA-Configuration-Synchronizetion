@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="574" />
     <option name="newTranslationDialogY" value="394" />
     <histories>
+      <item value="in First Distance" />
       <item value="delivery Style" />
       <item value="Coordinate" />
       <item value="member Coordinate" />
@@ -54,12 +55,11 @@
       <item value="produces" />
       <item value="order" />
       <item value="main" />
-      <item value="y" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4529" />
-        <entry key="ENGLISH" value="4492" />
+        <entry key="CHINESE" value="4530" />
+        <entry key="ENGLISH" value="4493" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="3" />
