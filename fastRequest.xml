@@ -205,7 +205,7 @@
                     <entry key="authority" value="m-api.deeptel.com.cn" />
                     <entry key="cache-control" value="no-cache" />
                     <entry key="content-type" value="application/json" />
-                    <entry key="cookie" value="JSESSIONID=89BAEA0CE79AA94E28E78126879E113D; APP_MESSAGE_COOKIE_2022-11-07=e018e394748c127fff34721e92d424f0; LOGIN_MEMBER_TOKEN_V2=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2Njc3OTE0MDAsInN1YiI6IntcImJ1c0lkXCI6MzYsXCJyYW5kb21cIjpcIjMzNDgzNjE0XCIsXCJtZW1iZXJJZFwiOjYzNTUwODg0NjE0MzE3fSIsImlzcyI6ImR1b2ZyaWVuZCIsImF1ZCI6Im1lbWJlciIsImV4cCI6MTY2Nzg3NzgwMCwibmJmIjoxNjY3NzkxNDAwfQ.J0vFQw99M1Ub3OMfOw0_QN38jyCEO6wEAu-BTnUiES0; loginToken=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2Njc3OTE0NzYsInN1YiI6IntcImJ1c0lkXCI6XCIzNlwiLFwicmFuZG9tXCI6XCI1NjkzMjZcIixcImJ1c05hbWVcIjpcImdvb2R0b21cIn0iLCJpc3MiOiJkdW9mcmllbmQiLCJhdWQiOiJkdW9mZW4iLCJleHAiOjE2OTkzNzI3OTksIm5iZiI6MTY2Nzc5MTQ3Nn0.nejxZEn6SiUOQxT-0XBO5P17GGNH1pbxOe_w_cb0_Gc" />
+                    <entry key="cookie" value="JSESSIONID=89BAEA0CE79AA94E28E78126879E113D; LOGIN_MEMBER_TOKEN_V2=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2Njc3OTE0MDAsInN1YiI6IntcImJ1c0lkXCI6MzYsXCJyYW5kb21cIjpcIjMzNDgzNjE0XCIsXCJtZW1iZXJJZFwiOjYzNTUwODg0NjE0MzE3fSIsImlzcyI6ImR1b2ZyaWVuZCIsImF1ZCI6Im1lbWJlciIsImV4cCI6MTY2Nzg3NzgwMCwibmJmIjoxNjY3NzkxNDAwfQ.J0vFQw99M1Ub3OMfOw0_QN38jyCEO6wEAu-BTnUiES0; loginToken=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2Njc3OTE0NzYsInN1YiI6IntcImJ1c0lkXCI6XCIzNlwiLFwicmFuZG9tXCI6XCI1NjkzMjZcIixcImJ1c05hbWVcIjpcImdvb2R0b21cIn0iLCJpc3MiOiJkdW9mcmllbmQiLCJhdWQiOiJkdW9mZW4iLCJleHAiOjE2OTkzNzI3OTksIm5iZiI6MTY2Nzc5MTQ3Nn0.nejxZEn6SiUOQxT-0XBO5P17GGNH1pbxOe_w_cb0_Gc" />
                     <entry key="distributor_login_token" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlbmNyeXB0SWQiOiJNakF4TkRNeU5qRXlNRFUwTWpJMiIsInN1YiI6Iue7j-mUgOWVhi0yMDE0MzI2MTIwNTQyMjYiLCJpc3MiOiIwOThmNmJjZDQ2MjFkMzczY2FkZTRlODMyNjI3YjRmNiIsImlhdCI6MTY1OTUxNjc2NCwiYXVkIjoiZGlzdHJpYnV0b3IiLCJleHAiOjE5NzQ4NzY3NjQsIm5iZiI6MTY1OTUxNjc2NH0.6O-mXOBKrdU39a8L6AEu4WCt3hqWxnJdg1fytLs_-eU" />
                     <entry key="login_source" value="3" />
                     <entry key="m-login-token" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2NjY5MjcwNDMsInN1YiI6IntcImJ1c0lkXCI6XCIzNlwiLFwicmFuZG9tXCI6XCIwOTEwNzJcIixcImJ1c05hbWVcIjpcImdvb2R0b21cIn0iLCJpc3MiOiJkdW9mcmllbmQiLCJhdWQiOiJkdW9mZW4iLCJleHAiOjE2OTg1MDg3OTksIm5iZiI6MTY2NjkyNzA0M30.yG-JWt-GnBp1LYozG8HpY820b1FCVOw0KdJ6m8E_LuM" />
@@ -219,7 +219,7 @@
                     <entry key="sec-fetch-mode" value="cors" />
                     <entry key="sec-fetch-site" value="same-site" />
                     <entry key="url" value="https://mall.deeptel.com.cn/html/back/views/setUp/index.html#/addSameCity/181866815096718" />
-                    <entry key="user-agent" value="Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36" />
+                    <entry key="user-agent" value="Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1" />
                     <entry key="x-requested-with" value="XMLHttpRequest" />
                   </map>
                 </value>
@@ -259,9 +259,9 @@
     <option name="statisticsList">
       <list>
         <YearStatistics>
-          <option name="totalActionCount" value="537" />
+          <option name="totalActionCount" value="544" />
           <option name="totalRocketCount" value="30" />
-          <option name="totalSuccessCount" value="35" />
+          <option name="totalSuccessCount" value="38" />
           <option name="year" value="2022" />
         </YearStatistics>
       </list>
