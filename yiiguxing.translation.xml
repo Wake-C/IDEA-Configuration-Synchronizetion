@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="574" />
     <option name="newTranslationDialogY" value="394" />
     <histories>
+      <item value="available Free Condition" />
       <item value="any Free Condition" />
       <item value="Illegal State Exception" />
       <item value="STORE IMAGE OUT OF LIMIT" />
@@ -54,12 +55,11 @@
       <item value="verify" />
       <item value="Price Info" />
       <item value="submitorder" />
-      <item value="submit" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4537" />
-        <entry key="ENGLISH" value="4500" />
+        <entry key="CHINESE" value="4539" />
+        <entry key="ENGLISH" value="4502" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="3" />
