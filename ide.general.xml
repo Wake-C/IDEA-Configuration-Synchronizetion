@@ -12,6 +12,7 @@
     <entry key="database.import.new.editor" value="true" />
     <entry key="ide.experimental.ui" value="true" />
     <entry key="debugger.new.tool.window.layout" value="true" />
+    <entry key="editor.distraction.free.mode" value="true" />
   </component>
   <component name="StatusBar">
     <option name="widgets">

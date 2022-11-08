@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="574" />
     <option name="newTranslationDialogY" value="394" />
     <histories>
+      <item value="STORE IMAGE OUT OF LIMIT" />
+      <item value="STORE IMAGE EXCEED" />
+      <item value="TAKE THEIR STORE IMAGE NUM BEYOND" />
+      <item value="TAKE THEIR STORE IMAGE EXCESSIVE" />
       <item value="in First Distance" />
       <item value="delivery Style" />
       <item value="Coordinate" />
@@ -51,15 +55,11 @@
       <item value="submit" />
       <item value="orlse" />
       <item value="ttpervletequest" />
-      <item value="info" />
-      <item value="produces" />
-      <item value="order" />
-      <item value="main" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4530" />
-        <entry key="ENGLISH" value="4493" />
+        <entry key="CHINESE" value="4535" />
+        <entry key="ENGLISH" value="4498" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="3" />
@@ -109,6 +109,7 @@
     <option name="showExplanation" value="true" />
     <option name="showWordsOnStartup" value="true" />
     <option name="translateDocumentation" value="true" />
+    <option name="translator" value="YOUDAO" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="326f2483a65ad632" />
