@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="574" />
     <option name="newTranslationDialogY" value="394" />
     <histories>
+      <item value="Illegal State Exception" />
       <item value="STORE IMAGE OUT OF LIMIT" />
       <item value="STORE IMAGE EXCEED" />
       <item value="TAKE THEIR STORE IMAGE NUM BEYOND" />
@@ -54,12 +55,11 @@
       <item value="submitorder" />
       <item value="submit" />
       <item value="orlse" />
-      <item value="ttpervletequest" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4535" />
-        <entry key="ENGLISH" value="4498" />
+        <entry key="CHINESE" value="4536" />
+        <entry key="ENGLISH" value="4499" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="3" />
