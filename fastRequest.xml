@@ -1,5 +1,37 @@
 <application>
   <component name="fastRequest">
+    <option name="commonHeaderList">
+      <list>
+        <DataMapping>
+          <option name="type" value="Content-Type" />
+          <option name="value" value="text/plain" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="Content-Type" />
+          <option name="value" value="text/html" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="Content-Type" />
+          <option name="value" value="application/xml" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="Content-Type" />
+          <option name="value" value="application/javascript" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="Authorization" />
+          <option name="value" value="" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="Cookie" />
+          <option name="value" value="" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="User-Agent" />
+          <option name="value" value="" />
+        </DataMapping>
+      </list>
+    </option>
     <option name="dataList">
       <list>
         <NameGroup>
@@ -137,109 +169,75 @@
     <option name="headerGroupList">
       <list>
         <HeaderGroup>
-          <option name="envMap">
-            <map>
-              <entry key="localhost:8080">
-                <value>
-                  <map>
-                    <entry key="accept" value="*/*" />
-                    <entry key="accept-encoding" value="gzip,deflate" />
-                    <entry key="accept-language" value="en-US,en;q=0.9,zh-TW;q=0.8,zh;q=0.7" />
-                    <entry key="authority" value="m-api.deeptel.com.cn" />
-                    <entry key="cache-control" value="no-cache" />
-                    <entry key="content-type" value="application/json" />
-                    <entry key="cookie" value="JSESSIONID=89BAEA0CE79AA94E28E78126879E113D; APP_MESSAGE_COOKIE_2022-10-13=e018e394748c127f6c2d832fad2054ca; LOGIN_MEMBER_TOKEN_V2=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2NjU2NDUzNTcsInN1YiI6IntcImJ1c0lkXCI6MzYsXCJyYW5kb21cIjpcIjQ3NjYyNDY0XCIsXCJtZW1iZXJJZFwiOjYzNTUwODg0NjE0MzE3fSIsImlzcyI6ImR1b2ZyaWVuZCIsImF1ZCI6Im1lbWJlciIsImV4cCI6MTY2NTczMTc1NywibmJmIjoxNjY1NjQ1MzU3fQ.0uB1u2423zpiqGrLFsXb6Bggk7vUA_AqZ1jLgWmHcB8" />
-                    <entry key="distributor_login_token" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlbmNyeXB0SWQiOiJNakF4TkRNeU5qRXlNRFUwTWpJMiIsInN1YiI6Iue7j-mUgOWVhi0yMDE0MzI2MTIwNTQyMjYiLCJpc3MiOiIwOThmNmJjZDQ2MjFkMzczY2FkZTRlODMyNjI3YjRmNiIsImlhdCI6MTY1OTUxNjc2NCwiYXVkIjoiZGlzdHJpYnV0b3IiLCJleHAiOjE5NzQ4NzY3NjQsIm5iZiI6MTY1OTUxNjc2NH0.6O-mXOBKrdU39a8L6AEu4WCt3hqWxnJdg1fytLs_-eU" />
-                    <entry key="log-center-trace-application-name" value="gt-mall-activity" />
-                    <entry key="log-center-trace-application-profile" value="prod" />
-                    <entry key="log-center-trace-id" value="f03b327d-fae3-44b7-8aec-42916a20664d" />
-                    <entry key="log-center-trace-model" value="request" />
-                    <entry key="log-center-trace-uuid" value="48f2eda0-d5d9-4eb4-a6b6-d3f0f50749d4" />
-                    <entry key="login_source" value="3" />
-                    <entry key="main_bus" value="36" />
-                    <entry key="origin" value="https://36.m.deeptel.com.cn" />
-                    <entry key="referer" value="https://36.m.deeptel.com.cn/" />
-                    <entry key="sec-ch-ua" value="&quot;Chromium&quot;;v=&quot;106&quot;, &quot;Google Chrome&quot;;v=&quot;106&quot;, &quot;Not;A=Brand&quot;;v=&quot;99&quot;" />
-                    <entry key="sec-ch-ua-mobile" value="?1" />
-                    <entry key="sec-ch-ua-platform" value="&quot;Android&quot;" />
-                    <entry key="sec-fetch-dest" value="empty" />
-                    <entry key="sec-fetch-mode" value="cors" />
-                    <entry key="sec-fetch-site" value="same-site" />
-                    <entry key="sign" value="{&quot;randNum&quot;:&quot;92675&quot;,&quot;sign&quot;:&quot;032c4af35016adef5551321785f2cb58&quot;,&quot;timeStamp&quot;:&quot;1661350321220&quot;}" />
-                    <entry key="user-agent" value="Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36" />
-                    <entry key="x-b3-parentspanid" value="27dc5f37216594d4" />
-                    <entry key="x-b3-sampled" value="0" />
-                    <entry key="x-b3-spanid" value="59580501483a9fd9" />
-                    <entry key="x-b3-traceid" value="56fb00bdc7ea3dff27dc5f37216594d4" />
-                    <entry key="x-envoy-attempt-count" value="1" />
-                    <entry key="x-forwarded-client-cert" value="By=spiffe://cluster.local/ns/df-prod/sa/default;Hash=05c60506fa2fc3241db41f231c31994bd08b8a94180558429baf695785d7f470;Subject=&quot;&quot;;URI=spiffe://cluster.local/ns/df-prod/sa/default" />
-                    <entry key="x-forwarded-proto" value="http" />
-                    <entry key="x-request-id" value="71e6d137-a32b-47d1-b87b-03db04cd9d46" />
-                  </map>
-                </value>
-              </entry>
-            </map>
-          </option>
           <option name="projectName" value="dev" />
         </HeaderGroup>
         <HeaderGroup>
-          <option name="envMap">
+          <option name="envDataMap">
             <map>
               <entry key="dev">
                 <value>
-                  <map>
-                    <entry key="Accept" value="*/*" />
-                    <entry key="Accept-Language" value="zh-CN,zh;q=0.9" />
-                    <entry key="Cache-Control" value="no-cache" />
-                    <entry key="Connection" value="keep-alive" />
-                    <entry key="Content-Type" value="application/json" />
-                    <entry key="Cookie" value="APP_MESSAGE_COOKIE_2022-10-28=e018e394748c127fa9687f12e3cc401e; LOGIN_MEMBER_TOKEN_V2=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2NjY5MjM5MDMsInN1YiI6IntcImJ1c0lkXCI6MzYsXCJyYW5kb21cIjpcIjE3NjAwOTY4XCIsXCJtZW1iZXJJZFwiOjg1OTAxODQ4Mjk5MzM3fSIsImlzcyI6ImR1b2ZyaWVuZCIsImF1ZCI6Im1lbWJlciIsImV4cCI6MTY2NzAxMDMwMywibmJmIjoxNjY2OTIzOTAzfQ.B9GOZuNwSbj9nhzcxlnitliozvGsbMEz4HuUh_qn8mU" />
-                    <entry key="DISTRIBUTOR_LOGIN_TOKEN" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlbmNyeXB0SWQiOiJPRFU1TVRRM016azBPVEU1TmpjPSIsInN1YiI6Iue7j-mUgOWVhi04NTkxNDczOTQ5MTk2NyIsImlzcyI6IjA5OGY2YmNkNDYyMWQzNzNjYWRlNGU4MzI2MjdiNGY2IiwiaWF0IjoxNjYyNjE5MDE2LCJhdWQiOiJkaXN0cmlidXRvciIsImV4cCI6MTk3Nzk3OTAxNiwibmJmIjoxNjYyNjE5MDE2fQ.kWmYZih1Z1RjuWBP9bVQxd3IF54zUVKGK3EcZqyQUa4" />
-                    <entry key="LOGIN_SOURCE" value="3" />
-                    <entry key="MAIN_BUS" value="36" />
-                    <entry key="Origin" value="http://a.deeptel.com.cn" />
-                    <entry key="Referer" value="http://a.deeptel.com.cn/mall/web/h5/index.html" />
-                    <entry key="User-Agent" value="Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1" />
-                    <entry key="accept" value="*/*" />
-                    <entry key="accept-language" value="en-US,en;q=0.9,zh-TW;q=0.8,zh;q=0.7" />
-                    <entry key="authority" value="m-api.deeptel.com.cn" />
-                    <entry key="cache-control" value="no-cache" />
-                    <entry key="content-type" value="application/json" />
-                    <entry key="cookie" value="JSESSIONID=89BAEA0CE79AA94E28E78126879E113D; LOGIN_MEMBER_TOKEN_V2=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2Njc3OTE0MDAsInN1YiI6IntcImJ1c0lkXCI6MzYsXCJyYW5kb21cIjpcIjMzNDgzNjE0XCIsXCJtZW1iZXJJZFwiOjYzNTUwODg0NjE0MzE3fSIsImlzcyI6ImR1b2ZyaWVuZCIsImF1ZCI6Im1lbWJlciIsImV4cCI6MTY2Nzg3NzgwMCwibmJmIjoxNjY3NzkxNDAwfQ.J0vFQw99M1Ub3OMfOw0_QN38jyCEO6wEAu-BTnUiES0; loginToken=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2Njc3OTE0NzYsInN1YiI6IntcImJ1c0lkXCI6XCIzNlwiLFwicmFuZG9tXCI6XCI1NjkzMjZcIixcImJ1c05hbWVcIjpcImdvb2R0b21cIn0iLCJpc3MiOiJkdW9mcmllbmQiLCJhdWQiOiJkdW9mZW4iLCJleHAiOjE2OTkzNzI3OTksIm5iZiI6MTY2Nzc5MTQ3Nn0.nejxZEn6SiUOQxT-0XBO5P17GGNH1pbxOe_w_cb0_Gc" />
-                    <entry key="distributor_login_token" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlbmNyeXB0SWQiOiJNakF4TkRNeU5qRXlNRFUwTWpJMiIsInN1YiI6Iue7j-mUgOWVhi0yMDE0MzI2MTIwNTQyMjYiLCJpc3MiOiIwOThmNmJjZDQ2MjFkMzczY2FkZTRlODMyNjI3YjRmNiIsImlhdCI6MTY1OTUxNjc2NCwiYXVkIjoiZGlzdHJpYnV0b3IiLCJleHAiOjE5NzQ4NzY3NjQsIm5iZiI6MTY1OTUxNjc2NH0.6O-mXOBKrdU39a8L6AEu4WCt3hqWxnJdg1fytLs_-eU" />
-                    <entry key="login_source" value="3" />
-                    <entry key="m-login-token" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2NjY5MjcwNDMsInN1YiI6IntcImJ1c0lkXCI6XCIzNlwiLFwicmFuZG9tXCI6XCIwOTEwNzJcIixcImJ1c05hbWVcIjpcImdvb2R0b21cIn0iLCJpc3MiOiJkdW9mcmllbmQiLCJhdWQiOiJkdW9mZW4iLCJleHAiOjE2OTg1MDg3OTksIm5iZiI6MTY2NjkyNzA0M30.yG-JWt-GnBp1LYozG8HpY820b1FCVOw0KdJ6m8E_LuM" />
-                    <entry key="main_bus" value="36" />
-                    <entry key="origin" value="https://36.m.deeptel.com.cn" />
-                    <entry key="referer" value="https://36.m.deeptel.com.cn/" />
-                    <entry key="sec-ch-ua" value="&quot;Chromium&quot;;v=&quot;106&quot;, &quot;Google Chrome&quot;;v=&quot;106&quot;, &quot;Not;A=Brand&quot;;v=&quot;99&quot;" />
-                    <entry key="sec-ch-ua-mobile" value="?1" />
-                    <entry key="sec-ch-ua-platform" value="&quot;Android&quot;" />
-                    <entry key="sec-fetch-dest" value="empty" />
-                    <entry key="sec-fetch-mode" value="cors" />
-                    <entry key="sec-fetch-site" value="same-site" />
-                    <entry key="url" value="https://mall.deeptel.com.cn/html/back/views/setUp/index.html#/addSameCity/181866815096718" />
-                    <entry key="user-agent" value="Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1" />
-                    <entry key="x-requested-with" value="XMLHttpRequest" />
-                  </map>
-                </value>
-              </entry>
-              <entry key="test">
-                <value>
-                  <map>
-                    <entry key="accept" value="application/json, text/plain, */*" />
-                    <entry key="accept-language" value="en-US,en;q=0.9,zh-TW;q=0.8,zh;q=0.7" />
-                    <entry key="authority" value="mall-web.deeptel.com.cn" />
-                    <entry key="cookie" value="LOGIN_MEMBER_TOKEN_V2=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2NjU2NDUzNTcsInN1YiI6IntcImJ1c0lkXCI6MzYsXCJyYW5kb21cIjpcIjQ3NjYyNDY0XCIsXCJtZW1iZXJJZFwiOjYzNTUwODg0NjE0MzE3fSIsImlzcyI6ImR1b2ZyaWVuZCIsImF1ZCI6Im1lbWJlciIsImV4cCI6MTY2NTczMTc1NywibmJmIjoxNjY1NjQ1MzU3fQ.0uB1u2423zpiqGrLFsXb6Bggk7vUA_AqZ1jLgWmHcB8; loginToken=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2NjU3MTU2ODQsInN1YiI6IntcImJ1c0lkXCI6XCIzNlwiLFwicmFuZG9tXCI6XCI1NTg4NjlcIixcImJ1c05hbWVcIjpcImdvb2R0b21cIn0iLCJpc3MiOiJkdW9mcmllbmQiLCJhdWQiOiJkdW9mZW4iLCJleHAiOjE2OTcyOTkxOTksIm5iZiI6MTY2NTcxNTY4NH0.h-O-VkI2Mn8XNA4SZ-3sGE-KAX9RLg2NrHAMYkc7dgk" />
-                    <entry key="referer" value="https://mall-web.deeptel.com.cn/web/pc/product.html" />
-                    <entry key="sec-ch-ua" value="&quot;Chromium&quot;;v=&quot;106&quot;, &quot;Google Chrome&quot;;v=&quot;106&quot;, &quot;Not;A=Brand&quot;;v=&quot;99&quot;" />
-                    <entry key="sec-ch-ua-mobile" value="?0" />
-                    <entry key="sec-ch-ua-platform" value="&quot;macOS&quot;" />
-                    <entry key="sec-fetch-dest" value="empty" />
-                    <entry key="sec-fetch-mode" value="cors" />
-                    <entry key="sec-fetch-site" value="same-origin" />
-                    <entry key="user-agent" value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" />
-                  </map>
+                  <list>
+                    <DataMapping>
+                      <option name="type" value="authority" />
+                      <option name="value" value="m-api.deeptel.com.cn" />
+                    </DataMapping>
+                    <DataMapping>
+                      <option name="type" value="accept" />
+                      <option name="value" value="*/*" />
+                    </DataMapping>
+                    <DataMapping>
+                      <option name="type" value="accept-language" />
+                      <option name="value" value="en-US,en;q=0.9,zh-TW;q=0.8,zh;q=0.7" />
+                    </DataMapping>
+                    <DataMapping>
+                      <option name="type" value="cache-control" />
+                      <option name="value" value="no-cache" />
+                    </DataMapping>
+                    <DataMapping>
+                      <option name="type" value="content-type" />
+                      <option name="value" value="application/json" />
+                    </DataMapping>
+                    <DataMapping>
+                      <option name="type" value="cookie" />
+                      <option name="value" value="JSESSIONID=89BAEA0CE79AA94E28E78126879E113D; LOGIN_MEMBER_TOKEN_V2=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2Njc4Nzc4NzksInN1YiI6IntcImJ1c0lkXCI6MzYsXCJyYW5kb21cIjpcIjU1ODUxOTg5XCIsXCJtZW1iZXJJZFwiOjYzNTUwODg0NjE0MzE3fSIsImlzcyI6ImR1b2ZyaWVuZCIsImF1ZCI6Im1lbWJlciIsImV4cCI6MTY2Nzk2NDI3OSwibmJmIjoxNjY3ODc3ODc5fQ.aVGox4hcFRNIaVm9vvgve0uQ6JD9uWWIKubrtDRMqZs" />
+                    </DataMapping>
+                    <DataMapping>
+                      <option name="type" value="distributor_login_token" />
+                      <option name="value" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlbmNyeXB0SWQiOiJNakF4TkRNeU5qRXlNRFUwTWpJMiIsInN1YiI6Iue7j-mUgOWVhi0yMDE0MzI2MTIwNTQyMjYiLCJpc3MiOiIwOThmNmJjZDQ2MjFkMzczY2FkZTRlODMyNjI3YjRmNiIsImlhdCI6MTY1OTUxNjc2NCwiYXVkIjoiZGlzdHJpYnV0b3IiLCJleHAiOjE5NzQ4NzY3NjQsIm5iZiI6MTY1OTUxNjc2NH0.6O-mXOBKrdU39a8L6AEu4WCt3hqWxnJdg1fytLs_-eU" />
+                    </DataMapping>
+                    <DataMapping>
+                      <option name="type" value="login_source" />
+                      <option name="value" value="3" />
+                    </DataMapping>
+                    <DataMapping>
+                      <option name="type" value="main_bus" />
+                      <option name="value" value="36" />
+                    </DataMapping>
+                    <DataMapping>
+                      <option name="type" value="origin" />
+                      <option name="value" value="https://36.m.deeptel.com.cn" />
+                    </DataMapping>
+                    <DataMapping>
+                      <option name="type" value="referer" />
+                      <option name="value" value="https://36.m.deeptel.com.cn/" />
+                    </DataMapping>
+                    <DataMapping>
+                      <option name="type" value="sec-fetch-dest" />
+                      <option name="value" value="empty" />
+                    </DataMapping>
+                    <DataMapping>
+                      <option name="type" value="sec-fetch-mode" />
+                      <option name="value" value="cors" />
+                    </DataMapping>
+                    <DataMapping>
+                      <option name="type" value="sec-fetch-site" />
+                      <option name="value" value="same-site" />
+                    </DataMapping>
+                    <DataMapping>
+                      <option name="type" value="user-agent" />
+                      <option name="value" value="Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1" />
+                    </DataMapping>
+                  </list>
                 </value>
               </entry>
             </map>
@@ -259,9 +257,9 @@
     <option name="statisticsList">
       <list>
         <YearStatistics>
-          <option name="totalActionCount" value="544" />
+          <option name="totalActionCount" value="551" />
           <option name="totalRocketCount" value="30" />
-          <option name="totalSuccessCount" value="38" />
+          <option name="totalSuccessCount" value="41" />
           <option name="year" value="2022" />
         </YearStatistics>
       </list>
