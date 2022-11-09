@@ -187,7 +187,7 @@
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="accept-language" />
-                      <option name="value" value="en-US,en;q=0.9,zh-TW;q=0.8,zh;q=0.7" />
+                      <option name="value" value="zh-CN,zh;q=0.9" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="cache-control" />
@@ -199,15 +199,15 @@
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="cookie" />
-                      <option name="value" value="JSESSIONID=89BAEA0CE79AA94E28E78126879E113D; APP_MESSAGE_COOKIE_2022-11-09=e018e394748c127facaef7da311c0c0d; LOGIN_MEMBER_TOKEN_V2=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2Njc5NjQ4MDAsInN1YiI6IntcImJ1c0lkXCI6MzYsXCJyYW5kb21cIjpcIjYwODg1Nzg3XCIsXCJtZW1iZXJJZFwiOjYzNTUwODg0NjE0MzE3fSIsImlzcyI6ImR1b2ZyaWVuZCIsImF1ZCI6Im1lbWJlciIsImV4cCI6MTY2ODA1MTIwMCwibmJmIjoxNjY3OTY0ODAwfQ.llimZj7PdRMc4h_H5cuM90HwgQRW274hIGKMbj_i5CQ; loginToken=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2Njc5NzQzMDgsInN1YiI6IntcImJ1c0lkXCI6XCIzNlwiLFwicmFuZG9tXCI6XCIzNTg2MDRcIixcImJ1c05hbWVcIjpcImdvb2R0b21cIn0iLCJpc3MiOiJkdW9mcmllbmQiLCJhdWQiOiJkdW9mZW4iLCJleHAiOjE2OTk1NDU1OTksIm5iZiI6MTY2Nzk3NDMwOH0.sYEnD_s5vBdVkhzOdmZCEejuqhb2H2oy6B0fMzCjbx4" />
+                      <option name="value" value="LOGIN_MEMBER_TOKEN_V2=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2Njc5NTc5MjksInN1YiI6IntcImJ1c0lkXCI6MzYsXCJyYW5kb21cIjpcIjgxMzkzODM5XCIsXCJtZW1iZXJJZFwiOjg1OTAxODE0NzQ0MDgxfSIsImlzcyI6ImR1b2ZyaWVuZCIsImF1ZCI6Im1lbWJlciIsImV4cCI6MTY2ODA0NDMyOSwibmJmIjoxNjY3OTU3OTI5fQ.rymEP_E903cgja6uFMsPM9vydYrL-lJL69WwzEo88pU" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="distributor_login_token" />
-                      <option name="value" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlbmNyeXB0SWQiOiJNakF4TkRNeU5qRXlNRFUwTWpJMiIsInN1YiI6Iue7j-mUgOWVhi0yMDE0MzI2MTIwNTQyMjYiLCJpc3MiOiIwOThmNmJjZDQ2MjFkMzczY2FkZTRlODMyNjI3YjRmNiIsImlhdCI6MTY1OTUxNjc2NCwiYXVkIjoiZGlzdHJpYnV0b3IiLCJleHAiOjE5NzQ4NzY3NjQsIm5iZiI6MTY1OTUxNjc2NH0.6O-mXOBKrdU39a8L6AEu4WCt3hqWxnJdg1fytLs_-eU" />
+                      <option name="value" value="" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="login_source" />
-                      <option name="value" value="3" />
+                      <option name="value" value="0" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="main_bus" />
@@ -215,11 +215,11 @@
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="origin" />
-                      <option name="value" value="https://36.m.deeptel.com.cn" />
+                      <option name="value" value="http://a.deeptel.com.cn:81" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="referer" />
-                      <option name="value" value="https://36.m.deeptel.com.cn/" />
+                      <option name="value" value="http://a.deeptel.com.cn:81/mall/static/" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="sec-fetch-dest" />
@@ -235,7 +235,7 @@
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="user-agent" />
-                      <option name="value" value="Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1" />
+                      <option name="value" value="Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.3 (KHTML, like Gecko) Version/10.0 Mobile/14E304 Safari/602.1 wechatdevtools/1.06.2210310 MicroMessenger/8.0.5 Language/zh_CN webview/16679837089102519 webdebugger port/46764 token/1636129674ce521ee588595f1c017057" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="member_id" />
@@ -251,7 +251,135 @@
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="dealer_login_token" />
-                      <option name="value" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlbmNyeXB0SWQiOiJNak13TkRNMU1EUTFOakl5TmpjeiIsInN1YiI6IueugOaYk-eJiOaLv-i0p-Wunee7j-mUgOWVhi0yMzA0MzUwNDU2MjI2NzMiLCJpc3MiOiIwOThmNmJjZDQ2MjFkMzczY2FkZTRlODMyNjI3YjRmNiIsImlhdCI6MTY2NzkwMDU1OSwiYXVkIjoiZGVhbGVyIiwiZXhwIjoxOTgzMjYwNTU5LCJuYmYiOjE2Njc5MDA1NTl9.1emnGqvFVV4sl3uiMF9e6fTGFp2WIzgVz5NlPuZPU5M" />
+                      <option name="value" value="" />
+                    </DataMapping>
+                    <DataMapping>
+                      <option name="type" value="Connection" />
+                      <option name="value" value="keep-alive" />
+                    </DataMapping>
+                    <DataMapping>
+                      <option name="type" value="Pragma" />
+                      <option name="value" value="no-cache" />
+                    </DataMapping>
+                    <DataMapping>
+                      <option name="type" value="Cache-Control" />
+                      <option name="value" value="no-cache" />
+                    </DataMapping>
+                    <DataMapping>
+                      <option name="type" value="DISTRIBUTOR_LOGIN_TOKEN" />
+                      <option name="value" value="" />
+                    </DataMapping>
+                    <DataMapping>
+                      <option name="type" value="DEALER_LOGIN_TOKEN" />
+                      <option name="value" value="" />
+                    </DataMapping>
+                    <DataMapping>
+                      <option name="type" value="MEMBER_ID" />
+                      <option name="value" value="" />
+                    </DataMapping>
+                    <DataMapping>
+                      <option name="type" value="MEMBER_LOGIN_TOKEN" />
+                      <option name="value" value="" />
+                    </DataMapping>
+                    <DataMapping>
+                      <option name="type" value="User-Agent" />
+                      <option name="value" value="Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.3 (KHTML, like Gecko) Version/10.0 Mobile/14E304 Safari/602.1 wechatdevtools/1.06.2210310 MicroMessenger/8.0.5 Language/zh_CN webview/16679837089102519 webdebugger port/46764 token/1636129674ce521ee588595f1c017057" />
+                    </DataMapping>
+                    <DataMapping>
+                      <option name="type" value="LOGIN_SOURCE" />
+                      <option name="value" value="0" />
+                    </DataMapping>
+                    <DataMapping>
+                      <option name="type" value="Content-Type" />
+                      <option name="value" value="application/json" />
+                    </DataMapping>
+                    <DataMapping>
+                      <option name="type" value="MAIN_BUS" />
+                      <option name="value" value="36" />
+                    </DataMapping>
+                    <DataMapping>
+                      <option name="type" value="COMMUNITY_ID" />
+                      <option name="value" value="" />
+                    </DataMapping>
+                    <DataMapping>
+                      <option name="type" value="Accept" />
+                      <option name="value" value="*/*" />
+                    </DataMapping>
+                    <DataMapping>
+                      <option name="type" value="Origin" />
+                      <option name="value" value="http://a.deeptel.com.cn:81" />
+                    </DataMapping>
+                    <DataMapping>
+                      <option name="type" value="Referer" />
+                      <option name="value" value="http://a.deeptel.com.cn:81/mall/static/" />
+                    </DataMapping>
+                    <DataMapping>
+                      <option name="type" value="Accept-Language" />
+                      <option name="value" value="zh-CN,zh;q=0.9" />
+                    </DataMapping>
+                    <DataMapping>
+                      <option name="type" value="Cookie" />
+                      <option name="value" value="LOGIN_MEMBER_TOKEN_V2=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2Njc5NTc5MjksInN1YiI6IntcImJ1c0lkXCI6MzYsXCJyYW5kb21cIjpcIjgxMzkzODM5XCIsXCJtZW1iZXJJZFwiOjg1OTAxODE0NzQ0MDgxfSIsImlzcyI6ImR1b2ZyaWVuZCIsImF1ZCI6Im1lbWJlciIsImV4cCI6MTY2ODA0NDMyOSwibmJmIjoxNjY3OTU3OTI5fQ.rymEP_E903cgja6uFMsPM9vydYrL-lJL69WwzEo88pU" />
+                    </DataMapping>
+                    <DataMapping>
+                      <option name="type" value="x-forwarded-host" />
+                      <option name="value" value="a.deeptel.com.cn:81" />
+                    </DataMapping>
+                    <DataMapping>
+                      <option name="type" value="x-forwarded-proto" />
+                      <option name="value" value="https" />
+                    </DataMapping>
+                    <DataMapping>
+                      <option name="type" value="x-forwarded-port" />
+                      <option name="value" value="81" />
+                    </DataMapping>
+                    <DataMapping>
+                      <option name="type" value="x-forwarded-for" />
+                      <option name="value" value="127.0.0.1" />
+                    </DataMapping>
+                    <DataMapping>
+                      <option name="type" value="accept-encoding" />
+                      <option name="value" value="gzip, deflate" />
+                    </DataMapping>
+                    <DataMapping>
+                      <option name="type" value="pragma" />
+                      <option name="value" value="no-cache" />
+                    </DataMapping>
+                    <DataMapping>
+                      <option name="type" value="x-envoy-external-address" />
+                      <option name="value" value="183.14.132.167" />
+                    </DataMapping>
+                    <DataMapping>
+                      <option name="type" value="x-request-id" />
+                      <option name="value" value="26f4be96-322e-487c-b103-e1375d8bf513" />
+                    </DataMapping>
+                    <DataMapping>
+                      <option name="type" value="x-envoy-attempt-count" />
+                      <option name="value" value="1" />
+                    </DataMapping>
+                    <DataMapping>
+                      <option name="type" value="x-envoy-original-path" />
+                      <option name="value" value="/mall/unify/order/submit-order" />
+                    </DataMapping>
+                    <DataMapping>
+                      <option name="type" value="x-forwarded-client-cert" />
+                      <option name="value" value="By=spiffe://cluster.local/ns/df-test/sa/default;Hash=8a67453bf9cc69881c04fdf6618241b710f95f95b12ec8a24d0c33672c0e2712;Subject=&quot;&quot;;URI=spiffe://cluster.local/ns/istio-system/sa/external-ingressgateway-service-account" />
+                    </DataMapping>
+                    <DataMapping>
+                      <option name="type" value="x-b3-traceid" />
+                      <option name="value" value="614a32f048e57387aa72609f9ac280d9" />
+                    </DataMapping>
+                    <DataMapping>
+                      <option name="type" value="x-b3-spanid" />
+                      <option name="value" value="788ef3b334834119" />
+                    </DataMapping>
+                    <DataMapping>
+                      <option name="type" value="x-b3-parentspanid" />
+                      <option name="value" value="aa72609f9ac280d9" />
+                    </DataMapping>
+                    <DataMapping>
+                      <option name="type" value="x-b3-sampled" />
+                      <option name="value" value="0" />
                     </DataMapping>
                   </list>
                 </value>
@@ -278,10 +406,10 @@
     <option name="statisticsList">
       <list>
         <YearStatistics>
-          <option name="totalActionCount" value="632" />
+          <option name="totalActionCount" value="639" />
           <option name="totalFailCount" value="1" />
           <option name="totalRocketCount" value="30" />
-          <option name="totalSuccessCount" value="71" />
+          <option name="totalSuccessCount" value="73" />
           <option name="year" value="2022" />
         </YearStatistics>
       </list>
