@@ -154,8 +154,8 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="localhost:8080" />
-    <option name="enableEnv" value="dev" />
+    <option name="domain" value="https://mall.deeptel.com.cn/" />
+    <option name="enableEnv" value="test" />
     <option name="enableProject" value="mall" />
     <option name="envList">
       <list>
@@ -426,10 +426,10 @@
     <option name="statisticsList">
       <list>
         <YearStatistics>
-          <option name="totalActionCount" value="674" />
+          <option name="totalActionCount" value="680" />
           <option name="totalFailCount" value="1" />
           <option name="totalRocketCount" value="32" />
-          <option name="totalSuccessCount" value="84" />
+          <option name="totalSuccessCount" value="89" />
           <option name="year" value="2022" />
         </YearStatistics>
       </list>
