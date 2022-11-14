@@ -179,7 +179,7 @@
                   <list>
                     <DataMapping>
                       <option name="type" value="authority" />
-                      <option name="value" value="m-api.duofriend.com" />
+                      <option name="value" value="m-api.deeptel.com.cn" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="accept" />
@@ -199,11 +199,11 @@
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="cookie" />
-                      <option name="value" value="APP_MESSAGE_COOKIE_2022-11-14=e018e394748c127fac77ac223026d755; LOGIN_MEMBER_TOKEN_V2=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2NjgzODg5MzEsInN1YiI6IntcImJ1c0lkXCI6MjA3OTEsXCJyYW5kb21cIjpcIjU1NDA3NTQ1XCIsXCJtZW1iZXJJZFwiOjE5OTE2NjQyMDY1OTM4N30iLCJpc3MiOiJkdW9mcmllbmQiLCJhdWQiOiJtZW1iZXIiLCJleHAiOjE2Njg0NzUzMzEsIm5iZiI6MTY2ODM4ODkzMX0.Lysagism9n1WTO0aiDIVqglCyHu9jNADORX6UwC0Z0c" />
+                      <option name="value" value="JSESSIONID=89BAEA0CE79AA94E28E78126879E113D; APP_MESSAGE_COOKIE_2022-11-14=e018e394748c127facaef7da311c0c0d; LOGIN_MEMBER_TOKEN_V2=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2Njg0MDY5OTYsInN1YiI6IntcImJ1c0lkXCI6MzYsXCJyYW5kb21cIjpcIjA3MzEwNTM3XCIsXCJtZW1iZXJJZFwiOjYzNTUwODg0NjE0MzE3fSIsImlzcyI6ImR1b2ZyaWVuZCIsImF1ZCI6Im1lbWJlciIsImV4cCI6MTY2ODQ5MzM5NiwibmJmIjoxNjY4NDA2OTk2fQ.MSh1bKCieBl1XSCU1jKu2N34OSd6j-LZEcjCN92_Sd0" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="distributor_login_token" />
-                      <option name="value" value="" />
+                      <option name="value" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlbmNyeXB0SWQiOiJNakF4TkRNeU5qRXlNRFUwTWpJMiIsInN1YiI6Iue7j-mUgOWVhi0yMDE0MzI2MTIwNTQyMjYiLCJpc3MiOiIwOThmNmJjZDQ2MjFkMzczY2FkZTRlODMyNjI3YjRmNiIsImlhdCI6MTY1OTUxNjc2NCwiYXVkIjoiZGlzdHJpYnV0b3IiLCJleHAiOjE5NzQ4NzY3NjQsIm5iZiI6MTY1OTUxNjc2NH0.6O-mXOBKrdU39a8L6AEu4WCt3hqWxnJdg1fytLs_-eU" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="login_source" />
@@ -211,15 +211,15 @@
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="main_bus" />
-                      <option name="value" value="20791" />
+                      <option name="value" value="36" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="origin" />
-                      <option name="value" value="https://20791.m.duofriend.com" />
+                      <option name="value" value="https://36.m.deeptel.com.cn" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="referer" />
-                      <option name="value" value="https://20791.m.duofriend.com/" />
+                      <option name="value" value="https://36.m.deeptel.com.cn/" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="sec-fetch-dest" />
@@ -426,10 +426,10 @@
     <option name="statisticsList">
       <list>
         <YearStatistics>
-          <option name="totalActionCount" value="662" />
+          <option name="totalActionCount" value="666" />
           <option name="totalFailCount" value="1" />
           <option name="totalRocketCount" value="32" />
-          <option name="totalSuccessCount" value="75" />
+          <option name="totalSuccessCount" value="76" />
           <option name="year" value="2022" />
         </YearStatistics>
       </list>
