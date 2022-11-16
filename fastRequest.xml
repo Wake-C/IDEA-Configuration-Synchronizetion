@@ -179,11 +179,11 @@
                   <list>
                     <DataMapping>
                       <option name="type" value="authority" />
-                      <option name="value" value="mall.deeptel.com.cn" />
+                      <option name="value" value="m-api.deeptel.com.cn" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="accept" />
-                      <option name="value" value="application/json, text/javascript, */*; q=0.01" />
+                      <option name="value" value="*/*" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="accept-language" />
@@ -199,7 +199,7 @@
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="cookie" />
-                      <option name="value" value="LOGIN_MEMBER_TOKEN_V2=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2Njg0MDY5OTYsInN1YiI6IntcImJ1c0lkXCI6MzYsXCJyYW5kb21cIjpcIjA3MzEwNTM3XCIsXCJtZW1iZXJJZFwiOjYzNTUwODg0NjE0MzE3fSIsImlzcyI6ImR1b2ZyaWVuZCIsImF1ZCI6Im1lbWJlciIsImV4cCI6MTY2ODQ5MzM5NiwibmJmIjoxNjY4NDA2OTk2fQ.MSh1bKCieBl1XSCU1jKu2N34OSd6j-LZEcjCN92_Sd0; loginToken=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2Njg0MTg1MDMsInN1YiI6IntcImJ1c0lkXCI6XCIzNlwiLFwicmFuZG9tXCI6XCI2MDY4NDJcIixcImJ1c05hbWVcIjpcImdvb2R0b21cIn0iLCJpc3MiOiJkdW9mcmllbmQiLCJhdWQiOiJkdW9mZW4iLCJleHAiOjE2OTk5Nzc1OTksIm5iZiI6MTY2ODQxODUwM30.iEDSLvOBBqAFYPwsnPft3RNmpck79xpz3zTMVnFz4X0" />
+                      <option name="value" value="JSESSIONID=89BAEA0CE79AA94E28E78126879E113D; APP_MESSAGE_COOKIE_2022-11-16=e018e394748c127fe48f9811b3bfefe1; LOGIN_MEMBER_TOKEN_V2=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2Njg1NjY4NjYsInN1YiI6IntcImJ1c0lkXCI6MzYsXCJyYW5kb21cIjpcIjc5MDM5ODYwXCIsXCJtZW1iZXJJZFwiOjYzNTUwODg0NjE0MzE3fSIsImlzcyI6ImR1b2ZyaWVuZCIsImF1ZCI6Im1lbWJlciIsImV4cCI6MTY2ODY1MzI2NiwibmJmIjoxNjY4NTY2ODY2fQ.EMeBI1G8aoiiWCEaGPTfr_KnGVYoi2N7rkDidA_xXrI; loginToken=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2Njg1NzkwMDksInN1YiI6IntcImJ1c0lkXCI6XCIzNlwiLFwicmFuZG9tXCI6XCIzNTM4MDJcIixcImJ1c05hbWVcIjpcImdvb2R0b21cIn0iLCJpc3MiOiJkdW9mcmllbmQiLCJhdWQiOiJkdW9mZW4iLCJleHAiOjE3MDAxNTAzOTksIm5iZiI6MTY2ODU3OTAwOX0.zYT10DCH2pXv7VzoG1rnYVdhbCxmdqv_Zf64HX1eUek" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="distributor_login_token" />
@@ -215,11 +215,11 @@
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="origin" />
-                      <option name="value" value="https://mall.deeptel.com.cn" />
+                      <option name="value" value="https://36.m.deeptel.com.cn" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="referer" />
-                      <option name="value" value="https://mall.deeptel.com.cn/html/back/views/setUp/index.html" />
+                      <option name="value" value="https://36.m.deeptel.com.cn/" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="sec-fetch-dest" />
@@ -231,7 +231,7 @@
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="sec-fetch-site" />
-                      <option name="value" value="same-origin" />
+                      <option name="value" value="same-site" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="user-agent" />
@@ -531,7 +531,7 @@
     <option name="statisticsList">
       <list>
         <YearStatistics>
-          <option name="totalActionCount" value="724" />
+          <option name="totalActionCount" value="726" />
           <option name="totalFailCount" value="1" />
           <option name="totalRocketCount" value="33" />
           <option name="totalSuccessCount" value="117" />
