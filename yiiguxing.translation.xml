@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="574" />
     <option name="newTranslationDialogY" value="394" />
     <histories>
+      <item value="main Image" />
       <item value="receipt Html" />
       <item value="templatereceipt" />
       <item value="form" />
@@ -54,12 +55,11 @@
       <item value="Same Template Id Pro Data List" />
       <item value="warm:其他业务不要使用" />
       <item value="list Excluded Refund Item" />
-      <item value="is Change Product" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4545" />
-        <entry key="ENGLISH" value="4508" />
+        <entry key="CHINESE" value="4546" />
+        <entry key="ENGLISH" value="4509" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="3" />
