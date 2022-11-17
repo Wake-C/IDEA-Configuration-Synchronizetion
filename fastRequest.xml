@@ -199,7 +199,7 @@
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="cookie" />
-                      <option name="value" value="JSESSIONID=89BAEA0CE79AA94E28E78126879E113D; APP_MESSAGE_COOKIE_2022-11-16=e018e394748c127fe48f9811b3bfefe1; LOGIN_MEMBER_TOKEN_V2=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2Njg1NjY4NjYsInN1YiI6IntcImJ1c0lkXCI6MzYsXCJyYW5kb21cIjpcIjc5MDM5ODYwXCIsXCJtZW1iZXJJZFwiOjYzNTUwODg0NjE0MzE3fSIsImlzcyI6ImR1b2ZyaWVuZCIsImF1ZCI6Im1lbWJlciIsImV4cCI6MTY2ODY1MzI2NiwibmJmIjoxNjY4NTY2ODY2fQ.EMeBI1G8aoiiWCEaGPTfr_KnGVYoi2N7rkDidA_xXrI; loginToken=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2Njg1NzkwMDksInN1YiI6IntcImJ1c0lkXCI6XCIzNlwiLFwicmFuZG9tXCI6XCIzNTM4MDJcIixcImJ1c05hbWVcIjpcImdvb2R0b21cIn0iLCJpc3MiOiJkdW9mcmllbmQiLCJhdWQiOiJkdW9mZW4iLCJleHAiOjE3MDAxNTAzOTksIm5iZiI6MTY2ODU3OTAwOX0.zYT10DCH2pXv7VzoG1rnYVdhbCxmdqv_Zf64HX1eUek" />
+                      <option name="value" value="JSESSIONID=89BAEA0CE79AA94E28E78126879E113D; APP_MESSAGE_COOKIE_2022-11-17=e018e394748c127f06307c9274bddb95; LOGIN_MEMBER_TOKEN_V2=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2Njg2NTM1MjEsInN1YiI6IntcImJ1c0lkXCI6MzYsXCJyYW5kb21cIjpcIjYyNjc3MjczXCIsXCJtZW1iZXJJZFwiOjYzNTUwODg0NjE0MzE3fSIsImlzcyI6ImR1b2ZyaWVuZCIsImF1ZCI6Im1lbWJlciIsImV4cCI6MTY2ODczOTkyMSwibmJmIjoxNjY4NjUzNTIxfQ.prj-3hyrgvaVR0bu60m0p63_oCkjBe7RojAARqz5H2U" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="distributor_login_token" />
@@ -531,10 +531,10 @@
     <option name="statisticsList">
       <list>
         <YearStatistics>
-          <option name="totalActionCount" value="737" />
+          <option name="totalActionCount" value="800" />
           <option name="totalFailCount" value="1" />
           <option name="totalRocketCount" value="33" />
-          <option name="totalSuccessCount" value="121" />
+          <option name="totalSuccessCount" value="138" />
           <option name="year" value="2022" />
         </YearStatistics>
       </list>
