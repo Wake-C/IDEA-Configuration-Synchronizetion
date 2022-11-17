@@ -199,7 +199,7 @@
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="cookie" />
-                      <option name="value" value="JSESSIONID=89BAEA0CE79AA94E28E78126879E113D; APP_MESSAGE_COOKIE_2022-11-17=e018e394748c127f06307c9274bddb95; LOGIN_MEMBER_TOKEN_V2=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2Njg2NTM1MjEsInN1YiI6IntcImJ1c0lkXCI6MzYsXCJyYW5kb21cIjpcIjYyNjc3MjczXCIsXCJtZW1iZXJJZFwiOjYzNTUwODg0NjE0MzE3fSIsImlzcyI6ImR1b2ZyaWVuZCIsImF1ZCI6Im1lbWJlciIsImV4cCI6MTY2ODczOTkyMSwibmJmIjoxNjY4NjUzNTIxfQ.prj-3hyrgvaVR0bu60m0p63_oCkjBe7RojAARqz5H2U" />
+                      <option name="value" value="JSESSIONID=89BAEA0CE79AA94E28E78126879E113D; APP_MESSAGE_COOKIE_2022-11-17=e018e394748c127f06307c9274bddb95; LOGIN_MEMBER_TOKEN_V2=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2Njg2NTM1MjEsInN1YiI6IntcImJ1c0lkXCI6MzYsXCJyYW5kb21cIjpcIjYyNjc3MjczXCIsXCJtZW1iZXJJZFwiOjYzNTUwODg0NjE0MzE3fSIsImlzcyI6ImR1b2ZyaWVuZCIsImF1ZCI6Im1lbWJlciIsImV4cCI6MTY2ODczOTkyMSwibmJmIjoxNjY4NjUzNTIxfQ.prj-3hyrgvaVR0bu60m0p63_oCkjBe7RojAARqz5H2U; loginToken=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2Njg2NTU5MzYsInN1YiI6IntcImJ1c0lkXCI6XCIzNlwiLFwicmFuZG9tXCI6XCI2ODMzODJcIixcImJ1c05hbWVcIjpcImdvb2R0b21cIn0iLCJpc3MiOiJkdW9mcmllbmQiLCJhdWQiOiJkdW9mZW4iLCJleHAiOjE3MDAyMzY3OTksIm5iZiI6MTY2ODY1NTkzNn0.TnYqTMWiPBtXSAg_ZpuaOKkWB2otCZOft2an7UnkvTk" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="distributor_login_token" />
@@ -251,7 +251,7 @@
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="dealer_login_token" />
-                      <option name="value" value="" />
+                      <option name="value" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlbmNyeXB0SWQiOiJNak13TkRNMU5qazNPRE0yTmpZMCIsInN1YiI6IueugOaYk-eJiOaLv-i0p-Wunee7j-mUgOWVhi0yMzA0MzU2OTc4MzY2NjQiLCJpc3MiOiIwOThmNmJjZDQ2MjFkMzczY2FkZTRlODMyNjI3YjRmNiIsImlhdCI6MTY2ODY1NTkyNiwiYXVkIjoiZGVhbGVyIiwiZXhwIjoxOTg0MDE1OTI2LCJuYmYiOjE2Njg2NTU5MjZ9.rQaadNmShEcPKXz01GJCBAdab1ViQOm1RtODQ6iEPKU" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="Connection" />
@@ -531,10 +531,10 @@
     <option name="statisticsList">
       <list>
         <YearStatistics>
-          <option name="totalActionCount" value="800" />
+          <option name="totalActionCount" value="805" />
           <option name="totalFailCount" value="1" />
           <option name="totalRocketCount" value="33" />
-          <option name="totalSuccessCount" value="138" />
+          <option name="totalSuccessCount" value="141" />
           <option name="year" value="2022" />
         </YearStatistics>
       </list>
