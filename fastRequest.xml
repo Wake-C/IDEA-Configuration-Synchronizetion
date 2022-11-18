@@ -183,11 +183,11 @@
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="accept" />
-                      <option name="value" value="application/json, text/plain, */*" />
+                      <option name="value" value="*/*" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="accept-language" />
-                      <option name="value" value="en-US,en;q=0.9,zh-TW;q=0.8,zh;q=0.7" />
+                      <option name="value" value="zh-CN,zh-Hans;q=0.9" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="cache-control" />
@@ -199,27 +199,27 @@
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="cookie" />
-                      <option name="value" value="LOGIN_MEMBER_TOKEN_V2=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2Njg2NTM1MjEsInN1YiI6IntcImJ1c0lkXCI6MzYsXCJyYW5kb21cIjpcIjYyNjc3MjczXCIsXCJtZW1iZXJJZFwiOjYzNTUwODg0NjE0MzE3fSIsImlzcyI6ImR1b2ZyaWVuZCIsImF1ZCI6Im1lbWJlciIsImV4cCI6MTY2ODczOTkyMSwibmJmIjoxNjY4NjUzNTIxfQ.prj-3hyrgvaVR0bu60m0p63_oCkjBe7RojAARqz5H2U; loginToken=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2Njg2NTU5MzYsInN1YiI6IntcImJ1c0lkXCI6XCIzNlwiLFwicmFuZG9tXCI6XCI2ODMzODJcIixcImJ1c05hbWVcIjpcImdvb2R0b21cIn0iLCJpc3MiOiJkdW9mcmllbmQiLCJhdWQiOiJkdW9mZW4iLCJleHAiOjE3MDAyMzY3OTksIm5iZiI6MTY2ODY1NTkzNn0.TnYqTMWiPBtXSAg_ZpuaOKkWB2otCZOft2an7UnkvTk" />
+                      <option name="value" value="LOGIN_MEMBER_TOKEN_V2=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2Njg3MzMwMjIsInN1YiI6IntcImJ1c0lkXCI6MTgxODcwMjMzNDUzMzkzLFwicmFuZG9tXCI6XCI2Mzg5MTQwMlwiLFwibWVtYmVySWRcIjoxODE4NzExMjI2NDYzMDJ9IiwiaXNzIjoiZHVvZnJpZW5kIiwiYXVkIjoibWVtYmVyIiwiZXhwIjoxNjY4ODE5NDIyLCJuYmYiOjE2Njg3MzMwMjJ9.c62-8q80hOjtXFy8UJDTO28-JgWRee2-1Qb_q1gfX_Y" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="distributor_login_token" />
-                      <option name="value" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlbmNyeXB0SWQiOiJNakF4TkRNeU5qRXlNRFUwTWpJMiIsInN1YiI6Iue7j-mUgOWVhi0yMDE0MzI2MTIwNTQyMjYiLCJpc3MiOiIwOThmNmJjZDQ2MjFkMzczY2FkZTRlODMyNjI3YjRmNiIsImlhdCI6MTY1OTUxNjc2NCwiYXVkIjoiZGlzdHJpYnV0b3IiLCJleHAiOjE5NzQ4NzY3NjQsIm5iZiI6MTY1OTUxNjc2NH0.6O-mXOBKrdU39a8L6AEu4WCt3hqWxnJdg1fytLs_-eU" />
+                      <option name="value" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlbmNyeXB0SWQiOiJNakF4TkRRM05qa3dOVGMyTURFdyIsInN1YiI6Iue7j-mUgOWVhi0yMDE0NDc2OTA1NzYwMTAiLCJpc3MiOiIwOThmNmJjZDQ2MjFkMzczY2FkZTRlODMyNjI3YjRmNiIsImlhdCI6MTY2ODczMzQ3MywiYXVkIjoiZGlzdHJpYnV0b3IiLCJleHAiOjE5ODQwOTM0NzMsIm5iZiI6MTY2ODczMzQ3M30.5VtYMiVejmnUhbZubOr8s_pfeSG92XTN1eqpgLkWKfo" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="login_source" />
-                      <option name="value" value="3" />
+                      <option name="value" value="0" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="main_bus" />
-                      <option name="value" value="36" />
+                      <option name="value" value="181870233453393" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="origin" />
-                      <option name="value" value="https://mall-web.deeptel.com.cn" />
+                      <option name="value" value="https://181870233453393.m.deeptel.com.cn" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="referer" />
-                      <option name="value" value="https://mall-web.deeptel.com.cn/web/pc/order.html" />
+                      <option name="value" value="https://181870233453393.m.deeptel.com.cn/" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="sec-fetch-dest" />
@@ -235,7 +235,7 @@
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="user-agent" />
-                      <option name="value" value="Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1" />
+                      <option name="value" value="Mozilla/5.0 (iPhone; CPU iPhone OS 16_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 MicroMessenger/8.0.29(0x18001d38) NetType/WIFI Language/zh_CN" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="member_id" />
@@ -251,7 +251,7 @@
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="dealer_login_token" />
-                      <option name="value" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlbmNyeXB0SWQiOiJNak13TkRNMU5qazNPRE0yTmpZMCIsInN1YiI6IueugOaYk-eJiOaLv-i0p-Wunee7j-mUgOWVhi0yMzA0MzU2OTc4MzY2NjQiLCJpc3MiOiIwOThmNmJjZDQ2MjFkMzczY2FkZTRlODMyNjI3YjRmNiIsImlhdCI6MTY2ODY1NTkyNiwiYXVkIjoiZGVhbGVyIiwiZXhwIjoxOTg0MDE1OTI2LCJuYmYiOjE2Njg2NTU5MjZ9.rQaadNmShEcPKXz01GJCBAdab1ViQOm1RtODQ6iEPKU" />
+                      <option name="value" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlbmNyeXB0SWQiOiJNak13TkRNMU9EQTJPRGc0TkRVeCIsInN1YiI6IueugOaYk-eJiOaLv-i0p-Wunee7j-mUgOWVhi0yMzA0MzU4MDY4ODg0NTEiLCJpc3MiOiIwOThmNmJjZDQ2MjFkMzczY2FkZTRlODMyNjI3YjRmNiIsImlhdCI6MTY2ODczMzQ3MywiYXVkIjoiZGVhbGVyIiwiZXhwIjoxOTg0MDkzNDczLCJuYmYiOjE2Njg3MzM0NzN9.p5kkBzbf5Vb0iFLG4dkoaIWSdfM6CbQFH_Z8y3H0oT0" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="Connection" />
@@ -339,7 +339,7 @@
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="accept-encoding" />
-                      <option name="value" value="gzip, deflate" />
+                      <option name="value" value="gzip, deflate, br" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="pragma" />
@@ -347,11 +347,11 @@
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="x-envoy-external-address" />
-                      <option name="value" value="183.14.132.167" />
+                      <option name="value" value="113.100.210.205" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="x-request-id" />
-                      <option name="value" value="26f4be96-322e-487c-b103-e1375d8bf513" />
+                      <option name="value" value="63ff9ed0-2ea1-4d41-9d85-bb84e10f4366" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="x-envoy-attempt-count" />
@@ -359,23 +359,23 @@
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="x-envoy-original-path" />
-                      <option name="value" value="/mall/unify/order/submit-order" />
+                      <option name="value" value="/mall-order/unify/order/detail?orderId=230435804791108" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="x-forwarded-client-cert" />
-                      <option name="value" value="By=spiffe://cluster.local/ns/df-test/sa/default;Hash=8a67453bf9cc69881c04fdf6618241b710f95f95b12ec8a24d0c33672c0e2712;Subject=&quot;&quot;;URI=spiffe://cluster.local/ns/istio-system/sa/external-ingressgateway-service-account" />
+                      <option name="value" value="By=spiffe://cluster.local/ns/df-test/sa/default;Hash=cb5cc8fc4d9970cac0583454eb73c3b5d07eb98a3b86cbce89b5bf6ea6260a19;Subject=&quot;&quot;;URI=spiffe://cluster.local/ns/istio-system/sa/external-ingressgateway-service-account" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="x-b3-traceid" />
-                      <option name="value" value="614a32f048e57387aa72609f9ac280d9" />
+                      <option name="value" value="0353456d1f55213161b61caa5fa8038d" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="x-b3-spanid" />
-                      <option name="value" value="788ef3b334834119" />
+                      <option name="value" value="49e8775d43806931" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="x-b3-parentspanid" />
-                      <option name="value" value="aa72609f9ac280d9" />
+                      <option name="value" value="61b61caa5fa8038d" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="x-b3-sampled" />
@@ -531,7 +531,7 @@
     <option name="statisticsList">
       <list>
         <YearStatistics>
-          <option name="totalActionCount" value="809" />
+          <option name="totalActionCount" value="814" />
           <option name="totalFailCount" value="1" />
           <option name="totalRocketCount" value="33" />
           <option name="totalSuccessCount" value="142" />
