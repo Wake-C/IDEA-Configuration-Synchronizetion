@@ -5,6 +5,16 @@
     <option name="newTranslationDialogX" value="574" />
     <option name="newTranslationDialogY" value="394" />
     <histories>
+      <item value="order Id With Express Map" />
+      <item value="express No List" />
+      <item value="express No" />
+      <item value="Experss No" />
+      <item value="Experss N" />
+      <item value="Order Experss No VO" />
+      <item value="order Express No" />
+      <item value="order Delivery No" />
+      <item value="order Delivery No Info" />
+      <item value="order Delivery Info" />
       <item value="main Image" />
       <item value="receipt Html" />
       <item value="templatereceipt" />
@@ -45,21 +55,11 @@
       <item value="valid" />
       <item value="valid Member Address" />
       <item value="Express Delivery Settings" />
-      <item value="Merchant Delivery Settings" />
-      <item value="Settings" />
-      <item value="delivery Settings" />
-      <item value="validation Bus Logistics Settings" />
-      <item value="validation Delivery Set" />
-      <item value="Charge By Piece" />
-      <item value="calculate Charge By Piece" />
-      <item value="Same Template Id Pro Data List" />
-      <item value="warm:其他业务不要使用" />
-      <item value="list Excluded Refund Item" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4546" />
-        <entry key="ENGLISH" value="4509" />
+        <entry key="CHINESE" value="4557" />
+        <entry key="ENGLISH" value="4519" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="3" />
@@ -82,7 +82,7 @@
         <entry key="SPANISH" value="10" />
         <entry key="ITALIAN" value="6" />
         <entry key="HINDI" value="19" />
-        <entry key="INDONESIAN" value="2" />
+        <entry key="INDONESIAN" value="3" />
         <entry key="VIETNAMESE" value="1" />
       </map>
     </option>
