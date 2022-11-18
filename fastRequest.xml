@@ -156,7 +156,7 @@
     </option>
     <option name="domain" value="localhost:8080" />
     <option name="enableEnv" value="dev" />
-    <option name="enableProject" value="mall" />
+    <option name="enableProject" value="mall_order" />
     <option name="envList">
       <list>
         <option value="dev" />
@@ -518,6 +518,84 @@
           </option>
           <option name="projectName" value="mall" />
         </HeaderGroup>
+        <HeaderGroup>
+          <option name="envDataMap">
+            <map>
+              <entry key="dev">
+                <value>
+                  <list />
+                </value>
+              </entry>
+              <entry key="test">
+                <value>
+                  <list>
+                    <DataMapping>
+                      <option name="type" value="authority" />
+                      <option name="value" value="m-api.deeptel.com.cn" />
+                    </DataMapping>
+                    <DataMapping>
+                      <option name="type" value="accept" />
+                      <option name="value" value="*/*" />
+                    </DataMapping>
+                    <DataMapping>
+                      <option name="type" value="accept-language" />
+                      <option name="value" value="en-US,en;q=0.9,zh-TW;q=0.8,zh;q=0.7" />
+                    </DataMapping>
+                    <DataMapping>
+                      <option name="type" value="cache-control" />
+                      <option name="value" value="no-cache" />
+                    </DataMapping>
+                    <DataMapping>
+                      <option name="type" value="cookie" />
+                      <option name="value" value="JSESSIONID=89BAEA0CE79AA94E28E78126879E113D; APP_MESSAGE_COOKIE_2022-11-17=e018e394748c127f06307c9274bddb95; LOGIN_MEMBER_TOKEN_V2=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2Njg2NTM1MjEsInN1YiI6IntcImJ1c0lkXCI6MzYsXCJyYW5kb21cIjpcIjYyNjc3MjczXCIsXCJtZW1iZXJJZFwiOjYzNTUwODg0NjE0MzE3fSIsImlzcyI6ImR1b2ZyaWVuZCIsImF1ZCI6Im1lbWJlciIsImV4cCI6MTY2ODczOTkyMSwibmJmIjoxNjY4NjUzNTIxfQ.prj-3hyrgvaVR0bu60m0p63_oCkjBe7RojAARqz5H2U; loginToken=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2Njg2NTU5MzYsInN1YiI6IntcImJ1c0lkXCI6XCIzNlwiLFwicmFuZG9tXCI6XCI2ODMzODJcIixcImJ1c05hbWVcIjpcImdvb2R0b21cIn0iLCJpc3MiOiJkdW9mcmllbmQiLCJhdWQiOiJkdW9mZW4iLCJleHAiOjE3MDAyMzY3OTksIm5iZiI6MTY2ODY1NTkzNn0.TnYqTMWiPBtXSAg_ZpuaOKkWB2otCZOft2an7UnkvTk" />
+                    </DataMapping>
+                    <DataMapping>
+                      <option name="type" value="dealer_login_token" />
+                      <option name="value" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlbmNyeXB0SWQiOiJNak13TkRNMU5qazNPRE0yTmpZMCIsInN1YiI6IueugOaYk-eJiOaLv-i0p-Wunee7j-mUgOWVhi0yMzA0MzU2OTc4MzY2NjQiLCJpc3MiOiIwOThmNmJjZDQ2MjFkMzczY2FkZTRlODMyNjI3YjRmNiIsImlhdCI6MTY2ODY1NTkyNiwiYXVkIjoiZGVhbGVyIiwiZXhwIjoxOTg0MDE1OTI2LCJuYmYiOjE2Njg2NTU5MjZ9.rQaadNmShEcPKXz01GJCBAdab1ViQOm1RtODQ6iEPKU" />
+                    </DataMapping>
+                    <DataMapping>
+                      <option name="type" value="distributor_login_token" />
+                      <option name="value" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlbmNyeXB0SWQiOiJNakF4TkRNeU5qRXlNRFUwTWpJMiIsInN1YiI6Iue7j-mUgOWVhi0yMDE0MzI2MTIwNTQyMjYiLCJpc3MiOiIwOThmNmJjZDQ2MjFkMzczY2FkZTRlODMyNjI3YjRmNiIsImlhdCI6MTY1OTUxNjc2NCwiYXVkIjoiZGlzdHJpYnV0b3IiLCJleHAiOjE5NzQ4NzY3NjQsIm5iZiI6MTY1OTUxNjc2NH0.6O-mXOBKrdU39a8L6AEu4WCt3hqWxnJdg1fytLs_-eU" />
+                    </DataMapping>
+                    <DataMapping>
+                      <option name="type" value="login_source" />
+                      <option name="value" value="3" />
+                    </DataMapping>
+                    <DataMapping>
+                      <option name="type" value="main_bus" />
+                      <option name="value" value="36" />
+                    </DataMapping>
+                    <DataMapping>
+                      <option name="type" value="origin" />
+                      <option name="value" value="https://36.m.deeptel.com.cn" />
+                    </DataMapping>
+                    <DataMapping>
+                      <option name="type" value="referer" />
+                      <option name="value" value="https://36.m.deeptel.com.cn/" />
+                    </DataMapping>
+                    <DataMapping>
+                      <option name="type" value="sec-fetch-dest" />
+                      <option name="value" value="empty" />
+                    </DataMapping>
+                    <DataMapping>
+                      <option name="type" value="sec-fetch-mode" />
+                      <option name="value" value="cors" />
+                    </DataMapping>
+                    <DataMapping>
+                      <option name="type" value="sec-fetch-site" />
+                      <option name="value" value="same-site" />
+                    </DataMapping>
+                    <DataMapping>
+                      <option name="type" value="user-agent" />
+                      <option name="value" value="Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1" />
+                    </DataMapping>
+                  </list>
+                </value>
+              </entry>
+            </map>
+          </option>
+          <option name="projectName" value="mall_order" />
+        </HeaderGroup>
       </list>
     </option>
     <option name="projectList">
@@ -531,10 +609,10 @@
     <option name="statisticsList">
       <list>
         <YearStatistics>
-          <option name="totalActionCount" value="819" />
-          <option name="totalFailCount" value="2" />
+          <option name="totalActionCount" value="855" />
+          <option name="totalFailCount" value="28" />
           <option name="totalRocketCount" value="33" />
-          <option name="totalSuccessCount" value="144" />
+          <option name="totalSuccessCount" value="148" />
           <option name="year" value="2022" />
         </YearStatistics>
       </list>
