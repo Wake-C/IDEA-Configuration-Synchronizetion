@@ -156,7 +156,7 @@
     </option>
     <option name="domain" value="localhost:8080" />
     <option name="enableEnv" value="dev" />
-    <option name="enableProject" value="mall_order" />
+    <option name="enableProject" value="mall" />
     <option name="envList">
       <list>
         <option value="dev" />
@@ -183,11 +183,11 @@
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="accept" />
-                      <option name="value" value="*/*" />
+                      <option name="value" value="application/json, text/javascript, */*; q=0.01" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="accept-language" />
-                      <option name="value" value="zh-CN,zh-Hans;q=0.9" />
+                      <option name="value" value="zh-CN,zh;q=0.9" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="cache-control" />
@@ -195,11 +195,11 @@
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="content-type" />
-                      <option name="value" value="application/json" />
+                      <option name="value" value="application/x-www-form-urlencoded; charset=UTF-8" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="cookie" />
-                      <option name="value" value="LOGIN_MEMBER_TOKEN_V2=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2Njg3MzMwMjIsInN1YiI6IntcImJ1c0lkXCI6MTgxODcwMjMzNDUzMzkzLFwicmFuZG9tXCI6XCI2Mzg5MTQwMlwiLFwibWVtYmVySWRcIjoxODE4NzExMjI2NDYzMDJ9IiwiaXNzIjoiZHVvZnJpZW5kIiwiYXVkIjoibWVtYmVyIiwiZXhwIjoxNjY4ODE5NDIyLCJuYmYiOjE2Njg3MzMwMjJ9.c62-8q80hOjtXFy8UJDTO28-JgWRee2-1Qb_q1gfX_Y" />
+                      <option name="value" value="LOGIN_MEMBER_TOKEN_V2=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2Njg4MjUxOTEsInN1YiI6IntcImJ1c0lkXCI6MzYsXCJyYW5kb21cIjpcIjczMjA5OTg5XCIsXCJtZW1iZXJJZFwiOjg1OTAxODQ4Mjk5MzM3fSIsImlzcyI6ImR1b2ZyaWVuZCIsImF1ZCI6Im1lbWJlciIsImV4cCI6MTY2ODkxMTU5MSwibmJmIjoxNjY4ODI1MTkxfQ.LKD4Vd29ejwzxkVkT5Zz6QAtUVeAGsfQNOFff4E801o; loginToken=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2Njg4MjUyMDksInN1YiI6IntcImJ1c0lkXCI6XCIzNlwiLFwicmFuZG9tXCI6XCI1NTM5OTNcIixcImJ1c05hbWVcIjpcImdvb2R0b21cIn0iLCJpc3MiOiJkdW9mcmllbmQiLCJhdWQiOiJkdW9mZW4iLCJleHAiOjE3MDA0MDk1OTksIm5iZiI6MTY2ODgyNTIwOX0.gn76_T5_3EW8aRv9EfoLd3iZNwox8i_1WvavQG55MYc" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="distributor_login_token" />
@@ -215,11 +215,11 @@
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="origin" />
-                      <option name="value" value="https://181870233453393.m.deeptel.com.cn" />
+                      <option name="value" value="https://mall.deeptel.com.cn" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="referer" />
-                      <option name="value" value="https://181870233453393.m.deeptel.com.cn/" />
+                      <option name="value" value="https://mall.deeptel.com.cn/html/back/views/setUp/index.html" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="sec-fetch-dest" />
@@ -235,7 +235,7 @@
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="user-agent" />
-                      <option name="value" value="Mozilla/5.0 (iPhone; CPU iPhone OS 16_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 MicroMessenger/8.0.29(0x18001d38) NetType/WIFI Language/zh_CN" />
+                      <option name="value" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="member_id" />
@@ -347,11 +347,11 @@
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="x-envoy-external-address" />
-                      <option name="value" value="113.100.210.205" />
+                      <option name="value" value="183.14.133.21" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="x-request-id" />
-                      <option name="value" value="63ff9ed0-2ea1-4d41-9d85-bb84e10f4366" />
+                      <option name="value" value="48db6262-a8fd-4ecf-b87f-f57627835e96" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="x-envoy-attempt-count" />
@@ -363,19 +363,19 @@
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="x-forwarded-client-cert" />
-                      <option name="value" value="By=spiffe://cluster.local/ns/df-test/sa/default;Hash=cb5cc8fc4d9970cac0583454eb73c3b5d07eb98a3b86cbce89b5bf6ea6260a19;Subject=&quot;&quot;;URI=spiffe://cluster.local/ns/istio-system/sa/external-ingressgateway-service-account" />
+                      <option name="value" value="By=spiffe://cluster.local/ns/df-test/sa/default;Hash=25031683fc1a93783bbc929811ebb2d6d3f454b170c8dfa1919aa4f521a9e88c;Subject=&quot;&quot;;URI=spiffe://cluster.local/ns/istio-system/sa/external-ingressgateway-service-account" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="x-b3-traceid" />
-                      <option name="value" value="0353456d1f55213161b61caa5fa8038d" />
+                      <option name="value" value="81ab154f5be12e8440b22959b664b5c5" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="x-b3-spanid" />
-                      <option name="value" value="49e8775d43806931" />
+                      <option name="value" value="53a8ebe99ce3625b" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="x-b3-parentspanid" />
-                      <option name="value" value="61b61caa5fa8038d" />
+                      <option name="value" value="40b22959b664b5c5" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="x-b3-sampled" />
@@ -403,11 +403,11 @@
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="m-login-token" />
-                      <option name="value" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2Njg0MTg1MDMsInN1YiI6IntcImJ1c0lkXCI6XCIzNlwiLFwicmFuZG9tXCI6XCI2MDY4NDJcIixcImJ1c05hbWVcIjpcImdvb2R0b21cIn0iLCJpc3MiOiJkdW9mcmllbmQiLCJhdWQiOiJkdW9mZW4iLCJleHAiOjE2OTk5Nzc1OTksIm5iZiI6MTY2ODQxODUwM30.iEDSLvOBBqAFYPwsnPft3RNmpck79xpz3zTMVnFz4X0" />
+                      <option name="value" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2Njg4MjIwNzgsInN1YiI6IntcImJ1c0lkXCI6XCIzNlwiLFwicmFuZG9tXCI6XCI2MjE4OTZcIixcImJ1c05hbWVcIjpcImdvb2R0b21cIn0iLCJpc3MiOiJkdW9mcmllbmQiLCJhdWQiOiJkdW9mZW4iLCJleHAiOjE3MDA0MDk1OTksIm5iZiI6MTY2ODgyMjA3OH0.uyhzcIsXYhcNHPs7tQbDgCpk-gmqgiBIeGOu3mWaBx8" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="sec-ch-ua" />
-                      <option name="value" value="&quot;Chromium&quot;;v=&quot;106&quot;, &quot;Google Chrome&quot;;v=&quot;106&quot;, &quot;Not;A=Brand&quot;;v=&quot;99&quot;" />
+                      <option name="value" value="&quot;Google Chrome&quot;;v=&quot;107&quot;, &quot;Chromium&quot;;v=&quot;107&quot;, &quot;Not=A?Brand&quot;;v=&quot;24&quot;" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="sec-ch-ua-mobile" />
@@ -415,11 +415,11 @@
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="sec-ch-ua-platform" />
-                      <option name="value" value="&quot;macOS&quot;" />
+                      <option name="value" value="&quot;Windows&quot;" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="url" />
-                      <option name="value" value="https://mall.deeptel.com.cn/html/back/views/setUp/index.html#/addSince/201418420626039" />
+                      <option name="value" value="https://mall.deeptel.com.cn/html/back/views/setUp/index.html#/addSince/181873603577432" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="x-requested-with" />
@@ -670,7 +670,7 @@
     <option name="statisticsList">
       <list>
         <YearStatistics>
-          <option name="totalActionCount" value="876" />
+          <option name="totalActionCount" value="882" />
           <option name="totalFailCount" value="28" />
           <option name="totalRocketCount" value="33" />
           <option name="totalSuccessCount" value="162" />
