@@ -195,7 +195,7 @@
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="content-type" />
-                      <option name="value" value="application/x-www-form-urlencoded; charset=UTF-8" />
+                      <option name="value" value="application/json" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="cookie" />
@@ -670,10 +670,10 @@
     <option name="statisticsList">
       <list>
         <YearStatistics>
-          <option name="totalActionCount" value="930" />
+          <option name="totalActionCount" value="936" />
           <option name="totalFailCount" value="28" />
           <option name="totalRocketCount" value="33" />
-          <option name="totalSuccessCount" value="179" />
+          <option name="totalSuccessCount" value="182" />
           <option name="year" value="2022" />
         </YearStatistics>
       </list>
