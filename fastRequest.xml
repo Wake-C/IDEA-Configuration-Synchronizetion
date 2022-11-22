@@ -154,8 +154,8 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="localhost:8080" />
-    <option name="enableEnv" value="dev" />
+    <option name="domain" value="https://mall.deeptel.com.cn/" />
+    <option name="enableEnv" value="test" />
     <option name="enableProject" value="mall" />
     <option name="envList">
       <list>
@@ -267,27 +267,27 @@
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="DISTRIBUTOR_LOGIN_TOKEN" />
-                      <option name="value" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlbmNyeXB0SWQiOiJPRFU1TVRRM016azBPVEU1TmpjPSIsInN1YiI6Iue7j-mUgOWVhi04NTkxNDczOTQ5MTk2NyIsImlzcyI6IjA5OGY2YmNkNDYyMWQzNzNjYWRlNGU4MzI2MjdiNGY2IiwiaWF0IjoxNjYyNjE5MDE2LCJhdWQiOiJkaXN0cmlidXRvciIsImV4cCI6MTk3Nzk3OTAxNiwibmJmIjoxNjYyNjE5MDE2fQ.kWmYZih1Z1RjuWBP9bVQxd3IF54zUVKGK3EcZqyQUa4" />
+                      <option name="value" value="" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="DEALER_LOGIN_TOKEN" />
-                      <option name="value" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlbmNyeXB0SWQiOiJNak13TkRNMU1EWTBORGsyTWpJMCIsInN1YiI6IueugOaYk-eJiOaLv-i0p-Wunee7j-mUgOWVhi0yMzA0MzUwNjQ0OTYyMjQiLCJpc3MiOiIwOThmNmJjZDQ2MjFkMzczY2FkZTRlODMyNjI3YjRmNiIsImlhdCI6MTY2ODE1ODU4MiwiYXVkIjoiZGVhbGVyIiwiZXhwIjoxOTgzNTE4NTgyLCJuYmYiOjE2NjgxNTg1ODJ9.jiMsCAHvGk_1e_atKeGSHTlCBgaASxcmSD9Ma0ZzzU0" />
+                      <option name="value" value="" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="MEMBER_ID" />
-                      <option name="value" value="85901814744081" />
+                      <option name="value" value="" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="MEMBER_LOGIN_TOKEN" />
-                      <option name="value" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2NDI0MTkyMzEsInN1YiI6IntcImJ1c0lkXCI6MzYsXCJyYW5kb21cIjpcIjY1MjU3NTU2XCIsXCJtZW1iZXJJZFwiOjg1OTAxODE0NzQ0MDgxfSIsImlzcyI6ImR1b2ZyaWVuZCIsImF1ZCI6Im1lbWJlciIsImV4cCI6MTY3Mzg5MjAwMCwibmJmIjoxNjQyNDE5MjMxfQ.a1mTEVQ43VaMPFZae8_e69-SqUtqjyP774GR40kJ_vM" />
+                      <option name="value" value="" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="User-Agent" />
-                      <option name="value" value="Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1" />
+                      <option name="value" value="Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 wechatdevtools/1.06.2209060 MicroMessenger/8.0.5 Language/zh_CN webview/16690827881642317 webdebugger port/51671 token/ab6025906226f4539135c30685deb962" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="LOGIN_SOURCE" />
-                      <option name="value" value="3" />
+                      <option name="value" value="0" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="Content-Type" />
@@ -311,7 +311,7 @@
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="Referer" />
-                      <option name="value" value="http://a.deeptel.com.cn/mall/web/h5/index.html" />
+                      <option name="value" value="http://a.deeptel.com.cn:8080/mall/web/h5/index.html" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="Accept-Language" />
@@ -319,7 +319,7 @@
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="Cookie" />
-                      <option name="value" value="LOGIN_MEMBER_TOKEN_V2=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2NjkwMTM0ODAsInN1YiI6IntcImJ1c0lkXCI6MzYsXCJyYW5kb21cIjpcIjc1ODg3MjQ0XCIsXCJtZW1iZXJJZFwiOjg1OTAxODQ4Mjk5MzM3fSIsImlzcyI6ImR1b2ZyaWVuZCIsImF1ZCI6Im1lbWJlciIsImV4cCI6MTY2OTA5OTg4MCwibmJmIjoxNjY5MDEzNDgwfQ.Mn_8eRZqrr-UzZ00dYaEluV5OikNunhkHeFEAVkwu_g" />
+                      <option name="value" value="LOGIN_MEMBER_TOKEN_V2=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2NjkwMjk4NzYsInN1YiI6IntcImJ1c0lkXCI6MzYsXCJyYW5kb21cIjpcIjcyMTA3MDg1XCIsXCJtZW1iZXJJZFwiOjg1OTAxODE0NzQ0MDgxfSIsImlzcyI6ImR1b2ZyaWVuZCIsImF1ZCI6Im1lbWJlciIsImV4cCI6MTY2OTExNjI3NiwibmJmIjoxNjY5MDI5ODc2fQ.iPdv7_FPMpxv6pYjszG7NkfnecZwZbPiVpRCnsZWlzM" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="x-forwarded-host" />
@@ -445,15 +445,15 @@
                   <list>
                     <DataMapping>
                       <option name="type" value="authority" />
-                      <option name="value" value="mall.deeptel.com.cn" />
+                      <option name="value" value="m-api.deeptel.com.cn" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="accept" />
-                      <option name="value" value="application/json, text/javascript, */*; q=0.01" />
+                      <option name="value" value="*/*" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="accept-language" />
-                      <option name="value" value="en-US,en;q=0.9,zh-TW;q=0.8,zh;q=0.7" />
+                      <option name="value" value="zh-CN,zh;q=0.9" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="content-type" />
@@ -461,7 +461,7 @@
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="cookie" />
-                      <option name="value" value="LOGIN_MEMBER_TOKEN_V2=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2Njg0MDY5OTYsInN1YiI6IntcImJ1c0lkXCI6MzYsXCJyYW5kb21cIjpcIjA3MzEwNTM3XCIsXCJtZW1iZXJJZFwiOjYzNTUwODg0NjE0MzE3fSIsImlzcyI6ImR1b2ZyaWVuZCIsImF1ZCI6Im1lbWJlciIsImV4cCI6MTY2ODQ5MzM5NiwibmJmIjoxNjY4NDA2OTk2fQ.MSh1bKCieBl1XSCU1jKu2N34OSd6j-LZEcjCN92_Sd0; loginToken=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2Njg0MTg1MDMsInN1YiI6IntcImJ1c0lkXCI6XCIzNlwiLFwicmFuZG9tXCI6XCI2MDY4NDJcIixcImJ1c05hbWVcIjpcImdvb2R0b21cIn0iLCJpc3MiOiJkdW9mcmllbmQiLCJhdWQiOiJkdW9mZW4iLCJleHAiOjE2OTk5Nzc1OTksIm5iZiI6MTY2ODQxODUwM30.iEDSLvOBBqAFYPwsnPft3RNmpck79xpz3zTMVnFz4X0" />
+                      <option name="value" value="APP_MESSAGE_COOKIE_2022-11-21=e018e394748c127fd5e301a1040090cc; LOGIN_MEMBER_TOKEN_V2=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2NjkwMjk4NzYsInN1YiI6IntcImJ1c0lkXCI6MzYsXCJyYW5kb21cIjpcIjcyMTA3MDg1XCIsXCJtZW1iZXJJZFwiOjg1OTAxODE0NzQ0MDgxfSIsImlzcyI6ImR1b2ZyaWVuZCIsImF1ZCI6Im1lbWJlciIsImV4cCI6MTY2OTExNjI3NiwibmJmIjoxNjY5MDI5ODc2fQ.iPdv7_FPMpxv6pYjszG7NkfnecZwZbPiVpRCnsZWlzM" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="m-login-token" />
@@ -469,11 +469,11 @@
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="origin" />
-                      <option name="value" value="https://mall.deeptel.com.cn" />
+                      <option name="value" value="https://36.m.deeptel.com.cn" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="referer" />
-                      <option name="value" value="https://mall.deeptel.com.cn/html/back/views/setUp/index.html" />
+                      <option name="value" value="https://36.m.deeptel.com.cn/" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="sec-ch-ua" />
@@ -497,7 +497,7 @@
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="sec-fetch-site" />
-                      <option name="value" value="same-origin" />
+                      <option name="value" value="same-site" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="url" />
@@ -505,11 +505,43 @@
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="user-agent" />
-                      <option name="value" value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" />
+                      <option name="value" value="Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 wechatdevtools/1.06.2209060 MicroMessenger/8.0.5 Language/zh_CN webview/16690827881642317 webdebugger port/51671 token/ab6025906226f4539135c30685deb962" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="x-requested-with" />
                       <option name="value" value="XMLHttpRequest" />
+                    </DataMapping>
+                    <DataMapping>
+                      <option name="type" value="distributor_login_token" />
+                      <option name="value" value="" />
+                    </DataMapping>
+                    <DataMapping>
+                      <option name="type" value="member_id" />
+                      <option name="value" value="" />
+                    </DataMapping>
+                    <DataMapping>
+                      <option name="type" value="member_login_token" />
+                      <option name="value" value="" />
+                    </DataMapping>
+                    <DataMapping>
+                      <option name="type" value="login_source" />
+                      <option name="value" value="0" />
+                    </DataMapping>
+                    <DataMapping>
+                      <option name="type" value="cache-control" />
+                      <option name="value" value="no-cache" />
+                    </DataMapping>
+                    <DataMapping>
+                      <option name="type" value="main_bus" />
+                      <option name="value" value="36" />
+                    </DataMapping>
+                    <DataMapping>
+                      <option name="type" value="community_id" />
+                      <option name="value" value="" />
+                    </DataMapping>
+                    <DataMapping>
+                      <option name="type" value="dealer_login_token" />
+                      <option name="value" value="" />
                     </DataMapping>
                   </list>
                 </value>
@@ -670,10 +702,10 @@
     <option name="statisticsList">
       <list>
         <YearStatistics>
-          <option name="totalActionCount" value="936" />
+          <option name="totalActionCount" value="947" />
           <option name="totalFailCount" value="28" />
           <option name="totalRocketCount" value="33" />
-          <option name="totalSuccessCount" value="182" />
+          <option name="totalSuccessCount" value="187" />
           <option name="year" value="2022" />
         </YearStatistics>
       </list>
