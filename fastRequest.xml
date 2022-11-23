@@ -199,7 +199,7 @@
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="cookie" />
-                      <option name="value" value="APP_MESSAGE_COOKIE_2022-11-22=e018e394748c127fd7bf29d1dbf65577; LOGIN_MEMBER_TOKEN_V2=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2NjkwOTc3NzAsInN1YiI6IntcImJ1c0lkXCI6MzYsXCJyYW5kb21cIjpcIjg1NjI0MzY1XCIsXCJtZW1iZXJJZFwiOjIwMTQzMzUxMTczMzEwNn0iLCJpc3MiOiJkdW9mcmllbmQiLCJhdWQiOiJtZW1iZXIiLCJleHAiOjE2NjkxODQxNzAsIm5iZiI6MTY2OTA5Nzc3MH0.hajH-tUbJHn21VpzkkOSuBEc1r5ahHfJh5ecM-URuro" />
+                      <option name="value" value="APP_MESSAGE_COOKIE_2022-11-23=e018e394748c127f9858daecf7172567; LOGIN_MEMBER_TOKEN_V2=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2NjkxODU3NDcsInN1YiI6IntcImJ1c0lkXCI6MzYsXCJyYW5kb21cIjpcIjg3MDcxMTk0XCIsXCJtZW1iZXJJZFwiOjIwMTQzMzUxMTczMzEwNn0iLCJpc3MiOiJkdW9mcmllbmQiLCJhdWQiOiJtZW1iZXIiLCJleHAiOjE2NjkyNzIxNDcsIm5iZiI6MTY2OTE4NTc0N30.SWzwCwAzjHndBYY_Eeh-WoCdfpKVa8ZVgguYN4ga2cY" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="distributor_login_token" />
@@ -235,7 +235,7 @@
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="user-agent" />
-                      <option name="value" value="Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 wechatdevtools/1.05.2109131 MicroMessenger/8.0.5 Language/zh_CN webview/16689934962903951 webdebugger port/64027 token/dfe13a89366c2abeff9104eb916d7682" />
+                      <option name="value" value="Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 wechatdevtools/1.05.2109131 MicroMessenger/8.0.5 Language/zh_CN webview/16691645954028095 webdebugger port/52173 token/367176a9a599e572ef131a1a3331f446" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="member_id" />
@@ -702,7 +702,7 @@
     <option name="statisticsList">
       <list>
         <YearStatistics>
-          <option name="totalActionCount" value="987" />
+          <option name="totalActionCount" value="988" />
           <option name="totalFailCount" value="28" />
           <option name="totalRocketCount" value="33" />
           <option name="totalSuccessCount" value="200" />
