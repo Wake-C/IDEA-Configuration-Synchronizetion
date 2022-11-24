@@ -179,7 +179,7 @@
                   <list>
                     <DataMapping>
                       <option name="type" value="authority" />
-                      <option name="value" value="m-api.deeptel.com.cn" />
+                      <option name="value" value="m-api.duofriend.com" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="accept" />
@@ -199,11 +199,11 @@
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="cookie" />
-                      <option name="value" value="JSESSIONID=89BAEA0CE79AA94E28E78126879E113D; APP_MESSAGE_COOKIE_2022-11-23=e018e394748c127facadae588df0a8f7; LOGIN_MEMBER_TOKEN_V2=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2NjkxOTM5NzEsInN1YiI6IntcImJ1c0lkXCI6MzYsXCJyYW5kb21cIjpcIjg3MTk1NDI3XCIsXCJtZW1iZXJJZFwiOjYzNTUwODg0NjE0MzE3fSIsImlzcyI6ImR1b2ZyaWVuZCIsImF1ZCI6Im1lbWJlciIsImV4cCI6MTY2OTI4MDM3MSwibmJmIjoxNjY5MTkzOTcxfQ.o8G82QXPsQUvdj4bnLRxTbc1ZHGfXcsTBvJKykgVaIo" />
+                      <option name="value" value="APP_MESSAGE_COOKIE_2022-11-24=e018e394748c127fa0376e9a8853d487; LOGIN_MEMBER_TOKEN_V2=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2NjkyNjU2NTQsInN1YiI6IntcImJ1c0lkXCI6MjkyNCxcInJhbmRvbVwiOlwiNzE4MDA0MTFcIixcIm1lbWJlcklkXCI6MTk5MTYxMTIzMjUzMDcwfSIsImlzcyI6ImR1b2ZyaWVuZCIsImF1ZCI6Im1lbWJlciIsImV4cCI6MTY2OTM1MjA1NCwibmJmIjoxNjY5MjY1NjU0fQ.S_dACterZ6I9sUh7HqyM5whtCa_8NQAh3yodeuUubXA" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="distributor_login_token" />
-                      <option name="value" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlbmNyeXB0SWQiOiJNakF4TkRNeU5qRXlNRFUwTWpJMiIsInN1YiI6Iue7j-mUgOWVhi0yMDE0MzI2MTIwNTQyMjYiLCJpc3MiOiIwOThmNmJjZDQ2MjFkMzczY2FkZTRlODMyNjI3YjRmNiIsImlhdCI6MTY2OTE2OTg1MywiYXVkIjoiZGlzdHJpYnV0b3IiLCJleHAiOjE5ODQ1Mjk4NTMsIm5iZiI6MTY2OTE2OTg1M30.nsoeMEd7ppqj0T3cR9x2J2CfcL1CXvC_U8p46g9dhlA" />
+                      <option name="value" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlbmNyeXB0SWQiOiJNVFkzT1RJd05UZzRNRGN3T0RZMSIsInN1YiI6Iue7j-mUgOWVhi0xNjc5MjA1ODgwNzA4NjUiLCJpc3MiOiIwOThmNmJjZDQ2MjFkMzczY2FkZTRlODMyNjI3YjRmNiIsImlhdCI6MTY2ODE1NjUwNSwiYXVkIjoiZGlzdHJpYnV0b3IiLCJleHAiOjE5ODM1MTY1MDUsIm5iZiI6MTY2ODE1NjUwNX0.ObrYl2m3MjuEPaecOWvm9sKxQDxpuXkyhATyQyvTzmg" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="login_source" />
@@ -211,15 +211,15 @@
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="main_bus" />
-                      <option name="value" value="36" />
+                      <option name="value" value="2924" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="origin" />
-                      <option name="value" value="https://36.m.deeptel.com.cn" />
+                      <option name="value" value="https://2924.m.duofriend.com" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="referer" />
-                      <option name="value" value="https://36.m.deeptel.com.cn/" />
+                      <option name="value" value="https://2924.m.duofriend.com/" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="sec-fetch-dest" />
@@ -251,7 +251,7 @@
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="dealer_login_token" />
-                      <option name="value" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlbmNyeXB0SWQiOiJNak13TkRNMU5qazNPRE0yTmpZMCIsInN1YiI6IueugOaYk-eJiOaLv-i0p-Wunee7j-mUgOWVhi0yMzA0MzU2OTc4MzY2NjQiLCJpc3MiOiIwOThmNmJjZDQ2MjFkMzczY2FkZTRlODMyNjI3YjRmNiIsImlhdCI6MTY2ODY1NTkyNiwiYXVkIjoiZGVhbGVyIiwiZXhwIjoxOTg0MDE1OTI2LCJuYmYiOjE2Njg2NTU5MjZ9.rQaadNmShEcPKXz01GJCBAdab1ViQOm1RtODQ6iEPKU" />
+                      <option name="value" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlbmNyeXB0SWQiOiJNVGs1TVRZeE1EY3lPVEl4TlRrMSIsInN1YiI6IueugOaYk-eJiOaLv-i0p-Wunee7j-mUgOWVhi0xOTkxNjEwNzI5MjE1OTUiLCJpc3MiOiIwOThmNmJjZDQ2MjFkMzczY2FkZTRlODMyNjI3YjRmNiIsImlhdCI6MTY2ODE1NTk0NCwiYXVkIjoiZGVhbGVyIiwiZXhwIjoxOTgzNTE1OTQ0LCJuYmYiOjE2NjgxNTU5NDR9.MekVPyaJEYKffhC1tww0DMG1ReaRNusNs9fvQx3Fgp4" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="Connection" />
@@ -339,7 +339,7 @@
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="accept-encoding" />
-                      <option name="value" value="gzip, deflate, br" />
+                      <option name="value" value="gzip, deflate" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="pragma" />
@@ -347,11 +347,11 @@
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="x-envoy-external-address" />
-                      <option name="value" value="183.14.133.21" />
+                      <option name="value" value="10.3.9.57" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="x-request-id" />
-                      <option name="value" value="48db6262-a8fd-4ecf-b87f-f57627835e96" />
+                      <option name="value" value="5e2d909b-4b0c-4f87-a47e-d6c683930d74" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="x-envoy-attempt-count" />
@@ -359,23 +359,23 @@
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="x-envoy-original-path" />
-                      <option name="value" value="/mall-order/unify/order/detail?orderId=230435804791108" />
+                      <option name="value" value="/mall/unify/freight/order-freight" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="x-forwarded-client-cert" />
-                      <option name="value" value="By=spiffe://cluster.local/ns/df-test/sa/default;Hash=25031683fc1a93783bbc929811ebb2d6d3f454b170c8dfa1919aa4f521a9e88c;Subject=&quot;&quot;;URI=spiffe://cluster.local/ns/istio-system/sa/external-ingressgateway-service-account" />
+                      <option name="value" value="By=spiffe://cluster.local/ns/df-prod/sa/default;Hash=1b8f8059c9e06b5af3433eb764e67fff4653265efae5aac06104e34550ab739f;Subject=&quot;&quot;;URI=spiffe://cluster.local/ns/istio-system/sa/istio-ingressgateway-service-account" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="x-b3-traceid" />
-                      <option name="value" value="81ab154f5be12e8440b22959b664b5c5" />
+                      <option name="value" value="bfe43750d13287a99ad52bc7fe86c0df" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="x-b3-spanid" />
-                      <option name="value" value="53a8ebe99ce3625b" />
+                      <option name="value" value="a62415e4c259fd51" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="x-b3-parentspanid" />
-                      <option name="value" value="40b22959b664b5c5" />
+                      <option name="value" value="9ad52bc7fe86c0df" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="x-b3-sampled" />
@@ -403,11 +403,11 @@
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="m-login-token" />
-                      <option name="value" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2Njg4MjIwNzgsInN1YiI6IntcImJ1c0lkXCI6XCIzNlwiLFwicmFuZG9tXCI6XCI2MjE4OTZcIixcImJ1c05hbWVcIjpcImdvb2R0b21cIn0iLCJpc3MiOiJkdW9mcmllbmQiLCJhdWQiOiJkdW9mZW4iLCJleHAiOjE3MDA0MDk1OTksIm5iZiI6MTY2ODgyMjA3OH0.uyhzcIsXYhcNHPs7tQbDgCpk-gmqgiBIeGOu3mWaBx8" />
+                      <option name="value" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2NjkyNTk0NDIsInN1YiI6IntcImJ1c0lkXCI6XCIxNjc5MDYyNjQ1MjIxODlcIixcInJhbmRvbVwiOlwiNTIxMzMxXCIsXCJidXNOYW1lXCI6XCJjenhoZG15XCJ9IiwiaXNzIjoiZHVvZnJpZW5kIiwiYXVkIjoiZHVvZmVuIiwiZXhwIjoxNzAwODQxNTk5LCJuYmYiOjE2NjkyNTk0NDJ9.R1VlC-4W-OfIyv2Q1oo5EG4JOtijImHWsKBAenJfx6Q" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="sec-ch-ua" />
-                      <option name="value" value="&quot;Google Chrome&quot;;v=&quot;107&quot;, &quot;Chromium&quot;;v=&quot;107&quot;, &quot;Not=A?Brand&quot;;v=&quot;24&quot;" />
+                      <option name="value" value="&quot;Microsoft Edge&quot;;v=&quot;107&quot;, &quot;Chromium&quot;;v=&quot;107&quot;, &quot;Not=A?Brand&quot;;v=&quot;24&quot;" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="sec-ch-ua-mobile" />
@@ -419,11 +419,11 @@
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="url" />
-                      <option name="value" value="https://mall.deeptel.com.cn/html/back/views/setUp/index.html#/addSince/181873603577432" />
+                      <option name="value" value="https://mall.duofriend.com/html/back/views/setUp/index.html#/addSameCity/167907703168632" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="x-requested-with" />
-                      <option name="value" value="XMLHttpRequest" />
+                      <option name="value" value="com.tencent.mm" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="M-login-token" />
@@ -437,7 +437,84 @@
                       <option name="type" value="X-Requested-With" />
                       <option name="value" value="XMLHttpRequest" />
                     </DataMapping>
+                    <DataMapping>
+                      <option name="type" value="via" />
+                      <option name="value" value="cn5045.l1, l2st4-5.l2" />
+                    </DataMapping>
+                    <DataMapping>
+                      <option name="type" value="eagleeye-traceid" />
+                      <option name="value" value="7793941716692655762401170e" />
+                    </DataMapping>
+                    <DataMapping>
+                      <option name="type" value="ali-cdn-real-port" />
+                      <option name="value" value="35198" />
+                    </DataMapping>
+                    <DataMapping>
+                      <option name="type" value="ali-cdn-real-ip" />
+                      <option name="value" value="183.14.133.5" />
+                    </DataMapping>
+                    <DataMapping>
+                      <option name="type" value="ali-swift-log-host" />
+                      <option name="value" value="m-api.duofriend.com" />
+                    </DataMapping>
+                    <DataMapping>
+                      <option name="type" value="ali-swift-stat-host" />
+                      <option name="value" value="all.duofriend.com" />
+                    </DataMapping>
+                    <DataMapping>
+                      <option name="type" value="x-client-scheme" />
+                      <option name="value" value="https" />
+                    </DataMapping>
+                    <DataMapping>
+                      <option name="type" value="ali-swift-force-ttl-code" />
+                      <option name="value" value="400=0" />
+                    </DataMapping>
+                    <DataMapping>
+                      <option name="type" value="ali-cdn-appview-name" />
+                      <option name="value" value="cdn-tengine" />
+                    </DataMapping>
+                    <DataMapping>
+                      <option name="type" value="ali-swift-wildcard-dns" />
+                      <option name="value" value="all.duofriend.com" />
+                    </DataMapping>
+                    <DataMapping>
+                      <option name="type" value="cdn-src-ip" />
+                      <option name="value" value="duofriend-go" />
+                    </DataMapping>
+                    <DataMapping>
+                      <option name="type" value="ali-swift-origin-scheme" />
+                      <option name="value" value="https" />
+                    </DataMapping>
+                    <DataMapping>
+                      <option name="type" value="ali-swift-origin-port" />
+                      <option name="value" value="443" />
+                    </DataMapping>
+                    <DataMapping>
+                      <option name="type" value="ali-cdn-adaptive-ports" />
+                      <option name="value" value="443,443" />
+                    </DataMapping>
+                    <DataMapping>
+                      <option name="type" value="ali-swift-urequest-timeout" />
+                      <option name="value" value="60" />
+                    </DataMapping>
+                    <DataMapping>
+                      <option name="type" value="ali-swift-ukeepalive-timeout" />
+                      <option name="value" value="60" />
+                    </DataMapping>
+                    <DataMapping>
+                      <option name="type" value="ali-tproxy-urequest-timeout" />
+                      <option name="value" value="60" />
+                    </DataMapping>
+                    <DataMapping>
+                      <option name="type" value="x-alicdn-da-via" />
+                      <option name="value" value="119.147.148.232,113.96.58.120" />
+                    </DataMapping>
                   </list>
+                </value>
+              </entry>
+              <entry key="prod">
+                <value>
+                  <list />
                 </value>
               </entry>
               <entry key="test">
@@ -702,10 +779,10 @@
     <option name="statisticsList">
       <list>
         <YearStatistics>
-          <option name="totalActionCount" value="998" />
+          <option name="totalActionCount" value="1012" />
           <option name="totalFailCount" value="28" />
           <option name="totalRocketCount" value="33" />
-          <option name="totalSuccessCount" value="206" />
+          <option name="totalSuccessCount" value="214" />
           <option name="year" value="2022" />
         </YearStatistics>
       </list>
