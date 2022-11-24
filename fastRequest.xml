@@ -179,11 +179,11 @@
                   <list>
                     <DataMapping>
                       <option name="type" value="authority" />
-                      <option name="value" value="m-api.duofriend.com" />
+                      <option name="value" value="mall.deeptel.com.cn" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="accept" />
-                      <option name="value" value="*/*" />
+                      <option name="value" value="application/json, text/javascript, */*; q=0.01" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="accept-language" />
@@ -195,11 +195,11 @@
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="content-type" />
-                      <option name="value" value="application/json" />
+                      <option name="value" value="application/x-www-form-urlencoded; charset=UTF-8" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="cookie" />
-                      <option name="value" value="APP_MESSAGE_COOKIE_2022-11-24=e018e394748c127fa0376e9a8853d487; LOGIN_MEMBER_TOKEN_V2=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2NjkyNjU2NTQsInN1YiI6IntcImJ1c0lkXCI6MjkyNCxcInJhbmRvbVwiOlwiNzE4MDA0MTFcIixcIm1lbWJlcklkXCI6MTk5MTYxMTIzMjUzMDcwfSIsImlzcyI6ImR1b2ZyaWVuZCIsImF1ZCI6Im1lbWJlciIsImV4cCI6MTY2OTM1MjA1NCwibmJmIjoxNjY5MjY1NjU0fQ.S_dACterZ6I9sUh7HqyM5whtCa_8NQAh3yodeuUubXA" />
+                      <option name="value" value="LOGIN_MEMBER_TOKEN_V2=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2NjkxOTM5NzEsInN1YiI6IntcImJ1c0lkXCI6MzYsXCJyYW5kb21cIjpcIjg3MTk1NDI3XCIsXCJtZW1iZXJJZFwiOjYzNTUwODg0NjE0MzE3fSIsImlzcyI6ImR1b2ZyaWVuZCIsImF1ZCI6Im1lbWJlciIsImV4cCI6MTY2OTI4MDM3MSwibmJmIjoxNjY5MTkzOTcxfQ.o8G82QXPsQUvdj4bnLRxTbc1ZHGfXcsTBvJKykgVaIo; loginToken=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2NjkyNjc0NDUsInN1YiI6IntcImJ1c0lkXCI6XCIzNlwiLFwicmFuZG9tXCI6XCIwMjE3MTNcIixcImJ1c05hbWVcIjpcImdvb2R0b21cIn0iLCJpc3MiOiJkdW9mcmllbmQiLCJhdWQiOiJkdW9mZW4iLCJleHAiOjE3MDA4NDE1OTksIm5iZiI6MTY2OTI2NzQ0NX0.7JvbVP-7lJanxXL6tR4WSrf0HltdErKBOjwXj48wCLU" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="distributor_login_token" />
@@ -215,11 +215,11 @@
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="origin" />
-                      <option name="value" value="https://2924.m.duofriend.com" />
+                      <option name="value" value="https://mall.deeptel.com.cn" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="referer" />
-                      <option name="value" value="https://2924.m.duofriend.com/" />
+                      <option name="value" value="https://mall.deeptel.com.cn/html/back/views/setUp/index.html" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="sec-fetch-dest" />
@@ -231,11 +231,11 @@
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="sec-fetch-site" />
-                      <option name="value" value="same-site" />
+                      <option name="value" value="same-origin" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="user-agent" />
-                      <option name="value" value="Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1" />
+                      <option name="value" value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="member_id" />
@@ -403,11 +403,11 @@
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="m-login-token" />
-                      <option name="value" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2NjkyNTk0NDIsInN1YiI6IntcImJ1c0lkXCI6XCIxNjc5MDYyNjQ1MjIxODlcIixcInJhbmRvbVwiOlwiNTIxMzMxXCIsXCJidXNOYW1lXCI6XCJjenhoZG15XCJ9IiwiaXNzIjoiZHVvZnJpZW5kIiwiYXVkIjoiZHVvZmVuIiwiZXhwIjoxNzAwODQxNTk5LCJuYmYiOjE2NjkyNTk0NDJ9.R1VlC-4W-OfIyv2Q1oo5EG4JOtijImHWsKBAenJfx6Q" />
+                      <option name="value" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2NjkyNjc0NDUsInN1YiI6IntcImJ1c0lkXCI6XCIzNlwiLFwicmFuZG9tXCI6XCIwMjE3MTNcIixcImJ1c05hbWVcIjpcImdvb2R0b21cIn0iLCJpc3MiOiJkdW9mcmllbmQiLCJhdWQiOiJkdW9mZW4iLCJleHAiOjE3MDA4NDE1OTksIm5iZiI6MTY2OTI2NzQ0NX0.7JvbVP-7lJanxXL6tR4WSrf0HltdErKBOjwXj48wCLU" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="sec-ch-ua" />
-                      <option name="value" value="&quot;Microsoft Edge&quot;;v=&quot;107&quot;, &quot;Chromium&quot;;v=&quot;107&quot;, &quot;Not=A?Brand&quot;;v=&quot;24&quot;" />
+                      <option name="value" value="&quot;Google Chrome&quot;;v=&quot;107&quot;, &quot;Chromium&quot;;v=&quot;107&quot;, &quot;Not=A?Brand&quot;;v=&quot;24&quot;" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="sec-ch-ua-mobile" />
@@ -415,15 +415,15 @@
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="sec-ch-ua-platform" />
-                      <option name="value" value="&quot;Windows&quot;" />
+                      <option name="value" value="&quot;macOS&quot;" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="url" />
-                      <option name="value" value="https://mall.duofriend.com/html/back/views/setUp/index.html#/addSameCity/167907703168632" />
+                      <option name="value" value="https://mall.deeptel.com.cn/html/back/views/setUp/index.html#/addSameCity/230436668818314" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="x-requested-with" />
-                      <option name="value" value="com.tencent.mm" />
+                      <option name="value" value="XMLHttpRequest" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="M-login-token" />
@@ -779,10 +779,10 @@
     <option name="statisticsList">
       <list>
         <YearStatistics>
-          <option name="totalActionCount" value="1012" />
+          <option name="totalActionCount" value="1052" />
           <option name="totalFailCount" value="28" />
           <option name="totalRocketCount" value="33" />
-          <option name="totalSuccessCount" value="214" />
+          <option name="totalSuccessCount" value="223" />
           <option name="year" value="2022" />
         </YearStatistics>
       </list>
