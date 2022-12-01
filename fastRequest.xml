@@ -199,7 +199,7 @@
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="cookie" />
-                      <option name="value" value="JSESSIONID=89BAEA0CE79AA94E28E78126879E113D; LOGIN_MEMBER_TOKEN_V2=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2NjkxOTM5NzEsInN1YiI6IntcImJ1c0lkXCI6MzYsXCJyYW5kb21cIjpcIjg3MTk1NDI3XCIsXCJtZW1iZXJJZFwiOjYzNTUwODg0NjE0MzE3fSIsImlzcyI6ImR1b2ZyaWVuZCIsImF1ZCI6Im1lbWJlciIsImV4cCI6MTY2OTI4MDM3MSwibmJmIjoxNjY5MTkzOTcxfQ.o8G82QXPsQUvdj4bnLRxTbc1ZHGfXcsTBvJKykgVaIo; loginToken=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2NjkyNjc0NDUsInN1YiI6IntcImJ1c0lkXCI6XCIzNlwiLFwicmFuZG9tXCI6XCIwMjE3MTNcIixcImJ1c05hbWVcIjpcImdvb2R0b21cIn0iLCJpc3MiOiJkdW9mcmllbmQiLCJhdWQiOiJkdW9mZW4iLCJleHAiOjE3MDA4NDE1OTksIm5iZiI6MTY2OTI2NzQ0NX0.7JvbVP-7lJanxXL6tR4WSrf0HltdErKBOjwXj48wCLU" />
+                      <option name="value" value="JSESSIONID=89BAEA0CE79AA94E28E78126879E113D; APP_MESSAGE_COOKIE_2022-11-30=e018e394748c127fe48f9811b3bfefe1; LOGIN_MEMBER_TOKEN_V2=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2Njk4MDA5NDYsInN1YiI6IntcImJ1c0lkXCI6MzYsXCJyYW5kb21cIjpcIjQzNTMzMzUyXCIsXCJtZW1iZXJJZFwiOjYzNTUwODg0NjE0MzE3fSIsImlzcyI6ImR1b2ZyaWVuZCIsImF1ZCI6Im1lbWJlciIsImV4cCI6MTY2OTg4NzM0NiwibmJmIjoxNjY5ODAwOTQ2fQ.eUF7Tnka-tWYoruZOz2LaWQ8E65bdmlM0BAgIcNvkcQ" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="distributor_login_token" />
@@ -779,10 +779,10 @@
     <option name="statisticsList">
       <list>
         <YearStatistics>
-          <option name="totalActionCount" value="1074" />
+          <option name="totalActionCount" value="1084" />
           <option name="totalFailCount" value="28" />
           <option name="totalRocketCount" value="33" />
-          <option name="totalSuccessCount" value="225" />
+          <option name="totalSuccessCount" value="226" />
           <option name="year" value="2022" />
         </YearStatistics>
       </list>
