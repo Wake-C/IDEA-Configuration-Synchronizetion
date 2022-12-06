@@ -154,8 +154,8 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="localhost:8080" />
-    <option name="enableEnv" value="dev" />
+    <option name="domain" value="https://mall.deeptel.com.cn/" />
+    <option name="enableEnv" value="test" />
     <option name="enableProject" value="mall" />
     <option name="envList">
       <list>
@@ -187,7 +187,7 @@
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="accept-language" />
-                      <option name="value" value="en-US,en;q=0.9,zh-TW;q=0.8,zh;q=0.7" />
+                      <option name="value" value="en-US,en;q=0.9,zh-TW;q=0.8,zh-CN;q=0.7,zh;q=0.6" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="cache-control" />
@@ -199,7 +199,7 @@
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="cookie" />
-                      <option name="value" value="JSESSIONID=89BAEA0CE79AA94E28E78126879E113D; APP_MESSAGE_COOKIE_2022-11-30=e018e394748c127fe48f9811b3bfefe1; LOGIN_MEMBER_TOKEN_V2=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2Njk4MDA5NDYsInN1YiI6IntcImJ1c0lkXCI6MzYsXCJyYW5kb21cIjpcIjQzNTMzMzUyXCIsXCJtZW1iZXJJZFwiOjYzNTUwODg0NjE0MzE3fSIsImlzcyI6ImR1b2ZyaWVuZCIsImF1ZCI6Im1lbWJlciIsImV4cCI6MTY2OTg4NzM0NiwibmJmIjoxNjY5ODAwOTQ2fQ.eUF7Tnka-tWYoruZOz2LaWQ8E65bdmlM0BAgIcNvkcQ" />
+                      <option name="value" value="JSESSIONID=89BAEA0CE79AA94E28E78126879E113D; APP_MESSAGE_COOKIE_2022-12-06=e018e394748c127f90fcca3d1198d3c4; LOGIN_MEMBER_TOKEN_V2=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2NzAzMDcwOTYsInN1YiI6IntcImJ1c0lkXCI6MzYsXCJyYW5kb21cIjpcIjI4ODA1NDMxXCIsXCJtZW1iZXJJZFwiOjYzNTUwODg0NjE0MzE3fSIsImlzcyI6ImR1b2ZyaWVuZCIsImF1ZCI6Im1lbWJlciIsImV4cCI6MTY3MDM5MzQ5NiwibmJmIjoxNjcwMzA3MDk2fQ.w8CjnlA_jzsFZ2g550wQKW_5ZAWwfb0ry16q1buxHlw; loginToken=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2NzAzMDczMDMsInN1YiI6IntcImJ1c0lkXCI6XCIzNlwiLFwicmFuZG9tXCI6XCIxNDgzMjBcIixcImJ1c05hbWVcIjpcImdvb2R0b21cIn0iLCJpc3MiOiJkdW9mcmllbmQiLCJhdWQiOiJkdW9mZW4iLCJleHAiOjE3MDE4NzgzOTksIm5iZiI6MTY3MDMwNzMwM30.OW6GVQnPyZkFZaK6CrV3VRo_mDaZBFr0IvMUq9DI3Wk" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="distributor_login_token" />
@@ -530,7 +530,7 @@
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="accept-language" />
-                      <option name="value" value="zh-CN,zh;q=0.9" />
+                      <option name="value" value="en-US,en;q=0.9,zh-TW;q=0.8,zh-CN;q=0.7,zh;q=0.6" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="content-type" />
@@ -538,7 +538,7 @@
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="cookie" />
-                      <option name="value" value="APP_MESSAGE_COOKIE_2022-11-22=e018e394748c127fd7bf29d1dbf65577; LOGIN_MEMBER_TOKEN_V2=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2NjkwOTc3NzAsInN1YiI6IntcImJ1c0lkXCI6MzYsXCJyYW5kb21cIjpcIjg1NjI0MzY1XCIsXCJtZW1iZXJJZFwiOjIwMTQzMzUxMTczMzEwNn0iLCJpc3MiOiJkdW9mcmllbmQiLCJhdWQiOiJtZW1iZXIiLCJleHAiOjE2NjkxODQxNzAsIm5iZiI6MTY2OTA5Nzc3MH0.hajH-tUbJHn21VpzkkOSuBEc1r5ahHfJh5ecM-URuro" />
+                      <option name="value" value="JSESSIONID=89BAEA0CE79AA94E28E78126879E113D; APP_MESSAGE_COOKIE_2022-12-06=e018e394748c127f90fcca3d1198d3c4; LOGIN_MEMBER_TOKEN_V2=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2NzAzMDcwOTYsInN1YiI6IntcImJ1c0lkXCI6MzYsXCJyYW5kb21cIjpcIjI4ODA1NDMxXCIsXCJtZW1iZXJJZFwiOjYzNTUwODg0NjE0MzE3fSIsImlzcyI6ImR1b2ZyaWVuZCIsImF1ZCI6Im1lbWJlciIsImV4cCI6MTY3MDM5MzQ5NiwibmJmIjoxNjcwMzA3MDk2fQ.w8CjnlA_jzsFZ2g550wQKW_5ZAWwfb0ry16q1buxHlw; loginToken=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2NzAzMDczMDMsInN1YiI6IntcImJ1c0lkXCI6XCIzNlwiLFwicmFuZG9tXCI6XCIxNDgzMjBcIixcImJ1c05hbWVcIjpcImdvb2R0b21cIn0iLCJpc3MiOiJkdW9mcmllbmQiLCJhdWQiOiJkdW9mZW4iLCJleHAiOjE3MDE4NzgzOTksIm5iZiI6MTY3MDMwNzMwM30.OW6GVQnPyZkFZaK6CrV3VRo_mDaZBFr0IvMUq9DI3Wk" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="m-login-token" />
@@ -582,7 +582,7 @@
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="user-agent" />
-                      <option name="value" value="Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 wechatdevtools/1.05.2109131 MicroMessenger/8.0.5 Language/zh_CN webview/16689934962903951 webdebugger port/64027 token/dfe13a89366c2abeff9104eb916d7682" />
+                      <option name="value" value="Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="x-requested-with" />
@@ -590,7 +590,7 @@
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="distributor_login_token" />
-                      <option name="value" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlbmNyeXB0SWQiOiJNakUxTXpVM056a3hOVEUxTnpVMyIsInN1YiI6Iue7j-mUgOWVhi0yMTUzNTc3OTE1MTU3NTciLCJpc3MiOiIwOThmNmJjZDQ2MjFkMzczY2FkZTRlODMyNjI3YjRmNiIsImlhdCI6MTY2NzkwODI5NiwiYXVkIjoiZGlzdHJpYnV0b3IiLCJleHAiOjE5ODMyNjgyOTYsIm5iZiI6MTY2NzkwODI5Nn0.MM2HFxRWY0gA3WkUzow690ph947sDa_ut72xOP6GEvA" />
+                      <option name="value" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlbmNyeXB0SWQiOiJNakF4TkRNeU5qRXlNRFUwTWpJMiIsInN1YiI6Iue7j-mUgOWVhi0yMDE0MzI2MTIwNTQyMjYiLCJpc3MiOiIwOThmNmJjZDQ2MjFkMzczY2FkZTRlODMyNjI3YjRmNiIsImlhdCI6MTY2OTE2OTg1MywiYXVkIjoiZGlzdHJpYnV0b3IiLCJleHAiOjE5ODQ1Mjk4NTMsIm5iZiI6MTY2OTE2OTg1M30.nsoeMEd7ppqj0T3cR9x2J2CfcL1CXvC_U8p46g9dhlA" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="member_id" />
@@ -602,7 +602,7 @@
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="login_source" />
-                      <option name="value" value="0" />
+                      <option name="value" value="3" />
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="cache-control" />
@@ -618,7 +618,7 @@
                     </DataMapping>
                     <DataMapping>
                       <option name="type" value="dealer_login_token" />
-                      <option name="value" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlbmNyeXB0SWQiOiJNak13TkRNMU1EUTFOakl5TmpjeiIsInN1YiI6IueugOaYk-eJiOaLv-i0p-Wunee7j-mUgOWVhi0yMzA0MzUwNDU2MjI2NzMiLCJpc3MiOiIwOThmNmJjZDQ2MjFkMzczY2FkZTRlODMyNjI3YjRmNiIsImlhdCI6MTY2NzkwMDU1OSwiYXVkIjoiZGVhbGVyIiwiZXhwIjoxOTgzMjYwNTU5LCJuYmYiOjE2Njc5MDA1NTl9.1emnGqvFVV4sl3uiMF9e6fTGFp2WIzgVz5NlPuZPU5M" />
+                      <option name="value" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlbmNyeXB0SWQiOiJNak13TkRNMU5qazNPRE0yTmpZMCIsInN1YiI6IueugOaYk-eJiOaLv-i0p-Wunee7j-mUgOWVhi0yMzA0MzU2OTc4MzY2NjQiLCJpc3MiOiIwOThmNmJjZDQ2MjFkMzczY2FkZTRlODMyNjI3YjRmNiIsImlhdCI6MTY2ODY1NTkyNiwiYXVkIjoiZGVhbGVyIiwiZXhwIjoxOTg0MDE1OTI2LCJuYmYiOjE2Njg2NTU5MjZ9.rQaadNmShEcPKXz01GJCBAdab1ViQOm1RtODQ6iEPKU" />
                     </DataMapping>
                   </list>
                 </value>
@@ -779,10 +779,10 @@
     <option name="statisticsList">
       <list>
         <YearStatistics>
-          <option name="totalActionCount" value="1111" />
-          <option name="totalFailCount" value="28" />
+          <option name="totalActionCount" value="1138" />
+          <option name="totalFailCount" value="35" />
           <option name="totalRocketCount" value="34" />
-          <option name="totalSuccessCount" value="226" />
+          <option name="totalSuccessCount" value="228" />
           <option name="year" value="2022" />
         </YearStatistics>
       </list>
