@@ -182,10 +182,11 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1670312516844" />
+    <option name="lastTrimTime" value="1671154420576" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="is Package Product" />
       <item value="Recognize Address BO" />
       <item value="Recognize" />
       <item value="content" />
@@ -195,8 +196,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5" />
-        <entry key="ENGLISH" value="6" />
+        <entry key="CHINESE" value="6" />
+        <entry key="ENGLISH" value="7" />
       </map>
     </option>
   </component>
