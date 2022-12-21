@@ -156,7 +156,7 @@
     </option>
     <option name="domain" value="localhost:8080" />
     <option name="enableEnv" value="dev" />
-    <option name="enableProject" value="mall" />
+    <option name="enableProject" value="mall_order" />
     <option name="envList">
       <list>
         <option value="dev" />
@@ -779,7 +779,7 @@
     <option name="statisticsList">
       <list>
         <YearStatistics>
-          <option name="totalActionCount" value="1206" />
+          <option name="totalActionCount" value="1210" />
           <option name="totalFailCount" value="45" />
           <option name="totalRocketCount" value="36" />
           <option name="totalSuccessCount" value="237" />
