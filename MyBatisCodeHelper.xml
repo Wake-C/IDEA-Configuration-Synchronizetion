@@ -2,7 +2,7 @@
   <component name="MyBatisCodeHelper">
     <option name="profile">
       <Profile>
-        <option name="checkUsage" value="6" />
+        <option name="checkUsage" value="7" />
         <option name="convertByteOrShortToInt" value="true" />
         <option name="generateMethodInService" value="true" />
         <option name="generateMethodInServiceInterface" value="true" />
