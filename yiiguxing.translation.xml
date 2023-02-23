@@ -195,6 +195,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="get Balance" />
       <item value="direct" />
       <item value="bus Id" />
       <item value="map" />
