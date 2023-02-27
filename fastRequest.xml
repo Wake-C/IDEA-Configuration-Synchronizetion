@@ -156,7 +156,7 @@
     </option>
     <option name="domain" value="localhost:8080" />
     <option name="enableEnv" value="dev" />
-    <option name="enableProject" value="mall_order" />
+    <option name="enableProject" value="mall" />
     <option name="envList">
       <list>
         <option value="dev" />
@@ -786,7 +786,7 @@
           <option name="year" value="2022" />
         </YearStatistics>
         <YearStatistics>
-          <option name="totalActionCount" value="86" />
+          <option name="totalActionCount" value="90" />
           <option name="totalRocketCount" value="2" />
           <option name="year" value="2023" />
         </YearStatistics>
