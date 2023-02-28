@@ -203,6 +203,18 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="394" />
     <histories>
+      <item value="free Package Depend Free Condition" />
+      <item value="free Package Depend Money And Buy Num" />
+      <item value="Free Package Depend Money And Buy Num" />
+      <item value="is Free Package Depend Money And Buy Num" />
+      <item value="Free Condition" />
+      <item value="is Free Package Depend Free Condition" />
+      <item value="is Free Package Depend Money And Number" />
+      <item value="Depens" />
+      <item value="With" />
+      <item value="is Free Package With Money And Number" />
+      <item value="is Free Package Between Money And Number" />
+      <item value="Merchant Delivery Settings" />
       <item value="school" />
       <item value="label Index" />
       <item value="labels" />
@@ -230,8 +242,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="18" />
-        <entry key="ENGLISH" value="19" />
+        <entry key="CHINESE" value="30" />
+        <entry key="ENGLISH" value="30" />
+        <entry key="SPANISH" value="1" />
       </map>
     </option>
   </component>
