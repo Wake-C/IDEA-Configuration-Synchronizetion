@@ -203,6 +203,8 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="394" />
     <histories>
+      <item value="set Longitude" />
+      <item value="set Latitude" />
       <item value="take Id" />
       <item value="Data" />
       <item value="Be Take Their BO" />
@@ -223,8 +225,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="11" />
-        <entry key="ENGLISH" value="12" />
+        <entry key="CHINESE" value="13" />
+        <entry key="ENGLISH" value="14" />
       </map>
     </option>
   </component>
