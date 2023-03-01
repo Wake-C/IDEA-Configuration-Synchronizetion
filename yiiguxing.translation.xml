@@ -203,6 +203,7 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="394" />
     <histories>
+      <item value="is Held By Current Thread" />
       <item value="logistics Priority" />
       <item value="discount Price" />
       <item value="dentify and stop the process that's listening on port 8080 or configure this application to listen on another port." />
@@ -245,8 +246,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="33" />
-        <entry key="ENGLISH" value="33" />
+        <entry key="CHINESE" value="34" />
+        <entry key="ENGLISH" value="34" />
         <entry key="SPANISH" value="1" />
       </map>
     </option>
