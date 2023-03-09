@@ -8,6 +8,15 @@
     <option name="genAllField" value="true" />
     <option name="genAllInnerClass" value="false" />
     <option name="genAllMethod" value="false" />
+    <option name="projectWordMap">
+      <map>
+        <entry key="Mall_new_eticket">
+          <value>
+            <map />
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="secretId" value="" />
     <option name="secretKey" value="" />
     <option name="simpleFieldDoc" value="true" />
