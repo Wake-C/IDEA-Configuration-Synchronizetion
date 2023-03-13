@@ -192,7 +192,7 @@
     </option>
     <option name="primaryLanguage" value="CHINESE" />
     <option name="translateDocumentation" value="true" />
-    <option name="translator" value="YOUDAO" />
+    <option name="translator" value="MICROSOFT" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="326f2483a65ad632" />
@@ -203,6 +203,7 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="394" />
     <histories>
+      <item value="com Freight Util Service" />
       <item value="add Special Product Flag" />
       <item value="is Shipping Enabled" />
       <item value="is shipping enabled" />
@@ -253,7 +254,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="40" />
-        <entry key="ENGLISH" value="40" />
+        <entry key="ENGLISH" value="41" />
         <entry key="SPANISH" value="1" />
       </map>
     </option>
