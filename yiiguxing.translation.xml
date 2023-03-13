@@ -203,6 +203,8 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="394" />
     <histories>
+      <item value="is shipping enabled" />
+      <item value="freight Flag" />
       <item value="free Delivery According To Buy Num" />
       <item value="free Delivery According To Price" />
       <item value="is Held By Current Thread" />
@@ -248,8 +250,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="36" />
-        <entry key="ENGLISH" value="36" />
+        <entry key="CHINESE" value="38" />
+        <entry key="ENGLISH" value="38" />
         <entry key="SPANISH" value="1" />
       </map>
     </option>
