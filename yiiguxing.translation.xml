@@ -203,6 +203,7 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="394" />
     <histories>
+      <item value="Parallel Acquire Business Data" />
       <item value="surplus Product Member Number" />
       <item value="reorder" />
       <item value="com Freight Util Service" />
@@ -255,8 +256,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="43" />
-        <entry key="ENGLISH" value="44" />
+        <entry key="CHINESE" value="44" />
+        <entry key="ENGLISH" value="45" />
         <entry key="SPANISH" value="1" />
       </map>
     </option>
