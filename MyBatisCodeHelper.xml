@@ -2,12 +2,12 @@
   <component name="MyBatisCodeHelper">
     <option name="profile">
       <Profile>
-        <option name="checkUsage" value="10" />
+        <option name="checkUsage" value="12" />
         <option name="convertByteOrShortToInt" value="true" />
         <option name="generateMethodInService" value="true" />
         <option name="generateMethodInServiceInterface" value="true" />
         <option name="insertMethodNameText" value="insert;save" />
-        <option name="maxMeetContext" value="155" />
+        <option name="maxMeetContext" value="171" />
         <option name="methodNameSqlCommment" value="" />
         <option name="theUsageCount" value="1663895170709" />
         <option name="usejava8LocalDateTimeEct" value="true" />
