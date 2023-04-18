@@ -10,7 +10,8 @@
     <option name="genAllMethod" value="false" />
     <option name="projectWordMap">
       <map>
-        <entry key="Mall_new_eticket">
+        <entry key="Mall_new_eticket" />
+        <entry key="mall-order">
           <value>
             <map />
           </value>
