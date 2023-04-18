@@ -203,6 +203,7 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="394" />
     <histories>
+      <item value="Check if orderNo has already been processed" />
       <item value="final" />
       <item value="before" />
       <item value="Wait for all tasks to complete before returning the final result" />
@@ -252,12 +253,11 @@
       <item value="order Price Description" />
       <item value="is Package Product" />
       <item value="Recognize Address BO" />
-      <item value="Recognize" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="47" />
-        <entry key="ENGLISH" value="48" />
+        <entry key="CHINESE" value="48" />
+        <entry key="ENGLISH" value="49" />
         <entry key="SPANISH" value="1" />
       </map>
     </option>
