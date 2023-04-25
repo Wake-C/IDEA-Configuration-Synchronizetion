@@ -192,7 +192,6 @@
     </option>
     <option name="primaryLanguage" value="CHINESE" />
     <option name="translateDocumentation" value="true" />
-    <option name="translator" value="MICROSOFT" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="326f2483a65ad632" />
@@ -203,6 +202,11 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="394" />
     <histories>
+      <item value="over Ten Package" />
+      <item value="out Of Ten" />
+      <item value="virtual Delivery Type List" />
+      <item value="virtual Delivery" />
+      <item value="virtual Shipper" />
       <item value="Check if orderNo has already been processed" />
       <item value="final" />
       <item value="before" />
@@ -248,11 +252,6 @@
       <item value="direct" />
       <item value="bus Id" />
       <item value="map" />
-      <item value="get Partner Id" />
-      <item value="get Distributor Cloud Store Address" />
-      <item value="order Price Description" />
-      <item value="is Package Product" />
-      <item value="Recognize Address BO" />
     </histories>
     <option name="languageScores">
       <map>
