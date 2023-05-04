@@ -182,7 +182,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1682235356525" />
+    <option name="lastTrimTime" value="1683184825022" />
   </component>
   <component name="Translation.Settings">
     <option name="baiduTranslateSettings">
@@ -192,6 +192,7 @@
     </option>
     <option name="primaryLanguage" value="CHINESE" />
     <option name="translateDocumentation" value="true" />
+    <option name="translator" value="MICROSOFT" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="326f2483a65ad632" />
