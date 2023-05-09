@@ -10,16 +10,8 @@
     <option name="genAllMethod" value="false" />
     <option name="projectWordMap">
       <map>
-        <entry key="Mall_new_eticket">
-          <value>
-            <map />
-          </value>
-        </entry>
-        <entry key="gt-plugin-starter">
-          <value>
-            <map />
-          </value>
-        </entry>
+        <entry key="Mall_new_eticket" />
+        <entry key="gt-plugin-starter" />
         <entry key="mall-order">
           <value>
             <map />
